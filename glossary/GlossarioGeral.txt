@@ -1,0 +1,487 @@
+﻿activate	ativar	
+Add-on	complemento	
+add-on	complemento	
+Addon	complemento	
+addon	complemento	
+address	corrige	Ex. “version x addresses…” – “a versão x corrige…”
+Afghanistan	Afeganistão	país
+Albania	Albânia	país
+Algeria	Argélia	país
+Andorra	Andorra	país
+Angola	Angola	país
+Antigua and Barbuda	Antígua e Barbuda	país
+April	abril	Mês. Traduzir em letra minúscula no meio da frase, maiúscula só se for a primeira palavra da frase.
+are you sure you want	tem certeza de que deseja	
+Argentina	Argentina	país
+Armenia	Armênia	país
+array	array	Termo de programação, não traduzir
+aside	nota	Post format - formato de post
+at the bottom	na parte inferior	
+at the top	na parte superior	
+attachment	anexo	
+August	agosto	mês
+Australia	Austrália	país
+Austria	Áustria	país
+Azerbaijan	Azerbaijão	país
+backup	backup	 Masculino
+backup	fazer backup	
+Bahrain	Bahrein	país
+Bangladesh	Bangladesh	país
+banner	banner	
+Barbados	Barbados	país
+batch	lote	
+batch	em lote	
+Belarus	Bielorrússia	país
+Belgium	Bélgica	país
+Belize	Belize	país
+Benin	Benim	país
+Bhutan	Butão	país
+bitrate	taxa de bits	
+blogroll	lista de links	
+Bolivia	Bolívia	país
+Bosnia	Bósnia	país
+Bosnia and Herzegovina	Bósnia e Herzegovina	país
+Botswana	Botsuana	país
+Brazil	Brasil	país
+breadcrumbs	caminho de navegação	
+browse	procurar	omitir nos casos onde a tradução exprime uma obviedade. Ex.: “You are currently browsing the archives for…” traduzir como: “Você está no arquivo do…”
+browser	navegador	
+Brunei	Brunei	país
+bug	erro	
+Bug	erro	
+bugfix	correção de erros	
+Bugfix	correção de erros	
+Bulgaria	Bulgária	país
+Burkina Faso	Burkina Faso	país
+Burma; Myanmar	Myanmar	país
+Burundi	Burundi	país
+by default	por padrão	
+callback	callback	Não traduzir
+Cambodia	Camboja	país
+Cameroon	Camarões	país
+Canada	Canadá	país
+Can’t	não é possível	
+cannot view	não é possível ver	
+Cape Verde	Cabo Verde	país
+captioning ID	ID de legenda	Masculino
+Central African Republic	República Centro-africana	país
+Chad	Chade	país
+changelog	registro de alterações	
+Changelog	registro de alterações	
+chat	bate-papo	
+cheating, uh?	Trapaceando, é?	
+check	marcar	ou conferir (conforme contexto)
+check out	consultar	
+child theme	tema descendente	
+children	descendentes	
+Chile	Chile	país
+China	China	país
+clean	simples	Ex: a clean theme, um tema simples.
+clear	liberar	
+closed	encerrado	
+Colombia	Colômbia	país
+color picker	seletor de cor	
+Comoros	Comores	país
+complete	concluído	
+connect to x	conectar a x	
+core	arquivos básicos	
+Costa Rica	Costa Rica	país
+Costumizer	Personalizar	Nome da ferramenta, usar inicial maiúscula.
+Could not	Não foi possível	
+Couldn’t	não foi possível	
+Croatia	Croácia	país
+crop	recortar	
+Cuba	Cuba	país
+custom	personalizado	
+custom  post type	tipo de post personalizado	
+customization	personalização	
+Customize	Personalize	
+customize	personalizar	
+customizer	personalizador	
+Cyprus	Chipre	país
+Czech Republic	República Tcheca	país
+database	banco de dados	
+deactivate	desativar	
+debug	depurar	Derivados devem seguir a mesma tradução, ex: debugging (n) - depuração
+December	dezembro	mês
+default	padrão	invariável -sem plural
+default	padrão	usar Padrões quando o plural for necessário
+delete	excluir	
+Delete	excluir	
+Deleted	excluído	
+deleted	excluído	
+Democratic Republic of the Congo	República Democrática do Congo	país
+Denmark	Dinamarca	país
+design	design	
+development log	registro de desenvolvimento	
+device	dispositivo	
+disable	desativar	
+dismiss	dispensar	
+display	exibir	
+display	exibição	
+distraction free	escrita sem distrações	
+distraction-free writing	escrita sem distrações	
+Djibouti	Djibuti	país
+Dominica	Dominica	país
+Dominican Republic	Dominicana, República	país
+don’t be stupid	não marque bobeira	não seja bobo
+done	concluído	
+download	baixar	
+download	baixar	
+draft	rascunho	
+East Timor	Timor Leste	país
+ebook	e-book	Ou livro digital.
+Ebook	E-book	Ou livro digital.
+Ecuador	Equador	país
+Egypt	Egito	país
+El Salvador	El Salvador	país
+Elapsed	tempo decorrido	
+elapsed	tempo decorrido	
+Email	E-mail	Com hifen, academia brasileira de letras reconhece apenas desta forma.
+email	e-mail	Com hifen, academia brasileira de letras reconhece apenas desta forma.
+embed	mídia incorporada	
+enable	ativar	
+England	Inglaterra	país
+Ensure	Garantir	
+enter	digite	
+entry	post	 ou entrada conforme o contexto
+Equatorial Guinea	Guiné Equatorial	país
+Eritrea	Eritreia	país
+escaping	escaping	Termo de programação, não traduzir.
+Estonia	Estônia	país
+Ethiopia	Etiópia	país
+FAQ	Perguntas frequentes	
+feature	recurso	
+February	fevereiro	mês
+Federated States of Micronesia	Estados Federados da Micronésia	país
+feeds	feeds	
+fetch	coletar	
+Fiji	Fiji	país
+Finland	Finlândia	país
+first name	nome	
+fix	corrigir	
+Fix	corrigir	
+flip	virar	
+follow-up	acompanhar	
+font	fonte	
+frame	frame	
+framework	estrutura	Em alguns casos pode ser dispensado ("framework Redux", por exemplo, pode ficar só "Redux")
+France	França	país
+Frequently Asked Questions	perguntas frequentes	
+freshness	tempo desde a publicação	
+Friday	sexta-feira	dia de semana
+fullscreen	tela cheia	
+Gabon	Gabão	país
+Gambia, The	Gâmbia	país
+gatekeeper	guardião	
+Georgia	Geórgia	país
+Germany	Alemanha	país
+Ghana	Gana	país
+global dashboard	painel geral	
+Greece	Grécia	país
+Grenada	Granada	país
+Guatemala	Guatemala	país
+Guinea	Guiné	país
+Guinea-Bissau	Guiné-Bissau	país
+Guyana	Guiana	país
+Haiti	Haiti	país
+header	cabeçalho	
+health	condição	
+held	retido	
+help on	ajuda sobre	
+hidden Gui	GUI oculta	
+hold	reter	
+Holland	Holanda	país
+homepage	página inicial	
+Honduras	Honduras	país
+hot tag	tag popular	
+hotkeys	teclas de acesso	
+Hungary	Hungria	país
+Iceland	Islândia	país
+ID	ID	masculino
+India	Índia	país
+Indonesia	Indonésia	país
+invoke URLs	chamar URLs	
+Iran	Irã	país
+Iraq	Iraque	país
+Ireland	Irlanda	país
+Israel	Israel	país
+Italy	Itália	país
+Ivory Coast; Côte d’Ivoire	Costa do Marfim	país
+Jamaica	Jamaica	país
+January	janeiro	mês
+Japan	Japão	país
+javascript	JavaScript	Escrever com maiúsculas e minúsculas alternadas, como é feito com "WordPress", pois esse é o nome oficial
+Jordan	Jordânia	país
+July	julho	mês
+June	junho	mês
+Kazakhstan	Cazaquistão	país
+keep in mind that	lembre-se de que	
+Kenya	Quênia	país
+key master	admin-mestre	
+Kiribati	Quiribáti	país
+Kuwait	Kuaite	país
+Kyrgyzstan	Quirguistão	país
+language	idioma	
+Laos	Laos	país
+last name	sobrenome	
+latest	mais recentes	
+Latvia	Letônia	país
+Lebanon	Líbano	país
+Lesotho	Lesoto	país
+Liberia	Libéria	país
+Libya	Líbia	país
+Liechtenstein	Liechtenstein	país
+link to	apontar para	
+Lithuania	Lituânia	país
+live preview	ver ao vivo	
+log	registro	
+log in	acessar	
+Log in	acessar	
+log out	sair	
+logged	conectado	Porém log in - acessar e log out - sair.
+logged out	desconectado	Porém log in - acessar e log out - sair.
+login	acessar	Ou também log in - acessar (e log out - sair).
+Login	Acesso	
+logo	logo	
+loop	loop	 masculino
+loop	fazer loop	
+Luxembourg	Luxemburgo	país
+Macedonia	Macedônia	país
+Madagascar	Madagascar	país
+Malawi	Malawi	país
+Malaysia	Malásia	país
+Maldives	Maldivas	país
+Mali	Máli	país
+Malta	Malta	país
+malware	malware	masculino
+manage	gerenciar	
+mapping	mapeamento	
+mapping	mapeando	
+March	março	mês
+matching x	correspondente a x	
+Mauritania	Mauritânia	país
+Mauritius	Maurício	país
+May	maio	mês
+media attachment	mídia	
+metadata	metadados	traduzir no plural.
+Mexico	México	país
+mobile	dispositivo móvel	
+moderate	moderar	
+Moldova	Moldávia	país
+Monaco	Mônaco	país
+Monday	segunda-feira	dia de semana
+Mongolia	Mongólia	país
+Montenegro	Montenegro	país
+Morocco	Marrocos	país
+Mozambique	Moçambique	país
+Namibia	Namíbia	país
+Nauru	Nauru	país
+Nepal	Nepal	país
+Never show again	Não mostrar mais	
+New Zealand	Nova Zelândia	país
+newest	mais recente	
+Nicaragua	Nicarágua	país
+nickname	apelido	
+Niger	Níger	país
+Nigeria	Nigéria	país
+no x found	nenhum x encontrado	
+North Korea	Coreia do Norte	país
+Norway	Noruega	país
+November	novembro	mês
+October	outubro	mês
+offline	off-line	com hífen, segundo a ABL
+offset	compensação/compensar	dependendo do contexto: deslocamento/deslocar, equilíbrio/equilibrar, ignorar, diferença
+Oman	Omã	país
+on/off	ativado/desativado	
+online	on-line	com hí­fen, segundo a ABL
+Oops	Opa	
+Pakistan	Paquistão	país
+Palestine	Palestina	país
+Panama	Panamá	país
+Papua New Guinea	Papua Nova Guiné	país
+Paraguay	Paraguai	país
+parent	ascendente	em substituição a pai/mãe
+parent category	categoria ascendente	alterado por votação na comunidade
+parent theme	tema ascendente	alterado por votação na comunidade
+password strength	nível de segurança da senha	
+performance	desempenho	
+permalink	link permanente	
+Permalink	link permanente	
+Peru	Peru	país
+Philippines	Filipinas	país
+pingback	pingback	masculino
+pixel	píxel	
+pixels	píxeis	
+playback	reprodução	
+Playback	reprodução	
+player	reprodutor	
+Player	reprodutor	
+please		não traduzir (não pedir por favor ao usuário)
+Plugin	Plugin	sem hífen
+plugin	plugin	sem hí­fen
+Poland	Polônia	país
+Portugal	Portugal	país
+post	post	masculino
+post	publicar	
+post type	tipo de post	
+Post type	tipo de post	
+prefetch	pré-carregar	
+preview	visualizar	
+preview	visualização	
+Qatar	Catar	país
+query	consulta	
+rating	classificação	
+refresh	atualizar	
+register	cadastrar	ou cadastre-se, se for uma opção para a pessoa se cadastrar no site
+Register	Cadastrar	ou Cadastre-se, se for uma opção para a pessoa se cadastrar no site
+Registration	Cadastro	
+registration 	cadastro	
+reply to	responder a	
+Republic of the Congo	República do Congo	país
+request	solicitar	
+reset	redefinir	
+respond to	responder a	
+responsive	responsivo	
+Responsive	responsivo	
+REST API	API REST	
+Rich Editor	Editor visual	
+Role	função	
+role	função	
+Romania	Romênia	país
+RSS feed	feed RSS	
+Russia	Rússia	país
+Rwanda	Ruanda	país
+Saint Kitts and Nevis	São Cristóvão e Neves	país
+Saint Lucia	Santa Lúcia	país
+Saint Vincent and the Grenadines	São Vicente e Granadinas	país
+Samoa	Samoa	país
+San Marino	São Marino	país
+Saturday	sábado	dia de semana
+Saudi Arabia	Arábia Saudita	país
+save	salvar	
+saved	salvo	
+São Tomé and Príncipe	São Tomé e Príncipe	país
+scan	examinar	
+schedule	agenda	
+schedule	agendar	
+scheduled	agendado	
+Scotland	Escócia	país
+Search	Pesquisa	
+Search	Pesquisar	
+search	pesquisa	
+search	pesquisar	
+search engine	mecanismo de pesquisa	
+search for	procurar	também pode ser "pesquisar"
+secret key	chave secreta	
+Senegal	Senegal	país
+SEO	SEO	masculino
+September	setembro	mês
+Serbia	Sérvia	país
+set a password	definir uma senha	
+settings	configurações	
+Seychelles	Seicheles; Seychelles	país
+show	mostrar	
+shuffle	embaralhar	
+sidebar	barra lateral	 área de widgets
+Sierra Leone	Serra Leoa	país
+Singapore	Cingapura	país
+site map	mapa do site	diferente de sitemap, escrito junto, que é o arquivo xml
+sitemap	sitemap	não traduz (quando é o arquivo xml em SEO)
+Slovakia	Eslováquia	país
+Slovenia	Eslovênia	país
+slug	slug	masculino
+so you cannot	portanto, você não pode	
+software	programa	ou programas, se for genérico
+Software	programa	ou programas, se for genérico
+Solomon Islands	Salomão, Ilhas	país
+Somalia	Somália	país
+soon	mais tarde	
+source	origem	
+South Africa	África do Sul	país
+South Korea	Coreia do Sul	país
+South Sudan	Sudão do Sul	país
+Spain	Espanha	país
+spam	spam	em minúsculas
+Sri Lanka	Sri Lanka	país
+start	iniciar	
+state-of-the-art	avançado	de vanguarda
+status	status	
+sticky	fixo	
+stretch to fit	aumentar para ajustar ao tamanho	
+submit	enviar	
+subscribe	assinar	
+subscribed	assinou	
+subscriptions	assinaturas	
+Sudan	Sudão	país
+Sunday	domingo	dia de semana
+Suriname	Suriname	país
+Swaziland	Suazilândia	país
+Sweden	Suécia	país
+Switzerland	Suíça	país
+Syria	Síria	país
+tab	aba	
+tag	tag	feminino
+Tajikistan	Tadjiquistão	país
+Tanzania	Tanzânia	país
+target	destino	
+team	equipe	Ex: WordPress team - Equipe do WordPress
+template	modelo	
+Thailand	Tailândia	país
+thank you		não traduzir (não agradecer o usuário)
+The Bahamas	Bahamas	país
+theme customizer	personalizador de tema	
+then	então	
+throttling	controle de fluxo	
+Thursday	quinta-feira	dia de semana
+tile	repetir	
+timezone	fuso horário	
+Togo	Togo	país
+Tonga	Tonga	país
+trackback	trackback	masculino
+trash	lixeira	Lixo (objeto excluído).Lixeira (local onde os objetos são excluídos)
+trigger	gatilho	Se achar necessário, acrescente o original entre parênteses, mas deixe em português primeiro, assim: "gatilho (trigger)". Se "trigger" for verbo, use "ativar".
+trigger	ativar	Se for substantivo, use "gatilho". Se achar necessário, acrescente o original entre parênteses, mas deixe em português primeiro, assim: "gatilho (trigger)".
+Trinidad and Tobago	Trinidad e Tobago	país
+Tuesday	terça-feira	dia de semana
+Tunisia	Tunísia	país
+Turkey	Turquia	país
+Turkmenistan	Turcomenistão	país
+Uganda	Uganda	país
+Ukraine	Ucrânia	país
+undelete	restaurar	
+unfollow	deixar de seguir	Igual ao Facebook
+United Arab Emirates	Emirados Árabes Unidos	país
+United Kingdom	Reino Unido	país
+United States	Estados Unidos	país
+update	atualizar	
+update	atualização	
+upload	enviar	
+upload	enviar	
+URL	URL	masculino
+url	URL	Masculino e em letras maiúsculas, porque é uma sigla
+Uruguay	Uruguai	país
+username	nome de usuário	
+Uzbekistan	Usbequistão	país
+Vanuatu	Vanuatu	país
+Vatican City	Cidade do Vaticano	país
+Venezuela	Venezuela	país
+Vietnam	Vietnã	país
+view	visualização	
+view	ver	
+Wales	País de Gales	país
+warning	atenção	
+website	site	masculino
+Wednesday	quarta-feira	dia de semana
+widget	widget	masculino
+WordPress	WordPress	Sempre com o "P" maiúsculo!
+wrapper	invólucro	
+write	gravar	
+Yemen	Iêmen	país
+you are about to	você está prestes a	
+you are not allowed to	sem permissão para	
+you can just/only	basta	
+you cannot to	sem permissão para	
+you must have	deve ter	
+Zambia	Zâmbia	país
+Zimbabwe	Zimbábue	país
