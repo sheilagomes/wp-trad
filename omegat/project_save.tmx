@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T205903Z" creationid="Sheila" creationdate="20171129T205903Z">
+        <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://core.trac.wordpress.org/log/trunk/?action=stop_on_copy&amp;mode=stop_on_copy&amp;rev=41846&amp;stop_rev=41777&amp;limit=100&amp;sfp_email=&amp;sfph_mail=</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202652Z" creationid="Sheila" creationdate="20171013T202652Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202028Z" creationid="Sheila" creationdate="20171013T202028Z">
         <seg>https://wordpress.org/news/2017/10/wordpress-4-9-beta-2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2017/11/wordpress-4-9-1-security-and-maintenance-release/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T205618Z" creationid="Sheila" creationdate="20171129T205618Z">
+        <seg>https://wordpress.org/news/2017/11/wordpress-4-9-1-security-and-maintenance-release/</seg>
       </tuv>
     </tu>
     <tu>
