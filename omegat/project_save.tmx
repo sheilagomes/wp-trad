@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T205903Z" creationid="Sheila" creationdate="20171129T205903Z">
-        <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T210725Z" creationid="Sheila" creationdate="20171129T205903Z">
+        <seg>Versão de segurança e manutenção do WordPress 4.9.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +170,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
         <seg>https://make.wordpress.org/core/reports/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://profiles.wordpress.org/johnbillion</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T210726Z" creationid="Sheila" creationdate="20171129T210726Z">
+        <seg>https://profiles.wordpress.org/johnbillion</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202604Z" creationid="Sheila" creationdate="20171013T202604Z">
         <seg>https://wordpress.org/news/category/releases/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/category/security/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T210728Z" creationid="Sheila" creationdate="20171129T210728Z">
+        <seg>https://wordpress.org/news/category/security/</seg>
       </tuv>
     </tu>
     <tu>
