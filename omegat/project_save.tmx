@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add escaping to the language attributes used on &lt;c0&gt;html&lt;/c0&gt; elements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161314Z" creationid="elia" creationdate="20171130T161314Z">
+        <seg>Tratamento dos atributos de idiomas nos elementos &lt;c0&gt;html&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As part of the core team's ongoing commitment to security hardening, the following fixes have been implemented in 4.9.1:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T160937Z" creationid="elia" creationdate="20171130T160937Z">
@@ -136,8 +144,8 @@
       <tuv lang="EN">
         <seg>Use a properly generated hash for the &lt;c0&gt;newbloguser&lt;/c0&gt; key instead of a determinate substring.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161121Z" creationid="elia" creationdate="20171130T161121Z">
-        <seg>Usar um hash gerado apropriadamente para a chave &lt;c0&gt;newbloguser&lt;/c0&gt; ao invés de uma determinada substring.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161231Z" creationid="elia" creationdate="20171130T161121Z">
+        <seg>Uso de um hash gerado apropriadamente para a chave &lt;c0&gt;newbloguser&lt;/c0&gt; ao invés de uma determinada substring.</seg>
       </tuv>
     </tu>
     <tu>
