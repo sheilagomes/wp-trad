@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
+        <seg>&lt;a0&gt;Baixe o WordPress 4.9.1&lt;/a0&gt; ou visite o Painel → Atualizações e simplesmente clique em “Atualizar agora”. Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161900Z" creationid="elia" creationdate="20171130T161900Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
         <seg>Desde então, nós fizemos &lt;a1&gt;70 mudanças&lt;/a1&gt; no Beta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to everyone who contributed to WordPress 4.9.1:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T162032Z" creationid="elia" creationdate="20171130T162032Z">
+        <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.1:</seg>
       </tuv>
     </tu>
     <tu>
