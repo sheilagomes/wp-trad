@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161900Z" creationid="elia" creationdate="20171130T161900Z">
-        <seg>&lt;a0&gt;Este post tem mais informações sobre todos os problemas ajustados na versão 4.9.1 se você quiser saber mais&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T163016Z" creationid="elia" creationdate="20171130T161900Z">
+        <seg>&lt;a0&gt;Para saber mais, acesse este post com mais informações sobre todos os problemas ajustados na versão 4.9.1&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>WordPress versions 4.9 and earlier are affected by four security issues which could potentially be exploited as part of a multi-vector attack.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20171130T160801Z" creationid="elia" creationdate="20171130T160801Z">
-        <seg>As versoes 4.9 e anteriores do WordPress foram afetadas por quatro problemas de segurança que podem ser explorados como parte de um ataque multivetor.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T162913Z" creationid="elia" creationdate="20171130T160801Z">
+        <seg>As versões 4.9 e anteriores do WordPress foram afetadas por quatro problemas de segurança que podem ser explorados como parte de um ataque multivetor.</seg>
       </tuv>
     </tu>
     <tu>
