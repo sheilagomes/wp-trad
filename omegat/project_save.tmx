@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 4.9.1 is now available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T155459Z" creationid="elia" creationdate="20171130T155459Z">
+        <seg>O WordPress 4.9.1 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://core.trac.wordpress.org/log/trunk/?action=stop_on_copy&amp;mode=stop_on_copy&amp;rev=41846&amp;stop_rev=41777&amp;limit=100&amp;sfp_email=&amp;sfph_mail=</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202652Z" creationid="Sheila" creationdate="20171013T202652Z">
