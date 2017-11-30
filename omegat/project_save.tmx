@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Eleven other bugs were fixed in WordPress 4.9.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161613Z" creationid="elia" creationdate="20171130T161613Z">
+        <seg>Outros onze erros foram resolvidos no WordPress 4.9.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the attributes of enclosures are correctly escaped in RSS and Atom feeds.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161410Z" creationid="elia" creationdate="20171130T161410Z">
+        <seg>Verificação do escape dos fechamentos dos atributos em feeds RSS e Atom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filed under &lt;a1&gt;Development&lt;/a1&gt;, &lt;a2&gt;Releases&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
@@ -118,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the ability to upload JavaScript files for users who do not have the &lt;c0&gt;unfiltered_html&lt;/c0&gt; capability.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161453Z" creationid="elia" creationdate="20171130T161453Z">
+        <seg>Remoção da habilidade de subir arquivos JavaScript para usuários que não tenham a capacidade &lt;c0&gt;unfiltered_html&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since then, we’ve made &lt;a1&gt;70 changes&lt;/a1&gt; in Beta 2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
         <seg>Desde então, nós fizemos &lt;a1&gt;70 mudanças&lt;/a1&gt; no Beta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to the reporters of these issues for practicing &lt;a0&gt;responsible security disclosure&lt;/a0&gt;: Rahul Pratap Singh and John Blackbourn.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161553Z" creationid="elia" creationdate="20171130T161553Z">
+        <seg>Agradecemos a todos os que identificaram e relataram esses problemas pelo &lt;a0&gt;modo responsável&lt;/a0&gt; como isso foi feito: Rahul Pratap Singh e John Blackbourn.</seg>
       </tuv>
     </tu>
     <tu>
