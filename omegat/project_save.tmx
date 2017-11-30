@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161900Z" creationid="elia" creationdate="20171130T161900Z">
+        <seg>&lt;a0&gt;Este post tem mais informações sobre todos os problemas ajustados na versão 4.9.1 se você quiser saber mais&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Let’s test all of these:&lt;/e0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202731Z" creationid="Sheila" creationdate="20171013T202731Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202640Z" creationid="Sheila" creationdate="20171013T202605Z">
         <seg>&lt;s0&gt;Esta versão ainda está em desenvolvimento,&lt;/s0&gt; portanto não recomendamos seu uso em ambientes de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A MediaElement JavaScript error preventing users of certain languages from being able to upload media files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161753Z" creationid="elia" creationdate="20171130T161753Z">
+        <seg>Um erro de JavaScript no MediaElement que não permitia que os usuários de determinados idiomas subissem arquivos de mídia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues relating to the caching of theme template files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161702Z" creationid="elia" creationdate="20171130T161702Z">
+        <seg>Problemas relacionados ao cache de arquivos de templates nos temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or you can &lt;a2&gt;download the beta here&lt;/a2&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
         <seg>Ou faça o &lt;a2&gt;download da versão beta aqui&lt;/a2&gt; (arquivo zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Particularly of note were:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161632Z" creationid="elia" creationdate="20171130T161632Z">
+        <seg>Os mais importantes foram:</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161553Z" creationid="elia" creationdate="20171130T161553Z">
         <seg>Agradecemos a todos os que identificaram e relataram esses problemas pelo &lt;a0&gt;modo responsável&lt;/a0&gt; como isso foi feito: Rahul Pratap Singh e John Blackbourn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The inability to edit theme and plugin files on Windows based servers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
+        <seg>A impossibilidade de editar arquivos de temas e plugins em servidores Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +322,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202709Z" creationid="Sheila" creationdate="20171013T202709Z">
         <seg>https://translate.wordpress.org/projects/wp/dev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/download/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161927Z" creationid="elia" creationdate="20171130T161927Z">
+        <seg>https://br.wordpress.org/txt-download/</seg>
       </tuv>
     </tu>
     <tu>
