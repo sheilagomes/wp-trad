@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you taken the WordPress 2017 Survey yet?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171130T171733Z" creationid="Sheila" creationdate="20171130T171733Z">
+        <seg>Have you taken the WordPress 2017 Survey yet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you’re comfortable writing a reproducible bug report, &lt;a2&gt;file one on WordPress Trac&lt;/a2&gt;, where you can also find &lt;a3&gt;a list of known bugs&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202729Z" creationid="Sheila" creationdate="20171013T202729Z">
