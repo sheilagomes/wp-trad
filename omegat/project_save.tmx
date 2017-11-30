@@ -110,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T155628Z" creationid="elia" creationdate="20171130T155628Z">
+        <seg>Essa é uma &lt;s0&gt;atualização de segurança e manutenção&lt;/s0&gt; para todas as versões a partir do WordPress 3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test WordPress 4.9, try the &lt;a1&gt;WordPress Beta Tester&lt;/a1&gt; plugin (you’ll want “bleeding edge nightlies”).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202644Z" creationid="Sheila" creationdate="20171013T202612Z">
         <seg>Para testar o WordPress 4.9 tente o plugin &lt;a1&gt;WordPress Beta Tester&lt;/a1&gt; (você vai querer a versão "mais recente noturna"). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We strongly encourage you to update your sites immediately.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20171130T155704Z" creationid="elia" creationdate="20171130T155704Z">
+        <seg>Encorajamos que você atualize seus sites imediatamente.</seg>
       </tuv>
     </tu>
     <tu>
