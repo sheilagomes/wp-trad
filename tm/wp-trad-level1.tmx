@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Let’s test all of these:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202731Z" creationid="Sheila" creationdate="20171013T202731Z">
+        <seg>Vamos testar tudo isso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>code editing, theme switches,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202733Z" creationid="Sheila" creationdate="20171013T202733Z">
+        <seg>edição do código, troca de temas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>widgets, scheduling.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202735Z" creationid="Sheila" creationdate="20171013T202735Z">
+        <seg>widgets, agendamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you think you’ve found a bug, you can post to the Alpha/Beta area in the support forums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202720Z" creationid="Sheila" creationdate="20171013T202720Z">
+        <seg>Se acha que encontrou um erro, você pode publicá-lo na área Alpha/Beta nos fóruns de suporte (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This software is still in development, so we don’t recommend you run it on a production site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202640Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>Esta versão ainda está em desenvolvimento, portanto não recomendamos seu uso em ambientes de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consider setting up a test site just to play with the new version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202642Z" creationid="Sheila" creationdate="20171013T202606Z">
+        <seg>Considere criar um site de teste só para brincar com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you speak a language other than English? Help us translate WordPress into more than 100 languages!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202712Z" creationid="Sheila" creationdate="20171013T202712Z">
+        <seg>Você lê e escreve bem em inglês? Ajude-nos a traduzir o WordPress para o português!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filed under Development, Releases.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>Filed under Development, Releases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on what’s new in 4.9, check out the Beta 1 blog post.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202654Z" creationid="Sheila" creationdate="20171013T202654Z">
+        <seg>Para saber mais sobre as novidades do 4.9, confira o artigo sobre a versão Beta 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, file one on WordPress Trac, where you can also find a list of known bugs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202729Z" creationid="Sheila" creationdate="20171013T202729Z">
+        <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, envie para o Trac do WordPress, onde também é possível encontrar uma lista de erros conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or you can download the beta here (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
+        <seg>Ou faça o download da versão beta aqui (arquivo zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Posted October 12, 2017 by Mel Choyce.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>Posted October 12, 2017 by Mel Choyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since then, we’ve made 70 changes in Beta 2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
+        <seg>Desde então, nós fizemos 70 mudanças no Beta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test WordPress 4.9, try the WordPress Beta Tester plugin (you’ll want “bleeding edge nightlies”).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202644Z" creationid="Sheila" creationdate="20171013T202612Z">
+        <seg>Para testar o WordPress 4.9 tente o plugin WordPress Beta Tester (você vai querer a versão "mais recente noturna"). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’d love to hear from you!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
+        <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9 Beta 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
+        <seg>WordPress 4.9 Beta 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9 Beta 2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202636Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>O WordPress 4.9 Beta 2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T205903Z" creationid="Sheila" creationdate="20171129T205903Z">
+        <seg>WordPress 4.9.1 Security and Maintenance Release</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://core.trac.wordpress.org/log/trunk/?action=stop_on_copy&amp;mode=stop_on_copy&amp;rev=41846&amp;stop_rev=41777&amp;limit=100&amp;sfp_email=&amp;sfph_mail=</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202652Z" creationid="Sheila" creationdate="20171013T202652Z">
+        <seg>https://core.trac.wordpress.org/log/trunk/?action=stop_on_copy&amp;mode=stop_on_copy&amp;rev=41846&amp;stop_rev=41777&amp;limit=100&amp;sfp_email=&amp;sfph_mail=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://core.trac.wordpress.org/tickets/major</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
+        <seg>https://core.trac.wordpress.org/tickets/major</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/core/reports/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
+        <seg>https://make.wordpress.org/core/reports/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://profiles.wordpress.org/melchoyce</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
+        <seg>https://profiles.wordpress.org/melchoyce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://translate.wordpress.org/projects/wp/dev</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202709Z" creationid="Sheila" creationdate="20171013T202709Z">
+        <seg>https://translate.wordpress.org/projects/wp/dev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2017/10/wordpress-4-9-beta-1/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202651Z" creationid="Sheila" creationdate="20171013T202651Z">
+        <seg>https://wordpress.org/news/2017/10/wordpress-4-9-beta-1/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2017/10/wordpress-4-9-beta-2/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202028Z" creationid="Sheila" creationdate="20171013T202028Z">
+        <seg>https://wordpress.org/news/2017/10/wordpress-4-9-beta-2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2017/11/wordpress-4-9-1-security-and-maintenance-release/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T205618Z" creationid="Sheila" creationdate="20171129T205618Z">
+        <seg>https://wordpress.org/news/2017/11/wordpress-4-9-1-security-and-maintenance-release/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/category/development/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
+        <seg>https://wordpress.org/news/category/development/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/category/releases/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202604Z" creationid="Sheila" creationdate="20171013T202604Z">
+        <seg>https://wordpress.org/news/category/releases/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/plugins/wordpress-beta-tester/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>https://wordpress.org/plugins/wordpress-beta-tester/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/support/forum/alphabeta</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202713Z" creationid="Sheila" creationdate="20171013T202713Z">
+        <seg>https://wordpress.org/support/forum/alphabeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/wordpress-4.9-beta2.zip</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>https://wordpress.org/wordpress-4.9-beta2.zip</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

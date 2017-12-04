@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WordPress 4.8.2 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>WordPress 4.8.2 – Atualização de segurança e manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is a security release for all previous versions and we strongly encourage you to update your sites immediately.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Esta é uma atualização de segurança para todas as versões anteriores, recomendamos que você atualize seus sites imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WordPress versions 4.8.1 and earlier are affected by these security issues:</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>As versões 4.8.1 e anteriores foram afetadas pelos seguintes problemas de segurança:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>$wpdb-&gt;prepare() can create unexpected and unsafe queries leading to potential SQL injection (SQLi).</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>O método $wpdb-&gt;prepare() pode criar consultas inseguras e fora do esperado, permitindo SQL injection (SQLi), isto é, alterações no modo como o banco de dados é manipulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WordPress core is not directly vulnerable to this issue, but we’ve added hardening to prevent plugins and themes from accidentally causing a vulnerability.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Os arquivos básicos do WordPress não são afetados por este problema, mas nós melhoramos o código para evitar que temas e plugins abram uma brecha de segurança acidentalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reported by Slavco</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Relatado por Slavco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A cross-site scripting (XSS) vulnerability was discovered in the oEmbed discovery.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting) descoberta na análise dos oEmbed (elementos incorporados automaticamente no texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reported by xknown of the WordPress Security Team.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Relatado por xknown da equipe de segurança do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A cross-site scripting (XSS) vulnerability was discovered in the visual editor.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites foi descoberta no editor visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A path traversal vulnerability was discovered in the file unzipping code.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade de exploração de diretórios (path traversal) foi descoberta no código de descompactação de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A cross-site scripting (XSS) vulnerability was discovered in the plugin editor.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites foi descoberta no editor de plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An open redirect was discovered on the user and term edit screens.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Um redirecionamento sem validação foi encontrado nas telas de edição de termo e de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A path traversal vulnerability was discovered in the customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade de exploração de diretórios foi descoberta no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A cross-site scripting (XSS) vulnerability was discovered in template names.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites foi encontrada nos nomes dos templates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A cross-site scripting (XSS) vulnerability was discovered in the link modal.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites foi descoberta na janela de edição de links.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Thank you to the reporters of these issues for practicing responsible disclosure.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Agradecemos a todos os que identificaram e relataram esses problemas pelo modo responsável como isso foi feito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In addition to the security issues above, WordPress 4.8.2 contains 6 maintenance fixes to the 4.8 release series.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Além destas questões de segurança, o WordPress 4.8.2 contém 6 ajustes de manutenção para a série de versões 4.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For more information, see the release notes or consult the list of changes.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Para mais informações, leia as notas de lançamento ou consulte a lista de mudanças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Download WordPress 4.8.2 or venture over to Dashboard → Updates and simply click “Update Now.”</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Faça o download do WordPress 4.8.2 ou navegue pelo Painel → Atualizações e clique em “Atualizar agora”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sites that support automatic background updates are already beginning to update to WordPress 4.8.2.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar para o WordPress 4.8.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Thanks to everyone who contributed to 4.8.2.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150630Z">
+        <seg>Agradecemos a todos que contribuíram para a versão 4.8.2.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

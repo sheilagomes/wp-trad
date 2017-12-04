@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WordPress 4.9 Beta 1 is now available!</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>O WordPress 4.9 Beta 1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This software is still in development, so we don’t recommend you run it on a production site.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Esta versão ainda está em desenvolvimento, portanto não recomendamos seu uso em ambientes de produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider setting up a test site just to play with the new version.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Considere criar um site de teste só para brincar com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To test WordPress 4.9, try the WordPress Beta Tester plugin (you’ll want “bleeding edge nightlies”). Or you can download the beta here (zip).</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Para testar o WordPress 4.9 tente o plugin WordPress Beta Tester ou faça o download da versão beta aqui (arquivo zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WordPress 4.9 is slated for release on November 14, but we need your help to get there.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>O lançamento do WordPress 4.9 está programado para o dia 14 de novembro, mas precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We’ve been working on making it even easier to customize your site.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Estivemos trabalhando para que seja ainda mais fácil personalizar o seu site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here are some of the bigger items to test and help us find as many bugs as possible in the coming weeks:</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Aqui estão alguns dos itens mais importantes a testar e nos ajudar, nas próximas semanas, a encontrar tantos erros quanto for possível:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Drafting and scheduling of changes in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Rascunhar e agendar mudanças no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Once you save or schedule a changeset, when any user comes into the Customizer the pending changes will be autoloaded.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Uma vez que você salve ou agende um grupo de mudanças, quando qualquer usuário acessar o Personalizar as mudanças serão carregadas automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A button is provided to discard changes to restore the Customizer to the last published state.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Um botão descarta as mudanças para voltar os itens do Personalizar aos últimos valores publicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is a new “linear” mode for changesets, as opposed to “branching” mode which can be enabled by filter so that every time  user opens the Customizer a new blank changeset will be started.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Este é um novo modo linear para os conjuntos de mudanças, oposto ao modelo de ramificação que pode ser habilitado através de um filtro, dessa forma toda vez que um usuário abrir o Personalizar um grupo novo de mudanças será iniciado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Addition of a frontend preview link to the Customizer to allow changes to be browsed on the frontend, even without a user being logged in.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Criação no Personalizar de um link para pré-visualização que permite navegar pelo site modificado mesmo que o usuário não esteja conectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Addition of autosave revisions in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Criação de revisões por salvamento automático no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A brand new theme browsing experience in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Uma experiência de navegação pelos temas completamente nova no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Gallery widget, following the media and image widgets introduced in 4.8.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Um widget de galeria, seguindo o caminho iniciado pelos widgets de mídia e imagem que foram lançados na versão 4.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Support for shortcodes in Text widgets.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Suporte a shortcodes nos widgets de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Support for adding media to Text widgets.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Suporte para adição de mídia nos widgets de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Support for adding oEmbeds outside post content, including Text widgets.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Suporte para adição de oEmbeds (elementos incorporados automaticamente, como vídeos do YouTube e etc.) fora do conteúdo do post, incluindo widgets de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Support for videos from providers other than YouTube and Vimeo in the Video widget.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Suporte para vídeos publicados em outros sites além do YouTube e Vimeo no widget de vídeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Improve the flow for creating new menus in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Melhoria no fluxo para criação de novos menus no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Educated guess mapping of nav menus and widgets when switching themes.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Mapeamento entre as localizações dos menus e áreas de widgets ao trocar de tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Plugins: Introduce singular capabilities for activating and deactivating individual plugins.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Plugins: introdução de capacidades para ativar e desativar plugins individualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sandbox PHP file edits in both plugins and themes, without auto-deactivation when an error occurs.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Teste de edição de arquivos PHP em plugins e temas, sem desativação automática ao ocorrer um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A PHP edit that introduces a fatal error is rolled back with an opportunity then for the user to fix the error and attempt to re-save.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Uma edição em um arquivo PHP que produz um erro fatal é desfeita e o usuário tem a oportunidade de consertá-lo e, então, salvá-lo novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Addition of dirty state for widgets on the admin screen, indicating when a widget has been successfully saved and showing an “Are you sure?” dialog when attempting to leave without saving changes.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Criação de um estado “não salvo” na tela de administração, indicando quando um widget foi salvo e exibindo um alerta “Você tem certeza?” ao tentar deixar a tela sem salvar as alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As always, there have been exciting changes for developers to explore as well, such as:  CodeMirror editor added to theme/plugin editor, Custom CSS in Customizer, and Custom HTML widgets.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Como sempre, também temos mudanças emocionantes para os desenvolvedores explorarem, tais como: Adição do editor CodeMirror para editar temas e plugins, CSS adicional no Personalizar e os widgets de HTML personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Integration includes support for linters to catch errors before you attempt to save.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>A integração inclui suporte para analisadores automáticos de código (linters) para evitar erros antes de salvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Includes new APIs for plugins to instantiate editors.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Inclui novas APIs para plugins instanciarem editores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Introduction of an extensible code editor control for adding instances of CodeMirror to the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Introdução de um controle extensível do editor de código para adicionar instâncias do CodeMirror ao Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Addition of global notifications area, panel and section notifications, and a notification overlay that takes over the entire screen in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Adição de uma área global de notificações, notificações de painel e de seção e notificações que se sobrepõem à tela inteira no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A date/time control in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Um controle para data e horário no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Improve usability of Customize JS API.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Melhoria de usabilidade na API JS do Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Introduction of control templates for base controls.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Criação de modelos para controles básicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use WP_Term_Query when transforming tax queries.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Uso de WP_Term_Query na transformação de consultas por taxonomia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Database: Add support for MySQL servers connecting to IPv6 hosts.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Banco de dados: adição de suporte para conexão através de IPv6 por servidores MySQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emoji: Bring Twemoji compatibility to PHP.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Emoji: porte do Twemoji para o PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Test for any weirdness with emoji in RSS feeds or emails.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Procure por qualquer esquisitice com os emoji nos feeds RSS ou e-mails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>I18N: Introduce the Plural_Forms class.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Internacionalização: introdução da classe Plural_Forms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Media: Upgrade MediaElement.js to 4.2.5-74e01a40.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Mídia: atualização do arquivo MediaElement.js para a versão 4.2.5-74e01a40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Media: Use max-width for default captions.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Mídia: uso de max-width para a legenda padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We will want to make sure this doesn’t cause unexpected visual regressions in existing themes, default themes were all fine in testing.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Queremos ter certeza de que isso não causa nenhum problema no visual dos temas que já existem, os temas padrão foram bem nos testes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Media: Reduce duplicated custom header crops in the Customizer.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Mídia: redução de corte duplicado em cabeçalhos personalizados no Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Media: Store video creation date in meta.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Mídia: gravação da data de criação dos vídeos nos metadados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please help test different kinds of videos.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Ajude a testar diferentes tipos de vídeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Multisite: Introduce get_site_by().</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Multisite: introdução de get_site_by().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Multisite: Improve get_blog_details() by using get_site_by().</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Multisite: melhoria em get_blog_details() fazendo-a usar get_site_by().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Multisite: Improve initializing available roles when switch sites.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Multisite: melhoria na inicialização de papéis disponíveis ao trocar de sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Multisite: Initialize a user’s roles correctly when setting them up for a different site.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Multisite: inicializa corretamente as funções de um usuário ao configurá-las em um site diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>REST API: Support registering complex data structures for settings and meta</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>API REST: suporte ao registro de estrutura de dados complexos para configurações e metadados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>REST API: Support for objects in schema validation and sanitization.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>API REST: validação e higienização de objetos pelo esquema do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Role/Capability: Introduce capabilities dedicated to installing and updating language files.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Funções e capacidades: introdução de capacidades dedicadas à instalação e atualização de arquivos de idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remove SWFUpload.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Exclusão do SWFUpload.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Users: Require a confirmation link in an email to be clicked when a user attempts to change their email address.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Usuários: acesso obrigatório de um link enviado por e-mail quando um usuário tenta alterar este campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Core and the unit test suite is fully compatible with the upcoming release of PHP 7.2</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Arquivos básicos e testes de unidade estão completamente compatíveis com a versão 7.2 do PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you want a more in-depth view of what major changes have made it into 4.9, check out posts tagged with 4.9 on the main development blog, or look at a list of everything that’s changed.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Se você quer uma visão mais detalhada das maiores mudanças feitas para a versão 4.9, dê uma olhada nos posts com a tag 4.9 no blog de desenvolvimento, ou leia a lista completa do que mudou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There will be more developer notes to come, so keep an eye out for those as well.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Novas observações dos desenvolvedores virão por aí, então é bom ficar de olho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you think you’ve found a bug, you can post to the Alpha/Beta area in the support forums.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Se acha que encontrou um erro, você pode publicá-lo na área Alpha/Beta nos fóruns de suporte (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We’d love to hear from you!</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, file one on WordPress Trac, where you can also find a list of known bugs.</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, envie para o Trac do WordPress, onde também é possível encontrar uma lista de erros conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Happy testing!</seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Bons testes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Without your testing, we might hurt the internet. </seg>
+      </tuv>
+      <tuv xml:lang="PT-BR" creationid="OmegaT Aligner" creationdate="20171012T150001Z">
+        <seg>Vamos todos testar, Para a internet não quebrar, É só não deixar nenhum erro passar.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
