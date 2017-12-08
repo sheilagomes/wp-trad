@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About the Team</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111300Z" creationid="Sheila" creationdate="20171208T111300Z">
+        <seg>Sobre a equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add escaping to the language attributes used on &lt;c0&gt;html&lt;/c0&gt; elements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161314Z" creationid="elia" creationdate="20171130T161314Z">
@@ -190,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rosetta Sites &amp; Forums</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111327Z" creationid="Sheila" creationdate="20171208T111327Z">
+        <seg>Sites Rosetta e fóruns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since then, we’ve made &lt;a1&gt;70 changes&lt;/a1&gt; in Beta 2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
         <seg>Desde então, nós fizemos &lt;a1&gt;70 mudanças&lt;/a1&gt; no Beta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111409Z" creationid="Sheila" creationdate="20171208T111409Z">
+        <seg>Termos</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +262,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Topics</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111250Z" creationid="Sheila" creationdate="20171208T111250Z">
+        <seg>Tópicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111312Z" creationid="Sheila" creationdate="20171208T111312Z">
+        <seg>Como traduzir o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111317Z" creationid="Sheila" creationdate="20171208T111317Z">
+        <seg>Ferramentas de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator’s Handbook</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111246Z" creationid="Sheila" creationdate="20171208T110507Z">
+        <seg>Manual do tradutor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use a properly generated hash for the &lt;c0&gt;newbloguser&lt;/c0&gt; key instead of a determinate substring.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161231Z" creationid="elia" creationdate="20171130T161121Z">
@@ -258,6 +314,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
         <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Internationalization?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111401Z" creationid="Sheila" creationdate="20171208T111401Z">
+        <seg>O que é internationalização?</seg>
       </tuv>
     </tu>
     <tu>
@@ -323,6 +387,54 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
         <seg>https://make.wordpress.org/core/reports/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#about-the-team</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111252Z" creationid="Sheila" creationdate="20171208T111252Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#about-the-team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#rosetta-sites-%c2%a0forums</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111318Z" creationid="Sheila" creationdate="20171208T111318Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#rosetta-sites-%c2%a0forums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#terms</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111404Z" creationid="Sheila" creationdate="20171208T111404Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#terms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#translating-wordpress</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111301Z" creationid="Sheila" creationdate="20171208T111301Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#translating-wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#translation-tools</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111314Z" creationid="Sheila" creationdate="20171208T111314Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#translation-tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://make.wordpress.org/polyglots/handbook/#what-is-internationalization</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111329Z" creationid="Sheila" creationdate="20171208T111329Z">
+        <seg>https://make.wordpress.org/polyglots/handbook/#what-is-internationalization</seg>
       </tuv>
     </tu>
     <tu>
