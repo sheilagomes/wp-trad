@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<items priority="50">
+    <item>
+        <name>PT DicCri+VOC</name>
+        <url encoding="default" target="both">http://dicionariocriativo.com.br/{target}</url>
+        <url encoding="default" target="both">http://voc.cplp.org/index.php?sel=start&amp;action=simplesearch&amp;base=form&amp;query={target}</url>
+        <keystroke>ctrl alt pressed D</keystroke>
+    </item>
+    <item>
+        <name>Google</name>
+        <url encoding="default" target="both">http://www.google.com/search?q={target}</url>
+        <keystroke>ctrl alt pressed G</keystroke>
+    </item>
+    <item>
+        <name>File Locator</name>
+        <command delimiter=" " encoding="default" target="both">C:\Program Files\Mythicsoft\FileLocator Lite\FileLocatorLite.exe -d "D:\Dropbox\Dics" -c "{target}" -s -r</command>
+        <keystroke>ctrl alt pressed F</keystroke>
+    </item>
+    <item>
+        <name>EN-PT GT</name>
+        <url encoding="default" target="both">https://translate.google.com.br/?hl=pt-BR#en/pt/{target}</url>
+        <keystroke>ctrl alt pressed T</keystroke>
+    </item>
+    <item>
+        <name>EN-PT Magic Search</name>
+        <url encoding="default" target="both">http://magicsearch.org/english-portuguese/{target}</url>
+        <keystroke>ctrl alt pressed M</keystroke>
+    </item>
+    <item>
+        <name>EN Coll ProWri</name>
+        <url encoding="default" target="both">https://prowritingaid.com/en/Collocation/Dictionary?word={target}</url>
+        <url encoding="default" target="both">http://www.freecollocation.com/search?word={target}</url>
+        <url encoding="default" target="both">http://www.ozdic.com/collocation-dictionary/{target}</url>
+        <keystroke>ctrl alt pressed V</keystroke>
+    </item>
+    <item>
+        <name>EN WebCorp</name>
+        <url encoding="default" target="both">http://www.webcorp.org.uk/live/search.jsp?search={target}&amp;i=on&amp;span=c50&amp;api=guardianOP&amp;bingLang=xx&amp;farooLang=xx&amp;info=on&amp;filter=</url>
+        <keystroke>ctrl alt pressed W</keystroke>
+    </item>
+    <item>
+        <name>PT BYU Corpus</name>
+        <url encoding="default" target="both">http://www.corpusdoportugues.org/web-dial/{target}</url>
+        <keystroke>ctrl alt pressed B</keystroke>
+    </item>
+    <item>
+        <name>Ferramenta de Consistência WP</name>
+        <url encoding="default" target="both">https://translate.wordpress.org/consistency?search={target}&amp;set=pt-br%2Fdefault</url>
+        <keystroke>ctrl alt pressed H</keystroke>
+    </item>
+</items>
