@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<items priority="50">
+    <item>
+        <name>Ferramenta de Consistência WP</name>
+        <url encoding="default" target="both">https://translate.wordpress.org/consistency?search={target}&amp;set=pt-br%2Fdefault</url>
+        <keystroke>ctrl alt pressed H</keystroke>
+    </item>
+    <item>
+        <name>PT Dicionário Criativo</name>
+        <url encoding="default" target="both">http://dicionariocriativo.com.br/{target}</url>
+        <keystroke>ctrl alt pressed D</keystroke>
+    </item>
+    <item>
+        <name>Google</name>
+        <url encoding="default" target="both">http://www.google.com/search?q={target}</url>
+        <keystroke>ctrl alt pressed G</keystroke>
+    </item>
+    <item>
+        <name>File Locator</name>
+        <command delimiter=" " encoding="default" target="both">C:\Program Files\Mythicsoft\FileLocator Lite\FileLocatorLite.exe -d "D:\Dropbox\Dics" -c "{target}" -s -r</command>
+        <keystroke>ctrl alt pressed F</keystroke>
+    </item>
+    <item>
+        <name>EN-PT GT</name>
+        <url encoding="default" target="both">https://translate.google.com.br/?hl=pt-BR#en/pt/{target}</url>
+        <keystroke>ctrl alt pressed T</keystroke>
+    </item>
+    <item>
+        <name>EN-PT Magic Search</name>
+        <url encoding="default" target="both">http://magicsearch.org/english-portuguese/{target}</url>
+        <keystroke>ctrl alt pressed M</keystroke>
+    </item>
+</items>
