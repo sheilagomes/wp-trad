@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/01/wordpress-4-9-2-security-and-maintenance-release/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T142053Z" creationid="elia" creationdate="20180118T142053Z">
+        <seg>[parcial]https://wordpress.org/news/2018/01/wordpress-4-9-2-security-and-maintenance-release/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://wordpress.org/news/category/development/</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
