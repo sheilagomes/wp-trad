@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>21 other bugs were fixed in WordPress 4.9.2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141434Z" creationid="elia" creationdate="20180118T141434Z">
+        <seg>Outros 21 erros foram resolvidos no WordPress 4.9.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JavaScript errors that prevented saving posts in Firefox have been fixed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141511Z" creationid="elia" creationdate="20180118T141511Z">
+        <seg>Correção de erros JavaScript que impediam a atualização de posts no Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MediaElement has released a new version that contains a fix for the bug, and &lt;a0&gt;a WordPress plugin containing the fixed files&lt;/a0&gt; is available in the plugin repository.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141248Z" creationid="elia" creationdate="20180118T141248Z">
@@ -238,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switching themes will now attempt to restore previous widget assignments, even when there are no sidebars to map.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141725Z" creationid="elia" creationdate="20180118T141725Z">
+        <seg>Alternar entre temas tentará agora restaurar a atribuição anterior dos widgets, mesmo quando não há áreas de widgets a serem mapeadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111409Z" creationid="Sheila" creationdate="20171208T111409Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
         <seg>A impossibilidade de editar arquivos de temas e plugins em servidores Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previous taxonomy-agnostic behavior of &lt;c0&gt;get_category_link()&lt;/c0&gt; and &lt;c1&gt;category_description()&lt;/c1&gt; was restored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141604Z" creationid="elia" creationdate="20180118T141604Z">
+        <seg>O comportamento de &lt;c0&gt;get_category_link()&lt;/c0&gt; e &lt;c1&gt;category_description()&lt;/c1&gt; que não fazia distinção de taxonomia foi restaurado.</seg>
       </tuv>
     </tu>
     <tu>
