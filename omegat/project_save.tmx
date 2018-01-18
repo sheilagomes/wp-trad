@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161314Z" creationid="elia" creationdate="20171130T161314Z">
         <seg>Tratamento dos atributos de idiomas nos elementos &lt;c0&gt;html&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An XSS vulnerability was discovered in the Flash fallback files in MediaElement, a library that is included with WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141052Z" creationid="elia" creationdate="20180118T141052Z">
+        <seg>Uma vulnerabilidade à execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting) foi descoberta nos arquivos Flash usados para retrocompatibilidade pelo MediaElement, uma biblioteca que é usada pelos arquivos básicos do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7﻿.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T140849Z" creationid="elia" creationdate="20180118T140849Z">
+        <seg>Essa é uma &lt;s0&gt;atualização de segurança e manutenção&lt;/s0&gt; para todas as versões a partir do WordPress 3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test WordPress 4.9, try the &lt;a1&gt;WordPress Beta Tester&lt;/a1&gt; plugin (you’ll want “bleeding edge nightlies”).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202644Z" creationid="Sheila" creationdate="20171013T202612Z">
@@ -355,6 +371,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155459Z" creationid="elia" creationdate="20171130T155459Z">
         <seg>O WordPress 4.9.1 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.2 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T140823Z" creationid="elia" creationdate="20180118T140823Z">
+        <seg>WordPress 4.9.2 – Atualização de segurança e manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.2 is now available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T140832Z" creationid="elia" creationdate="20180118T140832Z">
+        <seg>O WordPress 4.9.2 já está disponível.</seg>
       </tuv>
     </tu>
     <tu>
