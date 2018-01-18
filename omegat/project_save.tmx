@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Speaker Training [and Diversity Speaker Outreach]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180118T175422Z" creationid="Sheila" creationdate="20180118T175422Z">
+        <seg>Speaker Training [and Diversity Speaker Outreach]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switching themes will now attempt to restore previous widget assignments, even when there are no sidebars to map.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141725Z" creationid="elia" creationdate="20180118T141725Z">
