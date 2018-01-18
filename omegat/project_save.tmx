@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because the Flash files are no longer needed for most use cases, they have been removed from WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141131Z" creationid="elia" creationdate="20180118T141131Z">
+        <seg>Como os arquivos Flash já não são mais necessários na maioria dos casos, eles foram removidos do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider setting up a test site just to play with the new version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202642Z" creationid="Sheila" creationdate="20171013T202606Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaElement has released a new version that contains a fix for the bug, and &lt;a0&gt;a WordPress plugin containing the fixed files&lt;/a0&gt; is available in the plugin repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141248Z" creationid="elia" creationdate="20180118T141248Z">
+        <seg>Foi lançada uma nova versão da biblioteca MediaElement que corrige o erro e &lt;a0&gt;um plugin WordPress contendo os arquivos corrigidos&lt;/a0&gt; está disponível no repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or you can &lt;a2&gt;download the beta here&lt;/a2&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161553Z" creationid="elia" creationdate="20171130T161553Z">
         <seg>Agradecemos a todos os que identificaram e relataram esses problemas pelo &lt;a0&gt;modo responsável&lt;/a0&gt; como isso foi feito: Rahul Pratap Singh e John Blackbourn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to the reporters of this issue for practicing &lt;a0&gt;responsible security disclosure&lt;/a0&gt;: &lt;a1&gt;Enguerran Gillier&lt;/a1&gt; and &lt;a2&gt;Widiz﻿&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180118T141420Z" creationid="elia" creationdate="20180118T141420Z">
+        <seg>Nossos agradecimentos para quem informou esses problemas pelo &lt;a0&gt;modo responsável como isso foi feito&lt;/a0&gt;: &lt;a1&gt;Enguerran Gillier&lt;/a1&gt; e &lt;a2&gt;Widiz﻿&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
