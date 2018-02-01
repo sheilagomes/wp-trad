@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Becoming a Better Speaker</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135701Z" creationid="Sheila" creationdate="20180201T135701Z">
+        <seg>Como ser um(a) palestrante melhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider setting up a test site just to play with the new version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202642Z" creationid="Sheila" creationdate="20171013T202606Z">
         <seg>Considere criar um site de teste só para brincar com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating Great Slides</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135623Z" creationid="Sheila" creationdate="20180201T135623Z">
+        <seg>Como criar ótimos slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating Your WordPress Talk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135602Z" creationid="Sheila" creationdate="20180201T135602Z">
+        <seg>Como criar sua apresentação sobre o WordPress</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding a Topic for a WordPress Talk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133225Z" creationid="Sheila" creationdate="20180201T133225Z">
+        <seg>Encontrar um tema para uma apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151602Z" creationid="Sheila" creationdate="20180201T151602Z">
+        <seg>Como encontrar um tema para uma apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on what’s new in 4.9, check out the &lt;a0&gt;Beta 1&lt;/a0&gt; blog post.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202654Z" creationid="Sheila" creationdate="20171013T202654Z">
@@ -182,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Imposter Syndrome</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135719Z" creationid="Sheila" creationdate="20180201T135719Z">
+        <seg>Síndrome do impostor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues relating to the caching of theme template files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161702Z" creationid="elia" creationdate="20171130T161702Z">
@@ -194,6 +242,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141511Z" creationid="elia" creationdate="20180118T141511Z">
         <seg>Correção de erros JavaScript que impediam a atualização de posts no Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lessons in this module include:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133207Z" creationid="Sheila" creationdate="20180201T133207Z">
+        <seg>As aulas neste módulo incluem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +312,8 @@
       <tuv lang="EN">
         <seg>Speaker Training [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20180118T175422Z" creationid="Sheila" creationdate="20180118T175422Z">
-        <seg>Speaker Training [and Diversity Speaker Outreach]</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133154Z" creationid="Sheila" creationdate="20180118T175422Z">
+        <seg>Treinamento de palestrantes [e promoção da diversidade de palestrantes]</seg>
       </tuv>
     </tu>
     <tu>
@@ -475,6 +531,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162913Z" creationid="elia" creationdate="20171130T160801Z">
         <seg>As versões 4.9 e anteriores do WordPress foram afetadas por quatro problemas de segurança que podem ser explorados como parte de um ataque multivetor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writing the Pitch for your WordPress Talk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135445Z" creationid="Sheila" creationdate="20180201T135445Z">
+        <seg>Como escrever o resumo para a sua apresentação sobre o WordPress</seg>
       </tuv>
     </tu>
     <tu>
