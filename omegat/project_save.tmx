@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description #Description</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151625Z" creationid="Sheila" creationdate="20180201T151608Z">
+        <seg>Descrição #Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you speak a language other than English? &lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202712Z" creationid="Sheila" creationdate="20171013T202712Z">
@@ -184,8 +192,8 @@
       <tuv lang="EN">
         <seg>Finding a Topic for a WordPress Talk</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133225Z" creationid="Sheila" creationdate="20180201T133225Z">
-        <seg>Encontrar um tema para uma apresentação sobre o WordPress</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151611Z" creationid="Sheila" creationdate="20180201T133225Z">
+        <seg>Como encontrar um tema para uma apresentação sobre o WordPress</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,6 +547,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135445Z" creationid="Sheila" creationdate="20180201T135445Z">
         <seg>Como escrever o resumo para a sua apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Are you a person who identifies as a &lt;specific group&gt;?] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T211047Z" creationid="Sheila" creationdate="20180201T211047Z">
+        <seg>[Você é uma pessoa que se identifica como um &lt;grupo específico&gt;?] Já pensou em se apresentar em um WordCamp, mas achava que não sabia o suficiente ou se sentia um(a) impostor(a)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151721Z" creationid="Sheila" creationdate="20180201T151721Z">
+        <seg>[Se estiver apresentando a um grupo específico, por exemplo, a pessoas que se identificam como mulheres, há seções opcionais para adicionar indicadas entre [colchetes].]</seg>
       </tuv>
     </tu>
     <tu>
