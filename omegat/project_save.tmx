@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you feel like you don’t have anything worth sharing?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T224344Z" creationid="Sheila" creationdate="20180201T224344Z">
+        <seg>Você se sente como se não tivesse nada que vale a pena compartilhar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you have no idea what to talk about?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T222531Z" creationid="Sheila" creationdate="20180201T222531Z">
