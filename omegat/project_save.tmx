@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>Make sure the version string is correctly escaped for use in generator tags.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T115845Z" creationid="elia" creationdate="20180404T115845Z">
-        <seg>Verificação e escape da string que contém a versão do WordPress e que são usadas nas tags "generator".</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120002Z" creationid="elia" creationdate="20180404T115845Z">
+        <seg>Verificação e escape da string que contém a versão do WordPress, usada nas tags "generator".</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="EN">
         <seg>Use safe redirects when redirecting the login page if SSL is forced.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T115509Z" creationid="elia" creationdate="20180404T115509Z">
-        <seg>Usar redirecionamento seguro para a página de acesso se o uso de SSL for obrigatório.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T115852Z" creationid="elia" creationdate="20180404T115509Z">
+        <seg>Uso de redirecionamento seguro para a página de acesso se o uso de SSL for obrigatório.</seg>
       </tuv>
     </tu>
     <tu>
