@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>A variety of strings such as error messages have been updated for better clarity.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120653Z" creationid="elia" creationdate="20180404T120653Z">
-        <seg>Vários textos foram atualizados, como mensagens de erro, e agora têm maior clareza.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T121319Z" creationid="elia" creationdate="20180404T120653Z">
+        <seg>Vários textos, como mensagens de erro, foram atualizados e agora são mais claros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>Custom nonce functionality in the REST API JavaScript client has been made consistent throughout the code base.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120820Z" creationid="elia" creationdate="20180404T120820Z">
-        <seg>A funcionalidade de código de verificação (nonce) personalizado na API REST de JavaScript agora está consistente por toda a base de código.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T121328Z" creationid="elia" creationdate="20180404T120820Z">
+        <seg>A funcionalidade de código de verificação (nonce) personalizado na API REST de JavaScript agora está consistente por todo o código.</seg>
       </tuv>
     </tu>
     <tu>
