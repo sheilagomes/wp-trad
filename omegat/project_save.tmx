@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you to the reporters of these issues for practicing &lt;a0&gt;﻿coordinated security disclosure&lt;/a0&gt;: &lt;a1&gt;xknown&lt;/a1&gt; of the WordPress Security Team, &lt;a2&gt;Nitin Venkatesh (nitstorm)&lt;/a2&gt;, and &lt;a3&gt;Garth Mortensen&lt;/a3&gt; of the WordPress Security Team.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120222Z" creationid="elia" creationdate="20180404T120222Z">
+        <seg>Agradecemos a todos os que identificaram e relataram esses problemas pelo &lt;a0&gt;modo responsável&lt;/a0&gt; como isso foi feito: &lt;a1&gt;xknown&lt;/a1&gt; e &lt;a3&gt;Garth Mortensen&lt;/a3&gt; da Equipe de segurança do WordPress e &lt;a2&gt;Nitin Venkatesh (nitstorm)&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thank you to the reporters of this issue for practicing &lt;a0&gt;responsible security disclosure&lt;/a0&gt;: &lt;a1&gt;Enguerran Gillier&lt;/a1&gt; and &lt;a2&gt;Widiz﻿&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141420Z" creationid="elia" creationdate="20180118T141420Z">
@@ -504,8 +512,8 @@
       <tuv lang="EN">
         <seg>Use safe redirects when redirecting the login page if SSL is forced.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T115852Z" creationid="elia" creationdate="20180404T115509Z">
-        <seg>Uso de redirecionamento seguro para a página de acesso se o uso de SSL for obrigatório.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120258Z" creationid="elia" creationdate="20180404T115509Z">
+        <seg>Usar redirecionamento seguro para a página de acesso se o uso de SSL for obrigatório.</seg>
       </tuv>
     </tu>
     <tu>
