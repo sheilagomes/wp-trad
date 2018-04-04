@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the version string is correctly escaped for use in generator tags.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T115845Z" creationid="elia" creationdate="20180404T115845Z">
+        <seg>Verificação e escape da string que contém a versão do WordPress e que são usadas nas tags "generator".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MediaElement has released a new version that contains a fix for the bug, and &lt;a0&gt;a WordPress plugin containing the fixed files&lt;/a0&gt; is available in the plugin repository.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141248Z" creationid="elia" creationdate="20180118T141248Z">
