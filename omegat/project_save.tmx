@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A variety of strings such as error messages have been updated for better clarity.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120653Z" creationid="elia" creationdate="20180404T120653Z">
+        <seg>Vários textos foram atualizados, como mensagens de erro, e agora têm maior clareza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About the Team</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111300Z" creationid="Sheila" creationdate="20171208T111300Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135602Z" creationid="Sheila" creationdate="20180201T135602Z">
         <seg>Como criar sua apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cropping on touch screen devices is now supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120529Z" creationid="elia" creationdate="20180404T120529Z">
+        <seg>Agora é possível recortar imagens em dispositivos com telas sensíveis ao toque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +312,8 @@
       <tuv lang="EN">
         <seg>Make sure the version string is correctly escaped for use in generator tags.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120002Z" creationid="elia" creationdate="20180404T115845Z">
-        <seg>Verificação e escape da string que contém a versão do WordPress, usada nas tags "generator".</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120311Z" creationid="elia" creationdate="20180404T115845Z">
+        <seg>Verificar e escapar a string que contém a versão do WordPress, usada nas tags "generator".</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The previous styles on caption shortcodes have been restored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120452Z" creationid="elia" creationdate="20180404T120452Z">
+        <seg>Os estilos anteriores das legendas dos shortcodes foram restaurados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The previous taxonomy-agnostic behavior of &lt;c0&gt;get_category_link()&lt;/c0&gt; and &lt;c1&gt;category_description()&lt;/c1&gt; was restored.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141604Z" creationid="elia" creationdate="20180118T141604Z">
@@ -498,6 +522,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111246Z" creationid="Sheila" creationdate="20171208T110507Z">
         <seg>Manual do tradutor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twenty-five other bugs were fixed in WordPress 4.9.5.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180404T120353Z" creationid="elia" creationdate="20180404T120353Z">
+        <seg>Outros vinte e cinco erros foram resolvidos no WordPress 4.9.5.</seg>
       </tuv>
     </tu>
     <tu>
