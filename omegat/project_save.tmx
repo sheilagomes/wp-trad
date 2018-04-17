@@ -6,10 +6,98 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>%1$s thought on &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s comentário em &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s thoughts on &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s comentários em &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versões %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s%% of the web uses WordPress, from hobby blogs to the biggest news sites online.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%s%% da internet usa o WordPress, de blogs amadores até os maiores sites de notícias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;hellip; and hundreds more</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;hellip; e centenas de outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;larr; Back to login</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;larr; Voltar para o acesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-- The WordPress.org Team</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-- Equipe do WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21 other bugs were fixed in WordPress 4.9.2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141434Z" creationid="elia" creationdate="20180118T141434Z">
         <seg>Outros 21 erros foram resolvidos no WordPress 4.9.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a href="%1$s"&gt;PHP&lt;/a&gt; version %2$s or greater.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;a href="%1$s"&gt;PHP&lt;/a&gt; versão %2$s superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a href="%s"&gt;Find a Web Host&lt;/a&gt; and get great hosting while supporting WordPress at the same&amp;nbsp;time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;a href="%s"&gt;Encontrar um serviço de hospedagem&lt;/a&gt; e receber um ótimo serviço enquanto ajuda o WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a href="%s"&gt;HTTPS&lt;/a&gt; support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte &lt;a href="%s"&gt;HTTPS&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a href="%s"&gt;Read the Documentation&lt;/a&gt; and become a WordPress expert yourself, impress your friends.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;a href="%s"&gt;Ler a documentação&lt;/a&gt;, tornar-se um especialista no WordPress e impressionar seus amigos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +166,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;em&gt;Authored by&lt;/em&gt; Sara Rosso</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;em&gt;Autora:&lt;/em&gt; Sara Rosso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;em&gt;Contributions from&lt;/em&gt; Barry Abrahamson, Michael Adams, Jon Cave, Helen Hou-Sand&amp;iacute;, Dion Hulse, Mo Jangda, Paul Maiorana</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;em&gt;Contribuições de&lt;/em&gt; Barry Abrahamson, Michael Adams, Jon Cave, Helen Hou-Sand&amp;iacute;, Dion Hulse, Mo Jangda, Paul Maiorana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;em&gt;Version 1.0 March 2015&lt;/em&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;em&gt;Versão 1.0 Março de 2015&lt;/em&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;If you think you’ve found a bug&lt;/s0&gt;, you can post to the &lt;a1&gt;Alpha/Beta area&lt;/a1&gt; in the support forums.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202720Z" creationid="Sheila" creationdate="20171013T202720Z">
@@ -102,10 +214,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Note about WordPress.com and WordPress security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma observação sobre a segurança do WordPress e do WordPress.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A set of plugins to transform your WordPress into a social network</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um conjunto de plugins para transformar o seu WordPress em uma rede social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A variety of strings such as error messages have been updated for better clarity.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T121319Z" creationid="elia" creationdate="20180404T120653Z">
         <seg>Vários textos, como mensagens de erro, foram atualizados e agora são mais claros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A10 - Unvalidated Redirects and Forwards</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A10 - Redirecionamentos sem validação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A8 - Cross Site Request Forgery (CSRF)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A8 - Falsificação de solicitação entre sites (CSRF, Cross Site Request Forgery)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A9 - Using Components with Known Vulnerabilities</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A9 - Uso de componentes com vulnerabilidades conhecidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobre</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessibility</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add escaping to the language attributes used on &lt;c0&gt;html&lt;/c0&gt; elements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161314Z" creationid="elia" creationdate="20171130T161314Z">
@@ -126,10 +294,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add extra functionality to WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicione funcionalidades ao WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional Reading</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Leitura adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggregated Statistics</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estatísticas agregadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All versions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as versões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Already have an account?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Já tem uma conta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An XSS vulnerability was discovered in the Flash fallback files in MediaElement, a library that is included with WordPress.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141052Z" creationid="elia" creationdate="20180118T141052Z">
         <seg>Uma vulnerabilidade à execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting) foi descoberta nos arquivos Flash usados para retrocompatibilidade pelo MediaElement, uma biblioteca que é usada pelos arquivos básicos do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An introduction to the WordPress project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma introdução ao projeto WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apêndice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Application Framework</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estrutura para aplicações</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ask for it</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pergunte sobre isso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic Background Updates for Security Releases</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação automática em segundo plano de atualizações de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because the Flash files are no longer needed for most use cases, they have been removed from WordPress.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141131Z" creationid="elia" creationdate="20180118T141131Z">
@@ -166,10 +414,154 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beta &amp;amp; RC releases</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versões beta e RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bill of Rights</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declaração de Direitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Archives</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Built-in Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentários nativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check your email for a confirmation link.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confira seu e-mail por um endereço de confirmação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co-founder of WordPress, an example of what WordPress can do</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cofundador do WordPress, um exemplo do que o WordPress pode fazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code is Poetry.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código é Poesia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments are closed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os comentários estão desativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Community</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Complete your WordPress.org Profile information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Complete as informações do seu perfil no WordPress.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider setting up a test site just to play with the new version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202642Z" creationid="Sheila" creationdate="20171013T202606Z">
         <seg>Considere criar um site de teste só para brincar com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue reading &lt;span class="meta-nav"&gt;&amp;rarr;&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continuar lendo &lt;span class="meta-nav"&gt;&amp;rarr;&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue reading&lt;span class="screen-reader-text"&gt; "%s"&lt;/span&gt; &amp;rarr;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continuar lendo&lt;span class="screen-reader-text"&gt; "%s"&lt;/span&gt; &amp;rarr;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contribua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Core WordPress APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs dos arquivos básicos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Account</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar conta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a WordPress.org account to start contributing to WordPress, get help in the support forums, or rate and review themes and plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Crie uma conta no WordPress.org para começar a contribuir para o WordPress, obter ajuda nos fóruns ou classificar e avaliar temas e plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an account</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar uma conta</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Content Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos personalizados de conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom nonce functionality in the REST API JavaScript client has been made consistent throughout the code base.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T121328Z" creationid="elia" creationdate="20180404T120820Z">
@@ -206,10 +606,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizable&lt;br /&gt;Designs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Designs&lt;br /&gt;personalizáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decisions, not Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Decisões, não opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Democratize Publishing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Liberdade para publicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description #Description</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151625Z" creationid="Sheila" creationdate="20180201T151608Z">
         <seg>Descrição #Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design for the Majority</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Design para a maioria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developer Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos para desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discover more sites built with WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descobra mais sites construídos com WordPress</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you really want to &lt;a href="%s"&gt;log out&lt;/a&gt;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quer mesmo &lt;a href="%s"&gt;sair&lt;/a&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you speak a language other than English? &lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202712Z" creationid="Sheila" creationdate="20171013T202712Z">
         <seg>Você lê e escreve bem em inglês? &lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Domínios</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,10 +734,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Doe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donate to the WordPress Foundation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Doe para a Fundação WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download .tar.gz &amp;mdash; %s MB</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixar arquivo .tar.gz &amp;mdash; %s MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download WordPress %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixar o WordPress %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy Installation and Upgrades</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação e atualização fáceis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy Theme System</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fácil sistema de temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy and&lt;br /&gt;Accessible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fácil e&lt;br /&gt;acessível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit&lt;span class="screen-reader-text"&gt; "%s"&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar&lt;span class="screen-reader-text"&gt; "%s"&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Eleven other bugs were fixed in WordPress 4.9.1.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161613Z" creationid="elia" creationdate="20171130T161613Z">
         <seg>Outros onze erros foram resolvidos no WordPress 4.9.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +846,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Etiquette</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Etiqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Etiquette at WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Etiqueta no WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extend with Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estenda com plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast, slick forums built on WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fóruns rápidos e funcionais construídos com WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Featured</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destacado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filed under &lt;a1&gt;Development&lt;/a1&gt;, &lt;a2&gt;Releases&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
         <seg>Filed under &lt;a1&gt;Development&lt;/a1&gt;, &lt;a2&gt;Releases&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filesystem API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find a WordPress event near you</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontre um evento WordPress perto de você</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find a local WordPress community</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ache uma comunidade local do WordPress</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +942,186 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flexibility</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Flexibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow %s on Twitter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Siga %s no Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footnotes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Notas de rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For help with installing or using WordPress, consult our documentation in your language.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para obter ajuda com a instalação ou utilização do WordPress, consulte a nossa documentação (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on what’s new in 4.9, check out the &lt;a0&gt;Beta 1&lt;/a0&gt; blog post.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202654Z" creationid="Sheila" creationdate="20171013T202654Z">
         <seg>Para saber mais sobre as novidades do 4.9, confira o artigo sobre a versão &lt;a0&gt;Beta 1&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forums, documentation, and other resources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fóruns, documentação e outros recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freedom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Liberdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full Standards Compliance</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Total conformidade com os padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Further Security Risks and Concerns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Riscos e preocupações adicionais com segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GDPR Compliance Tools in WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215237Z" creationid="elia" creationdate="20180417T215237Z">
+        <seg>Ferramentas para conformidade com o GDPR no WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GDPR compliance is an important consideration for all WordPress websites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215304Z" creationid="elia" creationdate="20180417T215304Z">
+        <seg>Conformidade com o GDPR é uma coisa importante para todos os sites WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GDPR stands for &lt;a0&gt;General Data Protection Regulation&lt;/a0&gt; and is intended to strengthen and unify data protection for all individuals within the European Union.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215800Z" creationid="elia" creationdate="20180417T215800Z">
+        <seg>O GDPR (Regulamento geral de proteção de dados, do inglês &lt;a0&gt;General Data Protection Regulation&lt;/a0&gt;)  foi criado fortalecer e unificar a proteção dos dados de todos os indivíduos na União Europeia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU Public License</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Licença Pública GNU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Participe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Started with WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comece a usar o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixar o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get new password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obter nova senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give back to WordPress through code, support, translation and more</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contribua para o WordPress com código, suporte, traduções e mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics &amp;amp; Logos</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gráficos e logos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTPS support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao protocolo HTTPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hassle-free WordPress hosting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hospedagem WordPress sem problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +1134,98 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hi %s,</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Olá %s,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide welcome box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar caixa de boas-vindas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>High&lt;br /&gt;Performance</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alto&lt;br /&gt;desempenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>High&lt;br /&gt;Security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alta&lt;br /&gt;segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>História</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hosting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hospedagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hosting Requirements for WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Requisitos de hospedagem para o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s cities worldwide.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Centenas de milhares de desenvolvedores, criadores de conteúdo e donos de sites se encontram mensalmente em meetups em %s cidades pelo mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s city worldwide.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Centenas de milhares de desenvolvedores, criadores de conteúdo e donos de sites se encontram mensalmente em meetups em %s cidade pelo mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ideas</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ideias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you’re comfortable writing a reproducible bug report, &lt;a2&gt;file one on WordPress Trac&lt;/a2&gt;, where you can also find &lt;a3&gt;a list of known bugs&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202729Z" creationid="Sheila" creationdate="20171013T202729Z">
         <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a2&gt;envie para o Trac do WordPress&lt;/a2&gt;, onde também é possível encontrar uma &lt;a3&gt;lista de erros conhecidos&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,10 +1246,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interests</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Interesses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues relating to the caching of theme template files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161702Z" creationid="elia" creationdate="20171130T161702Z">
         <seg>Problemas relacionados ao cache de arquivos de templates nos temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It&amp;rsquo;s Easy&amp;nbsp;As&amp;hellip;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tão simples quanto&amp;hellip;</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +1278,122 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jazzers and Release Dates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jazzistas e datas de lançamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest release</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão mais recente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aprenda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn about WordPress, where it&amp;#8217;s been, and where it&amp;#8217;s going.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aprenda sobre o WordPress: de onde ele veio e para onde ele vai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn about the community and how we get along.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aprenda sobre a comunidade e sobre como nos damos bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn about the people</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aprenda sobre as pessoas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn about the software</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aprenda sobre o programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave a comment&lt;span class="screen-reader-text"&gt; on %s&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deixe um comentário&lt;span class="screen-reader-text"&gt; em %s&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lessons in this module include:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133207Z" creationid="Sheila" creationdate="20180201T133207Z">
         <seg>As aulas neste módulo incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>License / GPLv2</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Licença / GPLv2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like %s on Facebook</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Curta %s no Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log in to your WordPress.org account to contribute to WordPress, get help in the support forum, or rate and review themes and plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acesse sua conta no WordPress.org para contribuir para o WordPress, obter ajuda nos fóruns ou classificar e avaliar temas e plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Logos and Graphics</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logos e gráficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lost password?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esqueceu sua senha?</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,10 +1406,154 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make your WordPress pretty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faça seu WordPress ficar lindo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage&lt;br /&gt;on the Go</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerencie&lt;br /&gt;de qualquer lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Media Management</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciamento de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MediaElement has released a new version that contains a fix for the bug, and &lt;a0&gt;a WordPress plugin containing the fixed files&lt;/a0&gt; is available in the plugin repository.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141248Z" creationid="elia" creationdate="20180118T141248Z">
         <seg>Foi lançada uma nova versão da biblioteca MediaElement que corrige o erro e &lt;a0&gt;um plugin WordPress contendo os arquivos corrigidos&lt;/a0&gt; está disponível no repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meet WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conheça o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multilingual</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Multi-idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Musician</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Músico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MySQL Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão do MySQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>News From Our Blog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novidades de nosso blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>News and Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novidades e atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next post:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo post:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nginx or Apache with mod_rewrite module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nginx ou Apache com o módulo mod_rewrite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No musician chosen.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum músico escolhido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not required, but recommended for better security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não obrigatório, mas recomendado por questão de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing Found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occupation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocupação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Official WordPress Logo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo oficial do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One thought on &amp;ldquo;%1$s&amp;rdquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um comentário em &amp;ldquo;%1$s&amp;rdquo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +1566,186 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Our Bill of Rights</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nossa Declaração de Direitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our Mission</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nossa missão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our Story</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nossa história</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out of the Box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pronto para usar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over 60 million people have chosen WordPress to power the place on the web they call &amp;ldquo;home&amp;rdquo; &amp;mdash; join the family.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais de 60 milhões de pessoas escolheram o WordPress para construir seus sites e blogs. Junte-se à família.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Own Your Data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seja dono dos seus dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF &lt;span&gt;(Vector)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>PDF &lt;span&gt;(vetor)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PHP %s or greater</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>PHP %s ou superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PHP Versions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versões do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PNG &lt;span&gt;(White/transparent)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>PNG &lt;span&gt;(branco/transparente)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pages:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Páginas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Particularly of note were:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161632Z" creationid="elia" creationdate="20171130T161632Z">
         <seg>Os mais importantes foram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password Lost and Found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Achados e perdidos de senhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pending Review: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avaliação pendente: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permissions and current user API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permissões e API de usuário atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Planned</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Planejado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check your email %s for a confirmation link to set your password.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confira o e-mail %s para acessar o endereço de confirmação e configure sua senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enable JavaScript to view this page properly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ative o JavaScript para ver esta página de forma apropriada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tente novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin System</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistema de plugins</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,10 +1758,170 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Posted on</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Publicado em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Posted on %1$s by %2$s.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Publicado em %1$s por %2$s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powerful Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos poderosos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powerful&lt;br /&gt;Media Management</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciamento de mídias&lt;br /&gt;poderoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous post:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Post anterior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menu primário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Privacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Política de privacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy Policy Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterações na política de privacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Profile of %1$s (%2$s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Perfil de %1$s (%2$s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publish with Ease</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Publique com facilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publishing Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas para publicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recommended web hosting providers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviços de hospedagens recomendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove the ability to upload JavaScript files for users who do not have the &lt;c0&gt;unfiltered_html&lt;/c0&gt; capability.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161453Z" creationid="elia" creationdate="20171130T161453Z">
         <seg>Remoção da habilidade de subir arquivos JavaScript para usuários que não tenham a capacidade &lt;c0&gt;unfiltered_html&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources for WordPress developers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos para desenvolvedores WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Responsive&lt;br /&gt;Mobile Sites</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sites&lt;br /&gt;responsivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Roadmap</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plano de ação</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +1934,118 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SEO&lt;br /&gt;Friendly</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pronto para&lt;br /&gt;SEO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SSRF (Server Side Request Forgery) Attacks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ataques por Falsificação de requisições feitas pelo lado do servidor (SSRF, Server Side Request Forgery)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Profile Information</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar informações do perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search &amp;hellip;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar &amp;hellip;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Engine Optimized</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Otimizado para mecanismos de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Results for: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados de pesquisa para: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the language:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o idioma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set your password and complete your WordPress.org Profile information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determine sua senha e complete as informações do seu perfil no WordPress.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share your WordPress story</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compartilhe a sua história com o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share your ideas for improving WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compartilhe suas ideias para melhorar o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show welcome box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar caixa de boas-vindas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplicity</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Simplicidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since then, we’ve made &lt;a1&gt;70 changes&lt;/a1&gt; in Beta 2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
@@ -414,10 +2054,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip to content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pular para o conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So show the love and spread the word &amp;mdash; get your &lt;a href="%s"&gt;WordPress swag&lt;/a&gt; today.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Então mostre o seu amor e espalhe a palavra! Obtenha o seu &lt;a href="%s"&gt;produto WordPress&lt;/a&gt; hoje mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of the best WordPress sites on the Web</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns dos melhores sites em WordPress na internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Speaker Training [and Diversity Speaker Outreach]</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133154Z" creationid="Sheila" creationdate="20180118T175422Z">
         <seg>Treinamento de palestrantes [e promoção da diversidade de palestrantes]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strength indicator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Indicador de força</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Striving for Simplicity</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lutando pela simplicidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Submit for review</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviar para avaliação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscribe to WordPress Announcements mailing list (a few messages a year)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assinar a lista de e-mail dos anúncios do WordPress (poucas mensagens por ano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscribe to this blog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assine este blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Produtos</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +2170,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111409Z" creationid="Sheila" creationdate="20171208T111409Z">
         <seg>Termos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testimonials</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depoimentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +2230,62 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obrigado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That email address already has an account.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este endereço de e-mail já tem uma conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That username is already in use.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este nome de usuário não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 1st Freedom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A 1ª liberdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 2nd Freedom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A 2ª liberdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 3rd Freedom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A 3ª liberdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 4th Freedom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A 4ª liberdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Codex has &lt;a0&gt;more information about all of the issues fixed in 4.9.2&lt;/a0&gt;, if you'd like to learn more.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141822Z" creationid="elia" creationdate="20180118T141822Z">
@@ -494,10 +2294,130 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Community</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Database API%s, added in WordPress 0.71, provides the correct method for accessing data as named values which are stored in the database layer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A API de banco de dados%s, adicionada no WordPress 0.71, fornece o método correto para acessar, de forma estruturada, os dados que estão armazenados na camada de banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Default Theme</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tema padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GDPR Compliance team is looking for help to test the privacy tools that are currently being developed in core.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215349Z" creationid="elia" creationdate="20180417T215349Z">
+        <seg>A Equipe de conformidade com o GDPR está tentando ajudar a testar as ferramentas de privacidade que estão sendo desenvolvidas nos arquivos básicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU Public License</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A licença pública GNU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The History of WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A história do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As bibliotecas mais recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The People</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As pessoas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Role of the Hosting Provider in WordPress Security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A função do serviço de hospedagem na segurança do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Technology</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Theme Review Team</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Equipe de avaliação de temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The freedom to redistribute.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A liberdade de redistribuir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The freedom to run the program, for any purpose.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A liberdade para executar o programa, para qualquer propósito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The inability to edit theme and plugin files on Windows based servers.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
         <seg>A impossibilidade de editar arquivos de temas e plugins em servidores Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions and current user API%s is a set of functions which will help verify the current user's permissions and authority to perform any task or operation being requested, and can protect further against unauthorized users accessing or performing functions beyond their permitted capabilities.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As permissões e a API de usuário atual%s são um conjunto de funções que ajudam a verificar as permissões do usuário atual e a autoridade para executar qualquer tarefa ou operação solicitada, e pode fornecer proteção adicional para acessos de usuários sem permissão ou que estejam executando funções além das permitidas pelas suas capacidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +2446,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The proceeds from these sales help offset the cost of providing free swag (buttons, stickers, etc.) to WordCamps and WordPress meetups around the world.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os lucros destas vendas ajudam a compensar o custo dos brindes (broches, adesivos etc.) distribuídos nos WordCamps e meetups de WordPress por todo o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme System</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistema de temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Themes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no releases, yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ainda não há versões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155628Z" creationid="elia" creationdate="20171130T155628Z">
@@ -538,6 +2490,46 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T140849Z" creationid="elia" creationdate="20180118T140849Z">
         <seg>Essa é uma &lt;s0&gt;atualização de segurança e manutenção&lt;/s0&gt; para todas as versões a partir do WordPress 3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To distribute copies of your modified versions to others.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Distribuir cópias de suas versões modificadas a outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To redistribute.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redistribuir cópias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run WordPress we recommend your host supports:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para executar o WordPress, recomendamos que o seu host suporte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run the program for any purpose.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar o programa para qualquer propósito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To study how the program works and change it to make it do what you wish.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estudar como o programa funciona e adaptá-lo às suas necessidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +2574,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trusted by the Best</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confiado pelos melhores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try searching from the field above, or go to the &lt;a href="%s"&gt;home page&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tente procurar a partir do campo acima ou vá para a &lt;a href="%s"&gt;página inicial&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tweet %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tweetar %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twenty-five other bugs were fixed in WordPress 4.9.5.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120353Z" creationid="elia" creationdate="20180404T120353Z">
@@ -606,10 +2622,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Management</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciamento de usuários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or Email</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário ou e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Videos, tutorials, and WordCamp sessions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vídeos, tutoriais e sessões de WordCamps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Want to have your story featured on this page?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quer que a sua história apareça em destaque nesta página?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We strongly encourage you to update your sites immediately.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155704Z" creationid="elia" creationdate="20171130T155704Z">
         <seg>Encorajamos que você atualize seus sites imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website Visitors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visitantes do site</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +2702,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is GDPR?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215406Z" creationid="elia" creationdate="20180417T215406Z">
+        <seg>O que é o GDPR?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is Internationalization?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111401Z" creationid="Sheila" creationdate="20171208T111401Z">
         <seg>O que é internationalização?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a security update is pushed for the current stable release of WordPress, the core team will also push security updates for all the releases that are capable of background updates (since WordPress 3.7), so these older but still recent versions of WordPress will receive security enhancements.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando uma atualização de segurança é enviada para a versão atual do WordPress, a equipe dos arquivos básicos do WordPress também enviará atualizações de segurança para todas as versões que são capazes de realizar atualizações em segundo plano (desde o WordPress 3.7), de forma que estas versões mais antigas do WordPress também receberão melhorias de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While each WordPress API provides best practices and standardized ways to interact with and extend WordPress core software, the following WordPress APIs are the most pertinent to enforcing and hardening WordPress security:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enquanto cada API do WordPress fornece melhores práticas e formas padronizadas de estender e interagir com os arquivos básicos do WordPress, as seguintes APIs são as mais importantes para reforçar a segurança do WordPress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>White paper content License</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Licença de conteúdo do informativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,6 +2807,190 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress Accessibility</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acessibilidade do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Developer Resources %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos para desenvolvedores WordPress %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Development Roadmap</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Roteiro de desenvolvimento WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Domains</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Domínios do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotype</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotype - Alternative</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo WordPress - Alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotype - Standard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo WordPress - Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotype - W Mark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo WordPress - Marca W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotype - Word Mark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo WordPress - Marca Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotypes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logotipos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Logotypes - All Versions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo WordPress - Todas as versões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress News %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Blog WordPress %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Plugin and Theme Security</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segurança de temas e plugins do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Privacy Policy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Política de privacidade do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Security releases %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizações de segurança do WordPress %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Swag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Produtos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Testimonials</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depoimentos sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress download button.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de download do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress is Secure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O WordPress é seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress is open source software</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O WordPress é um programa de código aberto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress is open source software you can use to create a beautiful website, blog, or app.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O WordPress é um projeto de código aberto que você pode usar para criar sites, blogs ou aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress versions 4.9 and earlier are affected by four security issues which could potentially be exploited as part of a multi-vector attack.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162913Z" creationid="elia" creationdate="20171130T160801Z">
@@ -711,10 +3007,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress&amp;nbsp;Swag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Produtos&amp;nbsp;do&amp;nbsp;WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress&amp;nbsp;Users</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sites&amp;nbsp;feitos&amp;nbsp;com&amp;nbsp;WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress&amp;rsquo; Philosophy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Filosofia do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress.org Login</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acesso WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress.org Privacy Policy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Política de privacidade do WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress.org Theme and Plugin Repositories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Repositórios de temas e plugins do WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Workshops and training materials</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Oficinas e materiais de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing the Pitch for your WordPress Talk</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135445Z" creationid="Sheila" creationdate="20180201T135445Z">
         <seg>Como escrever o resumo para a sua apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XXE (XML eXternal Entity) processing attacks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ataques no processamento de Entidades externas de XML (XXE, XML eXternal Entity)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are attempting to log out of WordPress.org.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você está tentando sair do WordPress.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are now logged out.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Agora você está desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a password at the following URL:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode criar uma nova senha no seguinte endereço:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your username is: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu nome de usuário é: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -731,6 +3123,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151721Z" creationid="Sheila" creationdate="20180201T151721Z">
         <seg>[Se estiver apresentando a um grupo específico, por exemplo, a pessoas que se identificam como mulheres, há seções opcionais para adicionar indicadas entre [colchetes].]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[WordPress.org] Your new account</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[WordPress.org] Sua nova conta</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,5 +3326,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">meta-wordpress-org-pt-br.po</prop>
+      <prop type="path">label</prop>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
