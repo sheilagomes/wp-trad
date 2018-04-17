@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a dedicated page for the policy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221300Z" creationid="elia" creationdate="20180417T221300Z">
+        <seg>Adicionando uma página exclusiva para a política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding privacy information from plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221339Z" creationid="elia" creationdate="20180417T221339Z">
+        <seg>Adicionando informações de privacidade de plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional Reading</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2134,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Site owners will be able to create GDPR compliant privacy policy in three steps:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221241Z" creationid="elia" creationdate="20180417T221241Z">
+        <seg>Proprietários de sites poderão criar uma política de privacidade compatível com o GDPR em três etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip to content</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2322,6 +2346,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Este endereço de e-mail já tem uma conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That said, The GDPR puts tighter guidelines and restrictions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221057Z" creationid="elia" creationdate="20180417T221057Z">
+        <seg>Isso posto, o GDPR requer diretrizes mais firmes e mais restrições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Though we have many plugins that create privacy pages, we need means to generate a unified, comprehensive privacy policy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221138Z" creationid="elia" creationdate="20180417T221138Z">
+        <seg>Apesar de termos muitos plugins que criem páginas de privacidade, nós precisamos de formas para gerar uma política de privacidade unificada e abrangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To distribute copies of your modified versions to others.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2770,6 +2810,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155704Z" creationid="elia" creationdate="20171130T155704Z">
         <seg>Encorajamos que você atualize seus sites imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will need tools for users to easily come into compliance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221208Z" creationid="elia" creationdate="20180417T221208Z">
+        <seg>Os usuários precisarão de ferramentas para alcançar a conformidade com facilidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,6 +3227,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Ataques no processamento de Entidades externas de XML (XXE, XML eXternal Entity)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes and no.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221017Z" creationid="elia" creationdate="20180417T221017Z">
+        <seg>Sim e não.</seg>
       </tuv>
     </tu>
     <tu>
