@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new “postbox” will be added to the Edit Page screen when editing the policy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221545Z" creationid="elia" creationdate="20180417T221545Z">
+        <seg>Ao editar a política, uma nova área será incluída na tela da página de edição..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A set of plugins to transform your WordPress into a social network</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
         <seg>Tudo isso requer a sua ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All plugins that collect or store user data will be able to add privacy information there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221627Z" creationid="elia" creationdate="20180417T221627Z">
+        <seg>Lá todos os plugins que coletam ou armazenam dados dos usuários poderão adicionar informações sobre privacidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2026,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Sites&lt;br /&gt;responsivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviewing and publishing the policy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221348Z" creationid="elia" creationdate="20180417T221348Z">
+        <seg>Revisando e publicando a política.</seg>
       </tuv>
     </tu>
     <tu>
