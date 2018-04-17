@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add functionality to assist site owners in creating comprehensive privacy policies for their websites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220734Z" creationid="elia" creationdate="20180417T220734Z">
+        <seg>Adicionar funcionalidades para ajudar os proprietários de sites na criação de políticas de privacidade para seus próprios sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional Reading</seg>
       </tuv>
       <tuv lang="PT-BR">
