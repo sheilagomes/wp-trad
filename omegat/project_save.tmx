@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of this requires your help.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
+        <seg>Tudo isso requer a sua ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All versions</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2358,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GDPR Compliance Team is focusing on four main areas:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220445Z" creationid="elia" creationdate="20180417T220445Z">
+        <seg>O foco da Equipe de conformidade com o GDPR está dividido em quatro áreas principais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GDPR Compliance team is looking for help to test the privacy tools that are currently being developed in core.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T215349Z" creationid="elia" creationdate="20180417T215349Z">
@@ -2482,6 +2498,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Os lucros destas vendas ajudam a compensar o custo dos brindes (broches, adesivos etc.) distribuídos nos WordCamps e meetups de WordPress por todo o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The team is focusing on creating a comprehensive core policy, plugin guidelines, privacy tools and documentation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220340Z" creationid="elia" creationdate="20180417T220340Z">
+        <seg>A Equipe está se concentrando na criação de uma política compreensível para os arquivos do próprio WordPress, diretrizes para os plugins, ferramentas de privacidade e documentação.</seg>
       </tuv>
     </tu>
     <tu>
