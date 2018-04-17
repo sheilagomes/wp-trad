@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition it will alert the site owners when any privacy information changes after a plugin is activated, deactivated, or updated.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221734Z" creationid="elia" creationdate="20180417T221734Z">
+        <seg>Além disso, haverá um alerta aos proprietários de sites quando qualquer informação de privacidade for alterada depois que um plugin for ativado, desativado ou atualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interests</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161702Z" creationid="elia" creationdate="20171130T161702Z">
         <seg>Problemas relacionados ao cache de arquivos de templates nos temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is intended for site owners to be able to verify requests from users for displaying, downloading, or anonymizing of personal data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221950Z" creationid="elia" creationdate="20180417T221950Z">
+        <seg>Com ela, os proprietários de sites poderão verificar solicitações dos usuários para exibir, baixar ou tornar dados pessoais anônimos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2642,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Ainda não há versões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a new functionality to confirm user requests by email address.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221859Z" creationid="elia" creationdate="20180417T221859Z">
+        <seg>Há uma nova funcionalidade para confirmar solicitações de usuários através do endereço de e-mail.</seg>
       </tuv>
     </tu>
     <tu>
