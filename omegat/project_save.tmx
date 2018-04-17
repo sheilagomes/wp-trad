@@ -286,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add administration tools to facilitate compliance and encourage user privacy in general.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220855Z" creationid="elia" creationdate="20180417T220855Z">
+        <seg>Incluir ferramentas de administração que facilitem a conformidade e encoragem a privacidade dos usuários em geral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add documentation to educate site owners on privacy, the main GDPR compliance requirements, and on how to use the new privacy tools.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221004Z" creationid="elia" creationdate="20180417T221004Z">
+        <seg>Gerar documentação para educar os proprietários de sites sobre privacidade, os principais requisitos de conformidade com o GDPR e como usar as novas ferramentas de privacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add escaping to the language attributes used on &lt;c0&gt;html&lt;/c0&gt; elements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161314Z" creationid="elia" creationdate="20171130T161314Z">
@@ -590,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create guidelines for plugins to become GDPR ready.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220752Z" creationid="elia" creationdate="20180417T220752Z">
+        <seg>Criar diretrizes para que os plugins se tornem compatíveis com o GDPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating Great Slides</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135623Z" creationid="Sheila" creationdate="20180201T135623Z">
@@ -778,6 +802,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Doe para a Fundação WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t we already have a privacy policy?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221013Z" creationid="elia" creationdate="20180417T221013Z">
+        <seg>Nós já não temos uma política de privacidade?</seg>
       </tuv>
     </tu>
     <tu>
