@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can you get involved?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222544Z" creationid="elia" creationdate="20180417T222522Z">
+        <seg>Como posso participar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s cities worldwide.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222307Z" creationid="elia" creationdate="20180417T222307Z">
         <seg>Ela também terá ferramentas para exportar e para tornar anônimos dados pessoais e também para solicitar confirmação por e-mail para evitar tentativas abusivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will contain some general information on user privacy, what a plugin should do to be compliant, and also tips and examples on how to use the new privacy related functionality in WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222448Z" creationid="elia" creationdate="20180417T222448Z">
+        <seg>Ela conterá informações gerais sobre privacidade dos usuários, o que um plugin deve fazer para se tornar compatível e também terá dicas e exemplos sobre como usar as novas funcionalidades do WordPress relacionadas à privacidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Versão do MySQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New section on privacy will be added to the &lt;a0&gt;Plugin Handbook&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222346Z" creationid="elia" creationdate="20180417T222346Z">
+        <seg>Nova seção sobre privacidade será incluída no &lt;a0&gt;manual dos plugins&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first step is awareness and education.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222600Z" creationid="elia" creationdate="20180417T222600Z">
+        <seg>O primeiro passo é conscientização e educação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The freedom to redistribute.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2594,6 +2626,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
         <seg>A impossibilidade de editar arquivos de temas e plugins em servidores Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new privacy tools are scheduled for release at the end of April or beginning of May 2018.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222518Z" creationid="elia" creationdate="20180417T222518Z">
+        <seg>O lançamento das novas políticas de privacidade está agendado para o final de abril ou começo de maio de 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,6 +2930,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221208Z" creationid="elia" creationdate="20180417T221208Z">
         <seg>Os usuários precisarão de ferramentas para alcançar a conformidade com facilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We would love to have your help.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222540Z" creationid="elia" creationdate="20180417T222540Z">
+        <seg>Adoraríamos contar com a sua ajudar.</seg>
       </tuv>
     </tu>
     <tu>
