@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new “Privacy” page is added under the “Tools” menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222007Z" creationid="elia" creationdate="20180417T222007Z">
+        <seg>Uma nova página "Privacidade" foi adicionada no menu "Ferramentas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new “postbox” will be added to the Edit Page screen when editing the policy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221545Z" creationid="elia" creationdate="20180417T221545Z">
@@ -1370,6 +1378,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221950Z" creationid="elia" creationdate="20180417T221950Z">
         <seg>Com ela, os proprietários de sites poderão verificar solicitações dos usuários para exibir, baixar ou tornar dados pessoais anônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will also contain the tools for exporting and anonymizing of personal data and for requesting email confirmation to avoid abuse attempts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222307Z" creationid="elia" creationdate="20180417T222307Z">
+        <seg>Ela também terá ferramentas para exportar e para tornar anônimos dados pessoais e também para solicitar confirmação por e-mail para evitar tentativas abusivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will display new, confirmed requests from users, as well as already fulfilled requests.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222221Z" creationid="elia" creationdate="20180417T222221Z">
+        <seg>Ela exibirá tanto as novas solicitações dos usuários quanto as confirmadas e as já realizadas.</seg>
       </tuv>
     </tu>
     <tu>
