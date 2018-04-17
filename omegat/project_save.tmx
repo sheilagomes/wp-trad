@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the GDPR was introduced two years ago, it becomes enforceable starting May 25, 2018.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215918Z" creationid="elia" creationdate="20180417T215918Z">
+        <seg>Apesar do GDPR ter sido criado há dois anos, sua aplicação se tornará obrigatória a partir de 25 de maio de 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An XSS vulnerability was discovered in the Flash fallback files in MediaElement, a library that is included with WordPress.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141052Z" creationid="elia" creationdate="20180118T141052Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120529Z" creationid="elia" creationdate="20180404T120529Z">
         <seg>Agora é possível recortar imagens em dispositivos com telas sensíveis ao toque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently, the GDPR Compliance Team understands that helping WordPress-based sites become compliant is a large and ongoing task.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T220107Z" creationid="elia" creationdate="20180417T220107Z">
+        <seg>Atualmente, a Equipe de conformidade com o GPDR entende que ajudar sites criados em WordPress a se tornarem compatíveis com o regulamento é uma tarefa árdua e contínua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its primary aim is to give control back to the EU residents over their personal data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215838Z" creationid="elia" creationdate="20180417T215838Z">
+        <seg>Seu objetivo principal é devolver para os residentes na UE o controle sobre seus dados pessoais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JavaScript errors that prevented saving posts in Firefox have been fixed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141511Z" creationid="elia" creationdate="20180118T141511Z">
@@ -1394,6 +1418,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Esqueceu sua senha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make WordPress GDPR Compliance Team</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215956Z" creationid="elia" creationdate="20180417T215956Z">
+        <seg>A Equipe WordPress de conformidade com o GDPR</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,6 +2770,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Licença de conteúdo do informativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why the urgency?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215843Z" creationid="elia" creationdate="20180417T215843Z">
+        <seg>Por que a urgência?</seg>
       </tuv>
     </tu>
     <tu>
