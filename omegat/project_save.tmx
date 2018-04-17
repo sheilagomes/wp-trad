@@ -1152,8 +1152,8 @@
       <tuv lang="EN">
         <seg>GDPR stands for &lt;a0&gt;General Data Protection Regulation&lt;/a0&gt; and is intended to strengthen and unify data protection for all individuals within the European Union.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215800Z" creationid="elia" creationdate="20180417T215800Z">
-        <seg>O GDPR (Regulamento geral de proteção de dados, do inglês &lt;a0&gt;General Data Protection Regulation&lt;/a0&gt;)  foi criado fortalecer e unificar a proteção dos dados de todos os indivíduos na União Europeia.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T223156Z" creationid="elia" creationdate="20180417T215800Z">
+        <seg>O GDPR (Regulamento geral de proteção de dados, do inglês &lt;a0&gt;General Data Protection Regulation&lt;/a0&gt;)  foi criado para fortalecer e unificar a proteção dos dados de todos os indivíduos na União Europeia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,8 +2552,8 @@
       <tuv lang="EN">
         <seg>The GDPR Compliance team is looking for help to test the privacy tools that are currently being developed in core.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T215349Z" creationid="elia" creationdate="20180417T215349Z">
-        <seg>A Equipe de conformidade com o GDPR está tentando ajudar a testar as ferramentas de privacidade que estão sendo desenvolvidas nos arquivos básicos.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T223058Z" creationid="elia" creationdate="20180417T215349Z">
+        <seg>A Equipe de conformidade com o GDPR está ajudando no teste das ferramentas de privacidade que estão sendo desenvolvidas para o WordPress.</seg>
       </tuv>
     </tu>
     <tu>
