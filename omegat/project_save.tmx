@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>A new “postbox” will be added to the Edit Page screen when editing the policy.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221545Z" creationid="elia" creationdate="20180417T221545Z">
-        <seg>Ao editar a política, uma nova área será incluída na tela da página de edição..</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T223945Z" creationid="elia" creationdate="20180417T221545Z">
+        <seg>Ao editar a política, uma nova área será incluída na tela da página de edição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="EN">
         <seg>In addition it will alert the site owners when any privacy information changes after a plugin is activated, deactivated, or updated.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221734Z" creationid="elia" creationdate="20180417T221734Z">
-        <seg>Além disso, haverá um alerta aos proprietários de sites quando qualquer informação de privacidade for alterada depois que um plugin for ativado, desativado ou atualizado.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T224031Z" creationid="elia" creationdate="20180417T221734Z">
+        <seg>Além disso, haverá um alerta para os proprietários de sites quando qualquer informação sobre privacidade for alterada depois que um plugin for ativado, desativado ou atualizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="EN">
         <seg>It is intended for site owners to be able to verify requests from users for displaying, downloading, or anonymizing of personal data.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221950Z" creationid="elia" creationdate="20180417T221950Z">
-        <seg>Com ela, os proprietários de sites poderão verificar solicitações dos usuários para exibir, baixar ou tornar dados pessoais anônimos.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T224252Z" creationid="elia" creationdate="20180417T221950Z">
+        <seg>Com ela, os proprietários de sites poderão verificar solicitações dos usuários sobre exibição, download ou sobre tornar seus dados pessoais anônimos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,8 +2456,8 @@
       <tuv lang="EN">
         <seg>That said, The GDPR puts tighter guidelines and restrictions.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T221057Z" creationid="elia" creationdate="20180417T221057Z">
-        <seg>Isso posto, o GDPR requer diretrizes mais firmes e mais restrições.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T223939Z" creationid="elia" creationdate="20180417T221057Z">
+        <seg>O que acontece é que o GDPR requer diretrizes mais firmes e mais restrições.</seg>
       </tuv>
     </tu>
     <tu>
