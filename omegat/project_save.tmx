@@ -1080,8 +1080,8 @@
       <tuv lang="EN">
         <seg>For more information about the upcoming privacy tools see ﻿&lt;a0&gt;the roadmap&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222627Z" creationid="elia" creationdate="20180417T222627Z">
-        <seg>Para mais informações sobre as novas ferramentas de privacidade, veja &lt;a0&gt;o plano de ação&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T224432Z" creationid="elia" creationdate="20180417T222627Z">
+        <seg>Para mais informações sobre as novas ferramentas de privacidade, consulte &lt;a0&gt;o plano de ação&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,8 +1336,8 @@
       <tuv lang="EN">
         <seg>If you would like to get involved in building WordPress Core and testing the new privacy tools, please join the #gdpr-compliance channel in the &lt;a0&gt;Make WordPress&lt;/a0&gt; Slack group.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180417T222834Z" creationid="elia" creationdate="20180417T222834Z">
-        <seg>Se você quer participar do desenvolvimento necessários para os arquivos básicos do WordPress e no teste das novas ferramentas de privacidade, entre para o canal #gdpr-compliance no &lt;a0&gt;slack internacional do WordPress&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180417T224444Z" creationid="elia" creationdate="20180417T222834Z">
+        <seg>Se você quer participar do desenvolvimento necessário para os arquivos básicos do WordPress e no teste das novas ferramentas de privacidade, entre para o canal #gdpr-compliance no &lt;a0&gt;slack internacional do WordPress&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
