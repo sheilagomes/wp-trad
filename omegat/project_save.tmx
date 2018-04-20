@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the &lt;a0&gt;WordPress 15th Anniversary website&lt;/a0&gt; to see if there’s a party already planned for your town.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215817Z" creationid="elia" creationdate="20180420T215817Z">
+        <seg>Acesse o &lt;a0&gt;site do 15º aniversário do WordPress&lt;/a0&gt;para ver se já existe uma festa sendo planejada na sua cidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check your email for a confirmation link.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1350,6 +1358,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there is, RSVP for the party and invite your friends!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215834Z" creationid="elia" creationdate="20180420T215834Z">
+        <seg>Se já existe, confirme sua presença e convide seus amigos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there isn’t, then pick a place to go where a bunch of people can be merry — a park, a pub, a backyard; any family-friendly venue will do!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220015Z" creationid="elia" creationdate="20180420T220015Z">
+        <seg>Se ainda não existe, escolha um lugar onde as pessoas possam se encontrar como um parque, um restaurante ou um jardim. Qualquer ambiente familiar vai servir!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you would like to get involved in building WordPress Core and testing the new privacy tools, please join the #gdpr-compliance channel in the &lt;a0&gt;Make WordPress&lt;/a0&gt; Slack group.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224444Z" creationid="elia" creationdate="20180417T222834Z">
@@ -1562,6 +1586,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Curta %s no Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List your party with &lt;a0&gt;your local WordPress meetup group&lt;/a0&gt; (Don’t have a group?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220126Z" creationid="elia" creationdate="20180420T220126Z">
+        <seg>Divulgue sua festa através &lt;a0&gt;do seu grupo local de meetups WordPress&lt;/a0&gt; (Ainda não existe um grupo?</seg>
       </tuv>
     </tu>
     <tu>
