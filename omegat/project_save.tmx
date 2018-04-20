@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Request&lt;/a0&gt; some special 15th anniversary WordPress swag (no later than April 27, please, so we have time to ship it to you).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220358Z" creationid="elia" creationdate="20180420T220358Z">
+        <seg>&lt;a0&gt;Solicite&lt;/a0&gt; alguns brindes especiais do 15º aniversário do WordPress (só até o dia 27 de abril, por favor, para que haja tempo para o envio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T163016Z" creationid="elia" creationdate="20171130T161900Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120856Z" creationid="elia" creationdate="20180404T120856Z">
         <seg>&lt;a0&gt;Para saber mais, acesse este post com mais informações sobre todos os problemas ajustados na versão 4.9.5&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Start one!&lt;/a1&gt;) and then spread the word to other local meetups, tech groups, press, etc and get people to say they’ll come to your party.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220253Z" creationid="elia" creationdate="20180420T220253Z">
+        <seg>&lt;a1&gt;Crie um!&lt;/a1&gt;) e então espalhe a notícia para outros meetups locais, grupos de tecnologia, imprensa, etc. e peça para que as pessoas comentem que elas irão na sua festa.</seg>
       </tuv>
     </tu>
     <tu>
