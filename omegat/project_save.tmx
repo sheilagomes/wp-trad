@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Celebrate the WordPress 15th Anniversary on May 27</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215501Z" creationid="elia" creationdate="20180420T215501Z">
+        <seg>Celebre o 15º aniversário do WordPress no dia 27 de maio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check your email for a confirmation link.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1246,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here’s how you can join in the fun:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215734Z" creationid="elia" creationdate="20180420T215734Z">
+        <seg>Aqui está como você pode participar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hi %s,</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1462,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Join WordPress fans all over the world in celebrating the 15th Anniversary of WordPress by throwing your own party!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215708Z" creationid="elia" creationdate="20180420T215708Z">
+        <seg>Junte-se aos fãs do WordPress por todo o mundo na comemoração dos quize anos do WordPress criando a sua própria festa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest release</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1602,6 +1626,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Gerencie&lt;br /&gt;de qualquer lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May 27, 2018 is the &lt;s0&gt;15th anniversary&lt;/s0&gt; of the &lt;a1&gt;first WordPress release&lt;/a1&gt; &lt;a2&gt;﻿&lt;/a2&gt;— and we can’t wait to celebrate!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215620Z" creationid="elia" creationdate="20180420T215620Z">
+        <seg>Dia 27 de maio é o &lt;s0&gt;15º aniversário&lt;/s0&gt; do lançamento da &lt;a1&gt;primeira versão do WordPress&lt;/a1&gt; &lt;a2&gt;﻿&lt;/a2&gt;e nós estamos ansiosos para celebrar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1890,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161632Z" creationid="elia" creationdate="20171130T161632Z">
         <seg>Os mais importantes foram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Party time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T215626Z" creationid="elia" creationdate="20180420T215626Z">
+        <seg>É hora da festa!</seg>
       </tuv>
     </tu>
     <tu>
