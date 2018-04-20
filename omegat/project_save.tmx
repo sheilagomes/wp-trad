@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don’t miss this chance to participate in a global celebration of WordPress!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220620Z" creationid="elia" creationdate="20180420T220620Z">
+        <seg>Não perca esta chance de participar de uma celebração global do WordPress!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don’t we already have a privacy policy?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221013Z" creationid="elia" creationdate="20180417T221013Z">
@@ -1270,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have party attendees post photos, videos, and the like with the #WP15 hashtag, and &lt;a0&gt;check out the social media stream&lt;/a0&gt; to see how the rest of the world is sharing and celebrating.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220606Z" creationid="elia" creationdate="20180420T220606Z">
+        <seg>Peça que as pessoas publiquem fotos e vídeos com a hashtag #WP15 e &lt;a0&gt;confira como estamos nas redes sociais&lt;/a0&gt; para ver como o resto do mundo está compartilhando e celebrando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Have you taken the WordPress 2017 Survey yet?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171130T171733Z" creationid="Sheila" creationdate="20171130T171733Z">
@@ -1434,6 +1450,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224031Z" creationid="elia" creationdate="20180417T221734Z">
         <seg>Além disso, haverá um alerta para os proprietários de sites quando qualquer informação sobre privacidade for alterada depois que um plugin for ativado, desativado ou atualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In honor of the 15th anniversary, we’ve added some &lt;a0&gt;special 15th anniversary items&lt;/a0&gt; in the swag store — you can use the offer code &lt;s1&gt;CELEBRATEWP15&lt;/s1&gt; to take 15% off this (and any other WordPress swag you buy), all the way through the end of 2018!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221003Z" creationid="elia" creationdate="20180420T221003Z">
+        <seg>Para celebrar, adicionamos alguns &lt;a0&gt;itens especiais para o aniversário de 15 anos&lt;/a0&gt; na loja. Até o final de 2017, você pode usar o código promocional &lt;s1&gt;CELEBRATEWP15&lt;/s1&gt; para ter 15% de desconto em todos os produtos da loja!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2402,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T133154Z" creationid="Sheila" creationdate="20180118T175422Z">
         <seg>Treinamento de palestrantes [e promoção da diversidade de palestrantes]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special Swag</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220625Z" creationid="elia" creationdate="20180420T220625Z">
+        <seg>Produtos especiais</seg>
       </tuv>
     </tu>
     <tu>
