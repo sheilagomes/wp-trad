@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However you celebrate the WordPress 15th anniversary — with &lt;a0&gt;a party&lt;/a0&gt;, with &lt;a1&gt;commemorative swag&lt;/a1&gt;, by &lt;a2&gt;telling the world&lt;/a2&gt; what WordPress means to you — remember to use the #WP15 hashtag to share it!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221333Z" creationid="elia" creationdate="20180420T221333Z">
+        <seg>Seja qual for o seu jeito de celebrar os 15 anos do WordPress — com &lt;a0&gt;uma festa&lt;/a0&gt;, com &lt;a1&gt;produtos comemorativos&lt;/a1&gt;, &lt;a2&gt;contando para o mundo&lt;/a2&gt; o que o WordPress significa para você — lembre-se de usar a hashtag #WP15 para compartilhá-lo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s cities worldwide.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215708Z" creationid="elia" creationdate="20180420T215708Z">
         <seg>Junte-se aos fãs do WordPress por todo o mundo na comemoração dos quize anos do WordPress criando a sua própria festa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep checking the swag store, because we’ll be adding more swag over the next few weeks!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221113Z" creationid="elia" creationdate="20180420T221113Z">
+        <seg>Vamos acrescentar mais produtos nas próximas semanas, então fique de olho!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2338,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Determine sua senha e complete as informações do seu perfil no WordPress.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share the fun</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221135Z" creationid="elia" creationdate="20180420T221135Z">
+        <seg>Compartilhe a diversão</seg>
       </tuv>
     </tu>
     <tu>
