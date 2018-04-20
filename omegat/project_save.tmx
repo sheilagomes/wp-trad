@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&lt;a1&gt;Start one!&lt;/a1&gt;) and then spread the word to other local meetups, tech groups, press, etc and get people to say they’ll come to your party.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220253Z" creationid="elia" creationdate="20180420T220253Z">
-        <seg>&lt;a1&gt;Crie um!&lt;/a1&gt;) e então espalhe a notícia para outros meetups locais, grupos de tecnologia, imprensa, etc. e peça para que as pessoas comentem que elas irão na sua festa.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T222149Z" creationid="elia" creationdate="20180420T220253Z">
+        <seg>&lt;a1&gt;Crie um!&lt;/a1&gt;) e então espalhe a notícia para outros meetups locais, grupos de tecnologia, imprensa, etc. e incentive os participantes a ajudar na divulgação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="EN">
         <seg>List your party with &lt;a0&gt;your local WordPress meetup group&lt;/a0&gt; (Don’t have a group?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180420T220126Z" creationid="elia" creationdate="20180420T220126Z">
-        <seg>Divulgue sua festa através &lt;a0&gt;do seu grupo local de meetups WordPress&lt;/a0&gt; (Ainda não existe um grupo?</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221825Z" creationid="elia" creationdate="20180420T220126Z">
+        <seg>Divulgue sua festa através &lt;a0&gt;do seu grupo local de meetups WordPress&lt;/a0&gt; (Ainda não existe um grupo perto de você?</seg>
       </tuv>
     </tu>
     <tu>
