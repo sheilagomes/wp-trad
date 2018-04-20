@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And don’t forget to &lt;a3&gt;check the stream of WordPress 15th anniversary posts&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221454Z" creationid="elia" creationdate="20180420T221454Z">
+        <seg>E não se esqueça de &lt;a3&gt;conferir o que as pessoas estão comentando sobre o 15º aniversário do WordPress&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3138,6 +3146,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111401Z" creationid="Sheila" creationdate="20171208T111401Z">
         <seg>O que é internationalização?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;a0&gt;30% of the internet&lt;/a0&gt; has a reason to celebrate, you know it’s going to be great!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180420T221748Z" creationid="elia" creationdate="20180420T221748Z">
+        <seg>Quando &lt;a0&gt;30% da internet&lt;/a0&gt; tem um motivo para comemorar, você sabe que isso vai ser ótimo!</seg>
       </tuv>
     </tu>
     <tu>
