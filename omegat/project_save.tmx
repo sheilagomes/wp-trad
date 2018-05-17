@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T121710Z" creationid="elia" creationdate="20180517T121710Z">
+        <seg>Por exemplo, você pode querer dizer que mantém por seis meses os dados enviados pelo formulário de contato, registros para análises por um ano e registros de compras dos consumidores por dez anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For help with installing or using WordPress, consult our documentation in your language.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T121337Z" creationid="elia" creationdate="20180517T121337Z">
         <seg>Nesta seção você deve explicar por quanto tempo ficam armazenados os dados pessoais coletados ou processados pelo site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this section you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122006Z" creationid="elia" creationdate="20180517T122006Z">
+        <seg>Nesta seção você deve listar todos os provedores terceirizados com quem você compartilha dados do site, incluindo parceiros, serviços baseados na nuvem, processadores de pagamento e provedores de serviços terceirizados, além de explicar quais dados você compartilha com eles e por que.</seg>
       </tuv>
     </tu>
     <tu>
