@@ -1132,16 +1132,40 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>Expected done flag in response array from %1$s eraser (index %2$d).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124009Z" creationid="elia" creationdate="20180517T124009Z">
-        <seg>Esperada marcação done no array de resposta do %1$s autor da remoção (índice %2$d).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124348Z" creationid="elia" creationdate="20180517T124009Z">
+        <seg> Esperada marcação done no array de resposta do autor %1$s da remoção (índice %2$d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected items_removed key in response array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124424Z" creationid="elia" creationdate="20180517T124252Z">
+        <seg>Esperada chave items_removed no array de resposta do autor %1$s da remoção (índice %2$d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected items_retained key in response array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124413Z" creationid="elia" creationdate="20180517T124232Z">
+        <seg>Esperada chave items_retained no array de resposta do autor %1$s da remoção (índice %2$d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected messages key in response array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124408Z" creationid="elia" creationdate="20180517T124204Z">
+        <seg>Esperada chave messages no array de resposta do autor %1$s da remoção (índice %2$d).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Expected messages key to reference an array in response array from %1$s eraser (index %2$d).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124101Z" creationid="elia" creationdate="20180517T124101Z">
-        <seg>Esperada referência para um array na chave messages no array de resposta do %1$s autor da remoção (índice %2$d).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124400Z" creationid="elia" creationdate="20180517T124101Z">
+        <seg>Esperada referência para um array na chave messages no array de resposta do autor %1$s da remoção (índice %2$d).</seg>
       </tuv>
     </tu>
     <tu>
