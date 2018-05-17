@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1082,6 +1082,46 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122428Z" creationid="Sheila" creationdate="20180517T122428Z">
         <seg>A lei de proteção de dados europeia exige que os dados de residentes europeus que sejam transferidos para fora da União Europeia tenham o mesmo nível de proteção como se os dados estivessem na Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected data array in response array from exporter: %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123509Z" creationid="elia" creationdate="20180517T123509Z">
+        <seg>Esperado array data no array de resposta do exportador: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected data in response array from exporter: %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123527Z" creationid="elia" creationdate="20180517T123527Z">
+        <seg>Esperado data no array de resposta do exportador: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected done (boolean) in response array from exporter: %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123412Z" creationid="elia" creationdate="20180517T123412Z">
+        <seg>Esperado done (booleano) no array de resposta do exportador: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected response as an array from exporter: %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123622Z" creationid="elia" creationdate="20180517T123622Z">
+        <seg>Esperado response como array do exportador: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporter array at index %s does not include a friendly name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123148Z" creationid="elia" creationdate="20180517T123148Z">
+        <seg>Array de exportador no índice %s não inclui um nome amigável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3955,6 +3995,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122126Z" creationid="elia" creationdate="20180517T122126Z">
         <seg>Você também pode ter instalado um plugin do WordPress que fornece serviços de análise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should also note any collection and retention of sensitive personal data, such as data concerning health.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123045Z" creationid="elia" creationdate="20180517T123045Z">
+        <seg>Você também deve justificar qualquer coleta e retenção de dados pessoais sensíveis, como dados referentes a saúde.</seg>
       </tuv>
     </tu>
     <tu>
