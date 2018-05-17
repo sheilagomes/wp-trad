@@ -1470,6 +1470,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you log out of your account, the login cookies will be removed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122959Z" creationid="elia" creationdate="20180517T122959Z">
+        <seg>Se você se desconectar da sua conta, os cookies de login serão removidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &amp;quot;Remember Me&amp;quot;, your login will persist for two weeks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122937Z" creationid="elia" creationdate="20180517T122937Z">
+        <seg>Se você selecionar &amp;quot;Lembrar-me&amp;quot;, seu acesso será mantido por duas semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you would like to get involved in building WordPress Core and testing the new privacy tools, please join the #gdpr-compliance channel in the &lt;a0&gt;Make WordPress&lt;/a0&gt; Slack group.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224444Z" creationid="elia" creationdate="20180417T222834Z">
@@ -1762,6 +1778,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Acesse sua conta no WordPress.org para contribuir para o WordPress, obter ajuda nos fóruns ou classificar e avaliar temas e plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Login cookies last for two days, and screen options cookies last for a year.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122800Z" creationid="elia" creationdate="20180517T122800Z">
+        <seg>Cookies de login são mantidos por dois dias e cookies de opções de tela por um ano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,6 +3298,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Quando uma atualização de segurança é enviada para a versão atual do WordPress, a equipe dos arquivos básicos do WordPress também enviará atualizações de segurança para todas as versões que são capazes de realizar atualizações em segundo plano (desde o WordPress 3.7), de forma que estas versões mais antigas do WordPress também receberão melhorias de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you log in, we will also set up several cookies to save your login information and your screen display choices.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122738Z" creationid="elia" creationdate="20180517T122738Z">
+        <seg>Quando você acessa sua conta no site, também criamos vários cookies para salvar os dados da sua conta e suas escolhas de exibição de tela.</seg>
       </tuv>
     </tu>
     <tu>
