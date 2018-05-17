@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All users can see, edit, or delete their personal information at any time (except they cannot change their username).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123218Z" creationid="Sheila" creationdate="20180517T123218Z">
+        <seg>Todos os usuários podem ver, editar ou excluir suas informações pessoais a qualquer momento (só não é possível alterar o seu username).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All versions</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -642,6 +650,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202642Z" creationid="Sheila" creationdate="20171013T202606Z">
         <seg>Considere criar um site de teste só para brincar com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115252Z" creationid="Sheila" creationdate="20180517T115252Z">
+        <seg>Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Content-Type: text/plain; charset=UTF-8</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115251Z" creationid="Sheila" creationdate="20180517T115251Z">
+        <seg>Content-Type: text/plain; charset=UTF-8</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115151Z" creationid="Sheila" creationdate="20180517T115151Z">
+        <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Easy Installation and Upgrades</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1022,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Eraser index cannot be less than one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T120814Z" creationid="Sheila" creationdate="20180517T120814Z">
+        <seg>Eraser index cannot be less than one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Etiquette</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1034,6 +1074,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Etiqueta no WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>European data protection law requires data about European residents which is transferred outside the European Union to be safeguarded to the same standards as if the data was in Europe.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122428Z" creationid="Sheila" creationdate="20180517T122428Z">
+        <seg>A lei de proteção de dados europeia exige que os dados de residentes europeus que sejam transferidos para fora da União Europeia tenham o mesmo nível de proteção como se os dados estivessem na Europa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1218,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202654Z" creationid="Sheila" creationdate="20171013T202654Z">
         <seg>Para saber mais sobre as novidades do 4.9, confira o artigo sobre a versão &lt;a0&gt;Beta 1&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For users that register on our website (if any), we also store the personal information they provide in their user profile.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123223Z" creationid="Sheila" creationdate="20180517T123136Z">
+        <seg>Para usuários que se registram no nosso site (se houver), também guardamos as informações pessoais que fornecem no seu perfil de usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1526,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122900Z" creationid="Sheila" creationdate="20180517T122900Z">
+        <seg>Se você tiver uma conta neste site ou se tiver deixado comentários, pode solicitar um arquivo exportado dos dados pessoais que mantemos sobre você, inclusive quaisquer dados que nos tenha fornecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have carried out a Privacy Impact Assessment, you can mention it here too.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122311Z" creationid="Sheila" creationdate="20180517T122311Z">
+        <seg>Se você tiver feito uma Avaliação do impacto de privacidade, pode mencioná-la aqui também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you leave a comment, the comment and its metadata are retained indefinitely.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123300Z" creationid="Sheila" creationdate="20180517T123300Z">
+        <seg>Se você deixar um comentário, o comentário e os seus metadados são conservados indefinidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you log out of your account, the login cookies will be removed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122959Z" creationid="elia" creationdate="20180517T122959Z">
@@ -1490,6 +1570,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224444Z" creationid="elia" creationdate="20180417T222834Z">
         <seg>Se você quer participar do desenvolvimento necessário para os arquivos básicos do WordPress e no teste das novas ferramentas de privacidade, entre para o canal #gdpr-compliance no &lt;a0&gt;slack internacional do WordPress&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your web site provides a service which includes automated decision making - for example, allowing customers to apply for credit, or aggregating their data into an advertising profile - you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115624Z" creationid="Sheila" creationdate="20180517T115624Z">
+        <seg>Se o seu site oferecer um serviço que inclua tomada de decisão automatizada, por exemplo, permitir a clientes solicitar crédito ou agregar seus dados em um perfil publicitário, você deve observar que isto está acontecendo, e incluir informações sobre como aquela informação é usada, que decisões são tomadas com os dados agregados e o que direitos os usuários têm sobre as decisões tomadas sem intervenção humana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your web site receives data about users from third parties, including advertisers, this information must be included within the section of your privacy policy dealing with third party data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115810Z" creationid="Sheila" creationdate="20180517T115810Z">
+        <seg>Caso o seu site receba dados de terceiros sobre usuários, incluindo anunciantes, esta informação deve ser incluída dentro da seção da sua política de privacidade que trata de dados de terceiros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1654,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this section you should explain what measures you have taken to protect your users&amp;#8217; data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T121235Z" creationid="Sheila" creationdate="20180517T121235Z">
+        <seg>Nesta seção você deve explicar quais medidas foram tomadas para proteger os dados de seus usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this section you should explain what procedures you have in place to deal with data breaches, either potential or real, such as internal reporting systems, contact mechanisms, or bug bounties.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T121150Z" creationid="Sheila" creationdate="20180517T120622Z">
+        <seg>Nesta seção você deve explicar que procedimentos são usados para lidar com violações de dados, potenciais ou verdadeiras, como sistemas de informação internos, mecanismos de contato ou caçadas de erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this section you should explain what rights your users have over their data and how they can invoke those rights.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123109Z" creationid="Sheila" creationdate="20180517T123109Z">
+        <seg>Nesta seção você deve explicar quais direitos os seus usuários têm sobre os seus dados e como podem requerer estes direitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this section you should list all transfers of your site data outside the European Union and describe the means by which that data is safeguarded to European data protection standards.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122755Z" creationid="Sheila" creationdate="20180517T122755Z">
+        <seg>Nesta seção você deve listar todas as transferências dos dados do seu site para fora da União Europeia e descrever os meios pelos quais estes dados são protegidos segundo os padrões de proteção de dados europeus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this section you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122006Z" creationid="elia" creationdate="20180517T122006Z">
@@ -1570,6 +1698,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Interesses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid request ID when processing eraser data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115425Z" creationid="Sheila" creationdate="20180517T115425Z">
+        <seg>ID de solicitação inválido ao processar dados de remoção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1802,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221113Z" creationid="elia" creationdate="20180420T221113Z">
         <seg>Vamos acrescentar mais produtos nas próximas semanas, então fique de olho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language: pt_BR</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115254Z" creationid="Sheila" creationdate="20180517T115254Z">
+        <seg>Language: pt_BR</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1946,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Esqueceu sua senha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MIME-Version: 1.0</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115251Z" creationid="Sheila" creationdate="20180517T115251Z">
+        <seg>MIME-Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO-Revision-Date: 2018-05-17 11:47:04+0000</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115250Z" creationid="Sheila" creationdate="20180517T115250Z">
+        <seg>PO-Revision-Date: 2018-05-17 11:47:04+0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2190,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plural-Forms: nplurals=2; plural=(n &gt; 1);</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115253Z" creationid="Sheila" creationdate="20180517T115253Z">
+        <seg>Plural-Forms: nplurals=2; plural=(n &gt; 1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Posted October 12, 2017 by &lt;a0&gt;Mel Choyce&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
@@ -2290,6 +2458,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Perfil de %1$s (%2$s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project-Id-Version: WordPress - 4.9.x - Development - Administration</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115255Z" creationid="Sheila" creationdate="20180517T115255Z">
+        <seg>Project-Id-Version: WordPress - 4.9.x - Development - Administration</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2698,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Pular para o conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So in addition to listing where data goes, you should describe how you ensure that these standards are met either by yourself or by your third party providers, whether that is through an agreement such as Privacy Shield, model clauses in your contracts, or binding corporate rules.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122701Z" creationid="Sheila" creationdate="20180517T122701Z">
+        <seg>Assim, além de listar para onde os dados vão, é preciso descrever como você garante que estes padrões estejam sendo seguidos, opr você ou pelos seus provedores terceiros, seja por meio de um acordo como o Escudo de Privacidade, cláusulas modelo nos seus contratos ou normas corporativas vinculatórias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3198,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This could include technical measures such as encryption; security measures such as two factor authentication; and measures such as staff training in data protection.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122245Z" creationid="Sheila" creationdate="20180517T122245Z">
+        <seg>Isso pode incluir medidas técnicas como encriptação; medidas de segurança como autenticação em dois passos; e medidas como treinamento de pessoal em proteção de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could include your web hosting, cloud storage, or other third party services.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122814Z" creationid="Sheila" creationdate="20180517T122814Z">
+        <seg>Isto pode incluir a sua hospedagem de sites, armazenamento de nuvem ou outros serviços de terceiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This does not include any data we are obliged to keep for administrative, legal, or security purposes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122944Z" creationid="Sheila" creationdate="20180517T122944Z">
+        <seg>Isto não inclui nenhuns dados que somos obrigados a manter para propósitos administrativos, legais ou de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155628Z" creationid="elia" creationdate="20171130T155628Z">
@@ -3262,10 +3470,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Website administrators can also see and edit that information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123239Z" creationid="Sheila" creationdate="20180517T123239Z">
+        <seg>Os administradores de sites também podem ver e editar estas informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We’d love to hear from you!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
         <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What automated decision making and/or profiling we do with user data</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115725Z" creationid="Sheila" creationdate="20180517T115725Z">
+        <seg>Quais tomadas de decisão ou análises de perfil automatizadas fazemos com os dados de usuários</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,6 +3895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X-Generator: GlotPress/2.4.0-alpha</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115253Z" creationid="Sheila" creationdate="20180517T115253Z">
+        <seg>X-Generator: GlotPress/2.4.0-alpha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XXE (XML eXternal Entity) processing attacks</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3699,6 +3931,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Agora você está desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also request that we erase any personal data we hold about you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122919Z" creationid="Sheila" creationdate="20180517T122919Z">
+        <seg>Também pode solicitar que removamos qualquer dado pessoal que mantemos sobre você.</seg>
       </tuv>
     </tu>
     <tu>
