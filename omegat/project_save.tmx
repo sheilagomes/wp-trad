@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Articles on this site may include embedded content (e.g. videos, images, articles, etc.).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122401Z" creationid="elia" creationdate="20180517T122401Z">
+        <seg>Artigos neste site podem incluir conteúdo incorporado como, por exemplo, vídeos, imagens, artigos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As part of the core team's ongoing commitment to security hardening, the following fixes have been implemented in 4.9.1:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T160937Z" creationid="elia" creationdate="20171130T160937Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T222849Z" creationid="elia" creationdate="20180420T221003Z">
         <seg>Para celebrar, adicionamos alguns &lt;a0&gt;itens especiais para o aniversário de 15 anos&lt;/a0&gt; na loja. Até o final de 2018, você pode usar o código promocional &lt;s1&gt;CELEBRATEWP15&lt;/s1&gt; para ter 15% de desconto em todos os produtos da loja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that case, add information from that plugin here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122136Z" creationid="elia" creationdate="20180517T122136Z">
+        <seg>Neste caso, adicione as informações do plugin aqui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122316Z" creationid="elia" creationdate="20180517T122316Z">
+        <seg>Estes sites podem coletar dados sobre você, usar cookies, incorporar rastreamento adicionar de terceiros e monitorar sua interação com este conteúdo incorporado, incluindo sua interação com o conteúdo incorporado se você tem uma conta e está conectado com o site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155628Z" creationid="elia" creationdate="20171130T155628Z">
@@ -3619,6 +3643,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Você pode criar uma nova senha no seguinte endereço:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also have installed a WordPress plugin that provides analytics services.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122126Z" creationid="elia" creationdate="20180517T122126Z">
+        <seg>Você também pode ter instalado um plugin do WordPress que fornece serviços de análise.</seg>
       </tuv>
     </tu>
     <tu>
