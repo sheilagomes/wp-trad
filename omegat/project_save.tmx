@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this section you should explain how long you retain personal data collected or processed by the web site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T121337Z" creationid="elia" creationdate="20180517T121337Z">
+        <seg>Nesta seção você deve explicar por quanto tempo ficam armazenados os dados pessoais coletados ou processados pelo site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interests</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3178,6 +3186,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Enquanto cada API do WordPress fornece melhores práticas e formas padronizadas de estender e interagir com os arquivos básicos do WordPress, as seguintes APIs são as mais importantes para reforçar a segurança do WordPress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T121606Z" creationid="elia" creationdate="20180517T121606Z">
+        <seg>Como é sua responsabilidade divulgar por que e por quanto tempo cada conjunto de dados é armazenado, esta informação precisa ser listada aqui.</seg>
       </tuv>
     </tu>
     <tu>
