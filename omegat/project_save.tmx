@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122426Z" creationid="elia" creationdate="20180517T122426Z">
+        <seg>Conteúdos incorporados de outros sites se comportam exatamente da mesma forma como se o visitante estivesse visitando o outro site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure the attributes of enclosures are correctly escaped in RSS and Atom feeds.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161410Z" creationid="elia" creationdate="20171130T161410Z">
@@ -1454,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you edit or publish an article, an additional cookie will be saved in your browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122458Z" creationid="elia" creationdate="20180517T122454Z">
+        <seg>Se você editar ou publicar um artigo, um cookie adicional será salvo no seu navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you would like to get involved in building WordPress Core and testing the new privacy tools, please join the #gdpr-compliance channel in the &lt;a0&gt;Make WordPress&lt;/a0&gt; Slack group.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224444Z" creationid="elia" creationdate="20180417T222834Z">
@@ -1546,6 +1562,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161702Z" creationid="elia" creationdate="20171130T161702Z">
         <seg>Problemas relacionados ao cache de arquivos de templates nos temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It expires after 1 day.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122621Z" creationid="elia" creationdate="20180517T122621Z">
+        <seg>Ele expira depois de 1 dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122316Z" creationid="elia" creationdate="20180517T122316Z">
         <seg>Estes sites podem coletar dados sobre você, usar cookies, incorporar rastreamento adicionar de terceiros e monitorar sua interação com este conteúdo incorporado, incluindo sua interação com o conteúdo incorporado se você tem uma conta e está conectado com o site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This cookie includes no personal data and simply indicates the post ID of the article you just edited.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122604Z" creationid="elia" creationdate="20180517T122604Z">
+        <seg>Este cookie não inclui nenhum dado pessoal e simplesmente indica o ID do post referente ao artigo que você acabou de editar.</seg>
       </tuv>
     </tu>
     <tu>
