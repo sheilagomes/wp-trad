@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default WordPress does not collect any analytics data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122048Z" creationid="elia" creationdate="20180517T122048Z">
+        <seg>Por padrão, o WordPress não coleta nenhum dado para análise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Categories</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1390,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, many web hosting accounts collect some anonymous analytics data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122107Z" creationid="elia" creationdate="20180517T122107Z">
+        <seg>Entretanto, muitos serviços de hospedagem coletam alguns dados anônimos para análise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s cities worldwide.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1674,6 +1690,14 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Curta %s no Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Link to their own privacy policies if possible.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T122034Z" creationid="elia" creationdate="20180517T122034Z">
+        <seg>Aponte para suas próprias políticas de privacidade se possível.</seg>
       </tuv>
     </tu>
     <tu>
