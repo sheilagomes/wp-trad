@@ -1,0 +1,201 @@
+# Translation of WordPress - 4.9.x - Development - Administration in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress - 4.9.x - Development - Administration package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-17 11:47:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress - 4.9.x - Development - Administration\n"
+
+#: wp-admin/includes/user.php:930
+msgid "Invalid request ID when processing eraser data."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1765
+msgid "If your web site provides a service which includes automated decision making - for example, allowing customers to apply for credit, or aggregating their data into an advertising profile - you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1763
+msgid "What automated decision making and/or profiling we do with user data"
+msgstr ""
+
+#: wp-admin/includes/misc.php:1760
+msgid "If your web site receives data about users from third parties, including advertisers, this information must be included within the section of your privacy policy dealing with third party data."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1755
+msgid "In this section you should explain what procedures you have in place to deal with data breaches, either potential or real, such as internal reporting systems, contact mechanisms, or bug bounties."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1750
+msgid "In this section you should explain what measures you have taken to protect your users&#8217; data. This could include technical measures such as encryption; security measures such as two factor authentication; and measures such as staff training in data protection. If you have carried out a Privacy Impact Assessment, you can mention it here too."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1734
+msgid "European data protection law requires data about European residents which is transferred outside the European Union to be safeguarded to the same standards as if the data was in Europe. So in addition to listing where data goes, you should describe how you ensure that these standards are met either by yourself or by your third party providers, whether that is through an agreement such as Privacy Shield, model clauses in your contracts, or binding corporate rules."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1733
+msgid "In this section you should list all transfers of your site data outside the European Union and describe the means by which that data is safeguarded to European data protection standards. This could include your web hosting, cloud storage, or other third party services."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1729
+msgid "If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1727
+msgid "In this section you should explain what rights your users have over their data and how they can invoke those rights."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1723
+msgid "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1722
+msgid "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1720
+msgid "In this section you should explain how long you retain personal data collected or processed by the web site. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1714
+msgid "In this section you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why. Link to their own privacy policies if possible."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1709
+msgid "By default WordPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a WordPress plugin that provides analytics services. In that case, add information from that plugin here."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1704
+msgid "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1703
+msgid "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1700
+msgid "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1699
+msgid "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+msgstr ""
+
+#: wp-admin/includes/misc.php:1669
+msgid "You should also note any collection and retention of sensitive personal data, such as data concerning health."
+msgstr ""
+
+#. translators: %s: array index
+#: wp-admin/includes/ajax-actions.php:4119
+msgid "Exporter array at index %s does not include a friendly name."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4164
+msgid "Expected done (boolean) in response array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4158
+msgid "Expected data array in response array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4152
+msgid "Expected data in response array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4146
+msgid "Expected response as an array from exporter: %s."
+msgstr ""
+
+#. translators: %s: array index
+#: wp-admin/includes/ajax-actions.php:4113
+msgid "Expected an array describing the exporter at index %s."
+msgstr ""
+
+#. translators: Do not translate EXPIRATION, LINK, EMAIL, SITENAME, SITEURL:
+#. those are placeholders.
+#: wp-admin/includes/file.php:2070
+msgid ""
+"Howdy,\n"
+"\n"
+"Your request for an export of personal data has been completed. You may\n"
+"download your personal data by clicking on the link below. For privacy\n"
+"and security, we will automatically delete the file on ###EXPIRATION###,\n"
+"so please download it before then.\n"
+"\n"
+"###LINK###\n"
+"\n"
+"This email has been sent to ###EMAIL###.\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4379
+msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4368
+msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4357
+msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4346
+msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4335
+msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4324
+msgid "Did not receive array from %1$s eraser (index %2$d)."
+msgstr ""
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4308
+msgid "Eraser array at index %d does not include a friendly name."
+msgstr ""
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4303
+msgid "Eraser callback at index %d is not a valid callback."
+msgstr ""
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4298
+msgid "Eraser array at index %d does not include a callback."
+msgstr ""
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4293
+msgid "Expected an array describing the eraser at index %d."
+msgstr ""
+
+#: wp-admin/includes/ajax-actions.php:4103
+#: wp-admin/includes/ajax-actions.php:4284
+msgid "Page index cannot be less than one."
+msgstr ""
+
+#: wp-admin/includes/ajax-actions.php:4276
+msgid "Eraser index cannot be less than one."
+msgstr ""
