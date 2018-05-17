@@ -866,6 +866,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Did not receive array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124503Z" creationid="elia" creationdate="20180517T124503Z">
+        <seg>Array não recebido do autor %1$s da remoção (índice %2$d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Discover more sites built with WordPress</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1066,10 +1074,34 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Eraser array at index %d does not include a callback.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124555Z" creationid="elia" creationdate="20180517T124555Z">
+        <seg>Array do autor da remoção no índice %d não inclui um callback.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Eraser array at index %d does not include a friendly name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124521Z" creationid="elia" creationdate="20180517T124521Z">
+        <seg>Autor da remoção no índice %d não inclui um nome amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Eraser callback at index %d is not a valid callback.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124539Z" creationid="elia" creationdate="20180517T124539Z">
+        <seg>Callback do autor da remoção no índice %d não é válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Eraser index cannot be less than one.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T120814Z" creationid="Sheila" creationdate="20180517T120814Z">
-        <seg>Eraser index cannot be less than one.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124633Z" creationid="Sheila" creationdate="20180517T120814Z">
+        <seg>Índice do autor da remoção não pode ser menor que um.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1126,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122428Z" creationid="Sheila" creationdate="20180517T122428Z">
         <seg>A lei de proteção de dados europeia exige que os dados de residentes europeus que sejam transferidos para fora da União Europeia tenham o mesmo nível de proteção como se os dados estivessem na Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected an array describing the eraser at index %d.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124607Z" creationid="elia" creationdate="20180517T124607Z">
+        <seg>Esperado um array descrevendo o autor da remoção no índice %d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2406,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page index cannot be less than one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124618Z" creationid="elia" creationdate="20180517T124618Z">
+        <seg>Índice da página não pode ser menor que um.</seg>
       </tuv>
     </tu>
     <tu>
