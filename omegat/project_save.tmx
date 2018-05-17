@@ -1332,8 +1332,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20180517T121710Z" creationid="elia" creationdate="20180517T121710Z">
-        <seg>Por exemplo, você pode querer dizer que mantém por seis meses os dados enviados pelo formulário de contato, registros para análises por um ano e registros de compras dos consumidores por dez anos.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124740Z" creationid="elia" creationdate="20180517T121710Z">
+        <seg>Por exemplo, você pode querer dizer que mantém os dados enviados pelo formulário de contato por seis meses, registros para análises por um ano e registros de compras dos consumidores por dez anos.</seg>
       </tuv>
     </tu>
     <tu>
