@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expected an array describing the exporter at index %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123641Z" creationid="elia" creationdate="20180517T123641Z">
+        <seg>Esperado um array descrevendo o exportador no índice %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expected data array in response array from exporter: %s.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T123509Z" creationid="elia" creationdate="20180517T123509Z">
@@ -1258,6 +1266,18 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202654Z" creationid="Sheila" creationdate="20171013T202654Z">
         <seg>Para saber mais sobre as novidades do 4.9, confira o artigo sobre a versão &lt;a0&gt;Beta 1&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For privacy
+and security, we will automatically delete the file on ###EXPIRATION###,
+so please download it before then.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123910Z" creationid="elia" creationdate="20180517T123910Z">
+        <seg>Por questões de privacidade
+e segurança, vamos excluir automaticamente o arquivo em ###EXPIRATION###,
+por isso baixe-o antes desta data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1518,18 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222544Z" creationid="elia" creationdate="20180417T222522Z">
         <seg>Como posso participar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howdy,
+
+Your request for an export of personal data has been completed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123800Z" creationid="elia" creationdate="20180517T123800Z">
+        <seg>Olá,
+
+Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3987,6 +4019,16 @@
       </tuv>
       <tuv lang="PT-BR">
         <seg>Você pode criar uma nova senha no seguinte endereço:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may
+download your personal data by clicking on the link below.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123822Z" creationid="elia" creationdate="20180517T123822Z">
+        <seg>Você pode
+baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
     </tu>
     <tu>
