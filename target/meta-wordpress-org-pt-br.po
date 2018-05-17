@@ -1,0 +1,2456 @@
+# Translation of Meta - WordPress.org in Portuguese (Brazil)
+# This file is distributed under the same license as the Meta - WordPress.org package.
+msgid ""
+msgstr "PO-Revision-Date: 2018-04-04 16:34:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Meta - WordPress.org\n"
+
+#: themes/pub/wporg-main/page-about.php:92
+msgctxt "Page title"
+msgid "Logos and Graphics"
+msgstr "Logos e gráficos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:197
+#: themes/pub/wporg-main/page-about-etiquette.php:17
+#: themes/pub/wporg-main/page-about-logos.php:17
+#: themes/pub/wporg-main/page-about-philosophy.php:17
+#: themes/pub/wporg-main/page-about-swag.php:17
+#: themes/pub/wporg-main/page-about-testimonials.php:17
+#: themes/pub/wporg-main/page-about.php:93
+msgctxt "Page title"
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:193
+#: themes/pub/wporg-main/page-about-etiquette.php:15
+#: themes/pub/wporg-main/page-about-logos.php:15
+#: themes/pub/wporg-main/page-about-philosophy.php:15
+#: themes/pub/wporg-main/page-about-swag.php:15
+#: themes/pub/wporg-main/page-about-testimonials.php:15
+#: themes/pub/wporg-main/page-about.php:91
+msgctxt "Page title"
+msgid "Swag"
+msgstr "Produtos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:189
+#: themes/pub/wporg-main/page-about-accessibility.php:17
+#: themes/pub/wporg-main/page-about-domains.php:17
+#: themes/pub/wporg-main/page-about-license.php:17
+#: themes/pub/wporg-main/page-about-privacy.php:17
+#: themes/pub/wporg-main/page-about-stats.php:17
+#: themes/pub/wporg-main/page-about.php:82
+msgctxt "Page title"
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:185
+#: themes/pub/wporg-main/page-about-features.php:15
+#: themes/pub/wporg-main/page-about-history.php:15
+#: themes/pub/wporg-main/page-about-requirements.php:15
+#: themes/pub/wporg-main/page-about-roadmap.php:15
+#: themes/pub/wporg-main/page-about-security.php:15
+#: themes/pub/wporg-main/page-about.php:69
+msgctxt "Page title"
+msgid "Security"
+msgstr "Segurança"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:181
+#: themes/pub/wporg-main/page-about-features.php:16
+#: themes/pub/wporg-main/page-about-history.php:16
+#: themes/pub/wporg-main/page-about-requirements.php:16
+#: themes/pub/wporg-main/page-about-roadmap.php:16
+#: themes/pub/wporg-main/page-about-security.php:16
+#: themes/pub/wporg-main/page-about.php:70
+msgctxt "Page title"
+msgid "Roadmap"
+msgstr "Plano de ação"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:177
+#: themes/pub/wporg-main/page-about-features.php:13
+#: themes/pub/wporg-main/page-about-history.php:13
+#: themes/pub/wporg-main/page-about-requirements.php:13
+#: themes/pub/wporg-main/page-about-roadmap.php:13
+#: themes/pub/wporg-main/page-about-security.php:13
+#: themes/pub/wporg-main/page-about.php:67
+msgctxt "Page title"
+msgid "Requirements"
+msgstr "Requisitos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:173
+#: themes/pub/wporg-main/page-about-accessibility.php:16
+#: themes/pub/wporg-main/page-about-domains.php:16
+#: themes/pub/wporg-main/page-about-license.php:16
+#: themes/pub/wporg-main/page-about-privacy.php:16
+#: themes/pub/wporg-main/page-about-stats.php:16
+#: themes/pub/wporg-main/page-about.php:81
+msgctxt "Page title"
+msgid "Privacy Policy"
+msgstr "Política de privacidade"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:169
+#: themes/pub/wporg-main/page-about-etiquette.php:13
+#: themes/pub/wporg-main/page-about-logos.php:13
+#: themes/pub/wporg-main/page-about-philosophy.php:13
+#: themes/pub/wporg-main/page-about-swag.php:13
+#: themes/pub/wporg-main/page-about-testimonials.php:13
+#: themes/pub/wporg-main/page-about.php:89
+msgctxt "Page title"
+msgid "Philosophy"
+msgstr "Filosofia"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:165
+#: themes/pub/wporg-main/page-about-etiquette.php:16
+#: themes/pub/wporg-main/page-about-logos.php:16
+#: themes/pub/wporg-main/page-about-philosophy.php:16
+#: themes/pub/wporg-main/page-about-swag.php:16
+#: themes/pub/wporg-main/page-about-testimonials.php:16
+msgctxt "Page title"
+msgid "Graphics &amp; Logos"
+msgstr "Gráficos e logos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:161
+#: themes/pub/wporg-main/page-about-accessibility.php:14
+#: themes/pub/wporg-main/page-about-domains.php:14
+#: themes/pub/wporg-main/page-about-license.php:14
+#: themes/pub/wporg-main/page-about-privacy.php:14
+#: themes/pub/wporg-main/page-about-stats.php:14
+#: themes/pub/wporg-main/page-about.php:79
+msgctxt "Page title"
+msgid "GNU Public License"
+msgstr "Licença Pública GNU"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:157
+#: themes/pub/wporg-main/page-about-features.php:17
+#: themes/pub/wporg-main/page-about-history.php:17
+#: themes/pub/wporg-main/page-about-requirements.php:17
+#: themes/pub/wporg-main/page-about-roadmap.php:17
+#: themes/pub/wporg-main/page-about-security.php:17
+#: themes/pub/wporg-main/page-about.php:71
+msgctxt "Page title"
+msgid "History"
+msgstr "História"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:153
+#: themes/pub/wporg-main/page-about-features.php:14
+#: themes/pub/wporg-main/page-about-history.php:14
+#: themes/pub/wporg-main/page-about-requirements.php:14
+#: themes/pub/wporg-main/page-about-roadmap.php:14
+#: themes/pub/wporg-main/page-about-security.php:14
+#: themes/pub/wporg-main/page-about.php:68
+msgctxt "Page title"
+msgid "Features"
+msgstr "Recursos"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:149
+#: themes/pub/wporg-main/page-about-etiquette.php:14
+#: themes/pub/wporg-main/page-about-logos.php:14
+#: themes/pub/wporg-main/page-about-philosophy.php:14
+#: themes/pub/wporg-main/page-about-swag.php:14
+#: themes/pub/wporg-main/page-about-testimonials.php:14
+#: themes/pub/wporg-main/page-about.php:90
+msgctxt "Page title"
+msgid "Etiquette"
+msgstr "Etiqueta"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:145
+#: themes/pub/wporg-main/page-about-accessibility.php:15
+#: themes/pub/wporg-main/page-about-domains.php:15
+#: themes/pub/wporg-main/page-about-license.php:15
+#: themes/pub/wporg-main/page-about-privacy.php:15
+#: themes/pub/wporg-main/page-about-stats.php:15
+#: themes/pub/wporg-main/page-about.php:80
+msgctxt "Page title"
+msgid "Accessibility"
+msgstr "Acessibilidade"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:141
+#: themes/pub/wporg-main/page-about-accessibility.php:13
+#: themes/pub/wporg-main/page-about-domains.php:13
+#: themes/pub/wporg-main/page-about-license.php:13
+#: themes/pub/wporg-main/page-about-privacy.php:13
+#: themes/pub/wporg-main/page-about-stats.php:13
+#: themes/pub/wporg-main/page-about.php:78
+msgctxt "Page title"
+msgid "Domains"
+msgstr "Domínios"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:104
+msgid "People like to talk about WordPress! Make a tweet or a post using the #ilovewp hashtag, and your comments might be featured on WordPress.org!"
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:103
+msgid "WordPress Testimonials"
+msgstr "Depoimentos sobre o WordPress"
+
+#: themes/pub/wporg-main/page-about-security.php:421
+msgid "Footnotes"
+msgstr "Notas de rodapé"
+
+#: themes/pub/wporg-main/page-about-security.php:417
+msgid "<em>Version 1.0 March 2015</em>"
+msgstr "<em>Versão 1.0 Março de 2015</em>"
+
+#: themes/pub/wporg-main/page-about-security.php:415
+msgid "<em>Contributions from</em> Barry Abrahamson, Michael Adams, Jon Cave, Helen Hou-Sand&iacute;, Dion Hulse, Mo Jangda, Paul Maiorana"
+msgstr "<em>Contribuições de</em> Barry Abrahamson, Michael Adams, Jon Cave, Helen Hou-Sand&iacute;, Dion Hulse, Mo Jangda, Paul Maiorana"
+
+#: themes/pub/wporg-main/page-about-security.php:413
+msgid "<em>Authored by</em> Sara Rosso"
+msgstr "<em>Autora:</em> Sara Rosso"
+
+#. translators: %s: Link to Developer.WordPress.org including the <a> tags.
+#: themes/pub/wporg-main/page-about-security.php:405
+msgid "WordPress Developer Resources %s"
+msgstr "Recursos para desenvolvedores WordPress %s"
+
+#. translators: %s: Link to News Blog Security Release Archive including the
+#. <a> tags.
+#: themes/pub/wporg-main/page-about-security.php:398
+msgid "WordPress Security releases %s"
+msgstr "Atualizações de segurança do WordPress %s"
+
+#. translators: %s: Link to News Blog including the <a> tags.
+#: themes/pub/wporg-main/page-about-security.php:391
+msgid "WordPress News %s"
+msgstr "Blog WordPress %s"
+
+#: themes/pub/wporg-main/page-about-security.php:386
+msgid "Additional Reading"
+msgstr "Leitura adicional"
+
+#. translators: %s: Link to the Drupal Security Whitepaper (english).
+#: themes/pub/wporg-main/page-about-security.php:382
+msgid "<em>A special thank you to Drupal's </em><a href='%s'><em>security white paper</em></a><em>, which provided some inspiration. </em>"
+msgstr ""
+
+#. translators: 1: Link to WordPress Foundation Trademark Polocy (English); 2:
+#. Link to Creative Commons CC0 license (English)
+#: themes/pub/wporg-main/page-about-security.php:373
+msgid "The text in this document (not including the WordPress logo or <a href=\"%1$s\">trademark</a>) is licensed under <a href=\"%2$s\">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:369
+msgid "White paper content License"
+msgstr "Licença de conteúdo do informativo"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:365
+msgid "The permissions and current user API%s is a set of functions which will help verify the current user's permissions and authority to perform any task or operation being requested, and can protect further against unauthorized users accessing or performing functions beyond their permitted capabilities."
+msgstr "As permissões e a API de usuário atual%s são um conjunto de funções que ajudam a verificar as permissões do usuário atual e a autoridade para executar qualquer tarefa ou operação solicitada, e pode fornecer proteção adicional para acessos de usuários sem permissão ou que estejam executando funções além das permitidas pelas suas capacidades."
+
+#: themes/pub/wporg-main/page-about-security.php:360
+msgid "Permissions and current user API"
+msgstr "Permissões e API de usuário atual"
+
+#. translators: 1: Footnote; 2: Footnote
+#: themes/pub/wporg-main/page-about-security.php:354
+msgid "The HTTP API%1$s, added in WordPress 2.7%2$s and extended further in WordPress 2.8, standardizes the HTTP requests for WordPress. The API handles cookies, gzip encoding and decoding, chunk decoding (if HTTP 1.1), and various other HTTP protocol implementations. The API standardizes requests, tests each method prior to sending, and, based on your server configuration, uses the appropriate method to make the request."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:349
+msgid "HTTP API"
+msgstr "API HTTP"
+
+#: themes/pub/wporg-main/page-about-security.php:347
+msgid "It does this through the <code>WP_Filesystem_Base</code> class, and several subclasses which implement different ways of connecting to the local filesystem, depending on individual host support. Any theme or plugin that needs to write files locally should do so using the WP_Filesystem family of classes."
+msgstr ""
+
+#. translators: 1: Footnote; 2: Footnote
+#: themes/pub/wporg-main/page-about-security.php:341
+msgid "The Filesystem API%1$s, added in WordPress 2.6%2$s, was originally created for WordPress&lsquo; own automatic updates feature. The Filesystem API abstracts out the functionality needed for reading and writing local files to the filesystem to be done securely, on a variety of host types."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:336
+msgid "Filesystem API"
+msgstr "API de sistema de arquivos"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:331
+msgid "The Database API%s, added in WordPress 0.71, provides the correct method for accessing data as named values which are stored in the database layer."
+msgstr "A API de banco de dados%s, adicionada no WordPress 0.71, fornece o método correto para acessar, de forma estruturada, os dados que estão armazenados na camada de banco de dados."
+
+#: themes/pub/wporg-main/page-about-security.php:326
+msgid "Database API"
+msgstr "API de banco de dados"
+
+#: themes/pub/wporg-main/page-about-security.php:324
+msgid "While each WordPress API provides best practices and standardized ways to interact with and extend WordPress core software, the following WordPress APIs are the most pertinent to enforcing and hardening WordPress security:"
+msgstr "Enquanto cada API do WordPress fornece melhores práticas e formas padronizadas de estender e interagir com os arquivos básicos do WordPress, as seguintes APIs são as mais importantes para reforçar a segurança do WordPress:"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:319
+msgid "The WordPress Core Application Programming Interface (API) is comprised of several individual APIs%s, each one covering the functions involved in, and use of, a given set of functionality. Together, these form the project interface which allows plugins and themes to interact with, alter, and extend WordPress core functionality safely and securely."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:315
+msgid "Core WordPress APIs"
+msgstr "APIs dos arquivos básicos do WordPress"
+
+#: themes/pub/wporg-main/page-about-security.php:314
+msgid "Appendix"
+msgstr "Apêndice"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:310
+msgid "WordPress.com is the largest WordPress installation in the world, and is owned and managed by Automattic, Inc., which was founded by Matt Mullenweg, the WordPress project co-creator. WordPress.com runs on the core WordPress software, and has its own security processes, risks, and solutions%s. This document refers to security regarding the self-hosted, downloadable open source WordPress software available from WordPress.org and installable on any server in the world."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:306
+msgid "A Note about WordPress.com and WordPress security"
+msgstr "Uma observação sobre a segurança do WordPress e do WordPress.com"
+
+#: themes/pub/wporg-main/page-about-security.php:305
+msgid "WordPress can be installed on a multitude of platforms. Though WordPress core software provides many provisions for operating a secure web application, which were covered in this document, the configuration of the operating system and the underlying web server hosting the software is equally important to keep the WordPress applications secure."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:304
+msgid "The Role of the Hosting Provider in WordPress Security"
+msgstr "A função do serviço de hospedagem na segurança do WordPress"
+
+#. translators: 1: Footnote; 2: Footnote; 3: Footnote
+#: themes/pub/wporg-main/page-about-security.php:298
+msgid "The Theme Review Team is a group of volunteers, led by key and established members of the WordPress community, who review and approve themes submitted to be included in the official WordPress Theme directory. The Theme Review Team maintains the official Theme Review Guidelines%1$s, the Theme Unit Test Datas%2$s, and the Theme Check Plugins%3$s, and attempts to engage and educate the WordPress Theme developer community regarding development best practices. Inclusion in the group is moderated by core committers of the WordPress development team."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:294
+msgid "The Theme Review Team"
+msgstr "A Equipe de avaliação de temas"
+
+#: themes/pub/wporg-main/page-about-security.php:293
+msgid "When a plugin vulnerability is discovered by the WordPress Security Team, they contact the plugin author and work together to fix and release a secure version of the plugin. If there is a lack of response from the plugin author or if the vulnerability is severe, the plugin/theme is pulled from the public directory, and in some cases, fixed and updated directly by the Security Team."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:291
+msgid "Each plugin and theme has the ability to be continually developed by the plugin or theme owner, and any subsequent fixes or feature development can be uploaded to the repository and made available to users with that plugin or theme installed with a description of that change. Site administrators are notified of plugins which need to be updated via their administration dashboard."
+msgstr ""
+
+#. translators: 1: Footnote; 2: Footnote
+#: themes/pub/wporg-main/page-about-security.php:285
+msgid "Inclusion of plugins and themes in the repository is not a guarantee that they are free from security vulnerabilities. Guidelines are provided for plugin authors to consult prior to submission for inclusion in the repository%1$s, and extensive documentation about how to do WordPress theme development%2$s is provided on the WordPress.org site."
+msgstr ""
+
+#. translators: 1: Number of plugins - 50,000; 2: Number of themes - 5,000
+#: themes/pub/wporg-main/page-about-security.php:275
+msgid "There are approximately %1$s+ plugins and %2$s+ themes listed on the WordPress.org site. These themes and plugins are submitted for inclusion and are manually reviewed by volunteers before making them available on the repository."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:270
+msgid "WordPress.org Theme and Plugin Repositories"
+msgstr "Repositórios de temas e plugins do WordPress.org"
+
+#: themes/pub/wporg-main/page-about-security.php:268
+msgid "The default theme can serve as a starting point for custom theme development, and site developers can create a child theme which includes some customization but falls back on the default theme for most functionality and security. The default theme can be easily removed by an administrator if not needed."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:266
+msgid "WordPress requires a theme to be enabled to render content visible on the frontend. The default theme which ships with core WordPress (currently \"Twenty Fifteen\") has been vigorously reviewed and tested for security reasons by both the team of theme developers plus the core development team."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:265
+msgid "The Default Theme"
+msgstr "O tema padrão"
+
+#: themes/pub/wporg-main/page-about-security.php:264
+msgid "WordPress Plugin and Theme Security"
+msgstr "Segurança de temas e plugins do WordPress"
+
+#: themes/pub/wporg-main/page-about-security.php:263
+msgid "HTTP requests issued by WordPress are filtered to prevent access to loopback and private IP addresses. Additionally, access is only allowed to certain standard HTTP ports."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:262
+msgid "SSRF (Server Side Request Forgery) Attacks"
+msgstr "Ataques por Falsificação de requisições feitas pelo lado do servidor (SSRF, Server Side Request Forgery)"
+
+#: themes/pub/wporg-main/page-about-security.php:261
+msgid "When processing XML, WordPress disables the loading of custom XML entities to prevent both External Entity and Entity Expansion attacks. Beyond PHP's core functionality, WordPress does not provide additional secure XML processing API for plugin authors."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:260
+msgid "XXE (XML eXternal Entity) processing attacks"
+msgstr "Ataques no processamento de Entidades externas de XML (XXE, XML eXternal Entity)"
+
+#: themes/pub/wporg-main/page-about-security.php:259
+msgid "Further Security Risks and Concerns"
+msgstr "Riscos e preocupações adicionais com segurança"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:255
+msgid "WordPress' internal access control and authentication system will protect against attempts to direct users to unwanted destinations or automatic redirects. This functionality is also made available to plugin developers via an API, <code>wp_safe_redirect()</code>%s."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:251
+msgid "A10 - Unvalidated Redirects and Forwards"
+msgstr "A10 - Redirecionamentos sem validação"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:246
+msgid "If necessary, the core team may decide to fork or replace critical external components, such as when the SWFUpload library was officially replaced by the Plupload library in 3.5.2, and a secure fork of SWFUpload was made available by the security team<%s for those plugins who continued to use SWFUpload in the short-term."
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:238
+msgid "The WordPress core team closely monitors the few included libraries and frameworks WordPress integrates with for core functionality. In the past the core team has made contributions to several third-party components to make them more secure, such as the update to fix a cross-site vulnerability in TinyMCE in WordPress 3.5.2%s."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:234
+msgid "A9 - Using Components with Known Vulnerabilities"
+msgstr "A9 - Uso de componentes com vulnerabilidades conhecidas"
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:229
+msgid "WordPress uses cryptographic tokens, called nonces%s, to validate intent of action requests from authorized users to protect against potential CSRF threats. WordPress provides an API for the generation of these tokens to create and verify unique and temporary tokens, and the token is limited to a specific user, a specific action, a specific object, and a specific time period, which can be added to forms and URLs as needed. Additionally, all nonces are invalidated upon logout."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:225
+msgid "A8 - Cross Site Request Forgery (CSRF)"
+msgstr "A8 - Falsificação de solicitação entre sites (CSRF, Cross Site Request Forgery)"
+
+#: themes/pub/wporg-main/page-about-security.php:223
+msgid "WordPress checks for proper authorization and permissions for any function level access requests prior to the action being executed. Access or visualization of administrative URLs, menus, and pages without proper authentication is tightly integrated with the authentication system to prevent access from unauthorized users."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:222
+msgid "A7 - Missing Function Level Access Control"
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:217
+msgid "WordPress user account passwords are salted and hashed based on the Portable PHP Password Hashing Framework%s. WordPress' permission system is used to control access to private information such an registered users' PII, commenters' email addresses, privately published content, etc. In WordPress 3.7, a password strength meter was included in the core software providing additional information to users setting their passwords and hints on increasing strength. WordPress also has an optional configuration setting for requiring HTTPS."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:213
+msgid "A6 - Sensitive Data Exposure"
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:209
+msgid "The majority of the WordPress security configuration operations are limited to a single authorized administrator. Default settings for WordPress are continually evaluated at the core team level, and the WordPress core team provides documentation and best practices to tighten security for server configuration for running a WordPress site%s."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:205
+msgid "A5 - Security Misconfiguration"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:204
+msgid "WordPress often provides direct object reference, such as unique numeric identifiers of user accounts or content available in the URL or form fields. While these identifiers disclose direct system information, WordPress' rich permissions and access control system prevent unauthorized requests."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:203
+msgid "A4 - Insecure Direct Object Reference"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:202
+msgid "As an example, the WordPress core team noticed before the release of WordPress 2.3 that the function <code>the_search_query()</code> was being misused by most theme authors, who were not escaping the function's output for use in HTML. In a very rare case of slightly breaking backward compatibility, the function's output was changed in WordPress 2.3 to be pre-escaped."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:200
+msgid "WordPress provides a range of functions which can help ensure that user-supplied data is safe<sup id=\"ref10\"><a href=\"#footnote10\">10</a></sup>. Trusted users, that is administrators and editors on a single WordPress installation, and network administrators only in WordPress Multisite, can post unfiltered HTML or JavaScript as they need to, such as inside a post or page. Untrusted users and user-submitted content is filtered by default to remove dangerous entities, using the KSES library through the <code>wp_kses</code> function."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:199
+msgid "A3 - Cross Site Scripting (XSS)"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:198
+msgid "WordPress core software manages user accounts and authentication and details such as the user ID, name, and password are managed on the server-side, as well as the authentication cookies. Passwords are protected in the database using standard salting and stretching techniques. Existing sessions are destroyed upon logout for versions of WordPress after 4.0."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:197
+msgid "A2 - Broken Authentication and Session Management"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:196
+msgid "There is a set of functions and APIs available in WordPress to assist developers in making sure unauthorized code cannot be injected, and help them validate and sanitize data. Best practices and documentation are available<sup id=\"ref9\"><a href=\"#footnote9\">9</a></sup> on how to use these APIs to protect, validate, or sanitize input and output data in HTML, URLs, HTTP headers, and when interacting with the database and filesystem. Administrators can also further restrict the types of file which can be uploaded via filters."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:195
+msgid "A1 - Injection"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:194
+msgid "The following sections discuss the APIs, resources, and policies that WordPress uses to strengthen the core software and 3rd party plugins and themes against these potential risks."
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:189
+msgid "The Open Web Application Security Project (OWASP) is an online community dedicated to web application security. The OWASP Top 10 list%s focuses on identifying the most serious application security risks for a broad array of organizations. The Top 10 items are selected and prioritized in combination with consensus estimates of exploitability, detectability, and impact estimates."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:185
+msgid "2013 OWASP Top 10"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:184
+msgid "Individual site owners can opt to remove automatic background updates through a simple change in their configuration file, but keeping the functionality is strongly recommended by the core team, as well as running the latest stable release of WordPress."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:182
+msgid "When a security update is pushed for the current stable release of WordPress, the core team will also push security updates for all the releases that are capable of background updates (since WordPress 3.7), so these older but still recent versions of WordPress will receive security enhancements."
+msgstr "Quando uma atualização de segurança é enviada para a versão atual do WordPress, a equipe dos arquivos básicos do WordPress também enviará atualizações de segurança para todas as versões que são capazes de realizar atualizações em segundo plano (desde o WordPress 3.7), de forma que estas versões mais antigas do WordPress também receberão melhorias de segurança."
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:177
+msgid "Starting with version 3.7, WordPress introduced automated background updates for all minor releases%s, such as 3.7.1 and 3.7.2. The WordPress Security Team can identify, fix, and push out automated security enhancements for WordPress without the site owner needing to do anything on their end, and the security update will install automatically."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:173
+msgid "Automatic Background Updates for Security Releases"
+msgstr "Instalação automática em segundo plano de atualizações de segurança"
+
+#: themes/pub/wporg-main/page-about-security.php:171
+msgid "Administrators of the WordPress software see a notification on their site dashboard to upgrade when a new release is available, and following the manual upgrade users are redirected to the About WordPress screen which details the changes. If administrators have automatic background updates enabled, they will receive an email after an upgrade has been completed."
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:166
+msgid "For an immediate security release, an advisory is published by the Security Team to the WordPress.org News site%s announcing the release and detailing the changes. Credit for the responsible disclosure of a vulnerability is given in the advisory to encourage and reinforce continued responsible reporting in the future."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:161
+msgid "Each security report is acknowledged upon receipt, and the team works to verify the vulnerability and determine its severity. If confirmed, the security team then plans for a patch to fix the problem which can be committed to an upcoming release of the WordPress software or it can be pushed as an immediate security release, depending on the severity of the issue."
+msgstr ""
+
+#. translators: 1: HackerOne URL 2: Footnote
+#: themes/pub/wporg-main/page-about-security.php:155
+msgid "The WordPress Security Team believes in Responsible Disclosure by alerting the security team immediately of any potential vulnerabilities. Potential security vulnerabilities can be signaled to the Security Team via the <a href=\"%1$s\">WordPress HackerOne</a>%2$s. The Security Team communicates amongst itself via a private Slack channel, and works on a walled-off, private Trac for tracking, testing, and fixing bugs and security problems."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:151
+msgid "WordPress Security Risks, Process, and History"
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:147
+msgid "The WordPress Security Team often collaborates with other security teams to address issues in common dependencies, such as resolving the vulnerability in the PHP XML parser, used by the XML-RPC API that ships with WordPress, in WordPress 3.9.2%s. This vulnerability resolution was a result of a joint effort by both WordPress and Drupal security teams."
+msgstr ""
+
+#. translators: 1: Number - 50; 2: Footnote
+#: themes/pub/wporg-main/page-about-security.php:138
+msgid "The WordPress Security Team is made up of approximately %1$s experts including lead developers and security researchers &mdash; about half are employees of Automattic (makers of WordPress.com, the earliest and largest WordPress hosting platform on the web), and a number work in the web security field. The team consults with well-known and trusted security researchers and hosting companies%2$s."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:134
+msgid "The WordPress Security Team"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:133
+msgid "WordPress and Security"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:132
+msgid "The WordPress project has a strong commitment to backwards compatibility. This commitment means that themes, plugins, and custom code continues to function when WordPress core software is updated, encouraging site owners to keep their WordPress version updated to the latest secure release."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:131
+msgid "Version Backwards Compatibility"
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:126
+msgid "A minor WordPress version is dictated by the third sequence. Version 3.5.1 is a minor release, as is 3.4.2%s. A minor release is reserved for fixing security vulnerabilities and addressing critical bugs only. Since new versions of WordPress are released so frequently &mdash; the aim is every 4-5 months for a major release, and minor releases happen as needed &mdash; there is only a need for major and minor releases."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:121
+msgid "Major releases may add new user features and developer APIs. Though typically in the software world, a &ldquo;major\t&rdquo; version means you can break backwards compatibility, WordPress strives to never break backwards compatibility. Backwards compatibility is one of the project's most important philosophies, with the aim of making updates much easier on users and developers alike."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:119
+msgid "A major WordPress version is dictated by the first two sequences. For example, 3.5 is a major release, as is 3.6, 3.7, or 4.0. There isn't a &ldquo;WordPress 3&rdquo; or &ldquo;WordPress 4&rdquo; and each major release is referred to by its numbering, e.g., &ldquo;WordPress 3.9.&rdquo;"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:118
+msgid "Version Numbering and Security Releases"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:116
+msgid "Phase 5: Launch. WordPress version is launched and made available in the WordPress Admin for updates."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:115
+msgid "Phase 4: Release Candidate. There is a string freeze for translatable strings from this point on. Work is targeted on regressions and blockers only."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:114
+msgid "Phase 3: Beta. Betas are released, and beta-testers are asked to start reporting bugs. No more commits for new enhancements or feature requests are carried out from this phase on. Third-party plugin and theme authors are encouraged to test their code against the upcoming changes."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:113
+msgid "Phase 2: Development work begins. Team leads assemble teams and work on their assigned features. Regular chats are scheduled to ensure the development keeps moving forward."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:112
+msgid "Phase 1: Planning and securing team leads. This is done in the #core chat room on Slack. The release lead discusses features for the next release of WordPress. WordPress contributors get involved with that discussion. The release lead will identify team leads for each of the features."
+msgstr ""
+
+#. translators: %s: Footnote
+#: themes/pub/wporg-main/page-about-security.php:107
+msgid "A release cycle follows the following pattern%s:"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:102
+msgid "Each WordPress release cycle is led by one or more of the core WordPress developers. A release cycle usually lasts around 4 months from the initial scoping meeting to launch of the version."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:101
+msgid "The WordPress Release Cycle"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:100
+msgid "The core and contributing developers primarily guide WordPress development. Every version, hundreds of developers contribute code to WordPress. These core contributors are volunteers who contribute to the core codebase in some way."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:98
+msgid "WordPress has a number of contributing developers. Some of these are former or current committers, and some are likely future committers. These contributing developers are trusted and veteran contributors to WordPress who have earned a great deal of respect among their peers. As needed, WordPress also has guest committers, individuals who are granted commit access, sometimes for a specific component, on a temporary or trial basis."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:96
+msgid "The Core Leadership Team consists of Matt Mullenweg, five lead developers, and more than a dozen core developers with permanent commit access. These developers have final authority on technical decisions, and lead architecture discussions and implementation efforts."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:94
+msgid "The WordPress project is a meritocracy, run by a core leadership team, and led by its co-creator and lead developer, Matt Mullenweg. The team governs all aspects of the project, including core development, WordPress.org, and community initiatives."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:93
+msgid "The WordPress Core Leadership Team"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:86
+msgid "WordPress is licensed under the General Public License (GPLv2 or later) which provides four core freedoms, and can be considered as the WordPress \"bill of rights\":"
+msgstr ""
+
+#. translators: 1: WordPress Market share - 30. Note the following % sign is
+#. escaped as %%. 2: Footnote 3: Market Penetration - 60.  Note the following %
+#. sign is escaped as %%.
+#: themes/pub/wporg-main/page-about-security.php:78
+msgid ""
+"WordPress is a free and open source content management system (CMS). It is the most widely-used CMS software in the world and it powers more than %1$s%% of the top 10 million websites%2$s, giving it an estimated %3$s%% market share of all sites\n"
+"using a CMS."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:74
+msgid "An Overview of WordPress"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:73
+msgid "Site developers and administrators should pay particular attention to the correct use of core APIs and underlying server configuration which have been the source of common vulnerabilities, as well as ensuring all users employ strong passwords to access WordPress."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:71
+msgid "The WordPress Security Team, in collaboration with the WordPress Core Leadership Team and backed by the WordPress global community, works to identify and resolve security issues in the core software available for distribution and installation at WordPress.org, as well as recommending and documenting security best practices for third-party plugin and theme authors."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:69
+msgid "Since its inception in 2003, WordPress has undergone continual hardening so its core software can address and mitigate common security threats, including the Top 10 list identified by The Open Web Application Security Project (OWASP) as common security vulnerabilities, which are discussed in this document."
+msgstr ""
+
+#. translators: %s: WordPress Market share - 30. Note the following % sign is
+#. escaped as %%.
+#: themes/pub/wporg-main/page-about-security.php:64
+msgid "WordPress is a dynamic open-source content management system which is used to power millions of websites, web applications, and blogs. It currently powers more than %s%% of the top 10 million websites on the Internet. WordPress' usability, extensibility, and mature development community make it a popular and secure choice for websites of all sizes."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:60
+msgid "Executive Summary"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:59
+msgid "The information in this document is up-to-date for the latest stable release of the software, WordPress 4.7 at time of publication, but should be considered relevant also to the most recent versions of the software as backwards compatibility is a strong focus for the WordPress development team. Specific security measures and changes will be noted as they have been added to the core software in specific releases. It is strongly encouraged to always be running the latest stable version of WordPress to ensure the most secure experience possible."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:57
+msgid "This document is an analysis and explanation of the WordPress core software development and its related security processes, as well as an examination of the inherent security built directly into the software. Decision makers evaluating WordPress as a content management system or web application framework should use this document in their analysis and decision-making, and for developers to refer to it to familiarize themselves with the security components and best practices of the software."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-security.php:55
+msgid "Overview"
+msgstr ""
+
+#. translators: %s: URL to English PDF
+#: themes/pub/wporg-main/page-about-security.php:48
+msgid "Learn more about WordPress core software security in this free white paper. You can also download it in <a href=\"%s\">PDF format</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:140
+msgctxt "Features page: Section Header"
+msgid "The Latest Libraries"
+msgstr "As bibliotecas mais recentes"
+
+#: themes/pub/wporg-main/page-about-features.php:134
+msgctxt "Features page: Section Header"
+msgid "Custom Content Types"
+msgstr "Tipos personalizados de conteúdo"
+
+#: themes/pub/wporg-main/page-about-features.php:131
+msgctxt "Features page: Section Header"
+msgid "Application Framework"
+msgstr "Estrutura para aplicações"
+
+#: themes/pub/wporg-main/page-about-features.php:125
+msgctxt "Features page: Section Header"
+msgid "Theme System"
+msgstr "Sistema de temas"
+
+#: themes/pub/wporg-main/page-about-features.php:119
+msgctxt "Features page: Section Header"
+msgid "Plugin System"
+msgstr "Sistema de plugins"
+
+#: themes/pub/wporg-main/page-about-features.php:115
+msgctxt "Features page: Section Header"
+msgid "Developer Features"
+msgstr "Recursos para desenvolvedores"
+
+#: themes/pub/wporg-main/page-about-features.php:111
+msgctxt "Features page: Section Header"
+msgid "Contribute"
+msgstr "Contribua"
+
+#: themes/pub/wporg-main/page-about-features.php:108
+msgctxt "Features page: Section Header"
+msgid "Community"
+msgstr "Comunidade"
+
+#: themes/pub/wporg-main/page-about-features.php:105
+msgctxt "Features page: Section Header"
+msgid "Freedom"
+msgstr "Liberdade"
+
+#: themes/pub/wporg-main/page-about-features.php:102
+msgctxt "Features page: Section Header"
+msgid "Own Your Data"
+msgstr "Seja dono dos seus dados"
+
+#: themes/pub/wporg-main/page-about-features.php:99
+msgctxt "Features page: Section Header"
+msgid "Importers"
+msgstr "Importadores"
+
+#: themes/pub/wporg-main/page-about-features.php:96
+msgctxt "Features page: Section Header"
+msgid "Easy Installation and Upgrades"
+msgstr "Instalação e atualização fáceis"
+
+#: themes/pub/wporg-main/page-about-features.php:90
+msgctxt "Features page: Section Header"
+msgid "Multilingual"
+msgstr "Multi-idioma"
+
+#: themes/pub/wporg-main/page-about-features.php:84
+msgctxt "Features page: Section Header"
+msgid "Search Engine Optimized"
+msgstr "Otimizado para mecanismos de pesquisa"
+
+#: themes/pub/wporg-main/page-about-features.php:81
+msgctxt "Features page: Section Header"
+msgid "Built-in Comments"
+msgstr "Comentários nativos"
+
+#: themes/pub/wporg-main/page-about-features.php:78
+msgctxt "Features page: Section Header"
+msgid "Extend with Plugins"
+msgstr "Estenda com plugins"
+
+#: themes/pub/wporg-main/page-about-features.php:75
+msgctxt "Features page: Section Header"
+msgid "Easy Theme System"
+msgstr "Fácil sistema de temas"
+
+#: themes/pub/wporg-main/page-about-features.php:72
+msgctxt "Features page: Section Header"
+msgid "Full Standards Compliance"
+msgstr "Total conformidade com os padrões"
+
+#: themes/pub/wporg-main/page-about-features.php:69
+msgctxt "Features page: Section Header"
+msgid "Media Management"
+msgstr "Gerenciamento de mídia"
+
+#: themes/pub/wporg-main/page-about-features.php:66
+msgctxt "Features page: Section Header"
+msgid "User Management"
+msgstr "Gerenciamento de usuários"
+
+#: themes/pub/wporg-main/page-about-features.php:63
+msgctxt "Features page: Section Header"
+msgid "Publishing Tools"
+msgstr "Ferramentas para publicação"
+
+#: themes/pub/wporg-main/page-about-features.php:60
+msgctxt "Features page: Section Header"
+msgid "Publish with Ease"
+msgstr "Publique com facilidade"
+
+#: themes/pub/wporg-main/page-about-features.php:57
+msgctxt "Features page: Section Header"
+msgid "Flexibility"
+msgstr "Flexibilidade"
+
+#: themes/pub/wporg-main/page-about-features.php:54
+msgctxt "Features page: Section Header"
+msgid "Simplicity"
+msgstr "Simplicidade"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:36
+msgid "The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. We want users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress."
+msgstr ""
+
+#. translators: The #ilovewp Hashtag
+#: themes/pub/wporg-main/page-about-testimonials.php:124
+msgid "Tweet %s"
+msgstr "Tweetar %s"
+
+#. translators: Link to the twitter #ilovewp feed
+#: themes/pub/wporg-main/page-about-testimonials.php:117
+msgid "Make a blog post with your story and tweet a link to it using the <a href='%s'>#ilovewp</a> hashtag. We'll select the best ones and feature them here!"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-testimonials.php:113
+msgid "Want to have your story featured on this page?"
+msgstr "Quer que a sua história apareça em destaque nesta página?"
+
+#: themes/pub/wporg-main/page-about-testimonials.php:111
+msgid "Share your WordPress story"
+msgstr "Compartilhe a sua história com o WordPress"
+
+#: themes/pub/wporg-main/page-about.php:138
+msgid "To distribute copies of your modified versions to others."
+msgstr "Distribuir cópias de suas versões modificadas a outros."
+
+#: themes/pub/wporg-main/page-about.php:137
+msgid "The 4th Freedom"
+msgstr "A 4ª liberdade"
+
+#: themes/pub/wporg-main/page-about.php:133
+msgid "To redistribute."
+msgstr "Redistribuir cópias."
+
+#: themes/pub/wporg-main/page-about.php:132
+msgid "The 3rd Freedom"
+msgstr "A 3ª liberdade"
+
+#: themes/pub/wporg-main/page-about.php:128
+msgid "To study how the program works and change it to make it do what you wish."
+msgstr "Estudar como o programa funciona e adaptá-lo às suas necessidades."
+
+#: themes/pub/wporg-main/page-about.php:127
+msgid "The 2nd Freedom"
+msgstr "A 2ª liberdade"
+
+#: themes/pub/wporg-main/page-about.php:123
+msgid "To run the program for any purpose."
+msgstr "Executar o programa para qualquer propósito."
+
+#: themes/pub/wporg-main/page-about.php:122
+msgid "The 1st Freedom"
+msgstr "A 1ª liberdade"
+
+#. translators: Link to license page
+#: themes/pub/wporg-main/page-about.php:114
+msgid "WordPress is licensed under the <a href=\"%s\">General Public License (GPLv2 or later)</a> which provides four core freedoms. Consider this the WordPress Bill of Rights:"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:110
+msgid "Bill of Rights"
+msgstr "Declaração de Direitos"
+
+#: themes/pub/wporg-main/page-about.php:106
+msgid "The WordPress open source project has evolved in progressive ways over time &#8212; supported by skilled, enthusiastic developers, designers, scientists, bloggers, and more. WordPress provides the opportunity for anyone to create and share, from handcrafted personal anecdotes to world-changing movements. People with a limited tech experience can use it \"out of the box\", and more tech-savvy folks can customize it in remarkable ways."
+msgstr ""
+
+#. translators: 1: Link to b2/cafelog; 2: WordPress market share: 30 - Note:
+#. The following percent sign is '%%' for escaping purposes;
+#: themes/pub/wporg-main/page-about.php:103
+msgid "WordPress started in 2003 when Mike Little and Matt Mullenweg created a <a href=\"%1$s\">fork of b2/cafelog</a>. The need for an elegant, well-architected personal publishing system was clear even then. Today, WordPress is built on PHP and MySQL, and licensed under the GPLv2. It is also the platform of choice for over %2$s%% of all sites across the web."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:99
+msgid "Our Story"
+msgstr "Nossa história"
+
+#: themes/pub/wporg-main/page-about.php:87
+msgid "Learn about the community and how we get along."
+msgstr "Aprenda sobre a comunidade e sobre como nos damos bem."
+
+#: themes/pub/wporg-main/page-about.php:86
+msgid "The People"
+msgstr "As pessoas"
+
+#: themes/pub/wporg-main/page-about.php:76
+msgid "There&#8217;s so much in the details. Stay abreast with the particulars."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:75
+msgid "The Details"
+msgstr "Os detalhes"
+
+#: themes/pub/wporg-main/page-about.php:65
+msgid "Learn about WordPress, where it&#8217;s been, and where it&#8217;s going."
+msgstr "Aprenda sobre o WordPress: de onde ele veio e para onde ele vai."
+
+#: themes/pub/wporg-main/page-about.php:59
+msgid "WordPress contributors work around the globe, and have dedicated countless hours to build a tool that democratizes publishing. WordPress is open source software that is both free and priceless."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:55
+msgid "Learn about the people"
+msgstr "Aprenda sobre as pessoas"
+
+#: themes/pub/wporg-main/page-about.php:54
+msgid "The Community"
+msgstr "A comunidade"
+
+#: themes/pub/wporg-main/page-about.php:49
+msgid "Learn about the software"
+msgstr "Aprenda sobre o programa"
+
+#: themes/pub/wporg-main/page-about.php:48
+#: themes/pub/wporg-main/page-about.php:64
+msgid "The Technology"
+msgstr "A tecnologia"
+
+#. translators: Link to
+#: themes/pub/wporg-main/page-about.php:41
+msgid "We believe in democratizing publishing and the <a href=\"%s\">freedoms that come with open source</a>. Supporting this idea is a large community of people collaborating on and contributing to this project. The WordPress community is welcoming and inclusive. Our contributors&#8217; passion drives the success of WordPress which, in turn, helps you reach your goals."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:37
+msgid "WordPress is software designed for everyone, emphasizing accessibility, performance, security, and ease of use. We believe great software should work with minimum set up, so you can focus on sharing your story, product, or services freely. The basic WordPress software is simple and predictable so you can easily get started. It also offers powerful features for growth and success."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about.php:36
+msgid "Our Mission"
+msgstr "Nossa missão"
+
+#: themes/pub/wporg-main/page-about.php:30
+msgid "The freedom to build. The freedom to change. The freedom to share."
+msgstr ""
+
+#. translators: Link to swag store
+#: themes/pub/wporg-main/page-about-swag.php:54
+msgid "So show the love and spread the word &mdash; get your <a href=\"%s\">WordPress swag</a> today."
+msgstr "Então mostre o seu amor e espalhe a palavra! Obtenha o seu <a href=\"%s\">produto WordPress</a> hoje mesmo."
+
+#: themes/pub/wporg-main/page-about-swag.php:50
+msgid "The proceeds from these sales help offset the cost of providing free swag (buttons, stickers, etc.) to WordCamps and WordPress meetups around the world."
+msgstr "Os lucros destas vendas ajudam a compensar o custo dos brindes (broches, adesivos etc.) distribuídos nos WordCamps e meetups de WordPress por todo o mundo."
+
+#: themes/pub/wporg-main/page-about-swag.php:49
+msgid "The swag store also rotates other products through the lineup on a regular basis."
+msgstr ""
+
+#. translators: Link to swag store
+#: themes/pub/wporg-main/page-about-swag.php:46
+msgid "Whether you&#8217;re a seasoned WordPress fanatic or just getting warmed up, wear your WordPress love with pride. The official <a href=\"%s\">WordPress Swag Store</a> sells shirts and hoodies in a variety of designs and colors, printed on stock from socially responsible companies."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-stats.php:40
+msgid "Here are some charts showing what sorts of systems people are running WordPress on. (You&#8217;ll need JavaScript enabled to see them.)"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-roadmap.php:78
+msgid "No musician chosen."
+msgstr "Nenhum músico escolhido."
+
+#: themes/pub/wporg-main/page-about-roadmap.php:72
+msgid "Date"
+msgstr "Data"
+
+#: themes/pub/wporg-main/page-about-roadmap.php:71
+msgid "Musician"
+msgstr "Músico"
+
+#. translators: 1: Link to playlist
+#: themes/pub/wporg-main/page-about-roadmap.php:63
+msgid "WordPress core developers share a love of jazz music, and all our major releases are named in honor of jazz musicians we personally admire. Here&#8217;s a list of releases and the musicians they were named for. <a href=\"%s\">You can listen to a Last.fm station of all the musicians we named a release for</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-roadmap.php:58
+msgid "Jazzers and Release Dates"
+msgstr "Jazzistas e datas de lançamento"
+
+#: themes/pub/wporg-main/page-about-roadmap.php:56
+msgid "The month prior to a release new features are frozen and the focus is entirely on ensuring the quality of the release by eliminating bugs and profiling the code for any performance issues."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-roadmap.php:50
+msgid "Planned"
+msgstr "Planejado"
+
+#: themes/pub/wporg-main/page-about-roadmap.php:50
+#: themes/pub/wporg-main/page-about-roadmap.php:70
+msgid "Version"
+msgstr "Versão"
+
+#: themes/pub/wporg-main/page-about-roadmap.php:48
+msgid "Any projected dates are for discussion and planning purposes, and will be firmed up as we get closer to release."
+msgstr ""
+
+#. translators: 1: Link to Ideas forum; 2: Link to Core Trac
+#: themes/pub/wporg-main/page-about-roadmap.php:45
+msgid "After the 2.1 release, we decided to adopt a regular release schedule every 3-4 months with the features primarily driven by <a href=\"%1$s\">ideas voted on by our users</a>. Here are the current planned releases, and links to their respective milestones in our <a href=\"%2$s\">issue tracker</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-requirements.php:104
+msgid "Hosting is more secure when PHP applications, like WordPress, are run using your account&#8217;s username instead of the server&#8217;s default shared username. Ask your potential host what steps they take to ensure the security of your account."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-requirements.php:102
+msgid "Not required, but recommended for better security"
+msgstr "Não obrigatório, mas recomendado por questão de segurança"
+
+#: themes/pub/wporg-main/page-about-requirements.php:99
+msgid "Thanks!"
+msgstr "Obrigado!"
+
+#: themes/pub/wporg-main/page-about-requirements.php:96
+msgid "HTTPS support"
+msgstr "Suporte ao protocolo HTTPS"
+
+#: themes/pub/wporg-main/page-about-requirements.php:95
+msgid "Nginx or Apache with mod_rewrite module"
+msgstr "Nginx ou Apache com o módulo mod_rewrite"
+
+#. translators: 1: MySQL version; 2: MariaDB Version
+#: themes/pub/wporg-main/page-about-requirements.php:93
+msgid "MySQL %1$s or greater OR MariaDB %2$s or greater"
+msgstr ""
+
+#. translators: PHP Version
+#: themes/pub/wporg-main/page-about-requirements.php:89
+msgid "PHP %s or greater"
+msgstr "PHP %s ou superior"
+
+#: themes/pub/wporg-main/page-about-requirements.php:84
+msgid "I&#8217;m interested in running the open-source WordPress &lt;https://wordpress.org/&gt; web software and I was wondering if my account supported the following:"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-requirements.php:81
+msgid "Here&#8217;s a letter you can send to your host; copy and paste!"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-requirements.php:79
+msgid "Ask for it"
+msgstr "Pergunte sobre isso"
+
+#. translators: 1: PHP Version including; 2: MySQL Version
+#: themes/pub/wporg-main/page-about-requirements.php:73
+msgid "Note: If you are in a legacy environment where you only have older PHP or MySQL versions, WordPress also works with PHP %1$s+ and MySQL %2$s+, but these versions have reached official End Of Life and as such <strong>may expose your site to security vulnerabilities</strong>."
+msgstr ""
+
+#. translators: 1: URL to Apache; 2: URL to Nginx; 3: URL to hosting page
+#: themes/pub/wporg-main/page-about-requirements.php:66
+msgid "That&#8217;s really it. We recommend <a href=\"%1$s\">Apache</a> or <a href=\"%2$s\">Nginx</a> as the most robust and featureful server for running WordPress, but any server that supports PHP and MySQL will do. That said, we can&#8217;t test every possible environment and <a href=\"%3$s\">each of the hosts on our hosting page</a> supports the above and more with no problems."
+msgstr ""
+
+#. translators: URL to news post
+#: themes/pub/wporg-main/page-about-requirements.php:58
+msgid "<a href=\"%s\">HTTPS</a> support"
+msgstr "Suporte <a href=\"%s\">HTTPS</a>"
+
+#. translators: 1: URL to MySQL; 2: MySQL Version; 3: URL to MariaDB; 4:
+#. MariaDB Version
+#: themes/pub/wporg-main/page-about-requirements.php:52
+msgid "<a href=\"%1$s\">MySQL</a> version %2$s or greater <em>OR</em> <a href=\"%3$s\">MariaDB</a> version %4$s or greater."
+msgstr ""
+
+#. translators: 1: URL to PHP; 2: PHP Version
+#: themes/pub/wporg-main/page-about-requirements.php:46
+msgid "<a href=\"%1$s\">PHP</a> version %2$s or greater."
+msgstr "<a href=\"%1$s\">PHP</a> versão %2$s superior."
+
+#: themes/pub/wporg-main/page-about-requirements.php:40
+msgid "To run WordPress we recommend your host supports:"
+msgstr "Para executar o WordPress, recomendamos que o seu host suporte:"
+
+#: themes/pub/wporg-main/page-about-privacy.php:60
+msgid "Although most changes are likely to be minor, WordPress.org may change its Privacy Policy from time to time, and in WordPress.org&#8217;s sole discretion. WordPress.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:59
+msgid "Privacy Policy Changes"
+msgstr "Alterações na política de privacidade"
+
+#: themes/pub/wporg-main/page-about-privacy.php:57
+msgid "A cookie is a string of information that a website stores on a visitor&#8217;s computer, and that the visitor&#8217;s browser provides to the website each time the visitor returns. WordPress.org uses cookies to help WordPress.org identify and track visitors, their usage of WordPress.org, and their website access preferences. WordPress.org visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using WordPress.org&#8217;s websites, with the drawback that certain features of WordPress.org&#8217;s websites may not function properly without the aid of cookies."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:56
+msgid "Cookies"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:54
+msgid "WordPress.org discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on WordPress.org&#8217;s behalf or to provide services available at WordPress.org, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using WordPress.org, you consent to the transfer of such information to them. WordPress.org will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, WordPress.org discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when WordPress.org believes in good faith that disclosure is reasonably necessary to protect the property or rights of WordPress.org, third parties, or the public at large. If you are a registered user of a WordPress.org website and have supplied your email address, WordPress.org may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what&#8217;s going on with WordPress.org and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WordPress.org takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:53
+msgid "Protection of Certain Personally-Identifying Information"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:51
+msgid "WordPress.org may collect statistics about the behavior of visitors to its websites. For instance, WordPress.org may reveal how many downloads a particular version got, or say which plugins are most popular based on checks from <code>api.wordpress.org</code>, a web service used by WordPress installations to check for new versions of WordPress and plugins. However, WordPress.org does not disclose personally-identifying information other than as described below."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:50
+msgid "Aggregated Statistics"
+msgstr "Estatísticas agregadas"
+
+#: themes/pub/wporg-main/page-about-privacy.php:48
+msgid "Certain visitors to WordPress.org choose to interact with WordPress.org in ways that require WordPress.org to gather personally-identifying information. The amount and type of information that WordPress.org gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, WordPress.org collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor&#8217;s interaction with WordPress.org. WordPress.org does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:47
+msgid "Gathering of Personally-Identifying Information"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:45
+msgid "WordPress.org also collects potentially personally-identifying information like Internet Protocol (IP) addresses. WordPress.org does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:43
+msgid "Like most website operators, WordPress.org collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. WordPress.org&#8217;s purpose in collecting non-personally identifying information is to better understand how WordPress.org&#8217;s visitors use its website. From time to time, WordPress.org may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-privacy.php:42
+msgid "Website Visitors"
+msgstr "Visitantes do site"
+
+#: themes/pub/wporg-main/page-about-privacy.php:40
+msgid "WordPress.org websites (collectively &ldquo;WordPress.org&rdquo; in this document) refer to sites hosted on the WordPress.org, WordPress.net, WordCamp.org, BuddyPress.org, bbPress.org, and other related domains and subdomains thereof."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:79
+msgid "The most responsible use of WordPress community resources would therefore be put to best use by emphasizing high quality contributions that embrace the freedoms provided by the GPL."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:78
+msgid "Obviously there are those who will try to get around these ideals and restrict the freedom of their users by trying to find loopholes or somehow circumvent the intention of the WordPress licensing, which is to ensure freedom of use. We believe that the community as a whole will reward those who focus on supporting these licensing freedoms instead of trying to avoid them."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:77
+msgid "Part of those licensing requirements include licensing derivative works or things that link core WordPress functions (like themes, plugins, etc.) under the GPL as well, thereby passing on the freedom of use for these works as well."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:75
+#: themes/pub/wporg-main/page-about-security.php:91
+msgid "The freedom to distribute copies of your modified versions to others."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:74
+#: themes/pub/wporg-main/page-about-security.php:90
+msgid "The freedom to redistribute."
+msgstr "A liberdade de redistribuir."
+
+#: themes/pub/wporg-main/page-about-philosophy.php:73
+#: themes/pub/wporg-main/page-about-security.php:89
+msgid "The freedom to study how the program works, and change it to make it do what you wish."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:72
+#: themes/pub/wporg-main/page-about-security.php:88
+msgid "The freedom to run the program, for any purpose."
+msgstr "A liberdade para executar o programa, para qualquer propósito."
+
+#: themes/pub/wporg-main/page-about-philosophy.php:70
+msgid "WordPress is licensed under the General Public License (GPLv2 or later) which provides four core freedoms, consider this as the WordPress &quot;bill of rights&quot;:"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:69
+msgid "Our Bill of Rights"
+msgstr "Nossa Declaração de Direitos"
+
+#: themes/pub/wporg-main/page-about-philosophy.php:67
+msgid "So while we consider it really important to listen and respond to those who post feedback and voice their opinions on forums, they only represent a tiny fraction of our end users. When making decisions on how to move forward with future versions of WordPress, we look to engage more of those users who are not so vocal online. We do this by meeting and talking to users at WordCamps across the globe, this gives us a better balance of understanding and ultimately allows us to make better decisions for everyone moving forward."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:66
+msgid "There&rsquo;s a good rule of thumb within internet culture called the 1% rule. It states that &quot;the number of people who create content on the internet represents approximately 1% (or less) of the people actually viewing that content&quot;."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:65
+msgid "The Vocal Minority"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:63
+msgid "The more frequent and regular releases are, the less important it is for any particular feature to be in this release. If it doesn&rsquo;t make it for this one, it&rsquo;ll just be a few months before the next one. When releases become unpredictable or few and far between, there&rsquo;s more pressure to try and squeeze in that one more thing because it&rsquo;s going to be so long before the next one. Delay begets delay."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:62
+msgid "The route of delaying a release for that one-more-feature is a rabbit hole. We did that for over a year once, and it wasn&rsquo;t pleasant for anybody."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:61
+msgid "Good deadlines almost always make you trim something from a release. This is not a bad thing, it&rsquo;s what they&rsquo;re supposed to do."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:60
+msgid "Deadlines are not arbitrary, they&rsquo;re a promise we make to ourselves and our users that helps us rein in the endless possibilities of things that could be a part of every release. We aspire to release three major versions a year because through trial and error we&rsquo;ve found that to be a good balance between getting cool stuff in each release and not so much that we end up breaking more than we add."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:59
+msgid "Deadlines Are Not Arbitrary"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:57
+msgid "We love to challenge ourselves and simplify tasks in ways that are positive for the overall WordPress user experience. Every version of WordPress should be easier and more enjoyable to use than the last."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:56
+msgid "In past releases we&rsquo;ve taken major steps to improve ease of use and ultimately make things simpler to understand. One great example of this is core software updates. Updating used to be a painful manual task that was too tricky for a lot of our users. We decided to focus on this and simplified it down to a single click. Now anyone with a WordPress install can perform one click upgrades on both the core of WordPress and plugins and themes."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:55
+msgid "We&rsquo;re never done with simplicity. We want to make WordPress easier to use with every single release. We&rsquo;ve got a good track record of this, if you don&rsquo;t believe us then just take a look back at some older versions of WordPress!"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:54
+msgid "Striving for Simplicity"
+msgstr "Lutando pela simplicidade"
+
+#: themes/pub/wporg-main/page-about-philosophy.php:52
+msgid "We are able to do this because we have a very capable theme and plugin system and a fantastic developer community. Different people have different needs, and having the sheer number of quality WordPress plugins and themes allows users to customize their installations to their taste. That should allow all users to find the remaining 20% and make all WordPress features those they appreciate and use."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:51
+msgid "The core of WordPress will always provide a solid array of basic features. It&rsquo;s designed to be lean and fast and will always stay that way. We are constantly asked &quot;when will X feature be built&quot; or &quot;why isn&rsquo;t X plugin integrated into the core&quot;. The rule of thumb is that the core should provide features that 80% or more of end users will actually appreciate and use. If the next version of WordPress comes with a feature that the majority of users immediately want to turn off, or think they&rsquo;ll never use, then we&rsquo;ve blown it. If we stick to the 80% principle then this should never happen."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:50
+msgid "Clean, Lean, and Mean"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:48
+msgid "When making decisions these are the users we consider first. A great example of this consideration is software options. Every time you give a user an option, you are asking them to make a decision. When a user doesn&rsquo;t care or understand the option this ultimately leads to frustration. As developers we sometimes feel that providing options for everything is a good thing, you can never have too many choices, right? Ultimately these choices end up being technical ones, choices that the average end user has no interest in. It&rsquo;s our duty as developers to make smart design decisions and avoid putting the weight of technical choices on our end users."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:47
+msgid "Decisions, not Options"
+msgstr "Decisões, não opções"
+
+#: themes/pub/wporg-main/page-about-philosophy.php:45
+msgid "Many end users of WordPress are non-technically minded. They don&rsquo;t know what AJAX is, nor do they care about which version of PHP they are using. The average WordPress user simply wants to be able to write without problems or interruption. These are the users that we design the software for as they are ultimately the ones who are going to spend the most time using it for what it was built for."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:44
+msgid "Design for the Majority"
+msgstr "Design para a maioria"
+
+#: themes/pub/wporg-main/page-about-philosophy.php:42
+msgid "We work hard to make sure that every release is in keeping with this philosophy. We ask for as few technical details as possible during the setup process as well as providing full explanations of anything we do ask."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:41
+msgid "Great software should work with little configuration and setup. WordPress is designed to get you up and running and fully functional in no longer than five minutes. You shouldn&rsquo;t have to battle to use the standard functionality of WordPress."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-philosophy.php:40
+msgid "Out of the Box"
+msgstr "Pronto para usar"
+
+#: themes/pub/wporg-main/page-about-logos.php:118
+msgid "Friends don&#8217;t let friends use the wrong WordPress logo. If you see one of these in the wild, please suggest a change."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:117
+msgid "Fight the Fake Logo (Fauxgo)"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:105
+msgid "W Mark"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:92
+msgid "Word Mark"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:79
+msgid "Alternative, vertical arrangement"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:71
+#: themes/pub/wporg-main/page-about-logos.php:84
+#: themes/pub/wporg-main/page-about-logos.php:97
+#: themes/pub/wporg-main/page-about-logos.php:110
+msgid "PNG <span>(White/transparent)</span>"
+msgstr "PNG <span>(branco/transparente)</span>"
+
+#: themes/pub/wporg-main/page-about-logos.php:70
+#: themes/pub/wporg-main/page-about-logos.php:83
+#: themes/pub/wporg-main/page-about-logos.php:96
+#: themes/pub/wporg-main/page-about-logos.php:109
+msgid "PNG <span>(BaseGray/transparent)</span>"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:69
+#: themes/pub/wporg-main/page-about-logos.php:82
+#: themes/pub/wporg-main/page-about-logos.php:95
+#: themes/pub/wporg-main/page-about-logos.php:108
+msgid "PDF <span>(Vector)</span>"
+msgstr "PDF <span>(vetor)</span>"
+
+#: themes/pub/wporg-main/page-about-logos.php:66
+msgid "Standard"
+msgstr "Padrão"
+
+#: themes/pub/wporg-main/page-about-logos.php:65
+#: themes/pub/wporg-main/page-about-logos.php:78
+#: themes/pub/wporg-main/page-about-logos.php:91
+#: themes/pub/wporg-main/page-about-logos.php:104
+msgid "WordPress Logotype"
+msgstr "Logo do WordPress"
+
+#: themes/pub/wporg-main/page-about-logos.php:58
+msgid "Adobe Illustrator CS5+ Sketch 3"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:55
+msgid "All versions"
+msgstr "Todas as versões"
+
+#: themes/pub/wporg-main/page-about-logos.php:54
+msgid "WordPress Logotypes"
+msgstr "Logotipos do WordPress"
+
+#: themes/pub/wporg-main/page-about-logos.php:48
+msgid "Downloads"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-logos.php:40
+msgid "Official WordPress Logo"
+msgstr "Logo oficial do WordPress"
+
+#. translators: 1: Link to Serendipity; 2: Link to Habari
+#: themes/pub/wporg-main/page-about-license.php:57
+msgid "There is some legal grey area regarding what is considered a derivative work, but we feel strongly that plugins and themes are derivative work and thus inherit the GPL license. If you disagree, you might want to consider a non-GPL platform such as <a href=\"%1$s\">Serendipity</a> (BSD license) or <a href=\"%2$s\">Habari</a> (Apache license) instead."
+msgstr ""
+
+#. translators: 1: Link to Drupal; 2: Link to Drupal's licensing faq
+#: themes/pub/wporg-main/page-about-license.php:50
+msgid "Part of this license outlines requirements for derivative works, such as plugins or themes. Derivatives of WordPress code inherit the GPL license. <a href=\"%1$s\">Drupal</a>, which has the same GPL license as WordPress, has an excellent page on <a href=\"%2$s\">licensing as it applies to themes and modules</a> (their word for plugins)."
+msgstr ""
+
+#. translators: 1: Link to Free Software Foundation; 2: Link to GPL text
+#: themes/pub/wporg-main/page-about-license.php:43
+msgid "The license under which the WordPress software is released is the GPLv2 (or later) from the <a href=\"%1$s\">Free Software Foundation</a>. A copy of the license is included with every copy of WordPress, but you can also <a href=\"%2$s\">read the text of the license here</a>."
+msgstr ""
+
+#. translators: 1: Link to Developer Handbook page about default scripts
+#: themes/pub/wporg-main/page-about-features.php:143
+msgid "WordPress comes with the <a href=\"%s\">latest script libraries</a> for you to make use of. These include jQuery, Plupload, Underscore.js and Backbone.js. We&#8217;re always on the lookout for new tools that developers can use to make a better experience for our users."
+msgstr ""
+
+#. translators: 1: Link to Codex page about Custom Post Types; 2: Link to Codex
+#. page about Custom Taxonomies; 3: Link to Codex page about Custom Fields
+#: themes/pub/wporg-main/page-about-features.php:137
+msgid "WordPress comes with default content types, but for more flexibility you can add a few lines of code to create your own <a href=\"%1$s\">custom post types</a>, <a href=\"%2$s\">taxonomies</a>, and <a href=\"%3$s\">metadata</a>. Take WordPress in whatever direction you wish."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:132
+msgid "If you want to build an application, WordPress can help with that too. Under the hood WordPress provides a lot of the features that your app will need, things like translations, user management, HTTP requests, databases, URL routing and much, much more."
+msgstr ""
+
+#. translators: 1: Link to Codex page about APIs; 2: Link to Theme Directory
+#: themes/pub/wporg-main/page-about-features.php:128
+msgid "Create WordPress themes for clients, other WordPress users, or yourself. The <a href=\"%1$s\">WordPress API</a> provides the extensibility to create themes as simple or as complex as you wish. If you want to give your theme away for free you can give it to users in the <a href=\"%2$s\">Theme Repository</a>"
+msgstr ""
+
+#. translators: 1: Link to Codex page about APIs; 2: Link to Plugin Directory
+#: themes/pub/wporg-main/page-about-features.php:122
+msgid "The <a href=\"%1$s\">WordPress APIs</a> make it possible for you to create plugins to extend WordPress. WordPress&#8217;s extensibility lies in the thousands of hooks at your disposal. Once you&#8217;ve created your plugin, we&#8217;ve even got a <a href=\"%2$s\">plugin repository</a> for you to host it on."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:116
+msgid "For developers, we&#8217;ve got lots of goodies packed under the hood that you can use to extend WordPress in whatever direction takes your fancy."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:112
+msgid "You can be WordPress too! Help to build WordPress, answer questions on the support forums, write documentation, translate WordPress into your language, speak at a WordCamp, write about WordPress on your blog. Whatever your skill, we&#8217;d love to have you!"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:109
+msgid "As the most popular open source CMS on the web, WordPress has a vibrant and supportive community. Ask a question on the support forums and get help from a volunteer, attend a WordCamp or Meetup to learn more about WordPress, read blogs posts and tutorials about WordPress. Community is at the heart of WordPress, making it what it is today."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:106
+msgid "WordPress is licensed under the GPL which was created to protect your freedoms. You are free to use WordPress in any way you choose: install it, use it, modify it, distribute it. Software freedom is the foundation that WordPress is built on."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:103
+msgid "Hosted services come and go. If you&#8217;ve ever used a service that disappeared, you know how traumatic that can be. If you&#8217;ve ever seen adverts appear on your website, you&#8217;ve probably been pretty annoyed. Using WordPress means no one has access to your content. Own your data, all of it &mdash; your website, your content, your data."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:100
+msgid "Using blog or website software that you aren&#8217;t happy with? Running your blog on a hosted service that&#8217;s about to shut down? WordPress comes with importers for blogger, LiveJournal, Movable Type, TypePad, Tumblr, and WordPress. If you&#8217;re ready to make the move, we&#8217;ve made it easy for you."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:97
+msgid "WordPress has always been easy to install and upgrade. If you&#8217;re happy using an FTP program, you can create a database, upload WordPress using FTP, and run the installer. Not familiar with FTP? Plenty of web hosts offer one-click WordPress installers that let you install WordPress with, well, just one click!"
+msgstr ""
+
+#. translators: Link to polyglots teams
+#: themes/pub/wporg-main/page-about-features.php:93
+msgid "WordPress is available in more than 70 languages. If you or the person you&#8217;re building the website for would prefer to use WordPress in a language other than English, <a href=\"%s\">that&#8217;s easy to do</a>."
+msgstr ""
+
+#. translators: Link to Plugin Directory search for SEO
+#: themes/pub/wporg-main/page-about-features.php:87
+msgid "WordPress is optimized for search engines right out of the box. For more fine-grained SEO control, there are plenty of <a href=\"%s\">SEO plugins</a> to take care of that for you."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:82
+msgid "Your blog is your home, and comments provide a space for your friends and followers to engage with your content. WordPress&#8217;s comment tools give you everything you need to be a forum for discussion and to moderate that discussion."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:79
+msgid "WordPress comes packed full of features for every user, for every other feature there&#8217;s a plugin directory with thousands of plugins. Add complex galleries, social networking, forums, social media widgets, spam protection, calendars, fine-tune controls for search engine optimization, and forms."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:76
+msgid "WordPress comes bundled with two default themes, but if they aren&#8217;t for you there&#8217;s a theme directory with thousands of themes for you to create a beautiful website. None of those to your taste? Upload your own theme with the click of a button. It only takes a few seconds for you to give your website a complete makeover."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:73
+msgid "Every piece of WordPress generated code is in full compliance with the standards set by the W3C. This means that your website will work in today&#8217;s browser, while maintaining forward compatibility with the next generation of browser. Your website is a beautiful thing, now and in the future."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:70
+msgid "They say a picture says a thousand words, which is why it&#8217;s important for you to be able to quickly and easily upload images and media to WordPress. Drag and drop your media into the uploader to add it to your website. Add alt text, captions, and titles, and insert images and galleries into your content. We&#8217;ve even added a few image editing tools you can have fun with."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:67
+msgid "Not everyone requires the same access to your website. Administrators manage the site, editors work with content, authors and contributors write that content, and subscribers have a profile that they can manage. This lets you have a variety of contributors to your website, and let others simply be part of your community."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:64
+msgid "WordPress makes it easy for you to manage your content. Create drafts, schedule publication, and look at your post revisions. Make your content public or private, and secure posts and pages with a password."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:61
+msgid "If you&#8217;ve ever created a document, you&#8217;re already a whizz at creating content with WordPress. You can create Posts and Pages, format them easily, insert media, and with the click of a button your content is live and on the web."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:58
+msgid "With WordPress, you can create any type of website you want: a personal blog or website, a photoblog, a business website, a professional portfolio, a government website, a magazine or news website, an online community, even a network of websites. You can make your website beautiful with themes, and extend it with plugins. You can even build your very own application."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:55
+msgid "Simplicity makes it possible for you to get online and get publishing, quickly. Nothing should get in the way of you getting your website up and your content out there. WordPress is built to make that happen."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:51
+msgid "Here are some of the features that we think that you&#8217;ll love."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:49
+msgid "The following is a list of some of the features that come as standard with WordPress; however, there are literally thousands of plugins that extend what WordPress does, so the actual functionality is nearly limitless. You are also free to do whatever you like with the WordPress code, extend it or modify in any way or use it for commercial projects without any licensing fees. That is the beauty of free software, free refers not only to price but also the freedom to have complete control over it."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-features.php:47
+msgid "WordPress combines simplicity for users and publishers with under-the-hood complexity for developers. This makes it flexible while still being easy-to-use."
+msgstr ""
+
+#. translators: WordPress market share: 30 - Note: The following percent sign
+#. is '%%' for escaping purposes;
+#: themes/pub/wporg-main/page-about-features.php:43
+msgid "WordPress powers more than %s%% of the web &mdash; a figure that rises every day. Everything from simple websites, to blogs, to complex portals and enterprise websites, and even applications, are built with WordPress."
+msgstr ""
+
+#. translators: 1: Link to community team slack channel; 2: Link to tag archive
+#. on make/community
+#: themes/pub/wporg-main/page-about-etiquette.php:65
+msgid "Meetings are conducted in the <a href=\"%1$s\">#community-team Slack channel</a>, and minutes published on the <a href=\"%2$s\">Make Community blog</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-etiquette.php:60
+msgid "There is a project currently underway to create a project-wide code of conduct so that we can ensure the safety of our contributors."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-etiquette.php:57
+msgid "The WordPress open source community cares about diversity. We strive to maintain a welcoming environment where everyone can feel included, by keeping communication free of discrimination, incitement to violence, promotion of hate, and unwelcoming behavior."
+msgstr ""
+
+#. translators: Link to make.wordpress.org
+#: themes/pub/wporg-main/page-about-etiquette.php:54
+msgid "Any member of the community can donate their time and contribute to the project in any form including design, code, documentation, community building, etc. For more information, go to <a href=\"%s\">make.wordpress.org</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-etiquette.php:50
+msgid "The WordPress open source project is a volunteer-run community. Even in cases where contributors are sponsored by companies, that time is donated for the benefit of the entire open source community."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-etiquette.php:49
+msgid "Participation in the WordPress open source project is open to all who wish to join, regardless of ability, skill, financial status, or any other criteria."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-etiquette.php:48
+msgid "Contributions to the WordPress open source project are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions taken as a contributor should be made with the best interests of the community in mind."
+msgstr ""
+
+#. translators: Link to blog post
+#: themes/pub/wporg-main/page-about-etiquette.php:43
+msgid "In the WordPress open source project, we realize that our biggest asset is the community that we foster. The project, as a whole, follows these basic philosophical principles from <a href=\"%s\">The Cathedral and The Bazaar</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:53
+msgid "If they&#8217;re not WordPress.com, WordPress.net, WordPress.org, WordPress.tv, or WordPressFoundation.org, they&#8217;re not allowed, and you should contact the owner with a pointer to this page. We see this most frequently with spammy sites distributing plugins and themes with malware in them, which you probably don&#8217;t want to be associated with."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:52
+msgid "&lt;whine&gt;Other domains are using WordPress in them!&lt;/whine&gt;"
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:50
+msgid "We&#8217;ve told this to anyone who has ever asked us, we just wanted to make it public so more people could be aware of this policy."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:46
+msgid "&#8220;WordPress&#8221; in sub-domains is fine, like <code>wordpress.example.com</code>, we&#8217;re just concerned about top-level domains."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:42
+msgid "If you already have a domain with &#8220;WordPress&#8221; in it, redirecting it to the &#8220;wp&#8221; equivalent is fine, just as long as the main one users see and you promote doesn&#8217;t contain &#8220;WordPress&#8221; and in the long term you should consider transferring the old one to the Foundation."
+msgstr ""
+
+#: themes/pub/wporg-main/page-about-domains.php:40
+msgid "For various reasons related to our WordPress trademark, we ask if you&#8217;re going to start a site about WordPress or related to it that you <strong>not</strong> use &#8220;WordPress&#8221; in the domain name. Try using &#8220;wp&#8221; instead, or another variation. We&#8217;re not lawyers, but very good ones tell us we have to do this to preserve our trademark. Also, many users have told us they find it confusing."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:109
+msgid "WordPress is software designed for everyone with emphasis on accessibility, performance, security, and usability."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:108
+#: themes/pub/wporg-main/page-about.php:27
+msgid "Democratize Publishing"
+msgstr "Liberdade para publicar"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:99
+msgid "Show your WordPress pride and run with the coolest swag! You&#8217;ll be surprised how widely recognized our logo is around the world, bringing people together through recognition and community. Choose your WordPress swag today (Wapuu t-shirt, anyone?) and your purchase will also support free swag at WordCamps and meetups."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:94
+msgid "WordPress is committed to transparency, and you can get a better sense of its constant worldwide growth through the statistics we share. Review key WordPress stats including usage breakdown by WordPress versions, PHP and MySQL versions being run, and locales of use, and see how WordPress expands its global reach."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:93
+msgid "Key WordPress Statistics"
+msgstr ""
+
+#. translators: WordPress market share: 30 - Note: The following percent sign
+#. is '%%' for escaping purposes;
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:89
+msgid "Why is WordPress recommended as a secure website-building solution? With a passionate open source community and an extensible, easy-to-use platform, WordPress provides flexible and secure options for all levels of users, from beginners to pros. Learn how WordPress guarantees the security of %s%% of the web."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:87
+msgid "WordPress is Secure"
+msgstr "O WordPress é seguro"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:83
+msgid "The WordPress Roadmap lists major releases by date, includes details about the features of each release, and acknowledges the contributing community members. Learn about the status of upcoming releases, development cycles, issues, and milestones. Follow the progress of WordPress development week after week!"
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:82
+msgid "WordPress Development Roadmap"
+msgstr "Roteiro de desenvolvimento WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:78
+msgid "Running WordPress doesn&#8217;t require a lot, but your host will still need to meet a few minimum requirements. Learn about the website hosting requirements to run WordPress, including our recommendation to support PHP 7.2+ and HTTPS. Not sure how to ask your host for these details? Use the sample email we include."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:77
+msgid "Hosting Requirements for WordPress"
+msgstr "Requisitos de hospedagem para o WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:73
+msgid "Like other major software platforms, WordPress gathers and collects statistics and analytical data. Privacy is key in this endeavor and WordPress never discloses any personally identifiable data. Review the WordPress Privacy Policy to learn how, as a participant in this community, you&#8217;re privacy is protected."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:72
+msgid "WordPress Privacy Policy"
+msgstr "Política de privacidade do WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:68
+msgid "At the core of the WordPress philosophy is our commitment to the open web and to building software that works for everyone, from a new user to an advanced developer. Our philosophy pushes WordPress to remain flexible, adaptable, and easy-to-use. Learn about WordPress&#8217;s philosophy and how it shapes our community."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:67
+msgid "WordPress&rsquo; Philosophy"
+msgstr "Filosofia do WordPress"
+
+#. translators: Link to Trademark Policy of WordPress Foundation
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:63
+#: themes/pub/wporg-main/page-about-logos.php:44
+msgid "When you need the official WordPress logo for a web site or publication, please use one of the following. Please only use logos in accordance with the <a href=\"%s\">WordPress trademark&nbsp;policy</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:58
+msgid "WordPress is an open source software project, and a fierce believer in the values of the open web. WordPress uses the GNU Public License, which provides a platform for technical expansion and encourages adaptation and innovation. Learn more about this license, and discover what can and cannot be done under it."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:57
+msgid "The GNU Public License"
+msgstr "A licença pública GNU"
+
+#. translators: WordPress market share: 30 - Note: The following percent sign
+#. is '%%' for escaping purposes;
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:53
+msgid "WordPress currently powers more than %s%% of the web. How did it grow to become the world&#8217;s leading web publishing platform? Learn about the history of WordPress: an open source software project built by an active community of contributors who are passionate about collaboration, empowerment, and the open web."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:51
+msgid "The History of WordPress"
+msgstr "A história do WordPress"
+
+#. translators: 1: WordPress market share: 30 - Note: The following percent
+#. sign is '%%' for escaping purposes; 2: Number of WordPress.org hosted
+#. plugins;
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:47
+msgid "Discover why WordPress powers more than %1$s%% of the web. WordPress is a simple, flexible, user-friendly platform, with key features that include media management, SEO, and endless options for customization. More than %2$s plugins extend the core functionality of WordPress even more. Build your site today."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:45
+msgid "WordPress Features"
+msgstr "Recursos do WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:41
+msgid "We welcome the contributions of everyone who&#8217;s interested in joining the WordPress open source project, and every thriving, diverse community needs etiquette guidelines. Review our simple guidelines that focus on diversity, safety, and inclusion and foster a welcoming community for our contributors around the world."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:40
+msgid "Etiquette at WordPress"
+msgstr "Etiqueta no WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:35
+msgid "WordPress Accessibility"
+msgstr "Acessibilidade do WordPress"
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:31
+msgid "WordPress domains and site names can be very flexible; however, top-level domains can&#8217;t use the word WordPress. Find out what is allowed and what constitutes a trademark violation, as well as policies on subdomain use. Review the list of official WordPress sites to know how to recognize and advise violators."
+msgstr ""
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:30
+msgid "WordPress Domains"
+msgstr "Domínios do WordPress"
+
+#: themes/pub/wporg-main/functions.php:83
+msgid "Locales"
+msgstr ""
+
+#: themes/pub/wporg-main/functions.php:82
+msgid "MySQL Version"
+msgstr "Versão do MySQL"
+
+#: themes/pub/wporg-main/functions.php:81
+msgid "PHP Versions"
+msgstr "Versões do PHP"
+
+#: themes/pub/wporg-main/functions.php:80
+msgid "WordPress Version"
+msgstr "Versão do WordPress"
+
+#: themes/pub/wporg-breathe/functions.php:76
+#: themes/pub/wporg-breathe/functions.php:103
+msgid "Show welcome box"
+msgstr "Mostrar caixa de boas-vindas"
+
+#: themes/pub/wporg-breathe/functions.php:70
+#: themes/pub/wporg-breathe/functions.php:100
+msgid "Hide welcome box"
+msgstr "Ocultar caixa de boas-vindas"
+
+#: themes/pub/wporg/footer.php:64
+msgid "Like %s on Facebook"
+msgstr "Curta %s no Facebook"
+
+#: themes/pub/wporg/footer.php:63
+msgid "Follow %s on Twitter"
+msgstr "Siga %s no Twitter"
+
+#: themes/pub/wporg/footer.php:62
+msgid "WordPress is open source software"
+msgstr "O WordPress é um programa de código aberto"
+
+#: themes/pub/wporg/footer.php:61
+msgid "License / GPLv2"
+msgstr "Licença / GPLv2"
+
+#: themes/pub/wporg/footer.php:60
+msgid "WordPress.org Privacy Policy"
+msgstr "Política de privacidade do WordPress.org"
+
+#: themes/pub/wporg/footer.php:59
+msgid "Privacy"
+msgstr "Privacidade"
+
+#: themes/pub/wporg/footer.php:58
+msgid "Co-founder of WordPress, an example of what WordPress can do"
+msgstr "Cofundador do WordPress, um exemplo do que o WordPress pode fazer"
+
+#: themes/pub/wporg/footer.php:57
+msgid "Matt"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:56
+msgid "Hassle-free WordPress hosting"
+msgstr "Hospedagem WordPress sem problemas"
+
+#: themes/pub/wporg/footer.php:55
+msgid "WordPress.com"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:54
+msgid "Fast, slick forums built on WordPress"
+msgstr "Fóruns rápidos e funcionais construídos com WordPress"
+
+#: themes/pub/wporg/footer.php:53
+msgid "bbPress"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:52
+msgid "A set of plugins to transform your WordPress into a social network"
+msgstr "Um conjunto de plugins para transformar o seu WordPress em uma rede social"
+
+#: themes/pub/wporg/footer.php:51
+msgid "BuddyPress"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:50
+msgid "Videos, tutorials, and WordCamp sessions"
+msgstr "Vídeos, tutoriais e sessões de WordCamps"
+
+#: themes/pub/wporg/footer.php:49
+msgid "WordPress.TV"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:48
+msgid "Find a WordPress event near you"
+msgstr "Encontre um evento WordPress perto de você"
+
+#: themes/pub/wporg/footer.php:47
+msgid "WordCamp"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:46
+msgid "Share your ideas for improving WordPress"
+msgstr "Compartilhe suas ideias para melhorar o WordPress"
+
+#: themes/pub/wporg/footer.php:45
+msgid "Ideas"
+msgstr "Ideias"
+
+#: themes/pub/wporg/footer.php:44
+msgid "Make your WordPress pretty"
+msgstr "Faça seu WordPress ficar lindo"
+
+#: themes/pub/wporg/footer.php:43
+msgid "Themes"
+msgstr "Temas"
+
+#: themes/pub/wporg/footer.php:42
+msgid "Add extra functionality to WordPress"
+msgstr "Adicione funcionalidades ao WordPress"
+
+#: themes/pub/wporg/footer.php:41
+msgid "Plugins"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:40
+msgid "Some of the best WordPress sites on the Web"
+msgstr "Alguns dos melhores sites em WordPress na internet"
+
+#: themes/pub/wporg/footer.php:39
+msgid "Showcase"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:38
+msgid "Workshops and training materials"
+msgstr "Oficinas e materiais de treinamento"
+
+#: themes/pub/wporg/footer.php:37
+msgid "Learn"
+msgstr "Aprenda"
+
+#: themes/pub/wporg/footer.php:36
+msgid "Give back to WordPress through code, support, translation and more"
+msgstr "Contribua para o WordPress com código, suporte, traduções e mais"
+
+#: themes/pub/wporg/footer.php:35
+msgid "Get Involved"
+msgstr "Participe"
+
+#: themes/pub/wporg/footer.php:34
+msgid "Resources for WordPress developers"
+msgstr "Recursos para desenvolvedores WordPress"
+
+#: themes/pub/wporg/footer.php:33
+msgid "Developers"
+msgstr "Desenvolvedores"
+
+#: themes/pub/wporg/footer.php:32
+msgid "Forums, documentation, and other resources"
+msgstr "Fóruns, documentação e outros recursos"
+
+#: themes/pub/wporg/footer.php:31
+msgid "Support"
+msgstr "Suporte"
+
+#: themes/pub/wporg/footer.php:30
+msgid "Donate to the WordPress Foundation"
+msgstr "Doe para a Fundação WordPress"
+
+#: themes/pub/wporg/footer.php:29
+msgid "Donate"
+msgstr "Doe"
+
+#: themes/pub/wporg/footer.php:28
+msgid "Recommended web hosting providers"
+msgstr "Serviços de hospedagens recomendados"
+
+#: themes/pub/wporg/footer.php:27
+msgid "Hosting"
+msgstr "Hospedagem"
+
+#: themes/pub/wporg/footer.php:26
+msgid "News and Updates"
+msgstr "Novidades e atualizações"
+
+#: themes/pub/wporg/footer.php:25
+msgid "Blog"
+msgstr ""
+
+#: themes/pub/wporg/footer.php:24
+msgid "An introduction to the WordPress project"
+msgstr "Uma introdução ao projeto WordPress"
+
+#: themes/pub/wporg/footer.php:23
+msgid "About"
+msgstr "Sobre"
+
+#: themes/pub/wporg/footer.php:22
+msgid "Code is Poetry."
+msgstr "Código é Poesia."
+
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:62
+msgid "Graphics &amp; Logos"
+msgstr "Gráficos e logos"
+
+#: themes/pub/wporg-main/header-child-page.php:24
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:201
+msgctxt "Page title"
+msgid "About"
+msgstr "Sobre"
+
+#: themes/pub/wporg-main/page-about-logos.php:102
+msgid "WordPress Logotype - W Mark"
+msgstr "Logo WordPress - Marca W"
+
+#: themes/pub/wporg-main/page-about-logos.php:89
+msgid "WordPress Logotype - Word Mark"
+msgstr "Logo WordPress - Marca Word"
+
+#: themes/pub/wporg-main/page-about-logos.php:76
+msgid "WordPress Logotype - Alternative"
+msgstr "Logo WordPress - Alternativo"
+
+#: themes/pub/wporg-main/page-about-logos.php:63
+msgid "WordPress Logotype - Standard"
+msgstr "Logo WordPress - Padrão"
+
+#: themes/pub/wporg-main/page-about-logos.php:52
+msgid "WordPress Logotypes - All Versions"
+msgstr "Logo WordPress - Todas as versões"
+
+#: themes/pub/wporg-login/functions.php:195
+msgid "Select the language:"
+msgstr "Selecione o idioma:"
+
+#: themes/pub/wporg-main/sidebar.php:33
+msgid "Subscribe to this blog"
+msgstr "Assine este blog"
+
+#: themes/pub/wporg-login/register.php:97
+msgid "Already have an account?"
+msgstr "Já tem uma conta?"
+
+#: themes/pub/wporg-login/register.php:86
+msgid "Please try again."
+msgstr "Tente novamente."
+
+#: themes/pub/wporg-login/register.php:81
+msgid "Subscribe to WordPress Announcements mailing list (a few messages a year)"
+msgstr "Assinar a lista de e-mail dos anúncios do WordPress (poucas mensagens por ano)"
+
+#: themes/pub/wporg-login/register.php:65
+msgid "Required. Your password will be emailed here."
+msgstr ""
+
+#: themes/pub/wporg-login/register.php:63
+msgid "Email"
+msgstr "E-mail"
+
+#: themes/pub/wporg-login/register.php:49
+msgid "Required. Only lower case letters (a-z) and numbers (0-9) are allowed."
+msgstr ""
+
+#: themes/pub/wporg-login/register.php:47
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: themes/pub/wporg-login/register.php:42
+msgid "Create a WordPress.org account to start contributing to WordPress, get help in the support forums, or rate and review themes and plugins."
+msgstr "Crie uma conta no WordPress.org para começar a contribuir para o WordPress, obter ajuda nos fóruns ou classificar e avaliar temas e plugins."
+
+#: themes/pub/wporg-login/register-profile.php:52
+msgid "Save Profile Information"
+msgstr "Salvar informações do perfil"
+
+#: themes/pub/wporg-login/register-profile.php:44
+msgid "Complete your WordPress.org Profile information."
+msgstr "Complete as informações do seu perfil no WordPress.org."
+
+#. translators: %s Email address
+#: themes/pub/wporg-login/register-profile.php:37
+msgid "Please check your email %s for a confirmation link to set your password."
+msgstr "Confira o e-mail %s para acessar o endereço de confirmação e configure sua senha."
+
+#: themes/pub/wporg-login/register-confirm.php:91
+#: themes/pub/wporg-login/register.php:91
+msgid "Create Account"
+msgstr "Criar conta"
+
+#: themes/pub/wporg-login/register-confirm.php:86
+msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
+msgstr ""
+
+#: themes/pub/wporg-login/register-confirm.php:82
+msgid "Strength indicator"
+msgstr "Indicador de força"
+
+#: themes/pub/wporg-login/register-confirm.php:75
+msgid "Password"
+msgstr "Senha"
+
+#: themes/pub/wporg-login/register-confirm.php:68
+msgid "Set your password and complete your WordPress.org Profile information."
+msgstr "Determine sua senha e complete as informações do seu perfil no WordPress.org."
+
+#: themes/pub/wporg-login/partials/register-profilefields.php:36
+msgid "Interests"
+msgstr "Interesses"
+
+#: themes/pub/wporg-login/partials/register-profilefields.php:31
+msgid "Occupation"
+msgstr "Ocupação"
+
+#: themes/pub/wporg-login/partials/register-profilefields.php:26
+msgid "Location"
+msgstr "Localização"
+
+#: themes/pub/wporg-login/partials/register-profilefields.php:21
+msgid "Website"
+msgstr "Site"
+
+#: themes/pub/wporg-login/lostpassword.php:19
+msgid "Get new password"
+msgstr "Obter nova senha"
+
+#: themes/pub/wporg-login/lostpassword.php:14
+msgid "Username or Email"
+msgstr "Nome de usuário ou e-mail"
+
+#: themes/pub/wporg-login/lostpassword.php:12
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#. translators: %s: logout URL
+#: themes/pub/wporg-login/logout.php:15
+msgid "Do you really want to <a href=\"%s\">log out</a>?"
+msgstr "Quer mesmo <a href=\"%s\">sair</a>?"
+
+#: themes/pub/wporg-login/logout.php:10
+msgid "You are attempting to log out of WordPress.org."
+msgstr "Você está tentando sair do WordPress.org."
+
+#: themes/pub/wporg-login/login.php:16
+msgid "Create an account"
+msgstr "Criar uma conta"
+
+#: themes/pub/wporg-login/login.php:15
+msgid "Lost password?"
+msgstr "Esqueceu sua senha?"
+
+#: themes/pub/wporg-login/login.php:15
+msgid "Password Lost and Found"
+msgstr "Achados e perdidos de senhas"
+
+#: themes/pub/wporg-login/login.php:10
+msgid "Log in to your WordPress.org account to contribute to WordPress, get help in the support forum, or rate and review themes and plugins."
+msgstr "Acesse sua conta no WordPress.org para contribuir para o WordPress, obter ajuda nos fóruns ou classificar e avaliar temas e plugins."
+
+#: themes/pub/wporg-login/loggedout.php:11
+msgid "You are now logged out."
+msgstr "Agora você está desconectado."
+
+#: themes/pub/wporg-login/header.php:13 themes/pub/wporg-login/header.php:21
+msgid "WordPress.org Login"
+msgstr "Acesso WordPress.org"
+
+#: themes/pub/wporg-login/functions-restapi.php:58
+msgid "That email address already has an account."
+msgstr "Este endereço de e-mail já tem uma conta."
+
+#: themes/pub/wporg-login/functions-restapi.php:33
+#: themes/pub/wporg-login/functions-restapi.php:58
+msgid "Is it yours? <a href=\"/lostpassword\">Reset your password</a>."
+msgstr ""
+
+#: themes/pub/wporg-login/functions-restapi.php:33
+msgid "That username is already in use."
+msgstr "Este nome de usuário não está disponível."
+
+#: themes/pub/wporg-login/functions-registration.php:70
+msgid "[WordPress.org] Your new account"
+msgstr "[WordPress.org] Sua nova conta"
+
+#: themes/pub/wporg-login/functions-registration.php:66
+msgid "-- The WordPress.org Team"
+msgstr "-- Equipe do WordPress.org"
+
+#: themes/pub/wporg-login/functions-registration.php:63
+msgid "You can create a password at the following URL:"
+msgstr "Você pode criar uma nova senha no seguinte endereço:"
+
+#: themes/pub/wporg-login/functions-registration.php:62
+msgid "Your username is: %s"
+msgstr "Seu nome de usuário é: %s"
+
+#: themes/pub/wporg-login/functions-registration.php:60
+msgid "Welcome to WordPress.org! Your new account has been setup."
+msgstr ""
+
+#: themes/pub/wporg-login/functions-registration.php:59
+msgid "Hi %s,"
+msgstr "Olá %s,"
+
+#: themes/pub/wporg-login/functions-registration.php:41
+msgid "Error! Something went wrong with your registration. Try again?"
+msgstr ""
+
+#: themes/pub/wporg-login/functions-registration.php:36
+msgid "Registration Blocked. Please stop."
+msgstr ""
+
+#: themes/pub/wporg-login/checkemail.php:14
+#: themes/pub/wporg-login/loggedout.php:14
+#: themes/pub/wporg-login/lostpassword.php:23
+msgid "&larr; Back to login"
+msgstr "&larr; Voltar para o acesso"
+
+#: themes/pub/wporg-login/checkemail.php:11
+msgid "Check your email for a confirmation link."
+msgstr "Confira seu e-mail por um endereço de confirmação."
+
+#: themes/pub/wporg-breathe/single-component.php:18
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: themes/pub/wporg-breathe/searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: themes/pub/wporg-breathe/searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Pesquisar &hellip;"
+
+#: themes/pub/wporg-breathe/searchform.php:10
+msgctxt "label"
+msgid "Search"
+msgstr "Pesquisa"
+
+#: themes/pub/wporg-breathe/header.php:6
+msgid "Menu"
+msgstr ""
+
+#: themes/pub/wporg-breathe/functions.php:217
+msgid "Submit for review"
+msgstr "Enviar para avaliação"
+
+#. translators: %s: Post title
+#: themes/pub/wporg-breathe/functions.php:216
+msgid "Pending Review: %s"
+msgstr "Avaliação pendente: %s"
+
+#. translators: 1: User display_name; 2: User nice_name
+#: themes/pub/wporg-breathe/functions.php:205
+msgid "Profile of %1$s (%2$s)"
+msgstr "Perfil de %1$s (%2$s)"
+
+#: themes/pub/wporg-breathe/functions.php:134
+msgid "Please enable JavaScript to view this page properly."
+msgstr "Ative o JavaScript para ver esta página de forma apropriada."
+
+#: themes/pub/wporg-breathe/functions.php:118
+msgid "Edit"
+msgstr "Editar"
+
+#: themes/pub/wporg-main/front-page.php:124
+msgid "Find a local WordPress community"
+msgstr "Ache uma comunidade local do WordPress"
+
+#. translators: Search query.
+#: themes/pub/wporg/search.php:23 themes/pub/wporg-breathe/search.php:21
+msgid "Search Results for: %s"
+msgstr "Resultados de pesquisa para: %s"
+
+#. translators: Size of .tar.gz file.
+#: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:85
+msgid "Download .tar.gz &mdash; %s MB"
+msgstr "Baixar arquivo .tar.gz &mdash; %s MB"
+
+#. translators: Size of .zip file.
+#: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:73
+msgid ".zip &mdash; %s MB"
+msgstr ""
+
+#. translators: WordPress version.
+#: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:64
+msgid "Download WordPress %s"
+msgstr "Baixar o WordPress %s"
+
+#: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:27
+msgid "WordPress download button."
+msgstr "Botão de download do WordPress"
+
+#: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:25
+msgid "Download"
+msgstr "Baixar"
+
+#: themes/pub/wporg-main/page-txt-download.php:27
+msgid "For help with installing or using WordPress, consult our documentation in your language."
+msgstr "Para obter ajuda com a instalação ou utilização do WordPress, consulte a nossa documentação (em inglês)."
+
+#: themes/pub/wporg-main/page-releases.php:72
+msgid "There are no releases, yet."
+msgstr "Ainda não há versões."
+
+#: themes/pub/wporg-main/page-releases.php:60
+msgid "Beta &amp; RC releases"
+msgstr "Versões beta e RC"
+
+#. translators: Version number.
+#: themes/pub/wporg-main/page-releases.php:42
+msgid "%s Branch"
+msgstr "Versões %s"
+
+#: themes/pub/wporg-main/page-releases.php:26
+msgid "Latest release"
+msgstr "Versão mais recente"
+
+#: themes/pub/wporg-main/header-child-page.php:27
+msgid "Primary Menu"
+msgstr "Menu primário"
+
+#: themes/pub/wporg-main/functions.php:38
+msgid "Resources"
+msgstr "Recursos"
+
+#: themes/pub/wporg-main/functions.php:22
+msgid "Rosetta"
+msgstr ""
+
+#: themes/pub/wporg-main/front-page.php:252
+msgid "&hellip; and hundreds more"
+msgstr "&hellip; e centenas de outros"
+
+#: themes/pub/wporg-main/front-page.php:208
+msgid "WordPress&nbsp;Users"
+msgstr "Sites&nbsp;feitos&nbsp;com&nbsp;WordPress"
+
+#: themes/pub/wporg-main/front-page.php:200
+#: themes/pub/wporg-main/front-page.php:202
+#: themes/pub/wporg-main/inc/page-meta-descriptions.php:98
+#: themes/pub/wporg-main/page-about-swag.php:42
+msgid "WordPress Swag"
+msgstr "Produtos do WordPress"
+
+#: themes/pub/wporg-main/front-page.php:197
+msgid "WordPress&nbsp;Swag"
+msgstr "Produtos&nbsp;do&nbsp;WordPress"
+
+#. translators: URL to Developer Hub.
+#: themes/pub/wporg-main/front-page.php:188
+msgid "<a href=\"%s\">Read the Documentation</a> and become a WordPress expert yourself, impress your friends."
+msgstr "<a href=\"%s\">Ler a documentação</a>, tornar-se um especialista no WordPress e impressionar seus amigos."
+
+#. translators: URL to Downloads page.
+#: themes/pub/wporg-main/front-page.php:178
+msgid "<a href=\"%s\">Download &amp; Install WordPress</a> with our famous 5-minute&nbsp;installation. Feel like a rock star."
+msgstr ""
+
+#. translators: URL to Hosting page.
+#: themes/pub/wporg-main/front-page.php:168
+msgid "<a href=\"%s\">Find a Web Host</a> and get great hosting while supporting WordPress at the same&nbsp;time."
+msgstr "<a href=\"%s\">Encontrar um serviço de hospedagem</a> e receber um ótimo serviço enquanto ajuda o WordPress."
+
+#: themes/pub/wporg-main/front-page.php:160
+msgid "It&rsquo;s Easy&nbsp;As&hellip;"
+msgstr "Tão simples quanto&hellip;"
+
+#: themes/pub/wporg-main/front-page.php:139
+msgid "News From Our Blog"
+msgstr "Novidades de nosso blog"
+
+#: themes/pub/wporg-main/front-page.php:132
+msgid "Get WordPress"
+msgstr "Baixar o WordPress"
+
+#: themes/pub/wporg-main/front-page.php:130
+msgid "Over 60 million people have chosen WordPress to power the place on the web they call &ldquo;home&rdquo; &mdash; join the family."
+msgstr "Mais de 60 milhões de pessoas escolheram o WordPress para construir seus sites e blogs. Junte-se à família."
+
+#: themes/pub/wporg-main/front-page.php:129
+msgid "Get Started with WordPress"
+msgstr "Comece a usar o WordPress"
+
+#. translators: Number of meetups.
+#: themes/pub/wporg-main/front-page.php:119
+msgid "Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s city worldwide."
+msgid_plural "Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in %s cities worldwide."
+msgstr[0] "Centenas de milhares de desenvolvedores, criadores de conteúdo e donos de sites se encontram mensalmente em meetups em %s cidade pelo mundo."
+msgstr[1] "Centenas de milhares de desenvolvedores, criadores de conteúdo e donos de sites se encontram mensalmente em meetups em %s cidades pelo mundo."
+
+#: themes/pub/wporg-main/front-page.php:112
+msgid "Community"
+msgstr "Comunidade"
+
+#. translators: %s: Link to Plugin Directory.
+#: themes/pub/wporg-main/front-page.php:104
+msgid "Extend WordPress with over 45,000 plugins to help your website meet your needs. Add an online store, galleries, mailing lists, forums, analytics, and <a href=\"%s\">much more</a>."
+msgstr ""
+
+#: themes/pub/wporg-main/front-page.php:98
+msgid "Easy and<br />Accessible"
+msgstr "Fácil e<br />acessível"
+
+#: themes/pub/wporg-main/front-page.php:94
+msgid "Powerful<br />Media Management"
+msgstr "Gerenciamento de mídias<br />poderoso"
+
+#: themes/pub/wporg-main/front-page.php:90
+msgid "High<br />Security"
+msgstr "Alta<br />segurança"
+
+#: themes/pub/wporg-main/front-page.php:86
+msgid "Manage<br />on the Go"
+msgstr "Gerencie<br />de qualquer lugar"
+
+#: themes/pub/wporg-main/front-page.php:82
+msgid "High<br />Performance"
+msgstr "Alto<br />desempenho"
+
+#: themes/pub/wporg-main/front-page.php:78
+msgid "Responsive<br />Mobile Sites"
+msgstr "Sites<br />responsivos"
+
+#: themes/pub/wporg-main/front-page.php:74
+msgid "SEO<br />Friendly"
+msgstr "Pronto para<br />SEO"
+
+#: themes/pub/wporg-main/front-page.php:70
+msgid "Customizable<br />Designs"
+msgstr "Designs<br />personalizáveis"
+
+#: themes/pub/wporg-main/front-page.php:66
+msgid "Limitless possibilities. What will you create?"
+msgstr ""
+
+#: themes/pub/wporg-main/front-page.php:65
+msgid "Powerful Features"
+msgstr "Recursos poderosos"
+
+#: themes/pub/wporg-main/front-page.php:61
+msgid "Discover more sites built with WordPress"
+msgstr "Descobra mais sites construídos com WordPress"
+
+#. translators: WordPress market share: 30 - Note: The following percent sign
+#. is '%%' for escaping purposes;
+#: themes/pub/wporg-main/front-page.php:53
+msgid "%s%% of the web uses WordPress, from hobby blogs to the biggest news sites online."
+msgstr "%s%% da internet usa o WordPress, de blogs amadores até os maiores sites de notícias."
+
+#: themes/pub/wporg-main/front-page.php:48
+msgid "Trusted by the Best"
+msgstr "Confiado pelos melhores"
+
+#: themes/pub/wporg-main/front-page.php:40
+msgid "Beautiful designs, powerful features, and the freedom to build anything you want. WordPress is both free and priceless at the same time."
+msgstr ""
+
+#: themes/pub/wporg-main/front-page.php:31
+msgid "WordPress is open source software you can use to create a beautiful website, blog, or app."
+msgstr "O WordPress é um projeto de código aberto que você pode usar para criar sites, blogs ou aplicativos."
+
+#: themes/pub/wporg-main/front-page.php:29
+msgid "Meet WordPress"
+msgstr "Conheça o WordPress"
+
+#. translators: %s: Name of current post
+#: themes/pub/wporg/search.php:54
+#: themes/pub/wporg/template-parts/content.php:53
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Editar<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: themes/pub/wporg/template-parts/content.php:42
+msgid "Page"
+msgstr "Página"
+
+#. translators: %s: Name of current post
+#: themes/pub/wporg/template-parts/content.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span> &rarr;"
+msgstr "Continuar lendo<span class=\"screen-reader-text\"> \"%s\"</span> &rarr;"
+
+#: themes/pub/wporg/template-parts/content.php:15
+msgid "Featured"
+msgstr "Destacado"
+
+#. translators: %s: Name of current post
+#: themes/pub/wporg/template-parts/content-page.php:33
+#: themes/pub/wporg-main/page-releases.php:81
+#: themes/pub/wporg-main/page-txt-download.php:47
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: themes/pub/wporg/template-parts/content-page.php:22
+#: themes/pub/wporg/template-parts/content.php:38
+#: themes/pub/wporg-breathe/single-component.php:19
+#: themes/pub/wporg-main/page-txt-download.php:36
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: themes/pub/wporg/template-parts/content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: themes/pub/wporg/template-parts/content-none.php:30
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. translators: Link to post editor.
+#: themes/pub/wporg/template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: themes/pub/wporg/template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: themes/pub/wporg/single.php:35
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#: themes/pub/wporg/single.php:34
+msgid "Previous"
+msgstr "Anterior"
+
+#: themes/pub/wporg/single.php:32
+msgid "Next post:"
+msgstr "Próximo post:"
+
+#: themes/pub/wporg/single.php:31
+msgid "Next"
+msgstr "Seguinte"
+
+#: themes/pub/wporg/sidebar.php:23 themes/pub/wporg-main/sidebar.php:28
+msgid "Blog Archives"
+msgstr "Arquivo"
+
+#: themes/pub/wporg/sidebar.php:16 themes/pub/wporg-main/sidebar.php:23
+msgid "Categories"
+msgstr "Categorias"
+
+#: themes/pub/wporg/inc/template-tags.php:125
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: themes/pub/wporg/inc/template-tags.php:116
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorias"
+
+#: themes/pub/wporg/inc/template-tags.php:112
+#: themes/pub/wporg/inc/template-tags.php:121
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: themes/pub/wporg/inc/template-tags.php:98
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicado em"
+
+#. translators: Post title.
+#: themes/pub/wporg/inc/template-tags.php:58
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+#: themes/pub/wporg/inc/template-tags.php:44
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formato"
+
+#. translators: 1: post date 2: post author
+#: themes/pub/wporg/inc/template-tags.php:33
+msgid "Posted on %1$s by %2$s."
+msgstr "Publicado em %1$s por %2$s."
+
+#: themes/pub/wporg/header-page.php:17 themes/pub/wporg/header.php:17
+#: themes/pub/wporg-breathe/header.php:16
+#: themes/pub/wporg-main/header-child-page.php:19
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: themes/pub/wporg-login/register-confirm.php:97
+#: themes/pub/wporg-login/register-profile.php:58
+#: themes/pub/wporg-login/register.php:98
+msgid "WordPress.org"
+msgstr ""
+
+#: themes/pub/wporg/functions.php:39
+msgid "Primary"
+msgstr "Primário"
+
+#: themes/pub/wporg/comments.php:68
+msgid "Comments are closed."
+msgstr "Os comentários estão desativados."
+
+#. translators: 1: comment count number, 2: title.
+#: themes/pub/wporg/comments.php:43
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: themes/pub/wporg/comments.php:37
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Um comentário em &ldquo;%1$s&rdquo;"
+
+#. translators: Home URL.
+#: themes/pub/wporg/404.php:26
+msgid "Try searching from the field above, or go to the <a href=\"%s\">home page</a>."
+msgstr "Tente procurar a partir do campo acima ou vá para a <a href=\"%s\">página inicial</a>."
+
+#: themes/pub/wporg/404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""

@@ -1,0 +1,213 @@
+# Translation of WordPress - 4.9.x - Development - Administration in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress - 4.9.x - Development - Administration package.
+msgid ""
+msgstr "PO-Revision-Date: 2018-05-17 11:47:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress - 4.9.x - Development - Administration\n"
+
+#: wp-admin/includes/user.php:930
+msgid "Invalid request ID when processing eraser data."
+msgstr "ID de solicitação inválido ao processar dados de remoção."
+
+#: wp-admin/includes/misc.php:1765
+msgid "If your web site provides a service which includes automated decision making - for example, allowing customers to apply for credit, or aggregating their data into an advertising profile - you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention."
+msgstr "Se o seu site oferecer um serviço que inclua tomada de decisão automatizada, por exemplo, permitir a clientes solicitar crédito ou agregar seus dados em um perfil publicitário, você deve observar que isto está acontecendo, e incluir informações sobre como aquela informação é usada, que decisões são tomadas com os dados agregados e o que direitos os usuários têm sobre as decisões tomadas sem intervenção humana."
+
+#: wp-admin/includes/misc.php:1763
+msgid "What automated decision making and/or profiling we do with user data"
+msgstr "Quais tomadas de decisão ou análises de perfil automatizadas fazemos com os dados de usuários"
+
+#: wp-admin/includes/misc.php:1760
+msgid "If your web site receives data about users from third parties, including advertisers, this information must be included within the section of your privacy policy dealing with third party data."
+msgstr "Caso o seu site receba dados de terceiros sobre usuários, incluindo anunciantes, esta informação deve ser incluída dentro da seção da sua política de privacidade que trata de dados de terceiros."
+
+#: wp-admin/includes/misc.php:1755
+msgid "In this section you should explain what procedures you have in place to deal with data breaches, either potential or real, such as internal reporting systems, contact mechanisms, or bug bounties."
+msgstr "Nesta seção você deve explicar que procedimentos são usados para lidar com violações de dados, potenciais ou verdadeiras, como sistemas de informação internos, mecanismos de contato ou caçadas de erros."
+
+#: wp-admin/includes/misc.php:1750
+msgid "In this section you should explain what measures you have taken to protect your users&#8217; data. This could include technical measures such as encryption; security measures such as two factor authentication; and measures such as staff training in data protection. If you have carried out a Privacy Impact Assessment, you can mention it here too."
+msgstr "Nesta seção você deve explicar quais medidas foram tomadas para proteger os dados de seus usuários. Isso pode incluir medidas técnicas como encriptação; medidas de segurança como autenticação em dois passos; e medidas como treinamento de pessoal em proteção de dados. Se você tiver feito uma Avaliação do impacto de privacidade, pode mencioná-la aqui também."
+
+#: wp-admin/includes/misc.php:1734
+msgid "European data protection law requires data about European residents which is transferred outside the European Union to be safeguarded to the same standards as if the data was in Europe. So in addition to listing where data goes, you should describe how you ensure that these standards are met either by yourself or by your third party providers, whether that is through an agreement such as Privacy Shield, model clauses in your contracts, or binding corporate rules."
+msgstr "A lei de proteção de dados europeia exige que os dados de residentes europeus que sejam transferidos para fora da União Europeia tenham o mesmo nível de proteção como se os dados estivessem na Europa. Assim, além de listar para onde os dados vão, é preciso descrever como você garante que estes padrões estejam sendo seguidos, opr você ou pelos seus provedores terceiros, seja por meio de um acordo como o Escudo de Privacidade, cláusulas modelo nos seus contratos ou normas corporativas vinculatórias."
+
+#: wp-admin/includes/misc.php:1733
+msgid "In this section you should list all transfers of your site data outside the European Union and describe the means by which that data is safeguarded to European data protection standards. This could include your web hosting, cloud storage, or other third party services."
+msgstr "Nesta seção você deve listar todas as transferências dos dados do seu site para fora da União Europeia e descrever os meios pelos quais estes dados são protegidos segundo os padrões de proteção de dados europeus. Isto pode incluir a sua hospedagem de sites, armazenamento de nuvem ou outros serviços de terceiros."
+
+#: wp-admin/includes/misc.php:1729
+msgid "If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+msgstr "Se você tiver uma conta neste site ou se tiver deixado comentários, pode solicitar um arquivo exportado dos dados pessoais que mantemos sobre você, inclusive quaisquer dados que nos tenha fornecido. Também pode solicitar que removamos qualquer dado pessoal que mantemos sobre você. Isto não inclui nenhuns dados que somos obrigados a manter para propósitos administrativos, legais ou de segurança."
+
+#: wp-admin/includes/misc.php:1727
+msgid "In this section you should explain what rights your users have over their data and how they can invoke those rights."
+msgstr "Nesta seção você deve explicar quais direitos os seus usuários têm sobre os seus dados e como podem requerer estes direitos."
+
+#: wp-admin/includes/misc.php:1723
+msgid "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+msgstr "Para usuários que se registram no nosso site (se houver), também guardamos as informações pessoais que fornecem no seu perfil de usuário. Todos os usuários podem ver, editar ou excluir suas informações pessoais a qualquer momento (só não é possível alterar o seu username). Os administradores de sites também podem ver e editar estas informações."
+
+#: wp-admin/includes/misc.php:1722
+msgid "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+msgstr "Se você deixar um comentário, o comentário e os seus metadados são conservados indefinidamente. Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação."
+
+#: wp-admin/includes/misc.php:1720
+msgid "In this section you should explain how long you retain personal data collected or processed by the web site. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years."
+msgstr "Nesta seção você deve explicar por quanto tempo ficam armazenados os dados pessoais coletados ou processados pelo site. Como é sua responsabilidade divulgar por que e por quanto tempo cada conjunto de dados é armazenado, esta informação precisa ser listada aqui. Por exemplo, você pode querer dizer que mantém os dados enviados pelo formulário de contato por seis meses, registros para análises por um ano e registros de compras dos consumidores por dez anos."
+
+#: wp-admin/includes/misc.php:1714
+msgid "In this section you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why. Link to their own privacy policies if possible."
+msgstr "Nesta seção você deve listar todos os provedores terceirizados com quem você compartilha dados do site, incluindo parceiros, serviços baseados na nuvem, processadores de pagamento e provedores de serviços terceirizados, além de explicar quais dados você compartilha com eles e por que. Aponte para suas próprias políticas de privacidade se possível."
+
+#: wp-admin/includes/misc.php:1709
+msgid "By default WordPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a WordPress plugin that provides analytics services. In that case, add information from that plugin here."
+msgstr "Por padrão, o WordPress não coleta nenhum dado para análise. Entretanto, muitos serviços de hospedagem coletam alguns dados anônimos para análise. Você também pode ter instalado um plugin do WordPress que fornece serviços de análise. Neste caso, adicione as informações do plugin aqui."
+
+#: wp-admin/includes/misc.php:1704
+msgid "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website."
+msgstr "Estes sites podem coletar dados sobre você, usar cookies, incorporar rastreamento adicionar de terceiros e monitorar sua interação com este conteúdo incorporado, incluindo sua interação com o conteúdo incorporado se você tem uma conta e está conectado com o site."
+
+#: wp-admin/includes/misc.php:1703
+msgid "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+msgstr "Artigos neste site podem incluir conteúdo incorporado como, por exemplo, vídeos, imagens, artigos, etc. Conteúdos incorporados de outros sites se comportam exatamente da mesma forma como se o visitante estivesse visitando o outro site."
+
+#: wp-admin/includes/misc.php:1700
+msgid "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+msgstr "Se você editar ou publicar um artigo, um cookie adicional será salvo no seu navegador. Este cookie não inclui nenhum dado pessoal e simplesmente indica o ID do post referente ao artigo que você acabou de editar. Ele expira depois de 1 dia."
+
+#: wp-admin/includes/misc.php:1699
+msgid "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+msgstr "Quando você acessa sua conta no site, também criamos vários cookies para salvar os dados da sua conta e suas escolhas de exibição de tela. Cookies de login são mantidos por dois dias e cookies de opções de tela por um ano. Se você selecionar &quot;Lembrar-me&quot;, seu acesso será mantido por duas semanas. Se você se desconectar da sua conta, os cookies de login serão removidos."
+
+#: wp-admin/includes/misc.php:1669
+msgid "You should also note any collection and retention of sensitive personal data, such as data concerning health."
+msgstr "Você também deve justificar qualquer coleta e retenção de dados pessoais sensíveis, como dados referentes a saúde."
+
+#. translators: %s: array index
+#: wp-admin/includes/ajax-actions.php:4119
+msgid "Exporter array at index %s does not include a friendly name."
+msgstr "Array de exportador no índice %s não inclui um nome amigável."
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4164
+msgid "Expected done (boolean) in response array from exporter: %s."
+msgstr "Esperado done (booleano) no array de resposta do exportador: %s."
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4158
+msgid "Expected data array in response array from exporter: %s."
+msgstr "Esperado array data no array de resposta do exportador: %s."
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4152
+msgid "Expected data in response array from exporter: %s."
+msgstr "Esperado data no array de resposta do exportador: %s."
+
+#. translators: %s: exporter friendly name
+#: wp-admin/includes/ajax-actions.php:4146
+msgid "Expected response as an array from exporter: %s."
+msgstr "Esperado response como array do exportador: %s."
+
+#. translators: %s: array index
+#: wp-admin/includes/ajax-actions.php:4113
+msgid "Expected an array describing the exporter at index %s."
+msgstr "Esperado um array descrevendo o exportador no índice %s."
+
+#. translators: Do not translate EXPIRATION, LINK, EMAIL, SITENAME, SITEURL:
+#. those are placeholders.
+#: wp-admin/includes/file.php:2070
+msgid ""
+"Howdy,\n"
+"\n"
+"Your request for an export of personal data has been completed. You may\n"
+"download your personal data by clicking on the link below. For privacy\n"
+"and security, we will automatically delete the file on ###EXPIRATION###,\n"
+"so please download it before then.\n"
+"\n"
+"###LINK###\n"
+"\n"
+"This email has been sent to ###EMAIL###.\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr "Olá,\n"
+"\n"
+"Sua solicitação para exportação de dados pessoais foi concluída. Você pode\n"
+"baixar seus dados pessoais clicando no link abaixo. Por questões de privacidade\n"
+"e segurança, vamos excluir automaticamente o arquivo em ###EXPIRATION###,\n"
+"por isso baixe-o antes desta data.\n"
+"\n"
+"###LINK###\n"
+"\n"
+"Este e-mail foi enviado para ###EMAIL###.\n"
+"\n"
+"Atenciosamente,\n"
+"Equipe do site ###SITENAME###\n"
+"###SITEURL###"
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4379
+msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
+msgstr " Esperada marcação done no array de resposta do autor %1$s da remoção (índice %2$d)."
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4368
+msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
+msgstr "Esperada referência para um array na chave messages no array de resposta do autor %1$s da remoção (índice %2$d)."
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4357
+msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
+msgstr "Esperada chave messages no array de resposta do autor %1$s da remoção (índice %2$d)."
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4346
+msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
+msgstr "Esperada chave items_retained no array de resposta do autor %1$s da remoção (índice %2$d)."
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4335
+msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
+msgstr "Esperada chave items_removed no array de resposta do autor %1$s da remoção (índice %2$d)."
+
+#. translators: 1: eraser friendly name, 2: array index
+#: wp-admin/includes/ajax-actions.php:4324
+msgid "Did not receive array from %1$s eraser (index %2$d)."
+msgstr "Array não recebido do autor %1$s da remoção (índice %2$d)."
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4308
+msgid "Eraser array at index %d does not include a friendly name."
+msgstr "Autor da remoção no índice %d não inclui um nome amigável."
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4303
+msgid "Eraser callback at index %d is not a valid callback."
+msgstr "Callback do autor da remoção no índice %d não é válido."
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4298
+msgid "Eraser array at index %d does not include a callback."
+msgstr "Array do autor da remoção no índice %d não inclui um callback."
+
+#. translators: %d: array index
+#: wp-admin/includes/ajax-actions.php:4293
+msgid "Expected an array describing the eraser at index %d."
+msgstr "Esperado um array descrevendo o autor da remoção no índice %d."
+
+#: wp-admin/includes/ajax-actions.php:4103
+#: wp-admin/includes/ajax-actions.php:4284
+msgid "Page index cannot be less than one."
+msgstr "Índice da página não pode ser menor que um."
+
+#: wp-admin/includes/ajax-actions.php:4276
+msgid "Eraser index cannot be less than one."
+msgstr "Índice do autor da remoção não pode ser menor que um."
