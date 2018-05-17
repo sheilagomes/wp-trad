@@ -6,6 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>###LINK###
+
+This email has been sent to ###EMAIL###.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123919Z" creationid="elia" creationdate="20180517T123919Z">
+        <seg>###LINK###
+
+Este e-mail foi enviado para ###EMAIL###.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$s thought on &amp;ldquo;%2$s&amp;rdquo;</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1114,6 +1126,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T123412Z" creationid="elia" creationdate="20180517T123412Z">
         <seg>Esperado done (booleano) no array de resposta do exportador: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected done flag in response array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124009Z" creationid="elia" creationdate="20180517T124009Z">
+        <seg>Esperada marcação done no array de resposta do %1$s autor da remoção (índice %2$d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expected messages key to reference an array in response array from %1$s eraser (index %2$d).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T124101Z" creationid="elia" creationdate="20180517T124101Z">
+        <seg>Esperada referência para um array na chave messages no array de resposta do %1$s autor da remoção (índice %2$d).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2590,18 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Serviços de hospedagens recomendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regards,
+All at ###SITENAME###
+###SITEURL###</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T123940Z" creationid="elia" creationdate="20180517T123940Z">
+        <seg>Atenciosamente,
+Equipe do site ###SITENAME###
+###SITEURL###</seg>
       </tuv>
     </tu>
     <tu>
