@@ -2902,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180517T121140Z" creationid="elia" creationdate="20180517T121140Z">
+        <seg>Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Though we have many plugins that create privacy pages, we need means to generate a unified, comprehensive privacy policy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221138Z" creationid="elia" creationdate="20180417T221138Z">
