@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66,10 +66,26 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-- The WordPress.org Team</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>-- Equipe do WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.zip &amp;mdash; %s MB</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>.zip &amp;mdash; %s MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +410,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adobe Illustrator CS5+ Sketch 3</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adobe Illustrator CS5+ Sketch 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggregated Statistics</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -562,10 +586,26 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blog Archives</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BuddyPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>BuddyPress</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +742,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Contribua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cookies</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1030,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Baixar o WordPress %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloads</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Downloads</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,6 +1714,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IE=edge</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180604T101536Z" creationid="Sheila" creationdate="20180604T101536Z">
+        <seg>IE=edge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ideas</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2074,6 +2138,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Locales</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2154,6 +2226,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matt</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Matt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>May 27, 2018 is the &lt;s0&gt;15th anniversary&lt;/s0&gt; of the &lt;a1&gt;first WordPress release&lt;/a1&gt; &lt;a2&gt;﻿&lt;/a2&gt;— and we can’t wait to celebrate!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215620Z" creationid="elia" creationdate="20180420T215620Z">
@@ -2182,6 +2262,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Conheça o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2610,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plural-Forms: nplurals=2; plural=(n &gt; 1);</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115253Z" creationid="Sheila" creationdate="20180517T115253Z">
@@ -2734,6 +2830,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rosetta</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rosetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rosetta Sites &amp; Forums</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111327Z" creationid="Sheila" creationdate="20171208T111327Z">
@@ -2850,6 +2954,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Mostrar caixa de boas-vindas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Showcase</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Showcase</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3114,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141725Z" creationid="elia" creationdate="20180118T141725Z">
         <seg>Alternar entre temas tentará agora restaurar a atribuição anterior dos widgets, mesmo quando não há áreas de widgets a serem mapeadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3870,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordCamp</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WordCamp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress 4.9 Beta 2</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
@@ -3811,6 +3939,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T115113Z" creationid="elia" creationdate="20180404T115113Z">
         <seg>O WordPress 4.9.5 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.6 Privacy and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180604T101547Z" creationid="Sheila" creationdate="20180604T101547Z">
+        <seg>WordPress 4.9.6 Privacy and Maintenance Release</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,6 +4175,30 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress.TV</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WordPress.TV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress.com</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WordPress.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress.org</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WordPress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress.org Login</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4189,6 +4349,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>[WordPress.org] Sua nova conta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bbPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>bbPress</seg>
       </tuv>
     </tu>
     <tu>
