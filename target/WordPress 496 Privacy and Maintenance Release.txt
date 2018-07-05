@@ -1,0 +1,13 @@
+WordPress 4.9.6 Privacy and Maintenance Release
+
+WordPress 4.9.6 is now available. This is a privacy and maintenance release. We encourage you to update your sites to take advantage of the new privacy features.
+
+A decorative header featuring the text "GDPR" and a lock inside of a blue shield, on multicolor green background.
+Privacy
+The European Union’s General Data Protection Regulation (GDPR) takes effect on May 25. The GDPR requires companies and site owners to be transparent about how they collect, use, and share personal data. It also gives individuals more access and choice when it comes to how their own personal data is collected, used, and shared.
+
+It’s important to understand that while the GDPR is a European regulation, its requirements apply to all sites and online businesses that collect, store, and process personal data about EU residents no matter where the business is located.
+
+You can learn more about the GDPR from the European Commission’s Data Protection page.
+
+We’re committed to supporting site owners around the world in their work to comply with this important law. As part of that effort, we’ve added a number of new privacy features in this release.

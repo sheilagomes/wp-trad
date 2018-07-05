@@ -1083,7 +1083,7 @@ msgstr ""
 
 #: themes/pub/wporg-main/page-about-privacy.php:56
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: themes/pub/wporg-main/page-about-privacy.php:54
 msgid "WordPress.org discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on WordPress.org&#8217;s behalf or to provide services available at WordPress.org, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using WordPress.org, you consent to the transfer of such information to them. WordPress.org will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, WordPress.org discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when WordPress.org believes in good faith that disclosure is reasonably necessary to protect the property or rights of WordPress.org, third parties, or the public at large. If you are a registered user of a WordPress.org website and have supplied your email address, WordPress.org may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what&#8217;s going on with WordPress.org and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WordPress.org takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information."
@@ -1307,7 +1307,7 @@ msgstr "Logo do WordPress"
 
 #: themes/pub/wporg-main/page-about-logos.php:58
 msgid "Adobe Illustrator CS5+ Sketch 3"
-msgstr ""
+msgstr "Adobe Illustrator CS5+ Sketch 3"
 
 #: themes/pub/wporg-main/page-about-logos.php:55
 msgid "All versions"
@@ -1319,7 +1319,7 @@ msgstr "Logotipos do WordPress"
 
 #: themes/pub/wporg-main/page-about-logos.php:48
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 #: themes/pub/wporg-main/page-about-logos.php:40
 msgid "Official WordPress Logo"
@@ -1641,7 +1641,7 @@ msgstr "Domínios do WordPress"
 
 #: themes/pub/wporg-main/functions.php:83
 msgid "Locales"
-msgstr ""
+msgstr "Locales"
 
 #: themes/pub/wporg-main/functions.php:82
 msgid "MySQL Version"
@@ -1695,7 +1695,7 @@ msgstr "Cofundador do WordPress, um exemplo do que o WordPress pode fazer"
 
 #: themes/pub/wporg/footer.php:57
 msgid "Matt"
-msgstr ""
+msgstr "Matt"
 
 #: themes/pub/wporg/footer.php:56
 msgid "Hassle-free WordPress hosting"
@@ -1703,7 +1703,7 @@ msgstr "Hospedagem WordPress sem problemas"
 
 #: themes/pub/wporg/footer.php:55
 msgid "WordPress.com"
-msgstr ""
+msgstr "WordPress.com"
 
 #: themes/pub/wporg/footer.php:54
 msgid "Fast, slick forums built on WordPress"
@@ -1711,7 +1711,7 @@ msgstr "Fóruns rápidos e funcionais construídos com WordPress"
 
 #: themes/pub/wporg/footer.php:53
 msgid "bbPress"
-msgstr ""
+msgstr "bbPress"
 
 #: themes/pub/wporg/footer.php:52
 msgid "A set of plugins to transform your WordPress into a social network"
@@ -1719,7 +1719,7 @@ msgstr "Um conjunto de plugins para transformar o seu WordPress em uma rede soci
 
 #: themes/pub/wporg/footer.php:51
 msgid "BuddyPress"
-msgstr ""
+msgstr "BuddyPress"
 
 #: themes/pub/wporg/footer.php:50
 msgid "Videos, tutorials, and WordCamp sessions"
@@ -1727,7 +1727,7 @@ msgstr "Vídeos, tutoriais e sessões de WordCamps"
 
 #: themes/pub/wporg/footer.php:49
 msgid "WordPress.TV"
-msgstr ""
+msgstr "WordPress.TV"
 
 #: themes/pub/wporg/footer.php:48
 msgid "Find a WordPress event near you"
@@ -1735,7 +1735,7 @@ msgstr "Encontre um evento WordPress perto de você"
 
 #: themes/pub/wporg/footer.php:47
 msgid "WordCamp"
-msgstr ""
+msgstr "WordCamp"
 
 #: themes/pub/wporg/footer.php:46
 msgid "Share your ideas for improving WordPress"
@@ -1759,7 +1759,7 @@ msgstr "Adicione funcionalidades ao WordPress"
 
 #: themes/pub/wporg/footer.php:41
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: themes/pub/wporg/footer.php:40
 msgid "Some of the best WordPress sites on the Web"
@@ -1767,7 +1767,7 @@ msgstr "Alguns dos melhores sites em WordPress na internet"
 
 #: themes/pub/wporg/footer.php:39
 msgid "Showcase"
-msgstr ""
+msgstr "Showcase"
 
 #: themes/pub/wporg/footer.php:38
 msgid "Workshops and training materials"
@@ -1823,7 +1823,7 @@ msgstr "Novidades e atualizações"
 
 #: themes/pub/wporg/footer.php:25
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: themes/pub/wporg/footer.php:24
 msgid "An introduction to the WordPress project"
@@ -2078,7 +2078,7 @@ msgstr "Pesquisa"
 
 #: themes/pub/wporg-breathe/header.php:6
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: themes/pub/wporg-breathe/functions.php:217
 msgid "Submit for review"
@@ -2119,7 +2119,7 @@ msgstr "Baixar arquivo .tar.gz &mdash; %s MB"
 #. translators: Size of .zip file.
 #: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:73
 msgid ".zip &mdash; %s MB"
-msgstr ""
+msgstr ".zip &mdash; %s MB"
 
 #. translators: WordPress version.
 #: themes/pub/wporg-main/widgets/class-wporg-widget-download.php:64
@@ -2165,7 +2165,7 @@ msgstr "Recursos"
 
 #: themes/pub/wporg-main/functions.php:22
 msgid "Rosetta"
-msgstr ""
+msgstr "Rosetta"
 
 #: themes/pub/wporg-main/front-page.php:252
 msgid "&hellip; and hundreds more"
@@ -2380,7 +2380,7 @@ msgstr "Categorias"
 #: themes/pub/wporg/inc/template-tags.php:125
 msgctxt "Used before tag names."
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #: themes/pub/wporg/inc/template-tags.php:116
 msgctxt "Used before category names."
@@ -2391,7 +2391,7 @@ msgstr "Categorias"
 #: themes/pub/wporg/inc/template-tags.php:121
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: themes/pub/wporg/inc/template-tags.php:98
 msgctxt "Used before publish date."
@@ -2423,7 +2423,7 @@ msgstr "Pular para o conteúdo"
 #: themes/pub/wporg-login/register-profile.php:58
 #: themes/pub/wporg-login/register.php:98
 msgid "WordPress.org"
-msgstr ""
+msgstr "WordPress.org"
 
 #: themes/pub/wporg/functions.php:39
 msgid "Primary"
