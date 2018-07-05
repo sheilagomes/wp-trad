@@ -138,6 +138,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;1naveengiri&lt;/a0&gt;, &lt;a1&gt;Aaron Jorbin&lt;/a1&gt;, &lt;a2&gt;abdullahramzan&lt;/a2&gt;, &lt;a3&gt;alejandroxlopez&lt;/a3&gt;, &lt;a4&gt;Andrew Ozz&lt;/a4&gt;, &lt;a5&gt;Arun&lt;/a5&gt;, &lt;a6&gt;Birgir Erlendsson (birgire)&lt;/a6&gt;, &lt;a7&gt;BjornW&lt;/a7&gt;, &lt;a8&gt;Boone Gorges&lt;/a8&gt;, &lt;a9&gt;Brandon Kraft&lt;/a9&gt;, &lt;a10&gt;Chetan Prajapati&lt;/a10&gt;, &lt;a11&gt;David Herrera&lt;/a11&gt;, &lt;a12&gt;Felix Arntz&lt;/a12&gt;, &lt;a13&gt;Gareth&lt;/a13&gt;, &lt;a14&gt;Ian Dunn&lt;/a14&gt;, &lt;a15&gt;ibelanger&lt;/a15&gt;, &lt;a16&gt;John Blackbourn&lt;/a16&gt;, &lt;a17&gt;Jonathan Desrosiers&lt;/a17&gt;, &lt;a18&gt;Joy&lt;/a18&gt;, &lt;a19&gt;khaihong&lt;/a19&gt;, &lt;a20&gt;lbenicio&lt;/a20&gt;, &lt;a21&gt;Leander Iversen&lt;/a21&gt;, &lt;a22&gt;mermel&lt;/a22&gt;, &lt;a23&gt;metalandcoffee&lt;/a23&gt;, &lt;a24&gt;Migrated to @jeffpaul&lt;/a24&gt;, &lt;a25&gt;palmiak&lt;/a25&gt;, &lt;a26&gt;Sergey Biryukov&lt;/a26&gt;, &lt;a27&gt;skoldin&lt;/a27&gt;, &lt;a28&gt;Subrata Sarkar&lt;/a28&gt;, &lt;a29&gt;Towhidul Islam&lt;/a29&gt;, &lt;a30&gt;warmlaundry&lt;/a30&gt;, and &lt;a31&gt;YuriV&lt;/a31&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T230212Z" creationid="elia" creationdate="20180705T230129Z">
+        <seg>&lt;a0&gt;1naveengiri&lt;/a0&gt;, &lt;a1&gt;Aaron Jorbin&lt;/a1&gt;, &lt;a2&gt;abdullahramzan&lt;/a2&gt;, &lt;a3&gt;alejandroxlopez&lt;/a3&gt;, &lt;a4&gt;Andrew Ozz&lt;/a4&gt;, &lt;a5&gt;Arun&lt;/a5&gt;, &lt;a6&gt;Birgir Erlendsson (birgire)&lt;/a6&gt;, &lt;a7&gt;BjornW&lt;/a7&gt;, &lt;a8&gt;Boone Gorges&lt;/a8&gt;, &lt;a9&gt;Brandon Kraft&lt;/a9&gt;, &lt;a10&gt;Chetan Prajapati&lt;/a10&gt;, &lt;a11&gt;David Herrera&lt;/a11&gt;, &lt;a12&gt;Felix Arntz&lt;/a12&gt;, &lt;a13&gt;Gareth&lt;/a13&gt;, &lt;a14&gt;Ian Dunn&lt;/a14&gt;, &lt;a15&gt;ibelanger&lt;/a15&gt;, &lt;a16&gt;John Blackbourn&lt;/a16&gt;, &lt;a17&gt;Jonathan Desrosiers&lt;/a17&gt;, &lt;a18&gt;Joy&lt;/a18&gt;, &lt;a19&gt;khaihong&lt;/a19&gt;, &lt;a20&gt;lbenicio&lt;/a20&gt;, &lt;a21&gt;Leander Iversen&lt;/a21&gt;, &lt;a22&gt;mermel&lt;/a22&gt;, &lt;a23&gt;metalandcoffee&lt;/a23&gt;, &lt;a24&gt;Migrated to @jeffpaul&lt;/a24&gt;, &lt;a25&gt;palmiak&lt;/a25&gt;, &lt;a26&gt;Sergey Biryukov&lt;/a26&gt;, &lt;a27&gt;skoldin&lt;/a27&gt;, &lt;a28&gt;Subrata Sarkar&lt;/a28&gt;, &lt;a29&gt;Towhidul Islam&lt;/a29&gt;, &lt;a30&gt;warmlaundry&lt;/a30&gt; e &lt;a31&gt;YuriV&lt;/a31&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
@@ -3218,6 +3226,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120923Z" creationid="elia" creationdate="20180404T120923Z">
         <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to everyone who contributed to WordPress 4.9.7:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T230119Z" creationid="elia" creationdate="20180705T230119Z">
+        <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.7:</seg>
       </tuv>
     </tu>
     <tu>
