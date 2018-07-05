@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3951,6 +3951,22 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 4.9.7 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T224900Z" creationid="elia" creationdate="20180705T224900Z">
+        <seg>WordPress 4.9.7 – Atualização de segurança e manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.7 is now available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T224910Z" creationid="elia" creationdate="20180705T224910Z">
+        <seg>O WordPress 4.9.7 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4147,6 +4163,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T115204Z" creationid="elia" creationdate="20180404T115204Z">
         <seg>As versões 4.9.4 e anteriores foram afetadas por três problemas de segurança:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress versions 4.9.6 and earlier are affected by a media issue that could potentially allow a user with certain capabilities to attempt to delete files outside the uploads directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225238Z" creationid="elia" creationdate="20180705T225238Z">
+        <seg>As versões 4.9.6 e anteriores  do WordPress são afetadas por um problema nas mídias que podem permitir que um usuário com certas capacidades tente excluir arquivos fora do diretório de uploads.</seg>
       </tuv>
     </tu>
     <tu>
