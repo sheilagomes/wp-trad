@@ -154,6 +154,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download WordPress 4.9.7&lt;/a0&gt; or venture over to Dashboard → Updates and click “Update Now.” Sites that support automatic background updates are already beginning to update automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225900Z" creationid="elia" creationdate="20180705T225900Z">
+        <seg>&lt;a0&gt;Baixe o WordPress 4.9.7&lt;/a0&gt; ou visite o Painel → Atualizações e simplesmente clique em “Atualizar agora”. Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Request&lt;/a0&gt; some special 15th anniversary WordPress swag (no later than April 27, please, so we have time to ship it to you).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T220358Z" creationid="elia" creationdate="20180420T220358Z">
@@ -2738,6 +2746,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Privacy: Make sure default privacy policy content does not cause a fatal error when flushing rewrite rules outside of the admin context.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225841Z" creationid="elia" creationdate="20180705T225841Z">
+        <seg>Privacidade: Verifica se o conteúdo padrão da política de privacidade não causa um erro fatal ao limpar as regras de reescrita fora do contexto de administração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Profile of %1$s (%2$s)</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3474,6 +3490,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141604Z" creationid="elia" creationdate="20180118T141604Z">
         <seg>O comportamento de &lt;c0&gt;get_category_link()&lt;/c0&gt; e &lt;c1&gt;category_description()&lt;/c1&gt; que não fazia distinção de taxonomia foi restaurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previously scheduled 4.9.7 is now referred to as 4.9.8, and will follow the &lt;a0&gt;release schedule posted yesterday&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T230112Z" creationid="elia" creationdate="20180705T230112Z">
+        <seg>Os planos previstos para a versão 4.9.7 agora se aplicam à versão 4.9.8, que seguirá o &lt;a0&gt;cronograma de lançamento publicado ontem&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
