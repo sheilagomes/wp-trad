@@ -690,6 +690,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Community Events Dashboard: Always show the nearest WordCamp if one is coming up, even if there are multiple Meetups happening first.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225749Z" creationid="elia" creationdate="20180705T225749Z">
+        <seg>Eventos da comunidade no Painel: Sempre mostra o WordCamp mais próximo se há algum previsto, mesmo que existam vários meetups planejados antes dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Complete your WordPress.org Profile information.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2650,6 +2658,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Posts, Post Types: Clear post password cookie when logging out.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225530Z" creationid="elia" creationdate="20180705T225530Z">
+        <seg>Posts e tipos de posts: Limpa o cookie de senha de post ao sair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Powerful Features</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3130,6 +3146,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Taxonomy: Improve cache handling for term queries.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225500Z" creationid="elia" creationdate="20180705T225500Z">
+        <seg>Taxonomia: Melhora na manipulação do cache para consultas por termos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3906,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T215843Z" creationid="elia" creationdate="20180417T215843Z">
         <seg>Por que a urgência?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Widgets: Allow basic HTML tags in sidebar descriptions on Widgets admin screen.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180705T225552Z" creationid="elia" creationdate="20180705T225552Z">
+        <seg>Widgets: Permite tags HTML básicas nas descrições das barras laterais na tela de administração do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
