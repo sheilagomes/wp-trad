@@ -1818,6 +1818,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Gutenberg &lt;e0&gt;is&lt;/e0&gt; installed and activated, the callout will be shown to Contributor users and above.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212742Z" creationid="elia" creationdate="20180802T212742Z">
+        <seg>Se o Gutenberg &lt;e0&gt;está&lt;/e0&gt; instalado e ativado, a chamada será exibida para os usuários colaboradores e superiores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is, RSVP for the party and invite your friends!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215834Z" creationid="elia" creationdate="20180420T215834Z">
