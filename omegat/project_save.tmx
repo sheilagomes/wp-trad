@@ -306,6 +306,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;You can learn more by reading &lt;/s0&gt;&lt;a1&gt;“Try Gutenberg” Callout in WordPress 4.9.8&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212853Z" creationid="elia" creationdate="20180802T212853Z">
+        <seg>&lt;s0&gt;Você pode saber mais lendo o post sobre &lt;/s0&gt;&lt;a1&gt;a chamada para o Gutenberg no WordPress 4.9.8 (em inglês)&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;You can learn more by reading the &lt;/s0&gt;&lt;a1&gt;“Try Gutenberg” Callout in WordPress 4.9.8&lt;/a1&gt; post.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210155Z" creationid="elia" creationdate="20180802T210155Z">
@@ -1822,6 +1830,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212742Z" creationid="elia" creationdate="20180802T212742Z">
         <seg>Se o Gutenberg &lt;e0&gt;está&lt;/e0&gt; instalado e ativado, a chamada será exibida para os usuários colaboradores e superiores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Classic Editor plugin is installed and activated, the callout will be hidden for all users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212805Z" creationid="elia" creationdate="20180802T212805Z">
+        <seg>Se o plugin Editor clássico está instalado e ativado, a chamada não será exibida.</seg>
       </tuv>
     </tu>
     <tu>
