@@ -282,6 +282,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Most users will now be presented with a notice in their WordPress dashboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212243Z" creationid="elia" creationdate="20180802T212139Z">
+        <seg>&lt;s0&gt;Um aviso será apresentado quase todos os usuários no Painel do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Some users will now be presented with a notice in their WordPress dashboard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205921Z" creationid="elia" creationdate="20180802T205921Z">
@@ -1802,6 +1810,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Gutenberg &lt;e0&gt;is not&lt;/e0&gt; installed or activated, the callout will be shown to Admin users on single sites, and Super Admin users on multisites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212443Z" creationid="elia" creationdate="20180802T212443Z">
+        <seg>Se o Gutenberg &lt;e0&gt;não está&lt;/e0&gt; instalado ou ativado, a chamada será exibida para usuários administradores em sites simples e para superadministradores em instalações multisite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is, RSVP for the party and invite your friends!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215834Z" creationid="elia" creationdate="20180420T215834Z">
@@ -1926,6 +1942,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210527Z" creationid="elia" creationdate="20180802T210527Z">
         <seg>Melhoria de consistência no uso do nome do site nos e-mails de privacidade de multisites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In WordPress 4.9.8, the callout will be shown to the following users:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T212320Z" creationid="elia" creationdate="20180802T212320Z">
+        <seg>No WordPress 4.9.8, a chamada será exibida para os seguintes usuários:</seg>
       </tuv>
     </tu>
     <tu>
