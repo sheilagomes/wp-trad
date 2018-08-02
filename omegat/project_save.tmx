@@ -170,6 +170,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download WordPress 4.9.8&lt;/a0&gt; or venture over to Dashboard → Updates and click “Update Now.” Sites that support automatic background updates are already beginning to update automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210706Z" creationid="elia" creationdate="20180802T210706Z">
+        <seg>&lt;a0&gt;Baixe o WordPress 4.9.8&lt;/a0&gt; ou visite o Painel → Atualizações e simplesmente clique em “Atualizar agora”. Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Request&lt;/a0&gt; some special 15th anniversary WordPress swag (no later than April 27, please, so we have time to ship it to you).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T220358Z" creationid="elia" creationdate="20180420T220358Z">
@@ -190,6 +198,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120856Z" creationid="elia" creationdate="20180404T120856Z">
         <seg>&lt;a0&gt;Para saber mais, acesse este post com mais informações sobre todos os problemas ajustados na versão 4.9.5&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.8 if you’d like to learn more&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210647Z" creationid="elia" creationdate="20180802T210647Z">
+        <seg>&lt;a0&gt;Este post tem mais informações sobre todas os problemas resolvidos na versão 4.9.8, se você quiser saber mais&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +1914,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Improved consistency with site name being used for privacy emails in multisite.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210527Z" creationid="elia" creationdate="20180802T210527Z">
+        <seg>Melhoria de consistência no uso do nome do site nos e-mails de privacidade de multisites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition it will alert the site owners when any privacy information changes after a plugin is activated, deactivated, or updated.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224031Z" creationid="elia" creationdate="20180417T221734Z">
@@ -1966,6 +1990,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122006Z" creationid="elia" creationdate="20180517T122006Z">
         <seg>Nesta seção você deve listar todos os provedores terceirizados com quem você compartilha dados do site, incluindo parceiros, serviços baseados na nuvem, processadores de pagamento e provedores de serviços terceirizados, além de explicar quais dados você compartilha com eles e por que.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increased the test coverage for several core privacy functions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210618Z" creationid="elia" creationdate="20180802T210618Z">
+        <seg>Melhoria na cobertura de testes de várias funções de privacidade dos arquivos básicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2598,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Páginas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pagination for Privacy request admin screens can now be adjusted.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210553Z" creationid="elia" creationdate="20180802T210553Z">
+        <seg>A paginação das telas de aministração das solicitações de privacidade agora pode ser ajustada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,6 +3314,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T230119Z" creationid="elia" creationdate="20180705T230119Z">
         <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to everyone who contributed to WordPress 4.9.8:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210719Z" creationid="elia" creationdate="20180802T210719Z">
+        <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.8:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4651,8 +4699,8 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       <tuv lang="EN">
         <seg>https://wordpress.org/download/</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20171130T161927Z" creationid="elia" creationdate="20171130T161927Z">
-        <seg>https://br.wordpress.org/txt-download/</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210656Z" creationid="elia" creationdate="20171130T161927Z">
+        <seg>https://br.wordpress.org/download/</seg>
       </tuv>
     </tu>
     <tu>
