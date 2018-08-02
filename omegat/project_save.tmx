@@ -266,6 +266,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Some users will now be presented with a notice in their WordPress dashboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T205921Z" creationid="elia" creationdate="20180802T205921Z">
+        <seg>&lt;s0&gt;Um aviso será apresentado para alguns usuários no Painel do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;This software is still in development,&lt;/s0&gt; so we don’t recommend you run it on a production site.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202640Z" creationid="Sheila" creationdate="20171013T202605Z">
@@ -3582,6 +3590,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This &lt;/s0&gt;“Try Gutenberg” is an opportunity for WordPress users to use the Gutenberg block editor before it is released in WordPress 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210115Z" creationid="elia" creationdate="20180802T210115Z">
+        <seg>Isto &lt;/s0&gt;servirá como uma oportunidade para que os usuários do WordPress possam usar o editor de blocos Gutenberg antes que ele seja lançado no WordPress 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This cookie includes no personal data and simply indicates the post ID of the article you just edited.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122604Z" creationid="elia" creationdate="20180517T122604Z">
@@ -4685,6 +4701,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
         <seg>https://wordpress.org/wordpress-4.9-beta2.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Try Gutenberg” callout</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T205832Z" creationid="elia" creationdate="20180802T205832Z">
+        <seg>Chamada para o Gutenberg</seg>
       </tuv>
     </tu>
     <tu>
