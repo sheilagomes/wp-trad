@@ -282,6 +282,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;You can learn more by reading the &lt;/s0&gt;&lt;a1&gt;“Try Gutenberg” Callout in WordPress 4.9.8&lt;/a1&gt; post.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210155Z" creationid="elia" creationdate="20180802T210155Z">
+        <seg>&lt;s0&gt;Você pode saber mais lendo o post sobre&lt;/s0&gt;&lt;a1&gt;a chamada para o Gutenberg no WordPress 4.9.8 (em inglês)&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A MediaElement JavaScript error preventing users of certain languages from being able to upload media files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161753Z" creationid="elia" creationdate="20171130T161753Z">
@@ -1986,6 +1994,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains information about the callout, including which users will, by default, be shown the callout and the hooks it provides for site administrators to modify that default behavior.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210245Z" creationid="elia" creationdate="20180802T210245Z">
+        <seg>Lá você verá informações sobre o aviso, incluindo para quais usuários, por padrão, ele será exibido e hooks disponíveis para que administradores de sites possam modificar seu comportamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It expires after 1 day.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122621Z" creationid="elia" creationdate="20180517T122621Z">
@@ -2770,6 +2786,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Privacy fixes/enhancements</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210253Z" creationid="elia" creationdate="20180802T210253Z">
+        <seg>Ajustes e melhorias de privacidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Privacy: Make sure default privacy policy content does not cause a fatal error when flushing rewrite rules outside of the admin context.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T225841Z" creationid="elia" creationdate="20180705T225841Z">
@@ -3550,6 +3574,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The type of request being confirmed is now included in the subject line for all privacy confirmation emails.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210449Z" creationid="elia" creationdate="20180802T210449Z">
+        <seg>O tipo de solicitação sendo confirmada agora faz parte do assunto de todos os e-mails de confirmação de privacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Theme System</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3650,6 +3682,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T121140Z" creationid="elia" creationdate="20180517T121140Z">
         <seg>Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This release includes 18 Privacy fixes focused on ensuring consistency and flexibility in the new personal data tools &lt;s0&gt;that were &lt;/s0&gt;added in 4.9.6, including:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T210406Z" creationid="elia" creationdate="20180802T210406Z">
+        <seg>Esta versão inclui 18 ajustes de privacidade, com foco em assegurar a consistência e a flexibilidade das novas ferramentas de dados pessoais &lt;s0&gt;que foram&lt;/s0&gt;adicionadas na versão 4.9.6, incluindo:</seg>
       </tuv>
     </tu>
     <tu>
