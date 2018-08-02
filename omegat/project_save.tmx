@@ -250,6 +250,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Following are the highlights of what is now available.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T205826Z" creationid="elia" creationdate="20180802T205826Z">
+        <seg>&lt;s0&gt;Apresentamos aqui uma lista das novidades agora disponíveis.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;If you think you’ve found a bug&lt;/s0&gt;, you can post to the &lt;a1&gt;Alpha/Beta area&lt;/a1&gt; in the support forums.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202720Z" creationid="Sheila" creationdate="20171013T202720Z">
@@ -3814,6 +3822,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are pleased to announce the immediate availability of WordPress 4.9.8, a maintenance release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T205728Z" creationid="elia" creationdate="20180802T205728Z">
+        <seg>Temos o prazer de anunciar que o WordPress 4.9.8, um atualização de manutenção, já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We strongly encourage you to update your sites immediately.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155704Z" creationid="elia" creationdate="20171130T155704Z">
@@ -4051,6 +4067,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T224910Z" creationid="elia" creationdate="20180705T224910Z">
         <seg>O WordPress 4.9.7 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 4.9.8 Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20180802T205651Z" creationid="elia" creationdate="20180802T205651Z">
+        <seg>WordPress 4.9.8 – Atualização de manutenção</seg>
       </tuv>
     </tu>
     <tu>
