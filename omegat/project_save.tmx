@@ -178,6 +178,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; &lt;s1&gt;A known issue&lt;/s1&gt;: the block autocompleter fails for blocks whose names contain characters in non-Latin scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185712Z" creationid="elia" creationdate="20181026T185712Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o Português do Brasil!&lt;/a0&gt; &lt;s1&gt;A known issue&lt;/s1&gt;: the block autocompleter fails for blocks whose names contain characters in non-Latin scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Request&lt;/a0&gt; some special 15th anniversary WordPress swag (no later than April 27, please, so we have time to ship it to you).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T220358Z" creationid="elia" creationdate="20180420T220358Z">
@@ -1074,6 +1082,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you speak a language other than English?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185515Z" creationid="elia" creationdate="20181026T185515Z">
+        <seg>Ajude a tradução em Português!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you speak a language other than English? &lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202712Z" creationid="Sheila" creationdate="20171013T202712Z">
@@ -1802,6 +1818,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222544Z" creationid="elia" creationdate="20180417T222522Z">
         <seg>Como posso participar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to Help</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185454Z" creationid="elia" creationdate="20181026T185454Z">
+        <seg>Como ajudar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4891,8 +4915,8 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       <tuv lang="EN">
         <seg>https://translate.wordpress.org/projects/wp/dev</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202709Z" creationid="Sheila" creationdate="20171013T202709Z">
-        <seg>https://translate.wordpress.org/projects/wp/dev</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185651Z" creationid="Sheila" creationdate="20171013T202709Z">
+        <seg>https://translate.wordpress.org/projects/wp/dev/pt-br/default</seg>
       </tuv>
     </tu>
     <tu>
