@@ -522,6 +522,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the way back to Twenty Ten, we’ve updated every default them to look good in the new block editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185450Z" creationid="elia" creationdate="20181026T185450Z">
+        <seg>Atualizamos todos os temas desde o Twenty Ten, para que eles também fiquem bonitos no novo editor de blocos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All users can see, edit, or delete their personal information at any time (except they cannot change their username).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123218Z" creationid="Sheila" creationdate="20180517T123218Z">
@@ -534,6 +542,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Todas as versões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Along with the new block editor, we have a new default theme, called Twenty Nineteen, which takes advantage of the new features the block editor provides.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185225Z" creationid="elia" creationdate="20181026T185225Z">
+        <seg>Junto com o novo editor de blocos, temos um novo tema padrão, chamado Twenty Nineteen, que usufrui de todas as vantages dos novos recursos fornecidos pelo editor de blocos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +982,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Decisões, não opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Themes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185323Z" creationid="elia" creationdate="20181026T185314Z">
+        <seg>Temas padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,6 +2578,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, we couldn’t release a beautiful new default theme, and leave all of our old ones behind.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185357Z" creationid="elia" creationdate="20181026T185357Z">
+        <seg>Claro, nós não poderíamos lancar uma nova e linda versão de um tema padrão e deixar todos os novos temas antigos para trás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course, we recognise you might not be ready for this change quite yet.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185035Z" creationid="elia" creationdate="20181026T185035Z">
@@ -3982,6 +4014,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Twenty Nineteen</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185140Z" creationid="elia" creationdate="20181026T185140Z">
+        <seg>Twenty Nineteen (2019)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twenty-five other bugs were fixed in WordPress 4.9.5.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120353Z" creationid="elia" creationdate="20180404T120353Z">
@@ -4683,6 +4723,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T184033Z" creationid="elia" creationdate="20181026T184033Z">
         <seg>Você pode criar conteúdos flexíveis e bonitos sem escrever uma linha de código ou você pode mergulhar nas &lt;a0&gt;modernas APIs de programação&lt;/a0&gt; que o editor de blocos fornece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can read more about Twenty Nineteen in its &lt;a0&gt;introduction post&lt;/a0&gt;, and follow along with development over on the &lt;a1&gt;GitHub repository&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185311Z" creationid="elia" creationdate="20181026T185311Z">
+        <seg>Você pode saber mais sobre o Twenty Ninetwwn nest &lt;a0&gt;post de apresentação&lt;/a0&gt; e acompanhar seu desenvolvimento através do &lt;a1&gt;repositório no GitHub&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
