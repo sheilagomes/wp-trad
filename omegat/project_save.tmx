@@ -1858,6 +1858,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If that’s the case, you can install the &lt;a0&gt;Classic Editor plugin&lt;/a0&gt; now, which will keep the editor you’re familiar with as the default, even after you upgrade to WordPress 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185135Z" creationid="elia" creationdate="20181026T185135Z">
+        <seg>Se esse for o seu caso, você pode instalar o &lt;a0&gt;plugin Editor clássico&lt;/a0&gt; agora, que manterá o editor com que você já está familiriazidado como padrão, mesmo que você atualize para o WordPress 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Classic Editor plugin is installed and activated, the callout will be hidden for all users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212805Z" creationid="elia" creationdate="20180802T212805Z">
