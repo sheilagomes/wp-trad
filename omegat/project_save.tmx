@@ -794,6 +794,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consider setting up a test site to play with the new version, and if you are using an existing test site be sure to update the Gutenberg plugin to v4.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183548Z" creationid="elia" creationdate="20181026T183548Z">
+        <seg>Considere criar um site de testes para testar a nova versão e, se você já está usando um site de testes, tenha certeza de atualizar o plugin Gutenberg para a versão 4.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115252Z" creationid="Sheila" creationdate="20180517T115252Z">
@@ -1682,6 +1690,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171130T171733Z" creationid="Sheila" creationdate="20171130T171733Z">
         <seg>Have you taken the WordPress 2017 Survey yet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are some of the big items to test so we can find as many bugs as possible in the coming weeks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183830Z" creationid="elia" creationdate="20181026T183830Z">
+        <seg>Aqui estão alguns dos itens mais importantes para testar, de modo que possamos encontrar tantos erros quanto possível nas próximas semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3486,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Block Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183836Z" creationid="elia" creationdate="20181026T183836Z">
+        <seg>O editor de blocos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Codex has &lt;a0&gt;more information about all of the issues fixed in 4.9.2&lt;/a0&gt;, if you'd like to learn more.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141822Z" creationid="elia" creationdate="20180118T141822Z">
@@ -3614,6 +3638,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new Gutenberg block editor is now the default post editor!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183855Z" creationid="elia" creationdate="20181026T183855Z">
+        <seg>O novo editor de blocos Gutenberg agora será o editor de posts padrão!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new privacy tools are scheduled for release at the end of April or beginning of May 2018.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222518Z" creationid="elia" creationdate="20180417T222518Z">
@@ -3706,6 +3738,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Ainda não há versões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.0 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want “bleeding edge nightlies”), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183707Z" creationid="elia" creationdate="20181026T183707Z">
+        <seg>Existem duas formas de testar o WordPress 5.0 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4235,6 +4275,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205651Z" creationid="elia" creationdate="20180802T205651Z">
         <seg>WordPress 4.9.8 – Atualização de manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 Beta 1 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183323Z" creationid="elia" creationdate="20181026T183323Z">
+        <seg>O WordPress 5.0 Beta 1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 is slated for release on &lt;a0&gt;November 19&lt;/a0&gt;, and we need your help to get there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183751Z" creationid="elia" creationdate="20181026T183751Z">
+        <seg>O lançamento do WordPress 5.0 está previsto para &lt;a0&gt;19 de novembro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
     <tu>
