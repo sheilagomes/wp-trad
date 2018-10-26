@@ -482,6 +482,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add up one by one by one&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T190123Z" creationid="elia" creationdate="20181026T190123Z">
+        <seg>Indo de um por um&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a dedicated page for the policy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221300Z" creationid="elia" creationdate="20180417T221300Z">
@@ -2522,6 +2530,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minor bug fixes&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T190116Z" creationid="elia" creationdate="20181026T190116Z">
+        <seg>Corrigindo erros pequenos&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multilingual</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3842,6 +3858,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you change the world</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T190137Z" creationid="elia" creationdate="20181026T190137Z">
+        <seg>Você consegue mudar o mundo</seg>
       </tuv>
     </tu>
     <tu>
