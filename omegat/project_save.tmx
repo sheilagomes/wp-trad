@@ -1282,6 +1282,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even before you install WordPress 5.0, you can &lt;a0&gt;try the block editor here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T184101Z" creationid="elia" creationdate="20181026T184050Z">
+        <seg>Mesmo antes de instalar o WordPress 5.0, você pode &lt;a0&gt;testar o editor de blocos aqui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expected an array describing the eraser at index %d.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T124607Z" creationid="elia" creationdate="20180517T124607Z">
@@ -2538,6 +2546,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, we recognise you might not be ready for this change quite yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185035Z" creationid="elia" creationdate="20181026T185035Z">
+        <seg>Claro, sabemos que você pode não estar preparado para essa mudança ainda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Official WordPress Logo</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3606,6 +3622,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor provides a modern, media-rich editing experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T183931Z" creationid="elia" creationdate="20181026T183931Z">
+        <seg>O editor de blocos fornece uma experiência de edição moderna e rica em mídias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first step is awareness and education.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224423Z" creationid="elia" creationdate="20180417T222600Z">
@@ -4643,6 +4667,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Você pode criar uma nova senha no seguinte endereço:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create flexible, beautiful content without writing a single line of code, or you can dive into the &lt;a0&gt;modern programming APIs&lt;/a0&gt; that the block editor provides.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T184033Z" creationid="elia" creationdate="20181026T184033Z">
+        <seg>Você pode criar conteúdos flexíveis e bonitos sem escrever uma linha de código ou você pode mergulhar nas &lt;a0&gt;modernas APIs de programação&lt;/a0&gt; que o editor de blocos fornece.</seg>
       </tuv>
     </tu>
     <tu>
