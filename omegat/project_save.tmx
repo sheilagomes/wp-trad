@@ -180,8 +180,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; &lt;s1&gt;A known issue&lt;/s1&gt;: the block autocompleter fails for blocks whose names contain characters in non-Latin scripts.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185712Z" creationid="elia" creationdate="20181026T185712Z">
-        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o Português do Brasil!&lt;/a0&gt; &lt;s1&gt;A known issue&lt;/s1&gt;: the block autocompleter fails for blocks whose names contain characters in non-Latin scripts.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185753Z" creationid="elia" creationdate="20181026T185712Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o Português do Brasil!&lt;/a0&gt; &lt;s1&gt;Um problema já conhecido&lt;/s1&gt;: o autocompletar dos blocos não funciona com nomes que contenham caracteres não-latinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +270,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>&lt;em&gt;Versão 1.0 Março de 2015&lt;/em&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;e1&gt;If you think you’ve found a bug&lt;/e1&gt;&lt;/s0&gt;&lt;e2&gt;, you can post to the &lt;/e2&gt;&lt;a3&gt;&lt;e4&gt;Alpha/Beta area&lt;/e4&gt;&lt;/a3&gt;&lt;e5&gt; in the support forums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185915Z" creationid="elia" creationdate="20181026T185915Z">
+        <seg>&lt;s0&gt;&lt;e1&gt;Se acha que encontrou um erro&lt;/e1&gt;&lt;/s0&gt;&lt;e2&gt;, você pode publicá-lo na &lt;/e2&gt;&lt;a3&gt;&lt;e4&gt;área Alpha/Beta&lt;/e4&gt;&lt;/a3&gt;&lt;e5&gt; do fórum oficial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +486,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221300Z" creationid="elia" creationdate="20180417T221300Z">
         <seg>Adicionando uma página exclusiva para a política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding blocks via the plus sign works, and this bug is fixed in the Gutenberg 4.1 plugin.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T185824Z" creationid="elia" creationdate="20181026T185824Z">
+        <seg>Adicionar blocos através do sinal de adição funciona e este erro já está corrigido na versão 4.1 do Gutenberg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2022,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115810Z" creationid="Sheila" creationdate="20180517T115810Z">
         <seg>Caso o seu site receba dados de terceiros sobre usuários, incluindo anunciantes, esta informação deve ser incluída dentro da seção da sua política de privacidade que trata de dados de terceiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;file one on WordPress Trac&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, where you can also find &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;a list of known bugs&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181026T190059Z" creationid="elia" creationdate="20181026T190059Z">
+        <seg>Se você está apto a escrever um relatório de um erro que outras pessoas podem reproduzir, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;envie-o para o WordPress Trac (em inglês)&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, onde você também pode encontrar &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;uma lista dos erros já conhecidos&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
       </tuv>
     </tu>
     <tu>
