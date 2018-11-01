@@ -3646,6 +3646,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;Twenty Nineteen repository&lt;/a0&gt; is a hive of activity, there have been a stack of minor bugs clean up, and some notable additions:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121248Z" creationid="elia" creationdate="20181101T121248Z">
+        <seg>O &lt;a0&gt;repositório do Twenty Nineteen&lt;/a0&gt; está a pleno vapor. Uma série de pequenos erros foram corrigidos e foram feitas algumas adições importantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Block Editor</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183836Z" creationid="elia" creationdate="20181026T183836Z">
@@ -3938,6 +3946,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221859Z" creationid="elia" creationdate="20180417T221859Z">
         <seg>Há uma nova funcionalidade para confirmar solicitações de usuários através do endereço de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There’s now a widget area in the page footer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121314Z" creationid="elia" creationdate="20181101T121314Z">
+        <seg>Agora há uma nova área de widgets no rodapé das páginas.</seg>
       </tuv>
     </tu>
     <tu>
