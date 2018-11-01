@@ -554,6 +554,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the ones you’ve reported.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121656Z" creationid="elia" creationdate="20181101T121656Z">
+        <seg>Todos os que você nos contou.&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the way back to Twenty Ten, we’ve updated every default them to look good in the new block editor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185450Z" creationid="elia" creationdate="20181026T185450Z">
@@ -3410,6 +3418,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Alguns dos melhores sites em WordPress na internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some that we’ve found, too.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121711Z" creationid="elia" creationdate="20181101T121711Z">
+        <seg>E alguns que encontramos também.</seg>
       </tuv>
     </tu>
     <tu>
