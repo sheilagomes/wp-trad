@@ -2202,6 +2202,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internationalisation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120714Z" creationid="elia" creationdate="20181101T120714Z">
+        <seg>Internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid request ID when processing eraser data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115425Z" creationid="Sheila" creationdate="20180517T115425Z">
@@ -2550,6 +2558,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meta boxes had a few bugs, and they weren’t showing at all in the block editor, so we’ve fixed and polished there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120709Z" creationid="elia" creationdate="20181101T120709Z">
+        <seg>Existiam alguns problemas com as meta boxes e elas não estavam aparecendo no editor de blocos, mas isso já foi corrigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4274,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
         <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’ve updated to the latest version of the block editor from the Gutenberg plugin, which includes the new &lt;a0&gt;Format API&lt;/a0&gt;, embedding improvements, and &lt;a1&gt;a variety of bug fixes&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120524Z" creationid="elia" creationdate="20181101T120524Z">
+        <seg>Atualizamos o editor de blocos com a versão mais recente do plugin Gutenberg, que inclui a nova &lt;a0&gt;API de Formatos&lt;/a0&gt;, melhorias nas mídias incorporadas e &lt;a1&gt;uma variedade de ajustes&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
