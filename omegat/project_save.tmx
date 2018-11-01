@@ -1002,6 +1002,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customiser options have been added for changing the theme colours and feature image filters.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121503Z" creationid="elia" creationdate="20181101T121503Z">
+        <seg>Foram adicionadas opções no Personalizar para alterar as cores do tema e filtros nas imagens destacadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizable&lt;br /&gt;Designs</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1366,6 +1374,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T184101Z" creationid="elia" creationdate="20181026T184050Z">
         <seg>Mesmo antes de instalar o WordPress 5.0, você pode &lt;a0&gt;testar o editor de blocos aqui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everything Else</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121507Z" creationid="elia" creationdate="20181101T121507Z">
+        <seg>Todo o resto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigation submenus have been implemented for mobile devices.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121354Z" creationid="elia" creationdate="20181101T121354Z">
+        <seg>Submenus de navegação foram implementados para dispositivos móveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New section on privacy will be added to the &lt;a0&gt;Plugin Handbook&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222346Z" creationid="elia" creationdate="20180417T222346Z">
@@ -2782,6 +2806,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>PHP %s ou superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PHP 7.3 compatibility has been improved.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121640Z" creationid="elia" creationdate="20181101T121640Z">
+        <seg>A compatibilidade com o PHP 7.3 foi melhorada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3782,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The REST API has a couple of bug fixes and performance improvements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121629Z" creationid="elia" creationdate="20181101T121629Z">
+        <seg>A API REST teve alguns erros corrigidos e sua performance foi melhorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Role of the Hosting Provider in WordPress Security</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4290,6 +4330,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
         <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’re fixing the bugs:&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T121647Z" creationid="elia" creationdate="20181101T121647Z">
+        <seg>Corrigindo os erros:&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
