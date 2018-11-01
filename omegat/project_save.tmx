@@ -4278,6 +4278,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We’ve added support for &lt;a0&gt;registering and loading JavaScript translation files&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120750Z" creationid="elia" creationdate="20181101T120750Z">
+        <seg>Adicionamos suporte ao &lt;a0&gt;registro e carregamento de tradução de arquivos JavaScript&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We’ve updated to the latest version of the block editor from the Gutenberg plugin, which includes the new &lt;a0&gt;Format API&lt;/a0&gt;, embedding improvements, and &lt;a1&gt;a variety of bug fixes&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120524Z" creationid="elia" creationdate="20181101T120524Z">
