@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -714,6 +714,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Block Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120350Z" creationid="elia" creationdate="20181101T120350Z">
+        <seg>Editor de blocos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blog</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -846,6 +854,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183548Z" creationid="elia" creationdate="20181026T183548Z">
         <seg>Considere criar um site de testes para testar a nova versão e, se você já está usando um site de testes, tenha certeza de atualizar o plugin Gutenberg para a versão 4.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consider setting up a test site to play with the new version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120218Z" creationid="elia" creationdate="20181101T120218Z">
+        <seg>Considere criar um site de testes para testar a nova versão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1778,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171130T171733Z" creationid="Sheila" creationdate="20171130T171733Z">
         <seg>Have you taken the WordPress 2017 Survey yet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are some of the big issues that we fixed since Beta 1:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120340Z" creationid="elia" creationdate="20181101T120340Z">
+        <seg>Aqui estão alguns ajustes importantes que fizemos desde o Beta 1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3878,6 +3902,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.0 Beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want “bleeding edge nightlies”), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120309Z" creationid="elia" creationdate="20181101T120309Z">
+        <seg>Existem duas formas de testar o WordPress 5.0 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two ways to test the WordPress 5.0 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want “bleeding edge nightlies”), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183707Z" creationid="elia" creationdate="20181026T183707Z">
@@ -4427,6 +4459,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183323Z" creationid="elia" creationdate="20181026T183323Z">
         <seg>O WordPress 5.0 Beta 1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 Beta 2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120124Z" creationid="elia" creationdate="20181101T120124Z">
+        <seg>O WordPress 5.0 Beta 2 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5083,8 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       <tuv lang="EN">
         <seg>https://wordpress.org/plugins/wordpress-beta-tester/</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
-        <seg>https://wordpress.org/plugins/wordpress-beta-tester/</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181101T120224Z" creationid="Sheila" creationdate="20171013T202605Z">
+        <seg>https://br.wordpress.org/plugins/wordpress-beta-tester/</seg>
       </tuv>
     </tu>
     <tu>
