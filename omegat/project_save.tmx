@@ -1636,8 +1636,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>Fixes some errors in older PHP versions, and in IE11.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173905Z" creationid="elia" creationdate="20181105T173905Z">
-        <seg>Ajustes para errors em versãos mais antigas do PHP e no IE11.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T174836Z" creationid="elia" creationdate="20181105T173905Z">
+        <seg>Correção de erros em versões mais antigas do PHP e no IE11.</seg>
       </tuv>
     </tu>
     <tu>
