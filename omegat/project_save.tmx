@@ -354,6 +354,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A myriad of minor tweaks and improvements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173550Z" creationid="elia" creationdate="20181105T173550Z">
+        <seg>Vários pequenos ajustes e melhorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new “Privacy” page is added under the “Tools” menu.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222007Z" creationid="elia" creationdate="20180417T222007Z">
@@ -514,6 +522,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding support for the “Custom Fields” meta box.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173504Z" creationid="elia" creationdate="20181105T173504Z">
+        <seg>Suporte ao meta box de "Campos personalizados".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional Reading</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -526,6 +542,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173441Z" creationid="elia" creationdate="20181105T173441Z">
         <seg>Além disso, existem alguns ajustes e recursos novos, como por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adds support for Responsive Embeds.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173810Z" creationid="elia" creationdate="20181105T173810Z">
+        <seg>Adicionado suporte à mídias incorporadas responsivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adds support for Selective Refresh Widgets in the Customiser.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173725Z" creationid="elia" creationdate="20181105T173725Z">
+        <seg>Adicionado suporte à atualização seletiva de widgets no Personalizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2174,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210527Z" creationid="elia" creationdate="20180802T210527Z">
         <seg>Melhoria de consistência no uso do nome do site nos e-mails de privacidade de multisites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improving the reliability of REST API requests.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173530Z" creationid="elia" creationdate="20181105T173530Z">
+        <seg>Melhoria na confiabilidade das solicitações à API REST.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4274,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185140Z" creationid="elia" creationdate="20181026T185140Z">
         <seg>Twenty Nineteen (2019)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twenty Nineteen has been updated from its &lt;a0&gt;GitHub repository&lt;/a0&gt;, this version is full of new goodies to check out:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173647Z" creationid="elia" creationdate="20181105T173647Z">
+        <seg>O Twenty Nineteen foi atualizado a partir de seu  &lt;a0&gt;repositório no GitHub&lt;/a0&gt;. Você pode verificar vários várias novidades nesta versão:</seg>
       </tuv>
     </tu>
     <tu>
