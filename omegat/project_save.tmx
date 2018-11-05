@@ -178,6 +178,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173957Z" creationid="elia" creationdate="20181105T173957Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; &lt;s1&gt;A known issue&lt;/s1&gt;: the block autocompleter fails for blocks whose names contain characters in non-Latin scripts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185753Z" creationid="elia" creationdate="20181026T185712Z">
@@ -1610,6 +1618,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fixes nested blocks appearing wider than they should be.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173848Z" creationid="elia" creationdate="20181105T173848Z">
+        <seg>Ajustes em blocos aninhados aparecendo mais largos do que deveriam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fixes some errors in older PHP versions, and in IE11.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173905Z" creationid="elia" creationdate="20181105T173905Z">
+        <seg>Ajustes para errors em versãos mais antigas do PHP e no IE11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flexibility</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2126,6 +2150,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115810Z" creationid="Sheila" creationdate="20180517T115810Z">
         <seg>Caso o seu site receba dados de terceiros sobre usuários, incluindo anunciantes, esta informação deve ser incluída dentro da seção da sua política de privacidade que trata de dados de terceiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re able to contribute with coding or testing changes, we have &lt;a0&gt;a multitude of bug scrubs&lt;/a0&gt; scheduled this week, we’d love to have as many people as we can ensuring all bugs reported get the attention they deserve.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T174300Z" creationid="elia" creationdate="20181105T174300Z">
+        <seg>Se você é fluente em inglês e se sente apto a contribuir com código ou testes, nós temos &lt;a0&gt;vários bug scrubs &lt;/a0&gt; agendados para esta semana e nós adoraríamos envolver o máximo de pessoas possível para termos certeza de que todos os erros informados receberam a devida atenção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4290,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Tente procurar a partir do campo acima ou vá para a &lt;a href="%s"&gt;página inicial&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tweaks to improve readability and functionality on mobile devices.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173827Z" creationid="elia" creationdate="20181105T173827Z">
+        <seg>Ajustes para melhorar a leitura e funcionalidades em dispositivos móveis.</seg>
       </tuv>
     </tu>
     <tu>
