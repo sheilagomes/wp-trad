@@ -242,6 +242,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;WordPress Five Point Oh&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T174314Z" creationid="elia" creationdate="20181105T174314Z">
+        <seg>&lt;e0&gt;WordPress cinco ponto zero&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e2&gt;code editing, theme switches,&lt;/e2&gt;&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202733Z" creationid="Sheila" creationdate="20171013T202733Z">
@@ -3646,6 +3654,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you for helping!&lt;/e0&gt; 💖&lt;e3&gt;&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T174401Z" creationid="elia" creationdate="20181105T174401Z">
+        <seg>Agradecemos a sua ajuda!&lt;/e0&gt; 💖&lt;e3&gt;&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thank you to &lt;a0&gt;Slavco&lt;/a0&gt; for reporting the original issue and &lt;a1&gt;Matt Barry&lt;/a1&gt; for reporting related issues.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T225428Z" creationid="elia" creationdate="20180705T225428Z">
@@ -5333,6 +5349,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
         <seg>https://wordpress.org/wordpress-4.9-beta2.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is just two short weeks away.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T174345Z" creationid="elia" creationdate="20181105T174345Z">
+        <seg>chega daqui a duas semaninhas.&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
