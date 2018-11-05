@@ -522,6 +522,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, there are some newer bug fixes and features, such as:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173441Z" creationid="elia" creationdate="20181105T173441Z">
+        <seg>Além disso, existem alguns ajustes e recursos novos, como por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adobe Illustrator CS5+ Sketch 3</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1810,6 +1818,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120340Z" creationid="elia" creationdate="20181101T120340Z">
         <seg>Aqui estão alguns ajustes importantes que fizemos desde o Beta 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are some of the big issues that we’ve fixed since Beta 2:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173204Z" creationid="elia" creationdate="20181105T173204Z">
+        <seg>Aqui estão alguns ajustes importantes que fizemos desde o Beta 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +3842,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>A Equipe de avaliação de temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The block editor has been updated to include all of the features and bug fixes from the upcoming &lt;a0&gt;Gutenberg 4.2 release&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T173420Z" creationid="elia" creationdate="20181105T173420Z">
+        <seg>O editor de blocos foi atualizado para incluir todos os recursos e ajustes da &lt;a0&gt;versão 4.2 do Gutenberg&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
