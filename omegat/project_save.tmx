@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4579,6 +4579,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120124Z" creationid="elia" creationdate="20181101T120124Z">
         <seg>O WordPress 5.0 Beta 2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 Beta 3 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181105T172907Z" creationid="elia" creationdate="20181105T172907Z">
+        <seg>O WordPress 5.0 Beta 3 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
