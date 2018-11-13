@@ -626,6 +626,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of the older default themes—from Twenty Ten through to Twenty Seventeen—have polished styling in the block editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120316Z" creationid="elia" creationdate="20181113T120316Z">
+        <seg>Todos os temas padrão mais antigos, do Twenty Ten até o Twenty Seventeen, tiveram seus estilos no editor de blocos melhorados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of this requires your help.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
@@ -2270,6 +2278,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115020Z" creationid="elia" creationdate="20181113T115020Z">
         <seg>Melhoria na acessibilidade, com marcações e itens para leitura de tela adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improved backwards compatibility with older versions of WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120054Z" creationid="elia" creationdate="20181113T120054Z">
+        <seg>Melhoria na compatibilidade com versões anteriores do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
