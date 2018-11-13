@@ -882,6 +882,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check out the &lt;a0&gt;developer note&lt;/a0&gt; to get started.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115436Z" creationid="elia" creationdate="20181113T115436Z">
+        <seg>Leia as &lt;a0&gt;notas de desenvolvimento&lt;/a0&gt; para saber mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;a0&gt;WordPress 15th Anniversary website&lt;/a0&gt; to see if there’s a party already planned for your town.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T222853Z" creationid="elia" creationdate="20180420T215817Z">
@@ -4426,6 +4434,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174635Z" creationid="elia" creationdate="20181105T173647Z">
         <seg>O Twenty Nineteen foi atualizado a partir de seu  &lt;a0&gt;repositório no GitHub&lt;/a0&gt;. Você pode verificar várias novidades nesta versão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twenty Nineteen is being polished over on its &lt;a0&gt;GitHub repository&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115754Z" creationid="elia" creationdate="20181113T115754Z">
+        <seg>O Twenty Nineteen está sendo trabalhado no seu &lt;a0&gt;repositório do GitHub&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
