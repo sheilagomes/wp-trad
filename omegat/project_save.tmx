@@ -674,6 +674,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An &lt;a0&gt;Annotations API&lt;/a0&gt;, allowing plugins to add contextual data as you write.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T114334Z" creationid="elia" creationdate="20181113T114334Z">
+        <seg>Uma &lt;a0&gt;API de Anotações&lt;/a0&gt;, permitindo que plugins incluam dados contextuais enquanto você escreve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An XSS vulnerability was discovered in the Flash fallback files in MediaElement, a library that is included with WordPress.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141052Z" creationid="elia" creationdate="20180118T141052Z">
@@ -2710,6 +2718,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T190116Z" creationid="elia" creationdate="20181026T190116Z">
         <seg>Corrigindo erros pequenos&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More consistent keyboard navigation between blocks, as well as back-and-forth between different areas of the interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T114628Z" creationid="elia" creationdate="20181113T114628Z">
+        <seg>Melhoria na consistência da navegação entre blocos feita pelo teclado, assim como ajustes nas diferentes áreas da interface.</seg>
       </tuv>
     </tu>
     <tu>
