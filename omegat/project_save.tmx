@@ -570,6 +570,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, there have been some bugs fixed that popped up in beta 3:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115035Z" creationid="elia" creationdate="20181113T115035Z">
+        <seg>Além disso, foram corrigidos alguns erros que apareceram na versão beta 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds support for Responsive Embeds.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173810Z" creationid="elia" creationdate="20181105T173810Z">
@@ -782,6 +790,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Versões beta e RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Better support for plugins that have more advanced meta box usage.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115108Z" creationid="elia" creationdate="20181113T115108Z">
+        <seg>Melhor suporte a plugins que fazem uso mais avançado das meta boxes.</seg>
       </tuv>
     </tu>
     <tu>
