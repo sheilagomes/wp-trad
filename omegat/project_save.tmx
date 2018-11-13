@@ -378,6 +378,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A footer menu has been added for secondary page links.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120032Z" creationid="elia" creationdate="20181113T120032Z">
+        <seg>Um menu de rodapé foi adicionado para links de página secundários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A myriad of minor tweaks and improvements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173550Z" creationid="elia" creationdate="20181105T173550Z">
@@ -2746,6 +2754,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus now properly support keyboard and touch interactions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115932Z" creationid="elia" creationdate="20181113T115932Z">
+        <seg>Menus agora têm suporte apropriado a interações por toque e teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Meta boxes had a few bugs, and they weren’t showing at all in the block editor, so we’ve fixed and polished there.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120709Z" creationid="elia" creationdate="20181101T120709Z">
@@ -4298,6 +4314,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210406Z" creationid="elia" creationdate="20180802T210406Z">
         <seg>Esta versão inclui 18 ajustes de privacidade, com foco em assegurar a consistência e a flexibilidade das novas ferramentas de dados pessoais &lt;s0&gt;que foram&lt;/s0&gt;adicionadas na versão 4.9.6, incluindo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This update includes &lt;a1&gt;a host of tweaks and bug fixes&lt;/a1&gt;, including:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115859Z" creationid="elia" creationdate="20181113T115859Z">
+        <seg>Esta atualização inclui &lt;a1&gt;vários ajustes&lt;/a1&gt;, incluindo:</seg>
       </tuv>
     </tu>
     <tu>
