@@ -2410,6 +2410,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>International-&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120325Z" creationid="elia" creationdate="20181113T120325Z">
+        <seg>International- (Internacionali-)&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internationalisation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120714Z" creationid="elia" creationdate="20181101T120714Z">
@@ -2778,6 +2786,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Meta boxes are&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120404Z" creationid="elia" creationdate="20181113T120404Z">
+        <seg>Meta boxes are (Meta boxes são)&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Meta boxes had a few bugs, and they weren’t showing at all in the block editor, so we’ve fixed and polished there.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120709Z" creationid="elia" creationdate="20181101T120709Z">
@@ -2934,6 +2950,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Logo oficial do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old is new again.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120421Z" creationid="elia" creationdate="20181113T120421Z">
+        <seg>Old is new again. (o velho é o novo de novo.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5517,6 +5541,30 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174345Z" creationid="elia" creationdate="20181105T174345Z">
         <seg>chega daqui a duas semaninhas.&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>isation is a word with&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120346Z" creationid="elia" creationdate="20181113T120337Z">
+        <seg>isation is a word with (zação é uma palavra com)&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>many syllables.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120354Z" creationid="elia" creationdate="20181113T120354Z">
+        <seg>many syllables. (muitas sílabas.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the original style block.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T120411Z" creationid="elia" creationdate="20181113T120411Z">
+        <seg>the original style block. (o estilo de bloco original)&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
