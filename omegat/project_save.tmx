@@ -610,6 +610,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ajax calls could occasionally cause PHP errors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115217Z" creationid="elia" creationdate="20181113T115217Z">
+        <seg>Chamadas ajax ocasionalmente causavam erros de PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of this requires your help.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
@@ -3414,6 +3422,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script concatenation is now supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115127Z" creationid="elia" creationdate="20181113T115127Z">
+        <seg>Suporte a concatenação de scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4006,6 +4022,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor is now using this, and you can start using it, too.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115406Z" creationid="elia" creationdate="20181113T115406Z">
+        <seg>E como o editor de bloco já está usando essa API, você também já pode começar a usá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor provides a modern, media-rich editing experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183931Z" creationid="elia" creationdate="20181026T183931Z">
@@ -4546,6 +4570,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121647Z" creationid="elia" creationdate="20181101T121647Z">
         <seg>Corrigindo os erros:&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’ve added an API for translating your plugin and theme strings in JavaScript files!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115312Z" creationid="elia" creationdate="20181113T115312Z">
+        <seg>Adicionamos uma API para tradução de strings em arquivos JavaScript dos seus plugins e temas!</seg>
       </tuv>
     </tu>
     <tu>
