@@ -2226,6 +2226,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Improved accessibility, with additional labelling and speech announcements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T115020Z" creationid="elia" creationdate="20181113T115020Z">
+        <seg>Melhoria na acessibilidade, com marcações e itens para leitura de tela adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Improved compatibility with PHP 7.2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120836Z" creationid="elia" creationdate="20180404T120836Z">
