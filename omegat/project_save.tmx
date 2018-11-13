@@ -330,6 +330,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;The WordPress 5.0 release date has changed&lt;/s0&gt;, it is now scheduled for release on &lt;a1&gt;November 27&lt;/a1&gt;, and we need your help to get there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T114053Z" creationid="elia" creationdate="20181113T114053Z">
+        <seg>&lt;s0&gt;A data de lançamento do WordPress 5.0 mudou&lt;/s0&gt;. A nova data é &lt;a1&gt;27 de novembro&lt;/a1&gt; e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;This software is still in development,&lt;/s0&gt; so we don’t recommend you run it on a production site.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202640Z" creationid="Sheila" creationdate="20171013T202605Z">
@@ -1890,6 +1898,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173204Z" creationid="elia" creationdate="20181105T173204Z">
         <seg>Aqui estão alguns ajustes importantes que fizemos desde o Beta 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are some of the big issues that we’ve fixed since Beta 3:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T114105Z" creationid="elia" creationdate="20181113T114105Z">
+        <seg>Aqui estão alguns ajustes importantes que fizemos desde o Beta 3:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,6 +3958,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor has been updated to match the &lt;a0&gt;Gutenberg 4.3 release&lt;/a0&gt;, the major changes include:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T114207Z" creationid="elia" creationdate="20181113T114207Z">
+        <seg>O editor de blocos foi atualizado a partir da &lt;a0&gt;versão 4.3 do Gutenberg&lt;/a0&gt; e as maiores mudanças incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor provides a modern, media-rich editing experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183931Z" creationid="elia" creationdate="20181026T183931Z">
@@ -4715,6 +4739,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T172907Z" creationid="elia" creationdate="20181105T172907Z">
         <seg>O WordPress 5.0 Beta 3 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 Beta 4 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181113T113900Z" creationid="elia" creationdate="20181113T113900Z">
+        <seg>O WordPress 5.0 Beta 4 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
