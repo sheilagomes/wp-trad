@@ -602,6 +602,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, there have been some pesky bugs fixed:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132148Z" creationid="elia" creationdate="20181119T132148Z">
+        <seg>Além disso, alguns errinhos chatos foram corrigidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds support for Responsive Embeds.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173810Z" creationid="elia" creationdate="20181105T173810Z">
@@ -830,6 +838,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Versões beta e RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Better handling for &lt;a0&gt;links without an href&lt;/a0&gt; attribute, which were showing as &lt;c1&gt;undefined&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132222Z" creationid="elia" creationdate="20181119T132222Z">
+        <seg>Melhor tratamento de &lt;a0&gt;links sem um attributo href&lt;/a0&gt;, que apareciam como &lt;c1&gt;undefined&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Better handling for different text encodings (e.g. emoji) within a block &lt;a0&gt;in block validation&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132357Z" creationid="elia" creationdate="20181119T132357Z">
+        <seg>Melhor tratamento de encodings diferentes de texto, como emojis por exemplo, &lt;a0&gt;na validação do bloco&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2590,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T215838Z" creationid="elia" creationdate="20180417T215838Z">
         <seg>Seu objetivo principal é devolver para os residentes na UE o controle sobre seus dados pessoais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese text (double byte characters) are &lt;a0&gt;now usable in the list block&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132251Z" creationid="elia" creationdate="20181119T132251Z">
+        <seg>Texto em japonês (caracteres com double byte) &lt;a0&gt;agora estão disponíveis na lista de blocos&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
