@@ -1,0 +1,74 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2018/11/wordpress-5-0-beta-5/">WordPress 5.0 Beta 5</a></h2>
+
+<div class="meta">Posted November 16, 2018 by <a href="https://profiles.wordpress.org/desrosj">Jonathan Desrosiers</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>. </div>
+ <div class="storycontent">
+	
+<p>WordPress 5.0 Beta 5 is now available!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so we don’t recommend you run it on a production site. Consider setting up a test site to play with the new version.</p>
+
+
+
+<p>There are two ways to test this WordPress 5.0 Beta: try the&nbsp;<a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;plugin (you’ll want “bleeding edge nightlies”), or you can&nbsp;<a href="https://wordpress.org/wordpress-5.0-beta5.zip">download the beta here</a>&nbsp;(zip).</p>
+
+
+
+<p><strong>Reminder: the WordPress 5.0 release date has changed</strong>. It is now scheduled for release on&nbsp;<a href="https://make.wordpress.org/core/5-0/">November 27</a>, and we need your help to get there. Here are some of the big issues that we’ve fixed since Beta 4:</p>
+
+
+
+<h2>Block Editor</h2>
+
+
+
+<p>The block editor has been updated to match the <a href="https://make.wordpress.org/core/2018/11/15/whats-new-in-gutenberg-15th-november-2/">Gutenberg 4.4 release</a>, the major changes  include:</p>
+
+
+
+<ul><li>&nbsp;A <a href="https://github.com/WordPress/gutenberg/pull/11874">permalink panel has been added to the document sidebar</a> to make it easier to find.</li><li>Editor document panels can now be <a href="https://github.com/WordPress/gutenberg/pull/11802">programmatically removed</a>.</li><li>The uploading indicator for images and galleries has been replaced with a&nbsp;<a href="https://github.com/WordPress/gutenberg/pull/11876">spinner and faded out image</a>.</li><li>The text and code editing blocks will now <a href="https://github.com/WordPress/gutenberg/pull/11750">use the full width of the editor</a>.</li><li>Image handling has been improved. Images now  take up the right amount of space for <a href="https://github.com/WordPress/gutenberg/pull/11846">themes with wider editors</a> (like Twenty Nineteen).<br></li><li>Hover styles are now <a href="https://github.com/WordPress/gutenberg/pull/10333">correctly disabled for mobile devices</a>.</li><li>The i18n module has been refactored to benefit from <a href="https://github.com/WordPress/gutenberg/pull/11493">significant performance gains</a>.</li></ul>
+
+
+
+<p>Additionally, there have been some pesky bugs fixed:</p>
+
+
+
+<ul><li>Better handling for <a href="https://github.com/WordPress/gutenberg/pull/11590">links without an href</a> attribute, which were showing as <code>undefined</code>.</li><li>Japanese text (double byte characters) are <a href="https://github.com/WordPress/gutenberg/pull/11908">now usable in the list block</a>.</li><li>Better handling for different text encodings (e.g. emoji) within a block <a href="https://github.com/WordPress/gutenberg/pull/11771">in block validation</a>.</li></ul>
+
+
+
+<p>A full list of changes can be found in the <a href="https://make.wordpress.org/core/2018/11/15/whats-new-in-gutenberg-15th-november-2/">Gutenberg 4.4 release post</a>.<br></p>
+
+
+
+<h2>PHP 7.3 Support</h2>
+
+
+
+<p>The final known PHP 7.3 compatibility issue has been fixed. You can brush up on what you need to know about PHP 7.3 and WordPress by checking out the <a href="https://make.wordpress.org/core/2018/10/15/wordpress-and-php-7-3/">developer note on the Make WordPress Core blog</a>.<br></p>
+
+
+
+<h2>Twenty Nineteen</h2>
+
+
+
+<p>Work on making Twenty Nineteen ready for prime time continues on its <a href="https://github.com/WordPress/twentynineteen">GitHub repository</a>. This update includes <a href="https://core.trac.wordpress.org/changeset/43904">a host of tweaks and bug fixes</a>, including:</p>
+
+
+
+<ul><li>Add <code>.button</code> class support.</li><li>Fix editor font-weights for headings.</li><li>Improve support for sticky toolbars in the editor.</li><li>Improve text-selection custom colors for better contrast and legibility.</li><li>Fix editor to prevent Gutenberg&#8217;s meta boxes area from overlapping the content.</li></ul>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English?&nbsp;<a href="https://translate.wordpress.org/projects/wp/dev">Help us translate WordPress into more than 100 languages!</a>&nbsp;</p>
+
+
+
+<p><strong><em>If you think you’ve found a bug</em></strong><em>, you can post to the&nbsp;</em><a href="https://wordpress.org/support/forum/alphabeta"><em>Alpha/Beta area</em></a><em>&nbsp;in the support forums. We’d love to hear from you! If you’re comfortable writing a reproducible bug report,&nbsp;</em><a href="https://make.wordpress.org/core/reports/"><em>file one on WordPress Trac</em></a><em>, where you can also find&nbsp;</em><a href="https://core.trac.wordpress.org/tickets/major"><em>a list of known bugs</em></a><em>.</em></p>
