@@ -1762,6 +1762,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fix editor to prevent Gutenberg’s meta boxes area from overlapping the content.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132845Z" creationid="elia" creationdate="20181119T132845Z">
+        <seg>Correção do editor para que a área de meta boxes do Gutenberg não se sobreponha ao conteúdo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fixes nested blocks appearing wider than they should be.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173848Z" creationid="elia" creationdate="20181105T173848Z">
@@ -2332,8 +2340,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>If you’re comfortable writing a reproducible bug report, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;file one on WordPress Trac&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, where you can also find &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;a list of known bugs&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20181026T190059Z" creationid="elia" creationdate="20181026T190059Z">
-        <seg>Se você está apto a escrever um relatório de um erro que outras pessoas podem reproduzir, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;envie-o para o WordPress Trac (em inglês)&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, onde você também pode encontrar &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;uma lista dos erros já conhecidos&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132931Z" creationid="elia" creationdate="20181026T190059Z">
+        <seg>Se puder escrever um relatório de um erro que outras pessoas podem reproduzir, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;envie-o para o WordPress Trac (em inglês)&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, onde você também pode encontrar &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;uma lista dos erros já conhecidos&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2382,22 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135719Z" creationid="Sheila" creationdate="20180201T135719Z">
         <seg>Síndrome do impostor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improve support for sticky toolbars in the editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132724Z" creationid="elia" creationdate="20181119T132724Z">
+        <seg>Melhoria no suporte para barra de ferramentas fixas no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improve text-selection custom colors for better contrast and legibility.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132806Z" creationid="elia" creationdate="20181119T132806Z">
+        <seg>Melhoria no contraste e legibilidade das cores personalizadas usadas durante a seleção de texto</seg>
       </tuv>
     </tu>
     <tu>
