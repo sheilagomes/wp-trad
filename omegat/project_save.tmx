@@ -402,6 +402,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A full list of changes can be found in the &lt;a0&gt;Gutenberg 4.4 release post&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132425Z" creationid="elia" creationdate="20181119T132425Z">
+        <seg>A lista completa de mudanças está no &lt;a0&gt;post de lançamento do Gutenberg 4.4&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A myriad of minor tweaks and improvements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173550Z" creationid="elia" creationdate="20181105T173550Z">
@@ -494,6 +502,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210723Z" creationid="elia" creationdate="20180802T210723Z">
         <seg>Adam White&lt;/a50&gt;, &lt;a51&gt;khaihong&lt;/a51&gt;, &lt;a52&gt;kjellr&lt;/a52&gt;, &lt;a53&gt;Konstantinos Xenos&lt;/a53&gt;, &lt;a54&gt;laurelfulford&lt;/a54&gt;, &lt;a55&gt;lbenicio&lt;/a55&gt;, &lt;a56&gt;Leander Iversen&lt;/a56&gt;, &lt;a57&gt;leemon&lt;/a57&gt;, &lt;a58&gt;macbookandrew&lt;/a58&gt;, &lt;a59&gt;Marius L. J.&lt;/a59&gt;, &lt;a60&gt;Matias Ventura&lt;/a60&gt;, &lt;a61&gt;Mel Choyce&lt;/a61&gt;, &lt;a62&gt;mensmaximus&lt;/a62&gt;, &lt;a63&gt;mermel&lt;/a63&gt;, &lt;a64&gt;metalandcoffee&lt;/a64&gt;, &lt;a65&gt;michelleweber&lt;/a65&gt;, &lt;a66&gt;Migrated to @sebastienserre&lt;/a66&gt;, &lt;a67&gt;Milan DiniÄ‡&lt;/a67&gt;, &lt;a68&gt;Muhammad Kashif&lt;/a68&gt;, &lt;a69&gt;Naoko Takano&lt;/a69&gt;, &lt;a70&gt;Nathan Johnson&lt;/a70&gt;, &lt;a71&gt;Ov3rfly&lt;/a71&gt;, &lt;a72&gt;palmiak&lt;/a72&gt;, &lt;a73&gt;Paul Biron&lt;/a73&gt;, &lt;a74&gt;Prashant Baldha&lt;/a74&gt;, &lt;a75&gt;PressTigers&lt;/a75&gt;, &lt;a76&gt;programmin&lt;/a76&gt;, &lt;a77&gt;Rafsun Chowdhury&lt;/a77&gt;, &lt;a78&gt;redcastor&lt;/a78&gt;, &lt;a79&gt;Robin Cornett&lt;/a79&gt;, &lt;a80&gt;Sergey Biryukov&lt;/a80&gt;, &lt;a81&gt;Simon Prosser&lt;/a81&gt;, &lt;a82&gt;skoldin&lt;/a82&gt;, &lt;a83&gt;spyderbytes&lt;/a83&gt;, &lt;a84&gt;Subrata Sarkar&lt;/a84&gt;, &lt;a85&gt;SÃ©bastien SERRE&lt;/a85&gt;, &lt;a86&gt;Tammie Lister&lt;/a86&gt;, &lt;a87&gt;tharsheblows&lt;/a87&gt;, &lt;a88&gt;Thomas Patrick Levy&lt;/a88&gt;, &lt;a89&gt;timbowesohft&lt;/a89&gt;, &lt;a90&gt;Timothy Jacobs&lt;/a90&gt;, &lt;a91&gt;Tobias Zimpel&lt;/a91&gt;, &lt;a92&gt;Tor-Bjorn Fjellner&lt;/a92&gt;, &lt;a93&gt;Towhidul Islam&lt;/a93&gt;, &lt;a94&gt;Usman Khalid&lt;/a94&gt;, &lt;a95&gt;warmlaundry&lt;/a95&gt;, &lt;a96&gt;William Earnhardt&lt;/a96&gt;, &lt;a97&gt;Yui&lt;/a97&gt; e &lt;a98&gt;YuriV&lt;/a98&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add &lt;c0&gt;.button&lt;/c0&gt; class support.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132653Z" creationid="elia" creationdate="20181119T132640Z">
+        <seg>Suporte para a class &lt;c0&gt;.button&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1750,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T151602Z" creationid="Sheila" creationdate="20180201T151602Z">
         <seg>Como encontrar um tema para uma apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix editor font-weights for headings.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132708Z" creationid="elia" creationdate="20181119T132648Z">
+        <seg>Correção de font-weights para títulos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3162,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PHP 7.3 Support</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132435Z" creationid="elia" creationdate="20181119T132435Z">
+        <seg>Suporte para PHP 7.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PHP 7.3 compatibility has been improved.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121640Z" creationid="elia" creationdate="20181101T121640Z">
@@ -4202,6 +4234,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183931Z" creationid="elia" creationdate="20181026T183931Z">
         <seg>O editor de blocos fornece uma experiência de edição moderna e rica em mídias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The final known PHP 7.3 compatibility issue has been fixed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132502Z" creationid="elia" creationdate="20181119T132502Z">
+        <seg>Os últimos erros conhecidos de compatibilidade com o PHP 7.3 foram corrigidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5335,6 +5375,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Work on making Twenty Nineteen ready for prime time continues on its &lt;a0&gt;GitHub repository&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132623Z" creationid="elia" creationdate="20181119T132623Z">
+        <seg>O esforço para que o Twenty Nineteen esteja pronto na época de lançamento da versão 5.0 continha no &lt;a0&gt;repositório do GitHub&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Workshops and training materials</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5395,6 +5443,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122919Z" creationid="Sheila" creationdate="20180517T122919Z">
         <seg>Também pode solicitar que removamos qualquer dado pessoal que mantemos sobre você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can brush up on what you need to know about PHP 7.3 and WordPress by checking out the &lt;a0&gt;developer note on the Make WordPress Core blog&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132541Z" creationid="elia" creationdate="20181119T132541Z">
+        <seg>Você pode saber mais sobre o PHP  7.3 e o WordPress lendo as &lt;a0&gt;notas de desenvolvimento no blog Make WordPress Core&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
