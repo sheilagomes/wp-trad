@@ -1426,6 +1426,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor document panels can now be &lt;a0&gt;programmatically removed&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T131639Z" creationid="elia" creationdate="20181119T131639Z">
+        <seg>Os painéis de documento do editor agora podem ser &lt;a0&gt;removidos programaticamente&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Eleven other bugs were fixed in WordPress 4.9.1.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161613Z" creationid="elia" creationdate="20171130T161613Z">
@@ -4250,6 +4258,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210449Z" creationid="elia" creationdate="20180802T210449Z">
         <seg>O tipo de solicitação sendo confirmada agora faz parte do assunto de todos os e-mails de confirmação de privacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The uploading indicator for images and galleries has been replaced with a &lt;a0&gt;spinner and faded out image&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T131758Z" creationid="elia" creationdate="20181119T131758Z">
+        <seg>O indicador de envio de imagens e galerias foi substituído por uma &lt;a0&gt;imagem que fica girando e depois desaparece&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
