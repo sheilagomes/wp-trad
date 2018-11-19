@@ -2070,6 +2070,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hover styles are now &lt;a0&gt;correctly disabled for mobile devices&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132026Z" creationid="elia" creationdate="20181119T132026Z">
+        <seg>Estilos de hover agora são &lt;a0&gt;devidamente desabilitados em dispositivos móveis&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can you get involved?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222544Z" creationid="elia" creationdate="20180417T222522Z">
@@ -2286,6 +2294,22 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202729Z" creationid="Sheila" creationdate="20171013T202729Z">
         <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a2&gt;envie para o Trac do WordPress&lt;/a2&gt;, onde também é possível encontrar uma &lt;a3&gt;lista de erros conhecidos&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image handling has been improved.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T131841Z" creationid="elia" creationdate="20181119T131841Z">
+        <seg>A manipulação de imagens foi melhorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images now take up the right amount of space for &lt;a0&gt;themes with wider editors&lt;/a0&gt; (like Twenty Nineteen).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T131933Z" creationid="elia" creationdate="20181119T131933Z">
+        <seg>As imagens agora ocupam a quantidade de espaço certa para  &lt;a0&gt;temas com editores mais largos&lt;/a0&gt; , como o Twenty Nineteen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4198,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The i18n module has been refactored to benefit from &lt;a0&gt;significant performance gains&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T132114Z" creationid="elia" creationdate="20181119T132114Z">
+        <seg>O módulo de i18n (internacionalização) foi refatorado, recebendo &lt;a0&gt;ganhos significativos de desempenho&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The inability to edit theme and plugin files on Windows based servers.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
@@ -4250,6 +4282,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T223351Z" creationid="elia" creationdate="20180417T220340Z">
         <seg>A Equipe está se concentrando na criação de uma política abrangente para os arquivos do próprio WordPress, diretrizes para os plugins, ferramentas de privacidade e documentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text and code editing blocks will now &lt;a0&gt;use the full width of the editor&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181119T131830Z" creationid="elia" creationdate="20181119T131830Z">
+        <seg>Os blocos de edição de texto e código agora &lt;a0&gt;ocupam toda a largura do editor&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
