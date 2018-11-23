@@ -1850,6 +1850,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more details about what’s new in version 5.0, check out the &lt;a0&gt;Beta 1&lt;/a0&gt;, &lt;a1&gt;Beta 2&lt;/a1&gt;, &lt;a2&gt;Beta 3&lt;/a2&gt;, &lt;a3&gt;Beta 4&lt;/a3&gt; and &lt;a4&gt;Beta 5&lt;/a4&gt; blog posts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130447Z" creationid="elia" creationdate="20181123T130447Z">
+        <seg>Para mais detalhes sobre as novidades da versão 50, leia também os posts sobre &lt;a0&gt;Beta 1&lt;/a0&gt;, &lt;a1&gt;Beta 2&lt;/a1&gt;, &lt;a2&gt;Beta 3&lt;/a2&gt;, &lt;a3&gt;Beta 4&lt;/a3&gt; e &lt;a4&gt;Beta 5&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information about the upcoming privacy tools see ﻿&lt;a0&gt;the roadmap&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224432Z" creationid="elia" creationdate="20180417T222627Z">
@@ -3370,6 +3378,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please test your plugins and themes against WordPress 5.0 and update the &lt;e0&gt;Tested up to&lt;/e0&gt; version in the readme to 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130703Z" creationid="elia" creationdate="20181123T130620Z">
+        <seg>Teste seus plugins e temas com o WordPress 5.0 e atualize para 5.0 a versão no campo &lt;e0&gt;Tested up to&lt;/e0&gt; do arquivo readme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3382,6 +3398,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Sistema de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin and Theme Developers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130530Z" creationid="elia" creationdate="20181123T130530Z">
+        <seg>Desenvolvedores de plugins e temas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5901,6 +5925,46 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180604T104547Z" creationid="Sheila" creationdate="20180604T104547Z">
         <seg>https://wordpress.org/news/2018/04/gdpr-compliance-tools-in-wordpress/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/10/wordpress-5-0-beta-1/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130452Z" creationid="elia" creationdate="20181123T130452Z">
+        <seg>https://br.wordpress.org/news/2018/10/wordpress-5-0-beta-1/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/10/wordpress-5-0-beta-2/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130504Z" creationid="elia" creationdate="20181123T130456Z">
+        <seg>https://br.wordpress.org/news/2018/10/wordpress-5-0-beta-2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/11/wordpress-5-0-beta-3/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130509Z" creationid="elia" creationdate="20181123T130509Z">
+        <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-beta-3/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/11/wordpress-5-0-beta-4/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130512Z" creationid="elia" creationdate="20181123T130512Z">
+        <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-beta-4/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/11/wordpress-5-0-beta-5/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130517Z" creationid="elia" creationdate="20181123T130517Z">
+        <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-beta-5/</seg>
       </tuv>
     </tu>
     <tu>
