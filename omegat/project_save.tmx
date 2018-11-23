@@ -2242,6 +2242,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If that’s you, please install the &lt;a1&gt;Classic Editor plugin&lt;/a1&gt;, you’ll continue to use the classic post editor when you upgrade to WordPress 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125305Z" creationid="elia" creationdate="20181123T125305Z">
+        <seg>Se é o seu caso, instale o &lt;a1&gt;plugin Editor Clássico&lt;/a1&gt; e você vai continuar usando o editor de posts clássico quando atualizar seu site para o WordPress 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Classic Editor plugin is installed and activated, the callout will be hidden for all users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212805Z" creationid="elia" creationdate="20180802T212805Z">
@@ -4774,6 +4782,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Twenty Nineteen is WordPress’ new default theme, it features custom styles for the blocks available by default in 5.0. Twenty Nineteen is designed to work for a wide variety of use cases.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125706Z" creationid="elia" creationdate="20181123T125706Z">
+        <seg>O Twenty Nineteen (2019) é o novo tema padrão do WordPress. Ele traz estilos personalizados para os blocos disponíveis por padrão no WP 5.0. O Twenty Nineteen foi pensado de forma que você possa usá-lo em vários tipos de sites diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twenty Nineteen is being polished over on its &lt;a0&gt;GitHub repository&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115754Z" creationid="elia" creationdate="20181113T115754Z">
@@ -4858,6 +4874,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205728Z" creationid="elia" creationdate="20180802T205728Z">
         <seg>Temos o prazer de anunciar que o WordPress 4.9.8, um atualização de manutenção, já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We do understand that some sites might need some extra time, though.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125208Z" creationid="elia" creationdate="20181123T125208Z">
+        <seg>Mesmo assim, entendemos que alguns sites talvez precisem de mais tempo.</seg>
       </tuv>
     </tu>
     <tu>
