@@ -4654,6 +4654,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test WordPress 5.0, you can use the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin or you can &lt;a1&gt;download the release candidate here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124643Z" creationid="elia" creationdate="20181123T124643Z">
+        <seg>Para testar o WordPress 5.0 beta, você pode usar o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; ou você pode &lt;a1&gt;baixar o release candidate aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Topics</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111250Z" creationid="Sheila" creationdate="20171208T111250Z">
