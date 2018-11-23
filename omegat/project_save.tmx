@@ -682,6 +682,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of the previous default themes, from Twenty Ten through to Twenty Seventeen, have been updated to support the block editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125924Z" creationid="elia" creationdate="20181123T125924Z">
+        <seg>Todos os temas padrão anteriores, do Twenty Ten (2010) até o Twenty Seventeen (2017), foram atualizados para dar suporte ao editor de blocos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of this requires your help.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
@@ -4270,6 +4278,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor is a big change, but that’s not all.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125834Z" creationid="elia" creationdate="20181123T125834Z">
+        <seg>O editor de blocos é uma grande mudança, mas isso não é tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor is now using this, and you can start using it, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115406Z" creationid="elia" creationdate="20181113T115406Z">
@@ -4966,6 +4982,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We’ve made some smaller changes as well,  including:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125855Z" creationid="elia" creationdate="20181123T125855Z">
+        <seg>Também fizemos algumas mudanças menores, incluindo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We’ve updated to the latest version of the block editor from the Gutenberg plugin, which includes the new &lt;a0&gt;Format API&lt;/a0&gt;, embedding improvements, and &lt;a1&gt;a variety of bug fixes&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120524Z" creationid="elia" creationdate="20181101T120524Z">
@@ -5235,6 +5259,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183751Z" creationid="elia" creationdate="20181026T183751Z">
         <seg>O lançamento do WordPress 5.0 está previsto para &lt;a0&gt;19 de novembro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 officially supports the upcoming PHP 7.3 release: if you’re using an older version, we encourage you to &lt;a0&gt;upgrade PHP&lt;/a0&gt; on your site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130224Z" creationid="elia" creationdate="20181123T130224Z">
+        <seg>O WordPress 5.0 tem oficialmente suporte para versão 7.3 do PHP: se você está usando uma versão anterior, sugerimos que você &lt;a0&gt;atualize o PHP&lt;/a0&gt; do seu site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5611,6 +5643,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T184033Z" creationid="elia" creationdate="20181026T184033Z">
         <seg>Você pode criar conteúdos flexíveis e bonitos sem escrever uma linha de código ou você pode mergulhar nas &lt;a0&gt;modernas APIs de programação&lt;/a0&gt; que o editor de blocos fornece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can improve the accessibility of the content you write, now that &lt;a0&gt;simple ARIA labels&lt;/a0&gt; can be saved in posts and pages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130022Z" creationid="elia" creationdate="20181123T130022Z">
+        <seg>Você pode melhorar a acessibilidade do conteúdo que você escreve, agora que &lt;a0&gt;rótulos ARIA simples&lt;/a0&gt; podem ser salvos em posts e páginas.</seg>
       </tuv>
     </tu>
     <tu>
