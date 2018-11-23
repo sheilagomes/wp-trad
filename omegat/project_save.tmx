@@ -778,6 +778,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An in-depth field guide to developer-focused changes is coming soon on the &lt;a2&gt;core development blog&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130840Z" creationid="elia" creationdate="20181123T130840Z">
+        <seg>Um guia aprofundado com foco nas mudanças para desenvolvedores será publicado em breve no &lt;a2&gt;blog de desenvolvimento dos arquivos básicos&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An introduction to the WordPress project</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2306,6 +2314,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you find compatibility problems, please be sure to post to the &lt;a1&gt;support forums&lt;/a1&gt; so we can figure those out before the final release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130748Z" creationid="elia" creationdate="20181123T130748Z">
+        <seg>Se encontrar problemas de compatibilidade, tenha certeza de publicar no &lt;a1&gt;fórum&lt;/a1&gt; para que possamos agir antes do lançamento final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122900Z" creationid="Sheila" creationdate="20180517T122900Z">
@@ -2510,6 +2526,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122136Z" creationid="elia" creationdate="20180517T122136Z">
         <seg>Neste caso, adicione as informações do plugin aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the meantime, you can review the &lt;a3&gt;developer notes for 5.0&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130932Z" creationid="elia" creationdate="20181123T130932Z">
+        <seg>Enquanto isso, você pode rever as &lt;a3&gt;notas de desenvolvimento da versão 5.0&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
