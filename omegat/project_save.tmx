@@ -394,6 +394,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A final release date will be announced soon, based on feedback on the RC.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124154Z" creationid="elia" creationdate="20181123T124154Z">
+        <seg>Uma data de lançamento final será anunciada em breve, baseada nos comentários sobre o RC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A footer menu has been added for secondary page links.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T120032Z" creationid="elia" creationdate="20181113T120032Z">
