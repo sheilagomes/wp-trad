@@ -4558,6 +4558,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a big release and needs &lt;e1&gt;your&lt;/e1&gt; help—if you haven’t tried 5.0 yet, now is the time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124237Z" creationid="elia" creationdate="20181123T124237Z">
+        <seg>Este é um grande lançamento e precisa da &lt;e1&gt;sua&lt;/e1&gt; ajuda. Se você ainda não testou a versão 5.0, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is an important milestone, as we near the release of WordPress 5.0. &lt;s0&gt;The WordPress 5.0 release date has shifted from the 27th to give more time for the RC to be fully tested&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T123158Z" creationid="elia" creationdate="20181123T123158Z">
