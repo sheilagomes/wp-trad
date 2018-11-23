@@ -5030,6 +5030,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whether you’re running a photo blog, launching a new business, or supporting a non-profit, Twenty Nineteen is flexible enough to fit your needs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125822Z" creationid="elia" creationdate="20181123T125822Z">
+        <seg>Se você tem um blog de fotografia, um site para seu novo negócio ou ajudando uma ONG, o Twenty Nineteen é flexível o suficiente para atender às suas necessidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While each WordPress API provides best practices and standardized ways to interact with and extend WordPress core software, the following WordPress APIs are the most pertinent to enforcing and hardening WordPress security:</seg>
       </tuv>
       <tuv lang="PT-BR">
