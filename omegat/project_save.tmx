@@ -1290,6 +1290,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers can now add translatable strings directly to your JavaScript code, using the new &lt;a0&gt;JavaScript language packs&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130312Z" creationid="elia" creationdate="20181123T130312Z">
+        <seg>Desenvolvedores agora podem adicionar strings traduzíveis diretamente em seus códigos JavaScript, usando os novos &lt;a0&gt;pacotes de idioma JavaScript&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Did not receive array from %1$s eraser (index %2$d).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T124503Z" creationid="elia" creationdate="20180517T124503Z">
@@ -5659,6 +5667,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185311Z" creationid="elia" creationdate="20181026T185311Z">
         <seg>Você pode saber mais sobre o Twenty Ninetwwn nest &lt;a0&gt;post de apresentação&lt;/a0&gt; e acompanhar seu desenvolvimento através do &lt;a1&gt;repositório no GitHub&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can read more about the fixes and changes since Beta 5 &lt;a0&gt;in the last update post&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T130403Z" creationid="elia" creationdate="20181123T130403Z">
+        <seg>Você pode saber mais sobre os ajustes e mudanças desde o Beta 5 &lt;a0&gt;no post de atualização mais recente&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
