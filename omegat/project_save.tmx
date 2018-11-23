@@ -3646,6 +3646,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Screenshot of the new block editor interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124723Z" creationid="elia" creationdate="20181123T124723Z">
+        <seg>Captura de tela da interface do novo editor de blocos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script concatenation is now supported.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115127Z" creationid="elia" creationdate="20181113T115127Z">
@@ -4334,6 +4342,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new block-based post editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124735Z" creationid="elia" creationdate="20181123T124735Z">
+        <seg>O novo editor de posts baseado em blocos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new privacy tools are scheduled for release at the end of April or beginning of May 2018.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222518Z" creationid="elia" creationdate="20180417T222518Z">
@@ -4578,6 +4594,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T121140Z" creationid="elia" creationdate="20180517T121140Z">
         <seg>Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the first step toward an exciting new future with a streamlined editing experience across your site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124921Z" creationid="elia" creationdate="20181123T124921Z">
+        <seg>O primeiro passo para um futuro emocionante, com uma experiência de edição mais simples em todas as partes do seu site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,6 +4966,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What’s in WordPress 5.0?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124707Z" creationid="elia" creationdate="20181123T124707Z">
+        <seg>Quais são as novidades do WordPress 5.0?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When &lt;a0&gt;30% of the internet&lt;/a0&gt; has a reason to celebrate, you know it’s going to be great!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221748Z" creationid="elia" creationdate="20180420T221748Z">
@@ -5147,6 +5179,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131203Z" creationid="elia" creationdate="20181119T131203Z">
         <seg>O WordPress 5.0 Beta 5 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0 introduces the &lt;a0&gt;new block-based post editor&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124808Z" creationid="elia" creationdate="20181123T124808Z">
+        <seg>O WordPress 5.0 traz o &lt;a0&gt;novo editor de posts baseado em blocos&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5709,6 +5749,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210656Z" creationid="elia" creationdate="20171130T161927Z">
         <seg>https://br.wordpress.org/download/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/gutenberg/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T124740Z" creationid="elia" creationdate="20181123T124740Z">
+        <seg>https://br.wordpress.org/gutenberg/</seg>
       </tuv>
     </tu>
     <tu>
