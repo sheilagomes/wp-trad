@@ -4270,6 +4270,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first release candidate for WordPress 5.0 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T122458Z" creationid="elia" creationdate="20181123T122458Z">
+        <seg>O primeiro &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.0 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first step is awareness and education.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224423Z" creationid="elia" creationdate="20180417T222600Z">
@@ -4538,6 +4546,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T140849Z" creationid="elia" creationdate="20180118T140849Z">
         <seg>Essa é uma &lt;s0&gt;atualização de segurança e manutenção&lt;/s0&gt; para todas as versões a partir do WordPress 3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an important milestone, as we near the release of WordPress 5.0. &lt;s0&gt;The WordPress 5.0 release date has shifted from the 27th to give more time for the RC to be fully tested&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T123158Z" creationid="elia" creationdate="20181123T123158Z">
+        <seg>Isso é bem importante, significa que estamos cada vez mais próximos do WordPress 5.0. &lt;s0&gt;A data de lançamento do WordPress 5.0 foi adiada e não será mais no dia 27, para que o RC seja completamente testado&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
