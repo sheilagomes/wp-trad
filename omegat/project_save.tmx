@@ -4270,6 +4270,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor is &lt;a0&gt;used on over a million sites&lt;/a0&gt;, we think it’s ready to be used on all WordPress sites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125140Z" creationid="elia" creationdate="20181123T125140Z">
+        <seg>O editor de blocos está &lt;a0&gt;sendo usado em mais de um milhão de sites&lt;/a0&gt; e nós acreditamos que ele está pronto para ser usado em todos os sites WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor provides a modern, media-rich editing experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183931Z" creationid="elia" creationdate="20181026T183931Z">
@@ -5617,6 +5625,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You’ll have more flexibility with how content is displayed, whether you are building your first site, revamping your blog, or write code for a living.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125053Z" creationid="elia" creationdate="20181123T125053Z">
+        <seg>Você terá mais flexibilidade nas formas como o conteúdo é exibido, esteja você construindo o seu primeiro site, atualizando o seu blog ou seja você programador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[Are you a person who identifies as a &lt;specific group&gt;?] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T211047Z" creationid="Sheila" creationdate="20180201T211047Z">
@@ -5821,6 +5837,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171129T210728Z" creationid="Sheila" creationdate="20171129T210728Z">
         <seg>https://wordpress.org/news/category/security/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/plugins/classic-editor/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181123T125059Z" creationid="elia" creationdate="20181123T125059Z">
+        <seg>https://br.wordpress.org/plugins/classic-editor/</seg>
       </tuv>
     </tu>
     <tu>
