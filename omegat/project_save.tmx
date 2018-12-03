@@ -1834,6 +1834,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fix an issue where the block toolbar would cause an image to jump downwards when the &lt;e0&gt;wide&lt;/e0&gt; or &lt;e1&gt;full&lt;/e1&gt; alignments were activated.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223345Z" creationid="elia" creationdate="20181203T223345Z">
+        <seg>Correção de um problema onde a barra de ferramentas do bloco jogava a imagem para baixo quando os alinhamentos &lt;e0&gt;largura ampla&lt;/e0&gt; ou &lt;e1&gt;completa&lt;/e1&gt; estiverem ativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix editor font-weights for headings.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132708Z" creationid="elia" creationdate="20181119T132648Z">
@@ -1862,6 +1870,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174836Z" creationid="elia" creationdate="20181105T173905Z">
         <seg>Correção de erros em versões mais antigas do PHP e no IE11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix Classic block not showing galleries on a grid.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222930Z" creationid="elia" creationdate="20181203T222930Z">
+        <seg>Ajuste no bloco Clássico não exibindo galerias em grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix getSelectedBlockClientId selector.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222914Z" creationid="elia" creationdate="20181203T222914Z">
+        <seg>Ajuste no seletor getSelectedBlockClientId.</seg>
       </tuv>
     </tu>
     <tu>
