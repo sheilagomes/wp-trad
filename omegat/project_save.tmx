@@ -1836,8 +1836,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>Fix an issue where the block toolbar would cause an image to jump downwards when the &lt;e0&gt;wide&lt;/e0&gt; or &lt;e1&gt;full&lt;/e1&gt; alignments were activated.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223345Z" creationid="elia" creationdate="20181203T223345Z">
-        <seg>Correção de um problema onde a barra de ferramentas do bloco jogava a imagem para baixo quando os alinhamentos &lt;e0&gt;largura ampla&lt;/e0&gt; ou &lt;e1&gt;completa&lt;/e1&gt; estiverem ativados.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223356Z" creationid="elia" creationdate="20181203T223345Z">
+        <seg>Correção de um problema onde a barra de ferramentas do bloco jogava a imagem para baixo quando os alinhamentos &lt;e0&gt;largura ampla&lt;/e0&gt; ou &lt;e1&gt;completa&lt;/e1&gt; estiverem selecionados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,6 +3118,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T114628Z" creationid="elia" creationdate="20181113T114628Z">
         <seg>Melhoria na consistência da navegação entre blocos feita pelo teclado, assim como ajustes nas diferentes áreas da interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move editor specific styles from style.scss to editor.scss in Cover block.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223536Z" creationid="elia" creationdate="20181203T223536Z">
+        <seg>Estilos específicos para o editor no bloco de Capa foram movidos do style.scss para o editor.scss.</seg>
       </tuv>
     </tu>
     <tu>
