@@ -1850,6 +1850,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details about what to expect in WordPress 5.0, please see the &lt;a0&gt;previous release candidate post&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222010Z" creationid="elia" creationdate="20181203T222010Z">
+        <seg>Para mais detalhes sobre o que esperar do WordPress 5.0, leia &lt;a0&gt;o post sobre o release candidate anterior&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T124740Z" creationid="elia" creationdate="20180517T121710Z">
@@ -3846,6 +3854,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Significant changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222018Z" creationid="elia" creationdate="20181203T222018Z">
+        <seg>Mudanças significativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplicity</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4998,6 +5014,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We stopped rendering &lt;e0&gt;AdminNotices&lt;/e0&gt; compatibility component, as this previous attempt at backward compatibility was bringing in numerous incompatible banners and notices from plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222423Z" creationid="elia" creationdate="20181203T222423Z">
+        <seg>Paramos de exibir o componente de compatibilidade &lt;e0&gt;AdminNotices&lt;/e0&gt;, porque a sua intenção anterior para retrocompatibilidade estava gerando avisos demais de plugins incompatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We strongly encourage you to update your sites immediately.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155704Z" creationid="elia" creationdate="20171130T155704Z">
@@ -6029,6 +6053,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T130517Z" creationid="elia" creationdate="20181123T130517Z">
         <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-beta-5/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2018/11/wordpress-5-0-release-candidate/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221940Z" creationid="elia" creationdate="20181203T221940Z">
+        <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-release-candidate/</seg>
       </tuv>
     </tu>
     <tu>
