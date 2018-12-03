@@ -394,6 +394,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A final release date will be announced soon, based on feedback from this release candidate.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221804Z" creationid="elia" creationdate="20181203T221804Z">
+        <seg>Uma data de lançamento final será anunciada em breve, baseada nos comentários sobre o RC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A final release date will be announced soon, based on feedback on the RC.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T124154Z" creationid="elia" creationdate="20181123T124154Z">
@@ -4494,6 +4502,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second release candidate for WordPress 5.0 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221725Z" creationid="elia" creationdate="20181203T221725Z">
+        <seg>O segundo &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.0 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The team is focusing on creating a comprehensive core policy, plugin guidelines, privacy tools and documentation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T223351Z" creationid="elia" creationdate="20180417T220340Z">
@@ -4606,6 +4622,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Things are appearing very stable and we hope to announce a date soon.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221908Z" creationid="elia" creationdate="20181203T221908Z">
+        <seg>Tudo parece estável e esperamos anunciar uma data em breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This &lt;/s0&gt;“Try Gutenberg” is an opportunity for WordPress users to use the Gutenberg block editor before it is released in WordPress 5.0.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210115Z" creationid="elia" creationdate="20180802T210115Z">
@@ -4662,10 +4686,26 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a big release and needs &lt;e0&gt;your&lt;/e0&gt; help—if you haven’t tried 5.0 yet, now is the time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221916Z" creationid="elia" creationdate="20181203T221916Z">
+        <seg>Este é um grande lançamento e precisa da &lt;e1&gt;sua&lt;/e1&gt; ajuda. Se você ainda não testou a versão 5.0, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a big release and needs &lt;e1&gt;your&lt;/e1&gt; help—if you haven’t tried 5.0 yet, now is the time!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T124237Z" creationid="elia" creationdate="20181123T124237Z">
         <seg>Este é um grande lançamento e precisa da &lt;e1&gt;sua&lt;/e1&gt; ajuda. Se você ainda não testou a versão 5.0, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an important milestone, as we near the release of WordPress 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T221756Z" creationid="elia" creationdate="20181203T221756Z">
+        <seg>Isso é bem importante, significa que estamos cada vez mais próximos do WordPress 5.0.</seg>
       </tuv>
     </tu>
     <tu>
