@@ -514,6 +514,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessibility: Simplify sidebar tabs aria-labels.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222716Z" creationid="elia" creationdate="20181203T222716Z">
+        <seg>Acessibilidade: Simplicação nos aria-labels das abas da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adam White&lt;/a50&gt;, &lt;a51&gt;khaihong&lt;/a51&gt;, &lt;a52&gt;kjellr&lt;/a52&gt;, &lt;a53&gt;Konstantinos Xenos&lt;/a53&gt;, &lt;a54&gt;laurelfulford&lt;/a54&gt;, &lt;a55&gt;lbenicio&lt;/a55&gt;, &lt;a56&gt;Leander Iversen&lt;/a56&gt;, &lt;a57&gt;leemon&lt;/a57&gt;, &lt;a58&gt;macbookandrew&lt;/a58&gt;, &lt;a59&gt;Marius L. J.&lt;/a59&gt;, &lt;a60&gt;Matias Ventura&lt;/a60&gt;, &lt;a61&gt;Mel Choyce&lt;/a61&gt;, &lt;a62&gt;mensmaximus&lt;/a62&gt;, &lt;a63&gt;mermel&lt;/a63&gt;, &lt;a64&gt;metalandcoffee&lt;/a64&gt;, &lt;a65&gt;michelleweber&lt;/a65&gt;, &lt;a66&gt;Migrated to @sebastienserre&lt;/a66&gt;, &lt;a67&gt;Milan DiniÄ‡&lt;/a67&gt;, &lt;a68&gt;Muhammad Kashif&lt;/a68&gt;, &lt;a69&gt;Naoko Takano&lt;/a69&gt;, &lt;a70&gt;Nathan Johnson&lt;/a70&gt;, &lt;a71&gt;Ov3rfly&lt;/a71&gt;, &lt;a72&gt;palmiak&lt;/a72&gt;, &lt;a73&gt;Paul Biron&lt;/a73&gt;, &lt;a74&gt;Prashant Baldha&lt;/a74&gt;, &lt;a75&gt;PressTigers&lt;/a75&gt;, &lt;a76&gt;programmin&lt;/a76&gt;, &lt;a77&gt;Rafsun Chowdhury&lt;/a77&gt;, &lt;a78&gt;redcastor&lt;/a78&gt;, &lt;a79&gt;Robin Cornett&lt;/a79&gt;, &lt;a80&gt;Sergey Biryukov&lt;/a80&gt;, &lt;a81&gt;Simon Prosser&lt;/a81&gt;, &lt;a82&gt;skoldin&lt;/a82&gt;, &lt;a83&gt;spyderbytes&lt;/a83&gt;, &lt;a84&gt;Subrata Sarkar&lt;/a84&gt;, &lt;a85&gt;SÃ©bastien SERRE&lt;/a85&gt;, &lt;a86&gt;Tammie Lister&lt;/a86&gt;, &lt;a87&gt;tharsheblows&lt;/a87&gt;, &lt;a88&gt;Thomas Patrick Levy&lt;/a88&gt;, &lt;a89&gt;timbowesohft&lt;/a89&gt;, &lt;a90&gt;Timothy Jacobs&lt;/a90&gt;, &lt;a91&gt;Tobias Zimpel&lt;/a91&gt;, &lt;a92&gt;Tor-Bjorn Fjellner&lt;/a92&gt;, &lt;a93&gt;Towhidul Islam&lt;/a93&gt;, &lt;a94&gt;Usman Khalid&lt;/a94&gt;, &lt;a95&gt;warmlaundry&lt;/a95&gt;, &lt;a96&gt;William Earnhardt&lt;/a96&gt;, &lt;a97&gt;Yui&lt;/a97&gt;, and &lt;a98&gt;YuriV&lt;/a98&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210723Z" creationid="elia" creationdate="20180802T210723Z">
@@ -978,6 +986,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CSS: Fix visual issues with Button block text wrap.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222904Z" creationid="elia" creationdate="20181203T222904Z">
+        <seg>CSS: Ajustes em problemas visuais na disposição do texto do bloco de Botão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CSS: Improve block preview styling.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222840Z" creationid="elia" creationdate="20181203T222840Z">
+        <seg>CSS: Melhoria na visualização de estilos de bloco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Categories</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1142,6 +1166,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>APIs dos arquivos básicos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cosmetic and minor changes in RC2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222655Z" creationid="elia" creationdate="20181203T222655Z">
+        <seg>Mudanças cosméticas e menores no RC2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2674,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internationalization: Merge similar text strings that differed only in capitalization.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222825Z" creationid="elia" creationdate="20181203T222825Z">
+        <seg>Internacionalização: Mesclagem de textos similares que eram diferentes apenas por uso de maiúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid request ID when processing eraser data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115425Z" creationid="Sheila" creationdate="20180517T115425Z">
@@ -2942,6 +2982,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T121122Z" creationid="elia" creationdate="20180404T115845Z">
         <seg>Verificação e escape da string que contém a versão do WordPress, usada nas tags "generator".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the Image Link URL field readonly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222750Z" creationid="elia" creationdate="20181203T222750Z">
+        <seg>Alteração no campo de URL do link da imagem para somente leitura.</seg>
       </tuv>
     </tu>
     <tu>
