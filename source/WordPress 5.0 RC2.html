@@ -1,0 +1,54 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2018/11/wordpress-5-0-rc2/">WordPress 5.0 RC2</a></h2>
+
+<div class="meta">Posted November 30, 2018 by <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>. </div>
+ <div class="storycontent">
+	
+<p>The second release candidate for WordPress 5.0 is now available!</p>
+
+
+
+<p>This is an important milestone, as we near the release of WordPress 5.0. A final release date will be announced soon, based on feedback from this release candidate. Things are appearing very stable and we hope to announce a date soon. This is a big release and needs <em>your</em> help—if you haven’t tried 5.0 yet, now is the time! </p>
+
+
+
+<p>To test WordPress 5.0, you can use the&nbsp;<a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;plugin or you can&nbsp;<a href="https://wordpress.org/wordpress-5.0-RC2.zip">download the release candidate here</a>&nbsp;(zip).</p>
+
+
+
+<p>For details about what to expect in WordPress 5.0, please see the <a href="https://wordpress.org/news/2018/11/wordpress-5-0-release-candidate/">previous release candidate post</a>.</p>
+
+
+
+<h2>Significant changes</h2>
+
+
+
+<ul><li>We stopped rendering&nbsp;<em>AdminNotices</em>&nbsp;compatibility component, as this previous attempt at backward compatibility was bringing in numerous incompatible banners and notices from plugins.</li><li>An update to the parser to better deal with malformed HTML that could cause a loop. We&#8217;re only aware of this in the wild being triggered once in the <a href="https://gutenstats.blog/">over a million posts</a> made with Gutenberg, but it caused a loop so we wanted to fix for RC2.</li></ul>
+
+
+
+<h2>Cosmetic and minor changes in RC2</h2>
+
+
+
+<ul><li>Accessibility: Simplify sidebar tabs&nbsp;aria-labels.</li><li>Make the&nbsp;Image&nbsp;Link URL field readonly.</li><li>Internationalization: Merge&nbsp;similar text strings that differed only in capitalization.</li><li>CSS: Improve block preview&nbsp;styling.</li><li>CSS: Fix&nbsp;visual issues&nbsp;with&nbsp;Button&nbsp;block text wrap.</li><li>Fix&nbsp;getSelectedBlockClientId selector.</li><li>Fix&nbsp;Classic&nbsp;block&nbsp;not showing galleries on a grid.</li><li>Fix an issue where the block toolbar&nbsp;would cause an image to jump&nbsp;downwards when the&nbsp;<em>wide</em>&nbsp;or&nbsp;<em>full</em>&nbsp;alignments were activated.</li><li>Move editor specific styles&nbsp;from style.scss to editor.scss in&nbsp;Cover&nbsp;block.</li><li>Fix modals&nbsp;in Microsoft Edge browser.</li><li>Fix Microsoft IE11 focus loss&nbsp;after TinyMCE init.&nbsp;Add&nbsp;IE check.</li><li>Fix Microsoft IE11 input when mounting TinyMCE.</li><li>Change @package names&nbsp;to WordPress.</li></ul>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English?&nbsp;<a href="https://translate.wordpress.org/projects/wp/dev">Help us translate WordPress into more than 100 languages!</a>&nbsp;</p>
+
+
+
+<p>If you think you’ve found a bug, you can post to the <a href="https://wordpress.org/support/forum/alphabeta">Alpha/Beta area</a> in the support forums. We’d love to hear from you! If you’re comfortable writing a reproducible bug report, <a href="https://make.wordpress.org/core/reports/">file one on WordPress Trac</a>, where you can also find <a href="https://core.trac.wordpress.org/tickets/major">a list of known bugs</a>.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<pre class="wp-block-verse"><em>RC bittersweet.<br>We welcome in Gutenberg,<br>Vale Gutenbeard.</em></pre>
