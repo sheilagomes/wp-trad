@@ -1018,6 +1018,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change @package names to WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223759Z" creationid="elia" creationdate="20181203T223759Z">
+        <seg>Alteração do nome nos @package para WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check out the &lt;a0&gt;developer note&lt;/a0&gt; to get started.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115436Z" creationid="elia" creationdate="20181113T115436Z">
@@ -1834,6 +1842,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fix Microsoft IE11 focus loss after TinyMCE init. Add IE check.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223643Z" creationid="elia" creationdate="20181203T223643Z">
+        <seg>Ajuste da perda de foco ao iniciar o TinyMCE no Microsoft IE11. Adição de teste para o IE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix Microsoft IE11 input when mounting TinyMCE.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223716Z" creationid="elia" creationdate="20181203T223716Z">
+        <seg>Ajuste na entrada de dados ao montar o TinyMCE no Microsoft IE11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix an issue where the block toolbar would cause an image to jump downwards when the &lt;e0&gt;wide&lt;/e0&gt; or &lt;e1&gt;full&lt;/e1&gt; alignments were activated.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T223356Z" creationid="elia" creationdate="20181203T223345Z">
@@ -1854,6 +1878,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132845Z" creationid="elia" creationdate="20181119T132845Z">
         <seg>Correção do editor para que a área de meta boxes do Gutenberg não se sobreponha ao conteúdo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix modals in Microsoft Edge browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223554Z" creationid="elia" creationdate="20181203T223554Z">
+        <seg>Ajuste dos modais no navegador Microsoft Edge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2470,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122937Z" creationid="elia" creationdate="20180517T122937Z">
         <seg>Se você selecionar &amp;quot;Lembrar-me&amp;quot;, seu acesso será mantido por duas semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you think you’ve found a bug, you can post to the &lt;a0&gt;Alpha/Beta area&lt;/a0&gt; in the support forums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223814Z" creationid="elia" creationdate="20181203T223814Z">
+        <seg>Se acha que encontrou um erro, você pode publicá-lo na área Alpha/Beta nos fóruns de suporte (em inglês).</seg>
       </tuv>
     </tu>
     <tu>
