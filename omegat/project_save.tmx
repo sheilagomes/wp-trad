@@ -2476,8 +2476,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>If you think you’ve found a bug, you can post to the &lt;a0&gt;Alpha/Beta area&lt;/a0&gt; in the support forums.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223814Z" creationid="elia" creationdate="20181203T223814Z">
-        <seg>Se acha que encontrou um erro, você pode publicá-lo na área Alpha/Beta nos fóruns de suporte (em inglês).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223837Z" creationid="elia" creationdate="20181203T223814Z">
+        <seg>Se acha que encontrou um erro, você pode publicá-lo na área &lt;a0&gt;Alpha/Beta&lt;/a0&gt; nos fóruns de suporte (em inglês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2510,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174300Z" creationid="elia" creationdate="20181105T174300Z">
         <seg>Se você é fluente em inglês e se sente apto a contribuir com código ou testes, nós temos &lt;a0&gt;vários bug scrubs &lt;/a0&gt; agendados para esta semana e nós adoraríamos envolver o máximo de pessoas possível para termos certeza de que todos os erros informados receberam a devida atenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, &lt;a1&gt;file one on WordPress Trac&lt;/a1&gt;, where you can also find &lt;a2&gt;a list of known bugs&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T223919Z" creationid="elia" creationdate="20181203T223823Z">
+        <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a1&gt;envie para o Trac do WordPress&lt;/a1&gt;, onde também é possível encontrar &lt;a2&gt;uma lista de erros conhecidos&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
