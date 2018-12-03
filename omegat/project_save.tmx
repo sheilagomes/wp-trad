@@ -802,6 +802,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An update to the parser to better deal with malformed HTML that could cause a loop.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222521Z" creationid="elia" creationdate="20181203T222521Z">
+        <seg>Uma atualição para o analisador lide melhor com HTML mal formado, que poderia levar a um loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And don’t forget to &lt;a3&gt;check the stream of WordPress 15th anniversary posts&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221454Z" creationid="elia" creationdate="20180420T221454Z">
@@ -5082,6 +5090,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121647Z" creationid="elia" creationdate="20181101T121647Z">
         <seg>Corrigindo os erros:&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’re only aware of this in the wild being triggered once in the &lt;a0&gt;over a million posts&lt;/a0&gt; made with Gutenberg, but it caused a loop so we wanted to fix for RC2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181203T222641Z" creationid="elia" creationdate="20181203T222641Z">
+        <seg>Só soubemos que isso aconteceu uma vez em &lt;a0&gt;mais de um milhão de posts&lt;/a0&gt; feitos com o Gutenberg, mas como isso causou um loop nós consertamos no RC2.</seg>
       </tuv>
     </tu>
     <tu>
