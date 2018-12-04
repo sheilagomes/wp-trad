@@ -354,6 +354,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;WordPress 5.0 will be released on &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;December 6, 2018&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T154849Z" creationid="elia" creationdate="20181204T154849Z">
+        <seg>&lt;s0&gt;O WordPress 5.0 será lançado em &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;6 de dezembro de 2018&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;You can learn more by reading &lt;/s0&gt;&lt;a1&gt;“Try Gutenberg” Callout in WordPress 4.9.8&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212853Z" creationid="elia" creationdate="20180802T212853Z">
@@ -1950,6 +1958,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222010Z" creationid="elia" creationdate="20181203T222010Z">
         <seg>Para mais detalhes sobre o que esperar do WordPress 5.0, leia &lt;a0&gt;o post sobre o release candidate anterior&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details about what to expect in WordPress 5.0, please see the &lt;a0&gt;first release candidate post&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T154928Z" creationid="elia" creationdate="20181204T154928Z">
+        <seg>Para mais detalhes sobre o que esperar do WordPress 5.0, leia &lt;a0&gt;o post sobre o primeiro release candidate&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,6 +4694,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third release candidate for WordPress 5.0 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T154825Z" creationid="elia" creationdate="20181204T154825Z">
+        <seg>O terceiro &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.0 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The type of request being confirmed is now included in the subject line for all privacy confirmation emails.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210449Z" creationid="elia" creationdate="20180802T210449Z">
@@ -4854,6 +4878,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a big release and needs &lt;e3&gt;your&lt;/e3&gt; help—if you haven’t tried 5.0 yet, now is the time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T154903Z" creationid="elia" creationdate="20181204T154903Z">
+        <seg>Este é um grande lançamento e precisa da &lt;e3&gt;sua&lt;/e3&gt; ajuda. Se você ainda não testou a versão 5.0, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is an important milestone, as we near the release of WordPress 5.0.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T221756Z" creationid="elia" creationdate="20181203T221756Z">
@@ -4882,6 +4914,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T124921Z" creationid="elia" creationdate="20181123T124921Z">
         <seg>O primeiro passo para um futuro emocionante, com uma experiência de edição mais simples em todas as partes do seu site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This release candidate includes a fix for some scripts not loading on subdirectory installs (&lt;a0&gt;#45469&lt;/a0&gt;), and user locale settings not being loaded in the block editor (&lt;a1&gt;#45465&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155348Z" creationid="elia" creationdate="20181204T155348Z">
+        <seg>Este release candidate inclui um ajuste para alguns scrips que não eram carregados em instalações em subdiretórios (&lt;a0&gt;#45469&lt;/a0&gt;) e configurações de locale de usuários não sendo incluídas no editor de blocos (&lt;a1&gt;#45465&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
