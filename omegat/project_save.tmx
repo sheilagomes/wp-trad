@@ -2450,6 +2450,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you find compatibility problems, please be sure to post to the &lt;a1&gt;support forums&lt;/a1&gt; so we can figure those out before the final release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155416Z" creationid="elia" creationdate="20181204T155416Z">
+        <seg>Se encontrar problemas de compatibilidade, tenha certeza de publicar no &lt;a1&gt;fórum&lt;/a1&gt; para que possamos agir antes do lançamento final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122900Z" creationid="Sheila" creationdate="20180517T122900Z">
@@ -2493,6 +2501,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
         <seg>If you think you’ve found a bug, you can post to the &lt;a0&gt;Alpha/Beta area&lt;/a0&gt; in the support forums.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T223837Z" creationid="elia" creationdate="20181203T223814Z">
+        <seg>Se acha que encontrou um erro, você pode publicá-lo na área &lt;a0&gt;Alpha/Beta&lt;/a0&gt; nos fóruns de suporte (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you think you’ve found a bug, you can post to the &lt;a0&gt;Alpha/Beta area&lt;/a0&gt; in the support forums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155434Z" creationid="elia" creationdate="20181204T155434Z">
         <seg>Se acha que encontrou um erro, você pode publicá-lo na área &lt;a0&gt;Alpha/Beta&lt;/a0&gt; nos fóruns de suporte (em inglês).</seg>
       </tuv>
     </tu>
@@ -2542,6 +2558,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132931Z" creationid="elia" creationdate="20181026T190059Z">
         <seg>Se puder escrever um relatório de um erro que outras pessoas podem reproduzir, &lt;/e5&gt;&lt;a6&gt;&lt;e7&gt;envie-o para o WordPress Trac (em inglês)&lt;/e7&gt;&lt;/a6&gt;&lt;e8&gt;, onde você também pode encontrar &lt;/e8&gt;&lt;a9&gt;&lt;e10&gt;uma lista dos erros já conhecidos&lt;/e10&gt;&lt;/a9&gt;&lt;e11&gt;.&lt;/e11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, &lt;a1&gt;file one on WordPress Trac&lt;/a1&gt;, where you can also find &lt;a2&gt;a list of known bugs&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155444Z" creationid="elia" creationdate="20181204T155444Z">
+        <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a1&gt;envie para o Trac do WordPress&lt;/a1&gt;, onde também é possível encontrar &lt;a2&gt;uma lista de erros conhecidos&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2798,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115425Z" creationid="Sheila" creationdate="20180517T115425Z">
         <seg>ID de solicitação inválido ao processar dados de remoção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is just a few days away!&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155519Z" creationid="elia" creationdate="20181204T155519Z">
+        <seg>vem daqui alguns dias!&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3254,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121354Z" creationid="elia" creationdate="20181101T121354Z">
         <seg>Submenus de navegação foram implementados para dispositivos móveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nearly party time!&lt;/e0&gt; 🎉</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155623Z" creationid="elia" creationdate="20181204T155623Z">
+        <seg>Vamos comemorar!&lt;/e0&gt; 🎉</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,6 +5114,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185140Z" creationid="elia" creationdate="20181026T185140Z">
         <seg>Twenty Nineteen (2019)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twenty Nineteen has also had a couple of minor tweaks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181204T155359Z" creationid="elia" creationdate="20181204T155359Z">
+        <seg>O Twenty Nineteen também recebeu pequenos ajustes.</seg>
       </tuv>
     </tu>
     <tu>
