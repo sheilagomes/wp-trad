@@ -218,6 +218,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Team Yoast&lt;/a0&gt; discovered that the user activation screen could be indexed by search engines in some uncommon configurations, leading to exposure of email addresses, and in some rare cases, default generated passwords.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115004Z" creationid="elia" creationdate="20181213T115004Z">
+        <seg>&lt;a0&gt;A equipe Yoast&lt;/a0&gt; descobriu que a tela de ativação de usuário poderia ser indexada por mecanismos de pesquisa em algumas configurações incomuns, levando à exposição de endereços de e-mail e, em alguns casos raros, senhas geradas automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T163016Z" creationid="elia" creationdate="20171130T161900Z">
@@ -5883,6 +5891,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>O WordPress é um projeto de código aberto que você pode usar para criar sites, blogs ou aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress itself was not affected, but plugins could be in some situations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114811Z" creationid="elia" creationdate="20181213T114811Z">
+        <seg>O WordPress não foi afetado, mas em algumas situações os plugins podem ser.</seg>
       </tuv>
     </tu>
     <tu>
