@@ -258,6 +258,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; and &lt;a1&gt;Slavco&lt;/a1&gt; discovered that authors on Apache-hosted sites could upload specifically crafted files that bypass MIME verification, leading to a cross-site scripting vulnerability.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115136Z" creationid="elia" creationdate="20181213T115136Z">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; e &lt;a1&gt;Slavco&lt;/a1&gt; descobriram que autores em sites usando Apache poderiam enviar arquivos criados de uma determinada forma para ignorar a verificação por MIME, levando à uma vulnerabilidade por XSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; discovered that contributors could edit new comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114431Z" creationid="elia" creationdate="20181213T114431Z">
@@ -4314,6 +4322,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T225428Z" creationid="elia" creationdate="20180705T225428Z">
         <seg>Agradecemos a &lt;a0&gt;Slavco&lt;/a0&gt; por informar o problema original e a &lt;a1&gt;Matt Barry&lt;/a1&gt; por relatar problemas relacionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to all of the reporters for &lt;a0&gt;privately disclosing the vulnerabilities&lt;/a0&gt;, which gave us time to fix them before WordPress sites could be attacked.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115539Z" creationid="elia" creationdate="20181213T115539Z">
+        <seg>Agradecemos a todos por &lt;a0&gt;terem relatado as vulnerabilidades de forma privada&lt;/a0&gt;, nos dando tempo para corrigi-as antes que os sites WordPress fossem atacados.</seg>
       </tuv>
     </tu>
     <tu>
