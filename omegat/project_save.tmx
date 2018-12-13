@@ -3642,6 +3642,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugin authors are encouraged to &lt;a0&gt;read the 5.0.1 developer notes&lt;/a0&gt; for information on backwards-compatibility.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T113639Z" creationid="elia" creationdate="20181213T113639Z">
+        <seg>Recomendamos que autores de plugins &lt;a0&gt;leiam as notas de desenvolvedor do 5.0.1&lt;/a0&gt; para informações sobre retrocompatibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4902,6 +4910,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a &lt;s0&gt;security release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T112904Z" creationid="elia" creationdate="20181213T112904Z">
+        <seg>Essa é uma &lt;s0&gt;atualização de segurança&lt;/s0&gt; para todas as versões a partir do WordPress 3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a big release and needs &lt;e0&gt;your&lt;/e0&gt; help—if you haven’t tried 5.0 yet, now is the time!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T221916Z" creationid="elia" creationdate="20181203T221916Z">
@@ -5619,6 +5635,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T130224Z" creationid="elia" creationdate="20181123T130224Z">
         <seg>O WordPress 5.0 tem oficialmente suporte para versão 7.3 do PHP: se você está usando uma versão anterior, sugerimos que você &lt;a0&gt;atualize o PHP&lt;/a0&gt; do seu site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0.1 Security Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T112822Z" creationid="elia" creationdate="20181213T112817Z">
+        <seg>WordPress .5.0.1 – Atualização de segurança e manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0.1 is now available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T112837Z" creationid="elia" creationdate="20181213T112837Z">
+        <seg>O WordPress 5.0.1 já está disponível.</seg>
       </tuv>
     </tu>
     <tu>
