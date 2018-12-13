@@ -146,6 +146,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Alex Shiels&lt;/a0&gt;, &lt;a1&gt;Alex Concha&lt;/a1&gt;, &lt;a2&gt;Anton Timmermans&lt;/a2&gt;, &lt;a3&gt;Andrew Ozz&lt;/a3&gt;, &lt;a4&gt;Aaron Campbell&lt;/a4&gt;, &lt;a5&gt;Andrea Middleton&lt;/a5&gt;, &lt;a6&gt;Ben Bidner&lt;/a6&gt;, &lt;a7&gt;Barry Abrahamson&lt;/a7&gt;, &lt;a8&gt;Chris Christoff&lt;/a8&gt;, &lt;a9&gt;David Newman&lt;/a9&gt;, &lt;a10&gt;Demitrious Kelly&lt;/a10&gt;, &lt;a11&gt;Dion Hulse&lt;/a11&gt;, &lt;a12&gt;Hannah Notess&lt;/a12&gt;, &lt;a13&gt;Gary Pendergast&lt;/a13&gt;, &lt;a14&gt;Herre Groen&lt;/a14&gt;, &lt;a15&gt;Ian Dunn&lt;/a15&gt;, &lt;a16&gt;Jeremy Felt&lt;/a16&gt;, &lt;a17&gt;Joe McGill&lt;/a17&gt;, &lt;a18&gt;John James Jacoby&lt;/a18&gt;, &lt;a19&gt;Jonathan Desrosiers&lt;/a19&gt;, &lt;a20&gt;Josepha Haden&lt;/a20&gt;, &lt;a21&gt;Joost de Valk&lt;/a21&gt;, &lt;a22&gt;Mo Jangda&lt;/a22&gt;, &lt;a23&gt;Nick Daugherty&lt;/a23&gt;, &lt;a24&gt;Peter Wilson&lt;/a24&gt;, &lt;a25&gt;Pascal Birchler&lt;/a25&gt;, &lt;a26&gt;Sergey Biryukov&lt;/a26&gt;, and &lt;a27&gt;Valentyn Pylypchuk&lt;/a27&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115813Z" creationid="elia" creationdate="20181213T115813Z">
+        <seg>&lt;a0&gt;Alex Shiels&lt;/a0&gt;, &lt;a1&gt;Alex Concha&lt;/a1&gt;, &lt;a2&gt;Anton Timmermans&lt;/a2&gt;, &lt;a3&gt;Andrew Ozz&lt;/a3&gt;, &lt;a4&gt;Aaron Campbell&lt;/a4&gt;, &lt;a5&gt;Andrea Middleton&lt;/a5&gt;, &lt;a6&gt;Ben Bidner&lt;/a6&gt;, &lt;a7&gt;Barry Abrahamson&lt;/a7&gt;, &lt;a8&gt;Chris Christoff&lt;/a8&gt;, &lt;a9&gt;David Newman&lt;/a9&gt;, &lt;a10&gt;Demitrious Kelly&lt;/a10&gt;, &lt;a11&gt;Dion Hulse&lt;/a11&gt;, &lt;a12&gt;Hannah Notess&lt;/a12&gt;, &lt;a13&gt;Gary Pendergast&lt;/a13&gt;, &lt;a14&gt;Herre Groen&lt;/a14&gt;, &lt;a15&gt;Ian Dunn&lt;/a15&gt;, &lt;a16&gt;Jeremy Felt&lt;/a16&gt;, &lt;a17&gt;Joe McGill&lt;/a17&gt;, &lt;a18&gt;John James Jacoby&lt;/a18&gt;, &lt;a19&gt;Jonathan Desrosiers&lt;/a19&gt;, &lt;a20&gt;Josepha Haden&lt;/a20&gt;, &lt;a21&gt;Joost de Valk&lt;/a21&gt;, &lt;a22&gt;Mo Jangda&lt;/a22&gt;, &lt;a23&gt;Nick Daugherty&lt;/a23&gt;, &lt;a24&gt;Peter Wilson&lt;/a24&gt;, &lt;a25&gt;Pascal Birchler&lt;/a25&gt;, &lt;a26&gt;Sergey Biryukov&lt;/a26&gt; e &lt;a27&gt;Valentyn Pylypchuk&lt;/a27&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
@@ -174,6 +182,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210706Z" creationid="elia" creationdate="20180802T210706Z">
         <seg>&lt;a0&gt;Baixe o WordPress 4.9.8&lt;/a0&gt; ou visite o Painel → Atualizações e simplesmente clique em “Atualizar agora”. Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download WordPress 5.0.1&lt;/a0&gt;, or venture over to &lt;c1&gt;Dashboard → Updates&lt;/c1&gt; and click &lt;c2&gt;Update Now&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115636Z" creationid="elia" creationdate="20181213T115636Z">
+        <seg>&lt;a0&gt;Baixe o WordPress 5.0.1&lt;/a0&gt; ou visite o &lt;c1&gt;Painel → Atualizações&lt;/c1&gt; e simplesmente clique em &lt;c2&gt;Atualizar agora&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2746,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the security researchers mentioned above, thank you to everyone who contributed to WordPress 5.0.1:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115736Z" creationid="elia" creationdate="20181213T115736Z">
+        <seg>Além dos pesquisadores de segurança que mencionamos acima, agradecemos a todos que contribuíram para o WordPress 5.0.1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In honor of the 15th anniversary, we’ve added some &lt;a0&gt;special 15th anniversary items&lt;/a0&gt; in the swag store — you can use the offer code &lt;s1&gt;CELEBRATEWP15&lt;/s1&gt; to take 15% off this (and any other WordPress swag you buy), all the way through the end of 2018!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T222849Z" creationid="elia" creationdate="20180420T221003Z">
@@ -4138,6 +4162,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221241Z" creationid="elia" creationdate="20180417T221241Z">
         <seg>Proprietários de sites poderão criar uma política de privacidade compatível com o GDPR em três etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sites that support automatic background updates are already beginning to update automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T115655Z" creationid="elia" creationdate="20181213T115655Z">
+        <seg>Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
       </tuv>
     </tu>
     <tu>
