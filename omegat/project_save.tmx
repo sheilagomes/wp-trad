@@ -194,6 +194,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; discovered that authors could alter meta data to delete files that they weren’t authorized to.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114030Z" creationid="elia" creationdate="20181213T114030Z">
+        <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; descobriu que autores poderiam alterar os metadados para excluir arquivos sem autorização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Request&lt;/a0&gt; some special 15th anniversary WordPress swag (no later than April 27, please, so we have time to ship it to you).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T220358Z" creationid="elia" creationdate="20180420T220358Z">
@@ -5170,6 +5178,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120353Z" creationid="elia" creationdate="20180404T120353Z">
         <seg>Outros vinte e cinco erros foram resolvidos no WordPress 4.9.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated versions of WordPress 4.9 and older releases are also available, for users who have not yet updated to 5.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T113936Z" creationid="elia" creationdate="20181213T113936Z">
+        <seg>Versões atualizadas do WordPress 4.9 e anteriores também estão disponíveis, para os usuários que ainda não atualizaram para a versão 5.0.</seg>
       </tuv>
     </tu>
     <tu>
