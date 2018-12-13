@@ -210,6 +210,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Sam Thomas&lt;/a0&gt; discovered that contributors could craft meta data in a way that resulted in PHP object injection.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114238Z" creationid="elia" creationdate="20181213T114238Z">
+        <seg>&lt;a0&gt;Sam Thomas&lt;/a0&gt; descobriu que colaboradores poderiam criar metadados de uma forma que resultaria em injeção de objeto do PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;This post has more information about all of the issues fixed in 4.9.1 if you'd like to learn more&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T163016Z" creationid="elia" creationdate="20171130T161900Z">
@@ -230,6 +238,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210647Z" creationid="elia" creationdate="20180802T210647Z">
         <seg>&lt;a0&gt;Este post tem mais informações sobre todas os problemas resolvidos na versão 4.9.8, se você quiser saber mais&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; discovered that contributors could edit new comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114431Z" creationid="elia" creationdate="20181213T114431Z">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; descobriu que colaboradores poderiam editar novos comentários de usuários com mais privilégios, potencialmente levando à uma vulnerabilidade de execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4082,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222018Z" creationid="elia" creationdate="20181203T222018Z">
         <seg>Mudanças significativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simon Scannell of &lt;a0&gt;RIPS Technologies&lt;/a0&gt; discovered that authors could create posts of unauthorized post types with specially crafted input.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114127Z" creationid="elia" creationdate="20181213T114127Z">
+        <seg>Simon Scannell da &lt;a0&gt;RIPS Technologies&lt;/a0&gt; descobriu que autores poderiam criar posts de tipos diferentes sem autorização transmitindo dados de uma certa forma.</seg>
       </tuv>
     </tu>
     <tu>
