@@ -1,0 +1,35 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2018/12/wordpress-5-0-1-security-release/">WordPress .5.0.1 – Atualização de segurança e manutenção</a></h2>
+
+<div class="meta">Posted December 13, 2018 by <a href="https://profiles.wordpress.org/iandunn">Ian Dunn</a>. Filed under <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>, <a href="https://wordpress.org/news/category/security/" rel="category tag">Security</a>.  </div>
+ <div class="storycontent">
+	
+<p>O WordPress 5.0.1 já está disponível. Essa é uma <strong>atualização de segurança</strong> para todas as versões a partir do WordPress 3.7. Encorajamos que você atualize seus sites imediatamente.</p>
+
+
+
+<p>Recomendamos que autores de plugins <a href="https://make.wordpress.org/core/2018/12/13/backwards-compatibility-breaks-in-5-0-1/">leiam as notas de desenvolvedor do 5.0.1</a> para informações sobre retrocompatibilidade.</p>
+
+
+
+<p>As versões 5.0 e anteriores do WordPress foram afetadas pelos erros abaixo, que foram corrigidos na versão 5.0.1. Versões atualizadas do WordPress 4.9 e anteriores também estão disponíveis, para os usuários que ainda não atualizaram para a versão 5.0.</p>
+
+
+
+<ul><li><a href="https://ripstech.com">Karim El Ouerghemmi</a> descobriu que autores poderiam alterar os metadados para excluir arquivos sem autorização.</li><li>Simon Scannell da <a href="https://blog.ripstech.com">RIPS Technologies</a> descobriu que autores poderiam criar posts de tipos diferentes sem autorização transmitindo dados de uma certa forma.</li><li><a href="https://twitter.com/_s_n_t">Sam Thomas</a> descobriu que colaboradores poderiam criar metadados de uma forma que resultaria em injeção de objeto do PHP. </li><li><a href="https://security-consulting.icu">Tim Coen</a> descobriu que colaboradores poderiam editar novos comentários de usuários com mais privilégios, potencialmente levando à uma vulnerabilidade de execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting).</li><li><a href="https://security-consulting.icu">Tim Coen</a> também descobriu que entradas de dados para URL feitas de uma determinada forma poderiam levar a vulnerabilidade por XSS em algumas circunstâncias. O WordPress não foi afetado, mas em algumas situações os plugins podem ser. </li><li><a href="https://yoast.com/">A equipe Yoast</a> descobriu que a tela de ativação de usuário poderia ser indexada por mecanismos de pesquisa em algumas configurações incomuns, levando à exposição de endereços de e-mail e, em alguns casos raros, senhas geradas automaticamente.</li><li><a href="https://security-consulting.icu">Tim Coen</a> e <a href="https://medium.com/websec">Slavco</a> descobriram que autores em sites usando Apache poderiam enviar arquivos criados de uma determinada forma para ignorar a verificação por MIME, levando à uma vulnerabilidade por XSS. </li></ul>
+
+
+
+<p>Agradecemos a todos por <a href="https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/">terem relatado as vulnerabilidades de forma privada</a>, nos dando tempo para corrigi-as antes que os sites WordPress fossem atacados.</p>
+
+
+
+<p><a href="https://br.wordpress.org/download/">Baixe o WordPress 5.0.1</a> ou visite o <code>Painel → Atualizações</code> e simplesmente clique em <code>Atualizar agora</code>. Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</p>
+
+
+
+<p>Além dos pesquisadores de segurança que mencionamos acima, agradecemos a todos que contribuíram para o WordPress 5.0.1:</p>
+
+
+
+<p><a href="https://profiles.wordpress.org/tellyworth">Alex Shiels</a>, <a href="https://profiles.wordpress.org/xknown">Alex Concha</a>, <a href="https://profiles.wordpress.org/atimmer">Anton Timmermans</a>, <a href="https://profiles.wordpress.org/azaozz">Andrew Ozz</a>, <a href="https://profiles.wordpress.org/aaroncampbell">Aaron Campbell</a>, <a href="https://profiles.wordpress.org/andreamiddleton">Andrea Middleton</a>, <a href="https://profiles.wordpress.org/vortfu">Ben Bidner</a>, <a href="https://profiles.wordpress.org/barry">Barry Abrahamson</a>, <a href="https://profiles.wordpress.org/chriscct7">Chris Christoff</a>, <a href="https://profiles.wordpress.org/darthhexx/">David Newman</a>, <a href="https://profiles.wordpress.org/apokalyptik">Demitrious Kelly</a>, <a href="https://profiles.wordpress.org/dd32">Dion Hulse</a>, <a href="https://profiles.wordpress.org/hnotess/">Hannah Notess</a>, <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>, <a href="https://profiles.wordpress.org/herregroen">Herre Groen</a>, <a href="https://profiles.wordpress.org/iandunn">Ian Dunn</a>, <a href="https://profiles.wordpress.org/jeremyfelt">Jeremy Felt</a>, <a href="https://profiles.wordpress.org/joemcgill">Joe McGill</a>, <a href="https://profiles.wordpress.org/johnjamesjacoby/">John James Jacoby</a>, <a href="https://profiles.wordpress.org/desrosj">Jonathan Desrosiers</a>, <a href="https://profiles.wordpress.org/chanthaboune">Josepha Haden</a>, <a href="https://profiles.wordpress.org/joostdevalk">Joost de Valk</a>, <a href="https://profiles.wordpress.org/batmoo/">Mo Jangda</a>, <a href="https://profiles.wordpress.org/nickdaugherty">Nick Daugherty</a>, <a href="https://profiles.wordpress.org/peterwilsoncc">Peter Wilson</a>, <a href="https://profiles.wordpress.org/swissspidy">Pascal Birchler</a>, <a href="https://profiles.wordpress.org/SergeyBiryukov">Sergey Biryukov</a> e <a href="https://twitter.com/p_valentyn">Valentyn Pylypchuk</a>.</p>
+</div>
