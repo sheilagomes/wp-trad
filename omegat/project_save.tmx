@@ -242,6 +242,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; also discovered that specially crafted URL inputs could lead to a cross-site scripting vulnerability in some circumstances.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181213T114744Z" creationid="elia" creationdate="20181213T114744Z">
+        <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; também descobriu que entradas de dados para URL feitas de uma determinada forma poderiam levar a vulnerabilidade por XSS em algumas circunstâncias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Tim Coen&lt;/a0&gt; discovered that contributors could edit new comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114431Z" creationid="elia" creationdate="20181213T114431Z">
