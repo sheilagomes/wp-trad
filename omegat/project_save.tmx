@@ -5847,6 +5847,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.0.2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T150257Z" creationid="elia" creationdate="20181220T150257Z">
+        <seg>O WordPress 5.0.2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR">
