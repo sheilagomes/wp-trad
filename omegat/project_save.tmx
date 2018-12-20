@@ -178,6 +178,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Alexander Babaev&lt;/a0&gt;, &lt;a1&gt;Alex Kirk&lt;/a1&gt;, &lt;a2&gt;allancole&lt;/a2&gt;, &lt;a3&gt;Andrea Fercia&lt;/a3&gt;, &lt;a4&gt;Andrew Ozz&lt;/a4&gt;, &lt;a5&gt;Anton Timmermans&lt;/a5&gt;, &lt;a6&gt;David Binovec&lt;/a6&gt;, &lt;a7&gt;David Trower&lt;/a7&gt;, &lt;a8&gt;Dominik Schilling&lt;/a8&gt;, &lt;a9&gt;Eduardo Pittol&lt;/a9&gt;, &lt;a10&gt;Gary Pendergast&lt;/a10&gt;, &lt;a11&gt;Greg Raven&lt;/a11&gt;, &lt;a12&gt;gziolo&lt;/a12&gt;, &lt;a13&gt;herregroen&lt;/a13&gt;, &lt;a14&gt;iCaleb&lt;/a14&gt;, &lt;a15&gt;Jb Audras&lt;/a15&gt;, &lt;a16&gt;Joen Asmussen&lt;/a16&gt;, &lt;a17&gt;John Blackbourn&lt;/a17&gt;, &lt;a18&gt;Jonathan Desrosiers&lt;/a18&gt;, &lt;a19&gt;khleomix&lt;/a19&gt;, &lt;a20&gt;kjellr&lt;/a20&gt;, &lt;a21&gt;laurelfulford&lt;/a21&gt;, &lt;a22&gt;Jeff Paul&lt;/a22&gt;, &lt;a23&gt;mihaivalentin&lt;/a23&gt;, &lt;a24&gt;Milan Dinić&lt;/a24&gt;, &lt;a25&gt;&lt;/a25&gt;&lt;a26&gt;Muntasir Mahmud&lt;/a26&gt;, &lt;a27&gt;Pascal Birchler&lt;/a27&gt;, &lt;a28&gt;Pratik K. Yadav&lt;/a28&gt;, &lt;a29&gt;Riad Benguella&lt;/a29&gt;, &lt;a30&gt;Rich Tabor&lt;/a30&gt;, &lt;a31&gt;strategio&lt;/a31&gt;, &lt;a32&gt;Subrata Sarkar&lt;/a32&gt;, &lt;a33&gt;tmatsuur&lt;/a33&gt;, &lt;a34&gt;TorontoDigits&lt;/a34&gt;, &lt;a35&gt;Ulrich&lt;/a35&gt;, &lt;a36&gt;Vaishali Panchal&lt;/a36&gt;, &lt;a37&gt;volodymyrkolesnykov&lt;/a37&gt;, &lt;a38&gt;Weston Ruter&lt;/a38&gt;, &lt;a39&gt;Yui&lt;/a39&gt;, &lt;a40&gt;ze3kr&lt;/a40&gt;, and &lt;a41&gt;のむらけい&lt;/a41&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145941Z" creationid="elia" creationdate="20181220T145941Z">
+        <seg>&lt;a0&gt;Alexander Babaev&lt;/a0&gt;, &lt;a1&gt;Alex Kirk&lt;/a1&gt;, &lt;a2&gt;allancole&lt;/a2&gt;, &lt;a3&gt;Andrea Fercia&lt;/a3&gt;, &lt;a4&gt;Andrew Ozz&lt;/a4&gt;, &lt;a5&gt;Anton Timmermans&lt;/a5&gt;, &lt;a6&gt;David Binovec&lt;/a6&gt;, &lt;a7&gt;David Trower&lt;/a7&gt;, &lt;a8&gt;Dominik Schilling&lt;/a8&gt;, &lt;a9&gt;Eduardo Pittol&lt;/a9&gt;, &lt;a10&gt;Gary Pendergast&lt;/a10&gt;, &lt;a11&gt;Greg Raven&lt;/a11&gt;, &lt;a12&gt;gziolo&lt;/a12&gt;, &lt;a13&gt;herregroen&lt;/a13&gt;, &lt;a14&gt;iCaleb&lt;/a14&gt;, &lt;a15&gt;Jb Audras&lt;/a15&gt;, &lt;a16&gt;Joen Asmussen&lt;/a16&gt;, &lt;a17&gt;John Blackbourn&lt;/a17&gt;, &lt;a18&gt;Jonathan Desrosiers&lt;/a18&gt;, &lt;a19&gt;khleomix&lt;/a19&gt;, &lt;a20&gt;kjellr&lt;/a20&gt;, &lt;a21&gt;laurelfulford&lt;/a21&gt;, &lt;a22&gt;Jeff Paul&lt;/a22&gt;, &lt;a23&gt;mihaivalentin&lt;/a23&gt;, &lt;a24&gt;Milan Dinić&lt;/a24&gt;, &lt;a25&gt;&lt;/a25&gt;&lt;a26&gt;Muntasir Mahmud&lt;/a26&gt;, &lt;a27&gt;Pascal Birchler&lt;/a27&gt;, &lt;a28&gt;Pratik K. Yadav&lt;/a28&gt;, &lt;a29&gt;Riad Benguella&lt;/a29&gt;, &lt;a30&gt;Rich Tabor&lt;/a30&gt;, &lt;a31&gt;strategio&lt;/a31&gt;, &lt;a32&gt;Subrata Sarkar&lt;/a32&gt;, &lt;a33&gt;tmatsuur&lt;/a33&gt;, &lt;a34&gt;TorontoDigits&lt;/a34&gt;, &lt;a35&gt;Ulrich&lt;/a35&gt;, &lt;a36&gt;Vaishali Panchal&lt;/a36&gt;, &lt;a37&gt;volodymyrkolesnykov&lt;/a37&gt;, &lt;a38&gt;Weston Ruter&lt;/a38&gt;, &lt;a39&gt;Yui&lt;/a39&gt;, &lt;a40&gt;ze3kr&lt;/a40&gt; e &lt;a41&gt;のむらけい&lt;/a41&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
@@ -4214,6 +4222,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sites that support automatic background updates have already started to update automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145924Z" creationid="elia" creationdate="20181220T145924Z">
+        <seg>Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip to content</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4450,6 +4466,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210719Z" creationid="elia" creationdate="20180802T210719Z">
         <seg>Agradecemos a todos que contribuíram para o WordPress 4.9.8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to everyone who contributed to WordPress 5.0.2:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145932Z" creationid="elia" creationdate="20181220T145932Z">
+        <seg>Agradecemos a todos que contribuíram para o WordPress 5.0.2:</seg>
       </tuv>
     </tu>
     <tu>
