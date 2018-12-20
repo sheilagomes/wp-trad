@@ -2042,6 +2042,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a full list of changes, please consult the &lt;a0&gt;list of tickets on Trac&lt;/a0&gt; or the &lt;a1&gt;changelog&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145658Z" creationid="elia" creationdate="20181220T145658Z">
+        <seg>Para uma lista completa das mudanças, veja a &lt;a0&gt;lista de tickets no Trac&lt;/a0&gt; ou o  &lt;a1&gt;registro de alterações&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details about what to expect in WordPress 5.0, please see the &lt;a0&gt;previous release candidate post&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222010Z" creationid="elia" creationdate="20181203T222010Z">
@@ -4230,6 +4238,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some &lt;a0&gt;internationalization (i18n) issues&lt;/a0&gt; related to script loading have also been fixed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145602Z" creationid="elia" creationdate="20181220T145602Z">
+        <seg>Alguns &lt;a0&gt;problemas na internacionalização (i18n)&lt;/a0&gt; relacionados ao carregamento de scripts também foram corrigidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the best WordPress sites on the Web</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6163,6 +6179,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Agora você está desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;a0&gt;download WordPress 5.0.2&lt;/a0&gt; or visit Dashboard → Updates and click &lt;e1&gt;Update Now&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145918Z" creationid="elia" creationdate="20181220T145918Z">
+        <seg>Você pode &lt;a0&gt;baixar o WordPress 5.0.2&lt;/a0&gt; ou ir em Painel → Atualizações e clicar em &lt;e1&gt;Atualizar agora&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
