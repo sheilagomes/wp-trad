@@ -98,6 +98,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5.0.2 is a maintenance release that addresses 73 bugs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T140943Z" creationid="elia" creationdate="20181220T140943Z">
+        <seg>A versão 5.0.2 é uma versão de manutenção que corrige 73 erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a href="%1$s"&gt;PHP&lt;/a&gt; version %2$s or greater.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5755,6 +5763,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T112837Z" creationid="elia" creationdate="20181213T112837Z">
         <seg>O WordPress 5.0.1 já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0.2 Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T140908Z" creationid="elia" creationdate="20181220T140908Z">
+        <seg>WordPress 5.0.2 – Atualização de manutenção</seg>
       </tuv>
     </tu>
     <tu>
