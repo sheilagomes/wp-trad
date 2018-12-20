@@ -98,6 +98,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>45 total Block Editor improvements are included (14 performance enhancements &amp; 31 bug fixes).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145432Z" creationid="elia" creationdate="20181220T145432Z">
+        <seg>Um total de 45 melhorias no editor de blocos (14 melhorias no desempenho e 31 correções de erros).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5.0.2 is a maintenance release that addresses 73 bugs.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T140943Z" creationid="elia" creationdate="20181220T140943Z">
@@ -142,6 +150,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120947Z" creationid="elia" creationdate="20180404T120947Z">
         <seg>&lt;a0&gt;1265578519&lt;/a0&gt;, &lt;a1&gt;Aaron Jorbin&lt;/a1&gt;, &lt;a2&gt;Adam Silverstein&lt;/a2&gt;, &lt;a3&gt;Alain Schlesser&lt;/a3&gt;, &lt;a4&gt;alexgso&lt;/a4&gt;, &lt;a5&gt;Andrea Fercia&lt;/a5&gt;, &lt;a6&gt;andrei0x309&lt;/a6&gt;, &lt;a7&gt;antipole&lt;/a7&gt;, &lt;a8&gt;Anwer AR&lt;/a8&gt;, &lt;a9&gt;Birgir Erlendsson (birgire)&lt;/a9&gt;, &lt;a10&gt;Blair jersyer&lt;/a10&gt;, &lt;a11&gt;Brooke.&lt;/a11&gt;, &lt;a12&gt;Chetan Prajapati&lt;/a12&gt;, &lt;a13&gt;codegrau&lt;/a13&gt;, &lt;a14&gt;conner_bw&lt;/a14&gt;, &lt;a15&gt;David A. Kennedy&lt;/a15&gt;, &lt;a16&gt;designsimply&lt;/a16&gt;, &lt;a17&gt;Dion Hulse&lt;/a17&gt;, &lt;a18&gt;Dominik Schilling (ocean90)&lt;/a18&gt;, &lt;a19&gt;ElectricFeet&lt;/a19&gt;, &lt;a20&gt;ericmeyer&lt;/a20&gt;, &lt;a21&gt;FPCSJames&lt;/a21&gt;, &lt;a22&gt;Garrett Hyder&lt;/a22&gt;, &lt;a23&gt;Gary Pendergast&lt;/a23&gt;, &lt;a24&gt;Gennady Kovshenin&lt;/a24&gt;, &lt;a25&gt;Henry Wright&lt;/a25&gt;, &lt;a26&gt;Jb Audras&lt;/a26&gt;, &lt;a27&gt;Jeffrey Paul&lt;/a27&gt;, &lt;a28&gt;Jip Moors&lt;/a28&gt;, &lt;a29&gt;Joe McGill&lt;/a29&gt;, &lt;a30&gt;Joen Asmussen&lt;/a30&gt;, &lt;a31&gt;John Blackbourn&lt;/a31&gt;, &lt;a32&gt;johnpgreen&lt;/a32&gt;, &lt;a33&gt;Junaid Ahmed&lt;/a33&gt;, &lt;a34&gt;kristastevens&lt;/a34&gt;, &lt;a35&gt;Konstantin Obenland&lt;/a35&gt;, &lt;a36&gt;Laken Hafner&lt;/a36&gt;, &lt;a37&gt;Lance Willett&lt;/a37&gt;, &lt;a38&gt;leemon&lt;/a38&gt;, &lt;a39&gt;Mel Choyce&lt;/a39&gt;, &lt;a40&gt;Mike Schroder&lt;/a40&gt;, &lt;a41&gt;mrmadhat&lt;/a41&gt;, &lt;a42&gt;nandorsky&lt;/a42&gt;, &lt;a43&gt;Nidhi Jain&lt;/a43&gt;, &lt;a44&gt;Pascal Birchler&lt;/a44&gt;, &lt;a45&gt;qcmiao&lt;/a45&gt;, &lt;a46&gt;Rachel Baker&lt;/a46&gt;, &lt;a47&gt;Rachel Peter&lt;/a47&gt;, &lt;a48&gt;RavanH&lt;/a48&gt;, &lt;a49&gt;Samuel Wood (Otto)&lt;/a49&gt;, &lt;a50&gt;Sebastien SERRE&lt;/a50&gt;, &lt;a51&gt;Sergey Biryukov&lt;/a51&gt;, &lt;a52&gt;Shital Marakana&lt;/a52&gt;, &lt;a53&gt;Stephen Edgar&lt;/a53&gt;, &lt;a54&gt;Tammie Lister&lt;/a54&gt;, &lt;a55&gt;Thomas Vitale&lt;/a55&gt;, &lt;a56&gt;Will Kwon&lt;/a56&gt; e &lt;a57&gt;Yahil Madakiya&lt;/a57&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;17 Block Editor related bugs&lt;/a0&gt; have been fixed across all of the bundled themes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145535Z" creationid="elia" creationdate="20181220T145535Z">
+        <seg>&lt;a0&gt;Dezessete erros relacionados ao editor de blocos&lt;/a0&gt; foram corrigidos em todos os temas padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2274,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171130T171733Z" creationid="Sheila" creationdate="20171130T171733Z">
         <seg>Have you taken the WordPress 2017 Survey yet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are a few of the additional highlights:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145343Z" creationid="elia" creationdate="20181220T145343Z">
+        <seg>Conheça alguns dos outros destaques:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4834,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T230112Z" creationid="elia" creationdate="20180705T230112Z">
         <seg>Os planos previstos para a versão 4.9.7 agora se aplicam à versão 4.9.8, que seguirá o &lt;a0&gt;cronograma de lançamento publicado ontem&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The primary focus of this release was performance improvements in the block editor: the cumulated performance gains make it 330% faster for a post with 200 blocks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20181220T145320Z" creationid="elia" creationdate="20181220T145320Z">
+        <seg>O principal foco deste lançamento foram melhorias no desempenho do editor de blocos. Os ganhos de desempenho acumulados tornam o editor 330% mais rápido em um post com 200 blocos.</seg>
       </tuv>
     </tu>
     <tu>
