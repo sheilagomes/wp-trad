@@ -186,6 +186,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;2 block editor related internationalization (I18N) bugs&lt;/a0&gt; have been fixed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190742Z" creationid="elia" creationdate="20190109T190742Z">
+        <seg>&lt;a0&gt;Dois erros relacionados à internacionalização (I18N) do editor de blocos&lt;/a0&gt; foram corrigidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Alex Shiels&lt;/a0&gt;, &lt;a1&gt;Alex Concha&lt;/a1&gt;, &lt;a2&gt;Anton Timmermans&lt;/a2&gt;, &lt;a3&gt;Andrew Ozz&lt;/a3&gt;, &lt;a4&gt;Aaron Campbell&lt;/a4&gt;, &lt;a5&gt;Andrea Middleton&lt;/a5&gt;, &lt;a6&gt;Ben Bidner&lt;/a6&gt;, &lt;a7&gt;Barry Abrahamson&lt;/a7&gt;, &lt;a8&gt;Chris Christoff&lt;/a8&gt;, &lt;a9&gt;David Newman&lt;/a9&gt;, &lt;a10&gt;Demitrious Kelly&lt;/a10&gt;, &lt;a11&gt;Dion Hulse&lt;/a11&gt;, &lt;a12&gt;Hannah Notess&lt;/a12&gt;, &lt;a13&gt;Gary Pendergast&lt;/a13&gt;, &lt;a14&gt;Herre Groen&lt;/a14&gt;, &lt;a15&gt;Ian Dunn&lt;/a15&gt;, &lt;a16&gt;Jeremy Felt&lt;/a16&gt;, &lt;a17&gt;Joe McGill&lt;/a17&gt;, &lt;a18&gt;John James Jacoby&lt;/a18&gt;, &lt;a19&gt;Jonathan Desrosiers&lt;/a19&gt;, &lt;a20&gt;Josepha Haden&lt;/a20&gt;, &lt;a21&gt;Joost de Valk&lt;/a21&gt;, &lt;a22&gt;Mo Jangda&lt;/a22&gt;, &lt;a23&gt;Nick Daugherty&lt;/a23&gt;, &lt;a24&gt;Peter Wilson&lt;/a24&gt;, &lt;a25&gt;Pascal Birchler&lt;/a25&gt;, &lt;a26&gt;Sergey Biryukov&lt;/a26&gt;, and &lt;a27&gt;Valentyn Pylypchuk&lt;/a27&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T115813Z" creationid="elia" creationdate="20181213T115813Z">
@@ -510,6 +518,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Uma observação sobre a segurança do WordPress e do WordPress.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A few &lt;a0&gt;PHP&lt;/a0&gt; &lt;a1&gt;errors&lt;/a1&gt; in the Customizer have been fixed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190831Z" creationid="elia" creationdate="20190109T190831Z">
+        <seg>Alguns &lt;a1&gt;errors&lt;/a1&gt; de &lt;a0&gt;PHP&lt;/a0&gt; no Personalizar foram corrigidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3266,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure to update these for an improved block editing experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190700Z" creationid="elia" creationdate="20190109T190700Z">
+        <seg>Tenha certeza de atualizá-los para uma melhor experiência na edição com blocos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make the Image Link URL field readonly.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222750Z" creationid="elia" creationdate="20181203T222750Z">
@@ -4282,6 +4306,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T145602Z" creationid="elia" creationdate="20181220T145602Z">
         <seg>Alguns &lt;a0&gt;problemas na internacionalização (i18n)&lt;/a0&gt; relacionados ao carregamento de scripts também foram corrigidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some &lt;a0&gt;issues uploading common file types&lt;/a0&gt;, like CSVs, have been fixed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190908Z" creationid="elia" creationdate="20190109T190908Z">
+        <seg>Alguns &lt;a0&gt;problemas ao enviar arquivos com tipos comuns&lt;/a0&gt; como CSVs, foram corrigidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,6 +5458,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Nome de usuário ou e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users with JavaScript disabled &lt;a0&gt;now see a notice&lt;/a0&gt; when attempting to use the block editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190807Z" creationid="elia" creationdate="20190109T190807Z">
+        <seg>Usuários com JavaScript desabilitado &lt;a0&gt;agora recebem um aviso&lt;/a0&gt; ao tentar usar o editor de blocos.</seg>
       </tuv>
     </tu>
     <tu>
