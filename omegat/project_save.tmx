@@ -90,6 +90,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>15 block editor related bug fixes and improvements have been added to bundled themes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190640Z" creationid="elia" creationdate="20190109T190640Z">
+        <seg>Quinze correções de erros e melhorias relacionados ao editor de blocos foram adicionaos aos temas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>21 other bugs were fixed in WordPress 4.9.2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141434Z" creationid="elia" creationdate="20180118T141434Z">
@@ -110,6 +118,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T150354Z" creationid="elia" creationdate="20181220T140943Z">
         <seg>A versão 5.0.2 é uma atualização de manutenção que corrige 73 erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.3 is a maintenance release that includes 36 bug fixes and 7 performance updates.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190401Z" creationid="elia" creationdate="20190109T190401Z">
+        <seg>A versão 5.0.3 é uma atualização de manutenção que corrige 36 erros e inclui 7 atualizações de desempenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T145343Z" creationid="elia" creationdate="20181220T145343Z">
         <seg>Conheça alguns dos outros destaques:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here are a few of the highlights:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190507Z" creationid="elia" creationdate="20190109T190507Z">
+        <seg>Conheça alguns dos destaques:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4806,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The focus of this release was fine-tuning the new block editor, and fixing any major bugs or regressions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190456Z" creationid="elia" creationdate="20190109T190456Z">
+        <seg>O foco deste lançamento foram ajustes no editor de blocos e correções de erros significativos e regressões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The freedom to redistribute.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5851,6 +5883,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T150257Z" creationid="elia" creationdate="20181220T150257Z">
         <seg>O WordPress 5.0.2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0.3 Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190310Z" creationid="elia" creationdate="20190109T190310Z">
+        <seg>WordPress 5.0.3 – Atualização de manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.0.3 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190109T190317Z" creationid="elia" creationdate="20190109T190317Z">
+        <seg>O WordPress 5.0.3 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
