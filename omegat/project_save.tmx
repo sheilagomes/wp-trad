@@ -770,6 +770,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally, in April 2019, &lt;a0&gt;WordPress’ will increase its minimum supported PHP version to 5.6&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184751Z" creationid="elia" creationdate="20190111T184751Z">
+        <seg>Além disso, em abril de 2019, o &lt;a0&gt;WordPress aumentará a versão mínima do PHP suportada para 5.6&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally, there are some newer bug fixes and features, such as:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173441Z" creationid="elia" creationdate="20181105T173441Z">
@@ -1038,6 +1046,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135701Z" creationid="Sheila" creationdate="20180201T135701Z">
         <seg>Como ser um(a) palestrante melhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before, you’d have to FTP in to your files or get in touch with your host.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184649Z" creationid="elia" creationdate="20190111T184649Z">
+        <seg>Antes, voce teria que acessar os seus arquivos através do FTP ou entrar em contato com o seu serviço de hospedagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,6 +2102,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Notas de rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Developers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184829Z" creationid="elia" creationdate="20190111T184829Z">
+        <seg>Para os desenvolvedores</seg>
       </tuv>
     </tu>
     <tu>
@@ -4702,6 +4726,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Cron system can now be more easily replaced with a custom cron handler (&lt;a0&gt;#32656&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184944Z" creationid="elia" creationdate="20190111T184944Z">
+        <seg>O sistema de agendamento de tarefas agora pode ser substituído com mais facilidade por um manipulador personalizado (&lt;a0&gt;#32656&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Database API%s, added in WordPress 0.71, provides the correct method for accessing data as named values which are stored in the database layer.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5314,6 +5346,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Distribuir cópias de suas versões modificadas a outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To help you check if you’re prepared for this change, WordPress 5.1 will show you a warning and help you upgrade your version of PHP, if necessary.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184825Z" creationid="elia" creationdate="20190111T184825Z">
+        <seg>Para ajudálo a verificar se você está preparado para esta mudança, o WordPress 5.1 exibirá um aviso e o ajudará a atualizar a sua versão de PHP, se necessário.</seg>
       </tuv>
     </tu>
     <tu>
