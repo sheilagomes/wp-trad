@@ -2578,6 +2578,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I will have plenty for you&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185557Z" creationid="elia" creationdate="20190111T185557Z">
+        <seg>Você terá vários&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IE=edge</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180604T101536Z" creationid="Sheila" creationdate="20180604T101536Z">
@@ -6877,6 +6885,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
         <seg>https://wordpress.org/wordpress-4.9-beta2.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in the coming weeks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185609Z" creationid="elia" creationdate="20190111T185609Z">
+        <seg>nas próximas semanas.</seg>
       </tuv>
     </tu>
     <tu>
