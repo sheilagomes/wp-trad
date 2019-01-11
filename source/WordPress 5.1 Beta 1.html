@@ -1,0 +1,66 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-1/">WordPress 5.1 Beta 1</a></h2>
+
+<div class="meta">Posted January 11, 2019 by <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>. </div>
+ <div class="storycontent">
+	
+<p>WordPress 5.1 Beta 1 is now available!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so we don’t recommend you run it on a production site. Consider setting up a test site to play with the new version.</p>
+
+
+
+<p>There are two ways to test the WordPress 5.1 beta: try the&nbsp;<a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;plugin (you’ll want to select the “bleeding edge nightlies” option), or you can&nbsp;<a href="https://wordpress.org/wordpress-5.1-beta1.zip">download the beta here</a>&nbsp;(zip).</p>
+
+
+
+<p>WordPress 5.1 is slated for release on&nbsp;<a href="https://make.wordpress.org/core/5-1/">February 21</a>, and we need your help to get there. Here are some of the big items to test so we can find as many bugs as possible in the coming weeks.</p>
+
+
+
+<h2>Site Health Check</h2>
+
+
+
+<p>Site Health Check is an ongoing project aimed at improving the stability and performance of the entire WordPress ecosystem. The first phase of this project is included in WordPress 5.1. For the first time, WordPress will catch and pause the problem code, so you can log in to your Dashboard and see what the problem is (<a href="https://core.trac.wordpress.org/ticket/44458">#44458</a>). Before, you’d have to FTP in to your files or get in touch with your host.</p>
+
+
+
+<p>Additionally, in April 2019, <a href="https://make.wordpress.org/core/2018/12/08/updating-the-minimum-php-version/">WordPress&#8217; will increase its minimum supported PHP version to 5.6</a>. To help you check if you&#8217;re prepared for this change, WordPress 5.1 will show you a warning and help you upgrade your version of PHP, if necessary.</p>
+
+
+
+<h2>For Developers</h2>
+
+
+
+<ul><li>The Cron system can now be more easily replaced with a custom cron handler (<a href="https://core.trac.wordpress.org/ticket/32656">#32656</a>).</li><li>When starting cron under PHP-FPM, the connection will return a response immediately, even for long running cron jobs (<a href="https://make.wordpress.org/core/2019/01/09/cron-improvements-with-php-fpm-in-wordpress-5-1/">dev note</a>).</li><li><code>WP_DEBUG_LOG</code> can be set to a custom log location (<a href="https://core.trac.wordpress.org/ticket/18391">#18391</a>).</li><li>Introduced the <code>wp_blogmeta</code> table (<a href="https://core.trac.wordpress.org/ticket/37923">#37923</a>).</li><li>Added <code>LIKE</code> support to <code>meta_key</code> comparisons in <code>WP_Meta_Query</code> (<a href="https://core.trac.wordpress.org/ticket/42409">#42409</a>).</li></ul>
+
+
+
+<p>There have been <a href="https://core.trac.wordpress.org/query?status=closed&amp;milestone=5.1&amp;group=resolution&amp;col=id&amp;col=summary&amp;col=component&amp;col=owner&amp;col=type&amp;col=priority&amp;col=version&amp;order=priority">over 360 tickets closed</a> in WordPress 5.1, with numerous small bug fixes and improvements to help smooth your WordPress experience.</p>
+
+
+
+<p>Keep your eyes on the <a href="https://make.wordpress.org/core/">Make WordPress Core blog</a> for more developer notes (which are <a href="https://make.wordpress.org/core/tag/5-1+dev-notes/">assigned</a> the <code>dev-notes</code> tag) in the coming weeks detailing other changes in 5.1 that you should be aware of.</p>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English?&nbsp;<a href="https://translate.wordpress.org/projects/wp/dev">Help us translate WordPress into more than 100 languages!</a></p>
+
+
+
+<p><strong><em>If you think you’ve found a bug</em></strong><em>, you can post to the&nbsp;</em><a href="https://wordpress.org/support/forum/alphabeta"><em>Alpha/Beta area</em></a><em>&nbsp;in the support forums. We’d love to hear from you! If you’re comfortable writing a reproducible bug report,&nbsp;</em><a href="https://make.wordpress.org/core/reports/"><em>file one on WordPress Trac</em></a><em>, where you can also find&nbsp;</em><a href="https://core.trac.wordpress.org/tickets/major"><em>a list of known bugs</em></a><em>.</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Miss my haiku?<br>I will have plenty for you<br>in the coming weeks.</em></p>
