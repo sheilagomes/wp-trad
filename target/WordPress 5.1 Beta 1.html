@@ -1,0 +1,67 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-1/">WordPress 5.1 Beta 1</a></h2>
+
+<div class="meta">Posted January 11, 2019 by <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>.  </div>
+ <div class="storycontent">
+	
+<p>O WordPress 5.1 Beta 1 já está disponível!</p>
+
+
+
+<p><strong>Esta versão ainda está em desenvolvimento,</strong> portanto não recomendamos seu uso em ambientes de produção. Considere criar um site de testes para testar a nova versão.</p>
+
+
+
+<p>Existem duas formas de testar o WordPress 5.1 beta: com o plugin&nbsp;<a href="https://br.wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;(você deve usar “bleeding edge nightlies”) ou você pode <a href="https://wordpress.org/wordpress-5.1-beta1.zip">baixar a versão aqui</a>&nbsp;(zip).</p>
+
+
+
+<p>O lançamento do WordPress 5.1 está previsto para&nbsp;<a href="https://make.wordpress.org/core/5-1/">21 de fevereiro</a>e precisamos da sua ajuda para que isso aconteça. Aqui estão alguns dos itens mais importantes para testar, de modo que possamos encontrar tantos erros quanto possível nas próximas semanas.</p>
+
+
+
+<h2>Diagnóstico do site</h2>
+
+
+
+<p>Diagnóstico do site é um projeto em andamento que tem como objetivo melhorar a estabilidade e o desempenho de todo o ecossistema do WordPress. A primeira fase deste projeto está incluída no WordPress 5.1. Pela primeira vez, o WordPress detectará e interromperá a execução de um código problemático, para que você possa acessar o Painel e ver qual é o problema (<a href="https://core.trac.wordpress.org/ticket/44458">#44458</a>). Antes, voce teria que acessar os seus arquivos através do FTP ou entrar em contato com o seu serviço de hospedagem.</p>
+
+
+
+<p>Além disso, em abril de 2019, o <a href="https://make.wordpress.org/core/2018/12/08/updating-the-minimum-php-version/">WordPress aumentará a versão mínima do PHP suportada para 5.6</a>. Para ajudá-lo a verificar se você está preparado para esta mudança, o WordPress 5.1 exibirá um aviso e o auxiliará a atualizar a sua versão de PHP, se necessário.</p>
+
+
+
+<h2>Para os desenvolvedores</h2>
+
+
+
+<ul><li>O sistema de agendamento de tarefas (Cron) agora pode ser substituído com mais facilidade por um manipulador personalizado (<a href="https://core.trac.wordpress.org/ticket/32656">#32656</a>).</li><li>Ao iniciar o sistema de agendamento de tarefas com PHP-FPM, a conexão retornará uma resposta imediatamente, mesmo para tarefas de longa duração (<a href="https://make.wordpress.org/core/2019/01/09/cron-improvements-with-php-fpm-in-wordpress-5-1/">nota para os devesenvolvedores, em inglês</a>).</li><li>A constante <code>WP_DEBUG_LOG</code> pode ser configurada para uma localização personalizada (<a href="https://core.trac.wordpress.org/ticket/18391">#18391</a>).</li><li>Incluida a tabela <code>wp_blogmeta</code> (<a href="https://core.trac.wordpress.org/ticket/37923">#37923</a>).</li><li>Adicionado o suporte ao <code>LIKE</code> para comparações entre <code>meta_key</code> na <code>WP_Meta_Query</code> (<a href="https://core.trac.wordpress.org/ticket/42409">#42409</a>).</li></ul>
+
+
+
+<p>Foram <a href="https://core.trac.wordpress.org/query?status=closed&amp;milestone=5.1&amp;group=resolution&amp;col=id&amp;col=summary&amp;col=component&amp;col=owner&amp;col=type&amp;col=priority&amp;col=version&amp;order=priority">mais de 360 tickets fechados</a> no WordPress 5.1, com várias pequenas correções de erros e melhorias para tornar a sua experiência no WordPress ainda melhor.</p>
+
+
+
+<p>Fique atento nas próximas semanas ao <a href="https://make.wordpress.org/core/">blog Make WordPress Core</a> para mais notas para desenvolvedores (que <a href="https://make.wordpress.org/core/tag/5-1+dev-notes/">recebem</a> a tag <code>dev-notes</code>) detalhando outras mudanças importantes na versão 5.1.</p>
+
+
+
+<h2>Como ajudar</h2>
+
+
+
+<p>Você lê e escreve bem em inglês?&nbsp;<a href="https://translate.wordpress.org/projects/wp/dev/pt-br/default">Ajude-nos a traduzir o WordPress para o português!</a></p>
+
+
+
+<p><strong><em>Se acha que encontrou um erro</em></strong><em>, você pode publicá-lo na&nbsp;</em><a href="https://wordpress.org/support/forum/alphabeta"><em>área Alpha/Beta</em></a><em>&nbsp;do fórum oficial. Nós vamos adorar ouvir você! Se puder escrever um relatório de um erro que outras pessoas podem reproduzir,&nbsp;</em><a href="https://make.wordpress.org/core/reports/"><em>envie-o para o WordPress Trac (em inglês)</em></a><em>, onde você também pode encontrar&nbsp;</em><a href="https://core.trac.wordpress.org/tickets/major"><em>uma lista dos erros já conhecidos</em></a><em>.</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Sentiu falta dos haikai?<br>Você terá vários<br>nas próximas semanas.</em></p>
+</div>
