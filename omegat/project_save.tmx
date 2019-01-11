@@ -2174,6 +2174,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the first time, WordPress will catch and pause the problem code, so you can log in to your Dashboard and see what the problem is (&lt;a0&gt;#44458&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184616Z" creationid="elia" creationdate="20190111T184616Z">
+        <seg>Pela primeira vez, o WordPress detectará e parará um código problemático, para que você possa acessar o Painel e ver qual é o problema (&lt;a0&gt;#44458&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users that register on our website (if any), we also store the personal information they provide in their user profile.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123223Z" creationid="Sheila" creationdate="20180517T123136Z">
@@ -4270,6 +4278,22 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Site Health Check</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184356Z" creationid="elia" creationdate="20190111T184356Z">
+        <seg>Diagnóstico do site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site Health Check is an ongoing project aimed at improving the stability and performance of the entire WordPress ecosystem.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184437Z" creationid="elia" creationdate="20190111T184437Z">
+        <seg>Diagnóstico dos sites é um projeto em andamento que tem como objetivo melhorar a estabilidade e o desempenho de todo o ecossistema do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Site owners will be able to create GDPR compliant privacy policy in three steps:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221241Z" creationid="elia" creationdate="20180417T221241Z">
@@ -4846,6 +4870,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first phase of this project is included in WordPress 5.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184520Z" creationid="elia" creationdate="20190111T184520Z">
+        <seg>A primeira fase deste projeto está incluída no WordPress 5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first release candidate for WordPress 5.0 is now available!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T122458Z" creationid="elia" creationdate="20181123T122458Z">
@@ -5074,6 +5106,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183707Z" creationid="elia" creationdate="20181026T183707Z">
         <seg>Existem duas formas de testar o WordPress 5.0 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.1 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184324Z" creationid="elia" creationdate="20190111T184324Z">
+        <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5963,6 +6003,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190109T190317Z" creationid="elia" creationdate="20190109T190317Z">
         <seg>O WordPress 5.0.3 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 Beta 1 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184257Z" creationid="elia" creationdate="20190111T184257Z">
+        <seg>O WordPress 5.1 Beta 1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 is slated for release on &lt;a0&gt;February 21&lt;/a0&gt;, and we need your help to get there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184345Z" creationid="elia" creationdate="20190111T184345Z">
+        <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
     <tu>
