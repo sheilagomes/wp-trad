@@ -738,6 +738,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added &lt;c0&gt;LIKE&lt;/c0&gt; support to &lt;c1&gt;meta_key&lt;/c1&gt; comparisons in &lt;c2&gt;WP_Meta_Query&lt;/c2&gt; (&lt;a3&gt;#42409&lt;/a3&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185225Z" creationid="elia" creationdate="20190111T185154Z">
+        <seg>Adicionado o suporte ao &lt;c0&gt;LIKE&lt;/c0&gt; para comparações entre &lt;c1&gt;meta_key&lt;/c1&gt; na &lt;c2&gt;WP_Meta_Query&lt;/c2&gt; (&lt;a3&gt;#42409&lt;/a3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a dedicated page for the policy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221300Z" creationid="elia" creationdate="20180417T221300Z">
@@ -3012,8 +3020,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>Introduced the &lt;c0&gt;wp_blogmeta&lt;/c0&gt; table (&lt;a1&gt;#37923&lt;/a1&gt;).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185147Z" creationid="elia" creationdate="20190111T185147Z">
-        <seg>Inclui a tabela &lt;c0&gt;wp_blogmeta&lt;/c0&gt; (&lt;a1&gt;#37923&lt;/a1&gt;).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185201Z" creationid="elia" creationdate="20190111T185147Z">
+        <seg>Incluida a tabela &lt;c0&gt;wp_blogmeta&lt;/c0&gt; (&lt;a1&gt;#37923&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3158,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221113Z" creationid="elia" creationdate="20180420T221113Z">
         <seg>Vamos acrescentar mais produtos nas próximas semanas, então fique de olho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep your eyes on the &lt;a0&gt;Make WordPress Core blog&lt;/a0&gt; for more developer notes (which are &lt;a1&gt;assigned&lt;/a1&gt; the &lt;c2&gt;dev-notes&lt;/c2&gt; tag) in the coming weeks detailing other changes in 5.1 that you should be aware of.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185430Z" creationid="elia" creationdate="20190111T185430Z">
+        <seg>Fique atento ao &lt;a0&gt;blog Make WordPress Core&lt;/a0&gt; para mais notas para desenvolvedores (que &lt;a1&gt;recebem&lt;/a1&gt; a tag &lt;c2&gt;dev-notes&lt;/c2&gt;) nas próximas semanas, detalhando outras mudanças importantes na versão 5.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3454,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T190116Z" creationid="elia" creationdate="20181026T190116Z">
         <seg>Corrigindo erros pequenos&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Miss my haiku?&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185550Z" creationid="elia" creationdate="20190111T185550Z">
+        <seg>Sentiu falta dos haikai?&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5170,6 +5194,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131240Z" creationid="elia" creationdate="20181119T131240Z">
         <seg>Existem duas formas de testar o WordPress 5.0 Beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There have been &lt;a0&gt;over 360 tickets closed&lt;/a0&gt; in WordPress 5.1, with numerous small bug fixes and improvements to help smooth your WordPress experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185313Z" creationid="elia" creationdate="20190111T185313Z">
+        <seg>Foram &lt;a0&gt;mais de 360 tickets fechados&lt;/a0&gt; no WordPress 5.1, com várias pequenas correções de erros e melhorias para tornar a sua experiência no WordPress ainda melhor.</seg>
       </tuv>
     </tu>
     <tu>
