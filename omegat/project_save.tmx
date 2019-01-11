@@ -2216,8 +2216,8 @@ por isso baixe-o antes desta data.</seg>
       <tuv lang="EN">
         <seg>For the first time, WordPress will catch and pause the problem code, so you can log in to your Dashboard and see what the problem is (&lt;a0&gt;#44458&lt;/a0&gt;).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184616Z" creationid="elia" creationdate="20190111T184616Z">
-        <seg>Pela primeira vez, o WordPress detectará e parará um código problemático, para que você possa acessar o Painel e ver qual é o problema (&lt;a0&gt;#44458&lt;/a0&gt;).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185748Z" creationid="elia" creationdate="20190111T184616Z">
+        <seg>Pela primeira vez, o WordPress detectará e interromperá a execução de um código problemático, para que você possa acessar o Painel e ver qual é o problema (&lt;a0&gt;#44458&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,8 +4360,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>Site Health Check is an ongoing project aimed at improving the stability and performance of the entire WordPress ecosystem.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184437Z" creationid="elia" creationdate="20190111T184437Z">
-        <seg>Diagnóstico dos sites é um projeto em andamento que tem como objetivo melhorar a estabilidade e o desempenho de todo o ecossistema do WordPress.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185648Z" creationid="elia" creationdate="20190111T184437Z">
+        <seg>Diagnóstico do site é um projeto em andamento que tem como objetivo melhorar a estabilidade e o desempenho de todo o ecossistema do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>To help you check if you’re prepared for this change, WordPress 5.1 will show you a warning and help you upgrade your version of PHP, if necessary.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184825Z" creationid="elia" creationdate="20190111T184825Z">
-        <seg>Para ajudálo a verificar se você está preparado para esta mudança, o WordPress 5.1 exibirá um aviso e o ajudará a atualizar a sua versão de PHP, se necessário.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185828Z" creationid="elia" creationdate="20190111T184825Z">
+        <seg>Para ajudá-lo a verificar se você está preparado para esta mudança, o WordPress 5.1 exibirá um aviso e o auxiliará a atualizar a sua versão de PHP, se necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,8 +5832,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>When starting cron under PHP-FPM, the connection will return a response immediately, even for long running cron jobs (&lt;a0&gt;dev note&lt;/a0&gt;).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185102Z" creationid="elia" creationdate="20190111T185102Z">
-        <seg>Ao iniciar o sistema de agendamento de tarefas com PHP-FPM, a conexão retornará uma resposta imediatamente, mesmo para tarefas de longa duração (&lt;a0&gt;nota para os devs, em inglês&lt;/a0&gt;).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190111T185935Z" creationid="elia" creationdate="20190111T185102Z">
+        <seg>Ao iniciar o sistema de agendamento de tarefas com PHP-FPM, a conexão retornará uma resposta imediatamente, mesmo para tarefas de longa duração (&lt;a0&gt;nota para os devesenvolvedores, em inglês&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
