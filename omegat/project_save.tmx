@@ -4010,6 +4010,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previously, the &lt;a1&gt;plugin&lt;/a1&gt; allowed users to display a grid of products by category.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="kossmann" changedate="20190118T191530Z" creationid="kossmann" creationdate="20190118T191530Z">
+        <seg>Anteriormente, o &lt;a1&gt;plugin&lt;/a1&gt; permitia aos usuários exibir uma grade de produtos por categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Primary</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5050,6 +5058,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222518Z" creationid="elia" creationdate="20180417T222518Z">
         <seg>O lançamento das novas políticas de privacidade está agendado para o final de abril ou começo de maio de 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new version introduces a Featured Product Block with design options for customizing nearly everything about the display, including color overlay, price and description, text alignment, call-to-action button, and the product photo.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="kossmann" changedate="20190118T224913Z" creationid="kossmann" creationdate="20190118T224913Z">
+        <seg>The new version introduces a Featured Product Block with design options for customizing nearly everything about the display, including color overlay, price and description, text alignment, call-to-action button, and the product photo.</seg>
       </tuv>
     </tu>
     <tu>
