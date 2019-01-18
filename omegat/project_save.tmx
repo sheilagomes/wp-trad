@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3954,6 +3954,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Posts by Sarah Gooding</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="kossmann" changedate="20190118T191023Z" creationid="kossmann" creationdate="20190118T191023Z">
+        <seg>Post por Sarah Gooding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Posts, Post Types: Clear post password cookie when logging out.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T225530Z" creationid="elia" creationdate="20180705T225530Z">
@@ -5890,6 +5898,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180705T225552Z" creationid="elia" creationdate="20180705T225552Z">
         <seg>Widgets: Permite tags HTML básicas nas descrições das barras laterais na tela de administração do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WooCommerce Blocks is Now a Feature Plugin, Version 1.3.0 Introduces 6 New Blocks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="kossmann" changedate="20190118T190956Z" creationid="kossmann" creationdate="20190118T190956Z">
+        <seg>WooCommerce Blocks é agora um plugin em destaque, versão 1.3.0 introduz 6 novos blocos</seg>
       </tuv>
     </tu>
     <tu>
