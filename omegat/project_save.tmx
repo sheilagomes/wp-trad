@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -298,6 +298,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Several refinements and bug fixes&lt;/a0&gt; related to the Site Health project have been made.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185104Z" creationid="elia" creationdate="20190122T185104Z">
+        <seg>&lt;a0&gt;Vários ajustes finos e correções de erros&lt;/a0&gt; relacionado ao projeto Diagnóstico foram feitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Team Yoast&lt;/a0&gt; discovered that the user activation screen could be indexed by search engines in some uncommon configurations, leading to exposure of email addresses, and in some rare cases, default generated passwords.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T115004Z" creationid="elia" creationdate="20181213T115004Z">
@@ -486,6 +494,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T114053Z" creationid="elia" creationdate="20181113T114053Z">
         <seg>&lt;s0&gt;A data de lançamento do WordPress 5.0 mudou&lt;/s0&gt;. A nova data é &lt;a1&gt;27 de novembro&lt;/a1&gt; e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;This software is still in development,&lt;/s0&gt; so we don’t recommend you run it on a production site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T184907Z" creationid="elia" creationdate="20190122T184907Z">
+        <seg>&lt;s0&gt;Esta versão ainda está em desenvolvimento,&lt;/s0&gt; portanto não recomendamos seu uso em ambientes de produção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +2470,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are the major changes and bug fixes:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185026Z" creationid="elia" creationdate="20190122T185026Z">
+        <seg>Aqui estão as maiores mudanças e correções de erros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here’s how you can join in the fun:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215734Z" creationid="elia" creationdate="20180420T215734Z">
@@ -3706,6 +3730,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Over &lt;a0&gt;110 tickets have been closed&lt;/a0&gt; since &lt;a1&gt;beta 1&lt;/a1&gt;, many of which are documentation and testing suite improvements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185011Z" creationid="elia" creationdate="20190122T185011Z">
+        <seg>Mais de &lt;a0&gt;110 tickets foram fechados&lt;/a0&gt; desde a versão &lt;a1&gt;beta 1&lt;/a1&gt; e muitos deles são melhorias na documentação e no conjunto de testes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Own Your Data</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4774,6 +4806,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;c0&gt;pre_render_block&lt;/c0&gt; and &lt;c1&gt;render_block_data&lt;/c1&gt; filters have been introduced allowing plugins to override block attribute values (&lt;a2&gt;#45451&lt;/a2&gt;, dev note coming soon).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185205Z" creationid="elia" creationdate="20190122T185205Z">
+        <seg>Os filtros &lt;c0&gt;pre_render_block&lt;/c0&gt; e &lt;c1&gt;render_block_data&lt;/c1&gt; foram adicionados, permitindo que plugins sobrescrevam o valor dos atributos de um bloco (&lt;a2&gt;#45451&lt;/a2&gt;, nota de desenvolvedor em breve).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Block Editor</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183836Z" creationid="elia" creationdate="20181026T183836Z">
@@ -5218,6 +5258,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T183707Z" creationid="elia" creationdate="20181026T183707Z">
         <seg>Existem duas formas de testar o WordPress 5.0 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.1 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T184923Z" creationid="elia" creationdate="20190122T184923Z">
+        <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6155,6 +6203,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T184257Z" creationid="elia" creationdate="20190111T184257Z">
         <seg>O WordPress 5.1 Beta 1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 Beta 2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T184858Z" creationid="elia" creationdate="20190122T184858Z">
+        <seg>O WordPress 5.1 Beta 2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 is slated for release on &lt;a0&gt;February 21&lt;/a0&gt;, and we need your help to get there!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T184934Z" creationid="elia" creationdate="20190122T184934Z">
+        <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
     <tu>
