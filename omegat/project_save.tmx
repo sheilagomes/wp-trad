@@ -386,6 +386,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;get_template_part()&lt;/c0&gt; will now return a value indicating whether a template file was found and loaded (&lt;a1&gt;#40969&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185306Z" creationid="elia" creationdate="20190122T185306Z">
+        <seg>A função -&lt;c0&gt;get_template_part()&lt;/c0&gt; agora retorna um valor indicando que um arquivo foi encontrado e carregado (&lt;a1&gt;#40969&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Let’s test all of these:&lt;/e0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202731Z" creationid="Sheila" creationdate="20171013T202731Z">
@@ -622,6 +630,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T223945Z" creationid="elia" creationdate="20180417T221545Z">
         <seg>Ao editar a política, uma nova área será incluída na tela da página de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A notice will now be triggered when developers incorrectly register REST API endpoints (related &lt;a0&gt;dev note&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185349Z" creationid="elia" creationdate="20190122T185349Z">
+        <seg>Agora um aviso será gerado quando desenvolvedorers registrarem incorretamente endpoints na API REST (&lt;a0&gt;nota para desenvolvedores&lt;/a0&gt; relacionada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1190,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Comentários nativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulk editing posts will no longer unintentionally change a post’s post format (&lt;a0&gt;#44914&lt;/a0&gt;)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185549Z" creationid="elia" creationdate="20190122T185549Z">
+        <seg>Posts editados em massa não têm mais seu formato alterado sem que haja intenção (&lt;a0&gt;#44914&lt;/a0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
