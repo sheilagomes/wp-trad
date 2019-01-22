@@ -1,0 +1,54 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-2/">WordPress 5.1 Beta 2</a></h2>
+
+<div class="meta">Posted January 22, 2019 by <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>. </div>
+ <div class="storycontent">
+	
+<p>WordPress 5.1 Beta 2 is now available!</p>
+
+
+
+<p><strong>This software is still in development,</strong> so we don’t recommend you run it on a production site. Consider setting up a test site to play with the new version.</p>
+
+
+
+<p>There are two ways to test the WordPress 5.1 beta: try the <a href="https://wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a> plugin (you’ll want to select the “bleeding edge nightlies” option), or you can <a href="https://wordpress.org/wordpress-5.1-beta2.zip">download the beta here</a> (zip).</p>
+
+
+
+<p>WordPress 5.1 is slated for release on <a href="https://make.wordpress.org/core/5-1/">February 21</a>, and we need your help to get there!</p>
+
+
+
+<p>Over <a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=01%2F11%2F2019..&amp;milestone=5.1&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">110 tickets have been closed</a> since <a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-1/">beta 1</a>, many of which are documentation and testing suite improvements. Here are the major changes and bug fixes:</p>
+
+
+
+<ul><li><a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=01%2F11%2F2019..01%2F22%2F2019&amp;focuses=!~docs&amp;keywords=~servehappy&amp;milestone=5.1&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">Several refinements and bug fixes</a> related to the Site Health project have been made.</li><li>The <code>pre_render_block</code> and <code>render_block_data</code> filters have been introduced allowing plugins to override block attribute values (<a href="https://core.trac.wordpress.org/ticket/45451">#45451</a>, dev note coming soon).</li><li><code>get_template_part()</code> will now return a value indicating whether a template file was found and loaded (<a href="https://core.trac.wordpress.org/ticket/40969">#40969</a>).</li><li>A notice will now be triggered when developers incorrectly register REST API endpoints (related <a href="https://make.wordpress.org/core/2019/01/11/new-rest-api-notice-in-5-1/">dev note</a>).</li><li>Bulk editing posts will no longer unintentionally change a post&#8217;s post format (<a href="https://core.trac.wordpress.org/ticket/44914">#44914</a>)</li><li>Twemoji has been updated to the latest version, 11.2.0 (<a href="https://core.trac.wordpress.org/ticket/45133">#45133</a>).</li><li>A bug preventing the Custom Fields meta box from being enabled has been fixed (#<a href="https://core.trac.wordpress.org/ticket/46028">46028</a>).</li><li>The treatment of <code>orderby</code> values for <code>post__in</code>, <code>post_parent__in</code>, and <code>post_name__in</code> has been standardized (<a href="https://core.trac.wordpress.org/ticket/38034">#38034</a>).</li><li>When updating language packs, old language packs are now correctly deleted to avoid filling up disk space (<a href="https://core.trac.wordpress.org/ticket/45468">#45468</a>).</li></ul>
+
+
+
+<h2>Developer Notes</h2>
+
+
+
+<p>WordPress 5.1 has many changes aimed at polishing the developer experience. To keep you informed, we publish <a href="https://make.wordpress.org/core/tag/5-1+dev-notes/">developers notes</a> on the <a href="https://make.wordpress.org/core/">Make WordPress Core blog</a> throughout the release cycle. Subscribe to the Make WordPress Core blog for updates over the coming weeks, detailing other changes in 5.1 that you should be aware of.</p>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English? <a href="https://translate.wordpress.org/projects/wp/dev">Help us translate WordPress into more than 100 languages!</a> The beta 2 release als marks the <a href="https://make.wordpress.org/polyglots/handbook/glossary/#soft-freeze">soft string freeze</a> point of the 5.1 release schedule.</p>
+
+
+
+<p><em><strong>If you think you’ve found a bug</strong>, you can post to the <a href="https://wordpress.org/support/forum/alphabeta">Alpha/Beta area</a> in the support forums. We’d love to hear from you! If you’re comfortable writing a reproducible bug report, <a href="https://make.wordpress.org/core/reports/">file one on WordPress Trac</a>, where you can also find <a href="https://core.trac.wordpress.org/tickets/major">a list of known bugs</a>.</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Do you enjoy bugs?<br> I don&#8217;t. So, we fixed them all.<br> Well, not all. But close.</em></p>
