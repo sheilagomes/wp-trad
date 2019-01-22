@@ -570,6 +570,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A bug preventing the Custom Fields meta box from being enabled has been fixed (#&lt;a0&gt;46028&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185657Z" creationid="elia" creationdate="20190122T185657Z">
+        <seg>Um erro que impedia a ativação da metabox de campos personalizados foi corrigido (#&lt;a0&gt;46028&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few &lt;a0&gt;PHP&lt;/a0&gt; &lt;a1&gt;errors&lt;/a1&gt; in the Customizer have been fixed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190109T190831Z" creationid="elia" creationdate="20190109T190831Z">
@@ -5222,6 +5230,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The treatment of &lt;c0&gt;orderby&lt;/c0&gt; values for &lt;c1&gt;post__in&lt;/c1&gt;, &lt;c2&gt;post_parent__in&lt;/c2&gt;, and &lt;c3&gt;post_name__in&lt;/c3&gt; has been standardized (&lt;a4&gt;#38034&lt;/a4&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185726Z" creationid="elia" creationdate="20190122T185726Z">
+        <seg>O tratamento de valores &lt;c0&gt;orderby&lt;/c0&gt; por &lt;c1&gt;post__in&lt;/c1&gt;, &lt;c2&gt;post_parent__in&lt;/c2&gt; e &lt;c3&gt;post_name__in&lt;/c3&gt; foi padronizado (&lt;a4&gt;#38034&lt;/a4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The type of request being confirmed is now included in the subject line for all privacy confirmation emails.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210449Z" creationid="elia" creationdate="20180802T210449Z">
@@ -5630,6 +5646,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Twemoji has been updated to the latest version, 11.2.0 (&lt;a0&gt;#45133&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185608Z" creationid="elia" creationdate="20190122T185608Z">
+        <seg>A biblioteca Twemoji foi atualizada para a versão mais recente, 11.2.0 (&lt;a0&gt;#45133&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twenty Nineteen</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185140Z" creationid="elia" creationdate="20181026T185140Z">
@@ -5938,6 +5962,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185935Z" creationid="elia" creationdate="20190111T185102Z">
         <seg>Ao iniciar o sistema de agendamento de tarefas com PHP-FPM, a conexão retornará uma resposta imediatamente, mesmo para tarefas de longa duração (&lt;a0&gt;nota para os devesenvolvedores, em inglês&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When updating language packs, old language packs are now correctly deleted to avoid filling up disk space (&lt;a0&gt;#45468&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185819Z" creationid="elia" creationdate="20190122T185819Z">
+        <seg>Ao atualizar pacotes de idiomas, pacotes antigos agora são corretamente excluídos, evitando uso desnecessário de espaço em disco (&lt;a0&gt;#45468&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
