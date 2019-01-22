@@ -1578,6 +1578,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Notes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185825Z" creationid="elia" creationdate="20190122T185825Z">
+        <seg>Notas para desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4598,6 +4606,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscribe to the Make WordPress Core blog for updates over the coming weeks, detailing other changes in 5.1 that you should be aware of.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190118Z" creationid="elia" creationdate="20190122T190118Z">
+        <seg>Assine o blog Make WordPress Core para receber atualizações nas próximas semanas, detalhando outras mudanças importantes da versão 5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subscribe to this blog</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5534,6 +5550,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To keep you informed, we publish &lt;a0&gt;developers notes&lt;/a0&gt; on the &lt;a1&gt;Make WordPress Core blog&lt;/a1&gt; throughout the release cycle.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190022Z" creationid="elia" creationdate="20190122T190022Z">
+        <seg>Para mais informações nós publicamos &lt;a0&gt;notas para os desenvolvedores&lt;/a0&gt; no &lt;a1&gt;blog Make WordPress Core&lt;/a1&gt; durante todo o ciclo de lançamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To redistribute.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6267,6 +6291,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T184858Z" creationid="elia" creationdate="20190122T184858Z">
         <seg>O WordPress 5.1 Beta 2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 has many changes aimed at polishing the developer experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T185857Z" creationid="elia" creationdate="20190122T185857Z">
+        <seg>O WordPress 5.1 tem muitas mudanças com foco na melhoria da experiência de desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
