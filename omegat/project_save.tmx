@@ -274,6 +274,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; The beta 2 release als marks the &lt;a1&gt;soft string freeze&lt;/a1&gt; point of the 5.1 release schedule.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190244Z" creationid="elia" creationdate="20190122T190244Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt; O lançamento da versão beta 2 também significa que &lt;a1&gt;novas strings para tradução&lt;/a1&gt; da versão 5.1 serão evitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; discovered that authors could alter meta data to delete files that they weren’t authorized to.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114030Z" creationid="elia" creationdate="20181213T114030Z">
@@ -462,6 +470,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205826Z" creationid="elia" creationdate="20180802T205826Z">
         <seg>&lt;s0&gt;Apresentamos aqui uma lista das novidades agora disponíveis.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;If you think you’ve found a bug&lt;/s0&gt;, you can post to the &lt;a1&gt;Alpha/Beta area&lt;/a1&gt; in the support forums.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190303Z" creationid="elia" creationdate="20190122T190303Z">
+        <seg>&lt;s0&gt;Se acha que encontrou um erro&lt;/s0&gt;, você pode publicá-lo na &lt;a1&gt;área Alpha/Beta&lt;/a1&gt; nos fóruns de suporte (em inglês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1226,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But close.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190410Z" creationid="elia" creationdate="20190122T190410Z">
+        <seg>Mas quase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default WordPress does not collect any analytics data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122048Z" creationid="elia" creationdate="20180517T122048Z">
@@ -1614,6 +1638,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Descobra mais sites construídos com WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you enjoy bugs?&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190350Z" creationid="elia" creationdate="20190122T190350Z">
+        <seg>Você gosta de erros?&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,6 +2682,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I don’t.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190353Z" creationid="elia" creationdate="20190122T190353Z">
+        <seg>Eu não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I will have plenty for you&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185557Z" creationid="elia" creationdate="20190111T185557Z">
@@ -2846,6 +2886,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T223919Z" creationid="elia" creationdate="20181203T223823Z">
         <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a1&gt;envie para o Trac do WordPress&lt;/a1&gt;, onde também é possível encontrar &lt;a2&gt;uma lista de erros conhecidos&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re comfortable writing a reproducible bug report, &lt;a2&gt;file one on WordPress Trac&lt;/a2&gt;, where you can also find &lt;a3&gt;a list of known bugs&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190339Z" creationid="elia" creationdate="20190122T190339Z">
+        <seg>Se você se sente confortável para escrever um relatório de como reproduzir o erro, &lt;a2&gt;envie para o Trac do WordPress&lt;/a2&gt;, onde também é possível encontrar uma &lt;a3&gt;lista de erros conhecidos&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4558,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, we fixed them all.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190400Z" creationid="elia" creationdate="20190122T190400Z">
+        <seg>Então corrigimos todos.&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some &lt;a0&gt;internationalization (i18n) issues&lt;/a0&gt; related to script loading have also been fixed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181220T145602Z" creationid="elia" creationdate="20181220T145602Z">
@@ -5874,6 +5930,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123239Z" creationid="Sheila" creationdate="20180517T123239Z">
         <seg>Os administradores de sites também podem ver e editar estas informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, not all.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190122T190406Z" creationid="elia" creationdate="20190122T190406Z">
+        <seg>Bem, nem todos.</seg>
       </tuv>
     </tu>
     <tu>
