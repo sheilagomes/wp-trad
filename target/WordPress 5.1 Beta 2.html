@@ -1,0 +1,55 @@
+<h2 class="fancy"><a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-2/">WordPress 5.1 Beta 2</a></h2>
+
+<div class="meta">Posted January 22, 2019 by <a href="https://profiles.wordpress.org/pento">Gary Pendergast</a>. Filed under <a href="https://wordpress.org/news/category/development/" rel="category tag">Development</a>, <a href="https://wordpress.org/news/category/releases/" rel="category tag">Releases</a>.  </div>
+ <div class="storycontent">
+	
+<p>O WordPress 5.1 Beta 2 já está disponível!</p>
+
+
+
+<p><strong>Esta versão ainda está em desenvolvimento,</strong> portanto não recomendamos seu uso em ambientes de produção. Considere criar um site de testes para testar a nova versão.</p>
+
+
+
+<p>Existem duas formas de testar o WordPress 5.1 beta: com o plugin&nbsp;<a href="https://br.wordpress.org/plugins/wordpress-beta-tester/">WordPress Beta Tester</a>&nbsp;(você deve usar “bleeding edge nightlies”) ou você pode <a href="https://wordpress.org/wordpress-5.1-beta2.zip">baixar a versão aqui</a>&nbsp;(zip).</p>
+
+
+
+<p>O lançamento do WordPress 5.1 está previsto para&nbsp;<a href="https://make.wordpress.org/core/5-1/">21 de fevereiro</a>e precisamos da sua ajuda para que isso aconteça.</p>
+
+
+
+<p>Mais de <a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=01%2F11%2F2019..&amp;milestone=5.1&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">110 tickets foram fechados</a> desde a versão <a href="https://wordpress.org/news/2019/01/wordpress-5-1-beta-1/">beta 1</a> e muitos deles são melhorias na documentação e no conjunto de testes. Aqui estão as maiores mudanças e correções de erros:</p>
+
+
+
+<ul><li><a href="https://core.trac.wordpress.org/query?status=closed&amp;changetime=01%2F11%2F2019..01%2F22%2F2019&amp;focuses=!~docs&amp;keywords=~servehappy&amp;milestone=5.1&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">Vários ajustes finos e correções de erros</a> relacionado ao projeto Diagnóstico foram feitos.</li><li>Os filtros <code>pre_render_block</code> e <code>render_block_data</code> foram adicionados, permitindo que plugins sobrescrevam o valor dos atributos de um bloco (<a href="https://core.trac.wordpress.org/ticket/45451">#45451</a>, nota de desenvolvedor em breve).</li><li>A função -<code>get_template_part()</code> agora retorna um valor indicando que um arquivo foi encontrado e carregado (<a href="https://core.trac.wordpress.org/ticket/40969">#40969</a>).</li><li>Agora um aviso será gerado quando desenvolvedorers registrarem incorretamente endpoints na API REST (<a href="https://make.wordpress.org/core/2019/01/11/new-rest-api-notice-in-5-1/">nota para desenvolvedores</a> relacionada).</li><li>Posts editados em massa não têm mais seu formato alterado sem que haja intenção (<a href="https://core.trac.wordpress.org/ticket/44914">#44914</a>)</li><li>A biblioteca Twemoji foi atualizada para a versão mais recente, 11.2.0 (<a href="https://core.trac.wordpress.org/ticket/45133">#45133</a>).</li><li>Um erro que impedia a ativação da metabox de campos personalizados foi corrigido (#<a href="https://core.trac.wordpress.org/ticket/46028">46028</a>).</li><li>O tratamento de valores <code>orderby</code> por <code>post__in</code>, <code>post_parent__in</code> e <code>post_name__in</code> foi padronizado (<a href="https://core.trac.wordpress.org/ticket/38034">#38034</a>).</li><li>Ao atualizar pacotes de idiomas, pacotes antigos agora são corretamente excluídos, evitando uso desnecessário de espaço em disco (<a href="https://core.trac.wordpress.org/ticket/45468">#45468</a>).</li></ul>
+
+
+
+<h2>Notas para desenvolvedores</h2>
+
+
+
+<p>O WordPress 5.1 tem muitas mudanças com foco na melhoria da experiência de desenvolvimento. Para mais informações nós publicamos <a href="https://make.wordpress.org/core/tag/5-1+dev-notes/">notas para os desenvolvedores</a> no <a href="https://make.wordpress.org/core/">blog Make WordPress Core</a> durante todo o ciclo de lançamento. Assine o blog Make WordPress Core para receber atualizações nas próximas semanas, detalhando outras mudanças importantes da versão 5.1.</p>
+
+
+
+<h2>Como ajudar</h2>
+
+
+
+<p>Ajude a tradução em Português! <a href="https://translate.wordpress.org/projects/wp/dev/pt-br/default">Ajude-nos a traduzir o WordPress para o português!</a> O lançamento da versão beta 2 também significa que <a href="https://make.wordpress.org/polyglots/handbook/glossary/#soft-freeze">novas strings para tradução</a> da versão 5.1 serão evitadas.</p>
+
+
+
+<p><em><strong>Se acha que encontrou um erro</strong>, você pode publicá-lo na <a href="https://wordpress.org/support/forum/alphabeta">área Alpha/Beta</a> nos fóruns de suporte (em inglês). Nós vamos adorar ouvir você! Se você se sente confortável para escrever um relatório de como reproduzir o erro, <a href="https://make.wordpress.org/core/reports/">envie para o Trac do WordPress</a>, onde também é possível encontrar uma <a href="https://core.trac.wordpress.org/tickets/major">lista de erros conhecidos</a>.</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p><em>Você gosta de erros?<br> Eu não. Então corrigimos todos.<br> Bem, nem todos. Mas quase.</em></p>
+</div>
