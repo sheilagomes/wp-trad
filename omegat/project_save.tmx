@@ -634,6 +634,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A handful of smaller bugs have also been fixed in this release, including:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T095934Z" creationid="elia" creationdate="20190131T095934Z">
+        <seg>Vários pequenos erros foram corrigidos nesta versão, incluindo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A myriad of minor tweaks and improvements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173550Z" creationid="elia" creationdate="20181105T173550Z">
@@ -838,6 +846,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173504Z" creationid="elia" creationdate="20181105T173504Z">
         <seg>Suporte ao meta box de "Campos personalizados".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T095900Z" creationid="elia" creationdate="20190131T095900Z">
+        <seg>Outras mudanças</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5354,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131758Z" creationid="elia" creationdate="20181119T131758Z">
         <seg>O indicador de envio de imagens e galerias foi substituído por uma &lt;a0&gt;imagem que fica girando e depois desaparece&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The work in &lt;a0&gt;#46130&lt;/a0&gt; is showing good progress towards addressing the security concerns, if you’d like to follow development progress on this feature.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T095850Z" creationid="elia" creationdate="20190131T095850Z">
+        <seg>O trabalho em &lt;a0&gt;#46130&lt;/a0&gt; está mostrando um bom progresso nas questões de segurança, se você deseja acompanhar o desenvolvimento deste recurso.</seg>
       </tuv>
     </tu>
     <tu>
