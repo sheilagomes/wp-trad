@@ -3762,6 +3762,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the features originally slated for WordPress 5.1—the PHP error protection handler—will target WordPress 5.2 instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094502Z" creationid="elia" creationdate="20190131T094502Z">
+        <seg>Um dos recursos originalmente planejados para o WordPress 5.1, a proteção contra erros de PHP, será adiado para o WordPress 5.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One thought on &amp;ldquo;%1$s&amp;rdquo;</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4586,6 +4594,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Alguns dos melhores sites em WordPress na internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some potential security issues were discovered in the implementation: rather than risk releasing insecure code, the team decided to pull it out of WordPress 5.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094645Z" creationid="elia" creationdate="20190131T094645Z">
+        <seg>Como alguns problemas de segurança em potencial foram descobertos na implementação, ao invés de arriscar o lançamento de um código inseguro, a equipe decidiu retirá-lo do WordPress 5.1.</seg>
       </tuv>
     </tu>
     <tu>
