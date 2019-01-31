@@ -3804,8 +3804,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>One of the features originally slated for WordPress 5.1—the PHP error protection handler—will target WordPress 5.2 instead.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094502Z" creationid="elia" creationdate="20190131T094502Z">
-        <seg>Um dos recursos originalmente planejados para o WordPress 5.1, a proteção contra erros de PHP, será adiado para o WordPress 5.2.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100944Z" creationid="elia" creationdate="20190131T094502Z">
+        <seg>A proteção contra erros de PHP, um dos recursos originalmente planejados para o WordPress 5.1, será adiado para o WordPress 5.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6489,8 +6489,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>WordPress 5.1 is slated for release on &lt;a0&gt;February 21&lt;/a0&gt;, and we need your help to get there!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094221Z" creationid="elia" creationdate="20190131T094221Z">
-        <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100940Z" creationid="elia" creationdate="20190131T094221Z">
+        <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt; e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6965,6 +6965,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T123045Z" creationid="elia" creationdate="20180517T123045Z">
         <seg>Você também deve justificar qualquer coleta e retenção de dados pessoais sensíveis, como dados referentes a saúde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your testing helps us!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100612Z" creationid="elia" creationdate="20190131T100612Z">
+        <seg>Seus testes nos ajudam!</seg>
       </tuv>
     </tu>
     <tu>
