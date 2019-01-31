@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5382,6 +5382,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.1 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt;plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094212Z" creationid="elia" creationdate="20190131T094212Z">
+        <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two ways to test the WordPress 5.1 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T184324Z" creationid="elia" creationdate="20190111T184324Z">
@@ -6359,6 +6367,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.1 Beta 3 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094129Z" creationid="elia" creationdate="20190131T094129Z">
+        <seg>O WordPress 5.1 Beta 3 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress 5.1 has many changes aimed at polishing the developer experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T185857Z" creationid="elia" creationdate="20190122T185857Z">
@@ -6370,6 +6386,14 @@ Equipe do site ###SITENAME###
         <seg>WordPress 5.1 is slated for release on &lt;a0&gt;February 21&lt;/a0&gt;, and we need your help to get there!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T184934Z" creationid="elia" creationdate="20190122T184934Z">
+        <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 is slated for release on &lt;a0&gt;February 21&lt;/a0&gt;, and we need your help to get there!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T094221Z" creationid="elia" creationdate="20190131T094221Z">
         <seg>O lançamento do WordPress 5.1 está previsto para &lt;a0&gt;21 de fevereiro&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
