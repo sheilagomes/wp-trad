@@ -602,6 +602,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A few differences in behaviour between the classic block and the classic editor have been fixed (&lt;a0&gt;#46062&lt;/a0&gt;, &lt;a1&gt;#46071&lt;/a1&gt;, &lt;a2&gt;#46085&lt;/a2&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100051Z" creationid="elia" creationdate="20190131T100051Z">
+        <seg>Algumas diferenças no comportamento entre o bloco clássico e o editor clássico foram corrigidas (&lt;a0&gt;#46062&lt;/a0&gt;, &lt;a1&gt;#46071&lt;/a1&gt; e &lt;a2&gt;#46085&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A final release date will be announced soon, based on feedback from this release candidate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T221804Z" creationid="elia" creationdate="20181203T221804Z">
@@ -5110,6 +5118,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor has had a couple of bugs fixed (&lt;a0&gt;#46137&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T095957Z" creationid="elia" creationdate="20190131T095957Z">
+        <seg>O editor de blocos teve alguns erros corrigidos (&lt;a0&gt;#46137&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor is a big change, but that’s not all.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T125834Z" creationid="elia" creationdate="20181123T125834Z">
@@ -5634,6 +5650,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221138Z" creationid="elia" creationdate="20180417T221138Z">
         <seg>Apesar de termos muitos plugins que criem páginas de privacidade, nós precisamos de formas para gerar uma política de privacidade unificada e abrangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TinyMCE has been upgraded to version 4.9.2 (&lt;a0&gt;#46094&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T095944Z" creationid="elia" creationdate="20190131T095944Z">
+        <seg>O TinyMCE foi atualizado para a versão 4.9.2 (&lt;a0&gt;#46094&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
