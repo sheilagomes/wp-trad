@@ -1714,6 +1714,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you speak a language other than English? &lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; The beta 2 release also marks the &lt;a1&gt;soft string freeze&lt;/a1&gt; point of the 5.1 release schedule.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100536Z" creationid="elia" creationdate="20190131T100536Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt; O lançamento da versão beta 2 também significa que &lt;a1&gt;novas strings para tradução&lt;/a1&gt; da versão 5.1 serão evitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Domains</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3062,6 +3070,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T222849Z" creationid="elia" creationdate="20180420T221003Z">
         <seg>Para celebrar, adicionamos alguns &lt;a0&gt;itens especiais para o aniversário de 15 anos&lt;/a0&gt; na loja. Até o final de 2018, você pode usar o código promocional &lt;s1&gt;CELEBRATEWP15&lt;/s1&gt; para ter 15% de desconto em todos os produtos da loja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In just a few weeks&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100547Z" creationid="elia" creationdate="20190131T100547Z">
+        <seg>Em algumas semanas&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5702,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To keep you informed, we publish &lt;a0&gt;developers’ notes&lt;/a0&gt; on the &lt;a1&gt;Make WordPress Core blog&lt;/a1&gt; throughout the release cycle.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100437Z" creationid="elia" creationdate="20190131T100437Z">
+        <seg>Para mais informações nós publicamos &lt;a0&gt;notas para os desenvolvedores&lt;/a0&gt; no &lt;a1&gt;blog Make WordPress Core&lt;/a1&gt; durante todo o ciclo de lançamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To redistribute.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6118,6 +6142,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When adding &lt;c0&gt;rel&lt;/c0&gt; attributes to links, ensure the value isn’t empty (&lt;a1&gt;#45352&lt;/a1&gt;), and that it works as expected with customizer changesets (&lt;a2&gt;#45292&lt;/a2&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100419Z" creationid="elia" creationdate="20190131T100419Z">
+        <seg>Ao adicionar atributos &lt;c0&gt;rel&lt;/c0&gt; aos links, assegura que o valor não é vazio (&lt;a1&gt;#45352&lt;/a1&gt;) e que funciona como o esperado com conjuntos de alterações do Personalizar (&lt;a2&gt;#45292&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When starting cron under PHP-FPM, the connection will return a response immediately, even for long running cron jobs (&lt;a0&gt;dev note&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185935Z" creationid="elia" creationdate="20190111T185102Z">
@@ -6507,6 +6539,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Recursos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Five-One will be here.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190131T100601Z" creationid="elia" creationdate="20190131T100601Z">
+        <seg>O WordPress 5.1 estará por aqui.&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
