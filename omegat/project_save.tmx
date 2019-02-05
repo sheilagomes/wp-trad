@@ -1170,6 +1170,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with most things technical, we just need to cover some background before we can get to the part where you update your PHP version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120903Z" creationid="elia" creationdate="20190205T120903Z">
+        <seg>Como na maioria dos assuntos técnicos, é preciso atentar para pontos importantes antes que possamos chegar na parte onde você atualiza a sua versão do PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ask for it</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6054,6 +6062,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updating your PHP version should not be a problem, but we can’t &lt;e0&gt;guarantee&lt;/e0&gt; that it’s not.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120930Z" creationid="elia" creationdate="20190205T120930Z">
+        <seg>Atualizar a sua versão do PHP não deve ser um problema, mas não podemos &lt;e0&gt;garantir&lt;/e0&gt; isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use a properly generated hash for the &lt;c0&gt;newbloguser&lt;/c0&gt; key instead of a determinate substring.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161231Z" creationid="elia" creationdate="20171130T161121Z">
@@ -6891,6 +6907,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114811Z" creationid="elia" creationdate="20181213T114811Z">
         <seg>O WordPress não foi afetado, mas em algumas situações os plugins podem ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress itself works with PHP versions as far back as 5.2.4 (we’re currently recommending version 7.3, so this is &lt;e1&gt;great&lt;/e1&gt; backward compatibility!), but we don’t know if your themes or plugins will work.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121058Z" creationid="elia" creationdate="20190205T121058Z">
+        <seg>O WordPress funciona com todas as versões PHP desde a 5.2.4 (atualmente recomendamos a versão 7.3m então isso significa uma retrocompatibilidade &lt;e1&gt;enorme&lt;/e1&gt;!), mas não sabemos quais temas e plugins fazem o mesmo.</seg>
       </tuv>
     </tu>
     <tu>
