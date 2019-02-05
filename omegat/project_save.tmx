@@ -1210,6 +1210,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the PHP version is set at the server level by your hosting company, updating involves either interacting with your host’s settings or asking them to do it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123317Z" creationid="elia" creationdate="20190205T123317Z">
+        <seg>Como a versão do PHP é configurada a nível de servidor pela sua empresa de hospedagem, atualizar envolve alterar as configurações do seu servidor ou pedir que a empresa faça isso por você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with most things technical, we just need to cover some background before we can get to the part where you update your PHP version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T120903Z" creationid="elia" creationdate="20190205T120903Z">
@@ -2810,6 +2818,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T113608Z" creationid="elia" creationdate="20190205T113608Z">
         <seg>Como atualizar a versão do PHP do seu site para ter um site mais rápido e mais seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to update your website’s PHP version for a faster, more secure website &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;How to update your website’s PHP version for a faster, more secure website&lt;/s2&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123100Z" creationid="elia" creationdate="20190205T123100Z">
+        <seg>Como atualizar a versão do PHP do seu site para ter um site mais rápido e mais seguro &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;How to update your website’s PHP version for a faster, more secure website&lt;/s2&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6030,6 +6046,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Top ↑</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123038Z" creationid="elia" creationdate="20190205T123038Z">
+        <seg>Topo ↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Topics</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111250Z" creationid="Sheila" creationdate="20171208T111250Z">
@@ -6250,6 +6274,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205728Z" creationid="elia" creationdate="20180802T205728Z">
         <seg>Temos o prazer de anunciar que o WordPress 4.9.8, um atualização de manutenção, já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We can now get on to the final part: actually updating your website’s PHP version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123035Z" creationid="elia" creationdate="20190205T123035Z">
+        <seg>Agora você pode ir para a parte final: realmente atualizar a versão do PHP do seu site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7325,6 +7357,22 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T125053Z" creationid="elia" creationdate="20181123T125053Z">
         <seg>Você terá mais flexibilidade nas formas como o conteúdo é exibido, esteja você construindo o seu primeiro site, atualizando o seu blog ou seja você programador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’re now ready to update your website’s PHP version!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123119Z" creationid="elia" creationdate="20190205T123119Z">
+        <seg>Tudo está pronto para atualizar a versão PHP do seu site!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ve done due diligence, got backups, and are in the best possible shape to do the update.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123210Z" creationid="elia" creationdate="20190205T123210Z">
+        <seg>Você fez tudo certo, criou um backup e está com tudo certo para fazer a atualização.</seg>
       </tuv>
     </tu>
     <tu>
