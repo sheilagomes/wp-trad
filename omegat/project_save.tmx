@@ -1706,6 +1706,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dear Hosting Provider,&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123711Z" creationid="elia" creationdate="20190205T123711Z">
+        <seg>Empresa de hospedagem,&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decisions, not Options</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2486,6 +2494,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the server&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123754Z" creationid="elia" creationdate="20190205T123754Z">
+        <seg>Para o servidor&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users that register on our website (if any), we also store the personal information they provide in their user profile.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123223Z" creationid="Sheila" creationdate="20180517T123136Z">
@@ -2886,6 +2902,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T190353Z" creationid="elia" creationdate="20190122T190353Z">
         <seg>Eu não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I want my website to be as performant and secure as&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123857Z" creationid="elia" creationdate="20190205T123729Z">
+        <seg>Quero que meu site seja tão seguro e rápido quanto&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7733,6 +7757,22 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T120354Z" creationid="elia" creationdate="20181113T120354Z">
         <seg>many syllables. (muitas sílabas.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>my WordPress site is hosted on, I want to ensure that&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123846Z" creationid="elia" creationdate="20190205T123846Z">
+        <seg>onde meu site WordPress está hospedado, I want to ensure that&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>possible with the latest version of PHP.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123741Z" creationid="elia" creationdate="20190205T123741Z">
+        <seg>possível com a versão mais recente do PHP.</seg>
       </tuv>
     </tu>
     <tu>
