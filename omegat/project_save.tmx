@@ -2734,6 +2734,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here’s some template text you can use:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123637Z" creationid="elia" creationdate="20190205T123637Z">
+        <seg>Aqui está um modelo que você pode usar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hi %s,</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -2966,6 +2974,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T122731Z" creationid="elia" creationdate="20190205T122731Z">
         <seg>Se eles não responderem ou não puderem investigar o problema, procure por temas e plugins com funcionalidades parecidas no &lt;a1&gt;WordPress.org&lt;/a1&gt; e faça a troca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can’t find your host on this list, then email your hosting company and ask them to help!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123626Z" creationid="elia" creationdate="20190205T123626Z">
+        <seg>Se vocẽ não conseguiu encontrar a sua hospedagem na lista, então envie um e-mail para eles pedindo ajuda!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5958,6 +5974,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, exactly &lt;e0&gt;how&lt;/e0&gt; to do the update depends on your hosting company.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123442Z" creationid="elia" creationdate="20190205T123442Z">
+        <seg>Sendo assim, exatamente &lt;e0&gt;como&lt;/e0&gt; fazer a atualização depende da sua empresa de hospedagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TinyMCE has been upgraded to version 4.9.2 (&lt;a0&gt;#46094&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190131T095944Z" creationid="elia" creationdate="20190131T095944Z">
@@ -6394,6 +6418,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120750Z" creationid="elia" creationdate="20181101T120750Z">
         <seg>Adicionamos suporte ao &lt;a0&gt;registro e carregamento de tradução de arquivos JavaScript&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’ve asked hosting companies to submit instructions on how to update your PHP version on their hosting, and &lt;a1&gt;you’ll find a list of hosts who have instructions available here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123544Z" creationid="elia" creationdate="20190205T123544Z">
+        <seg>Pedimos que algumas empresas enviassem instruções sobre como atualizar a versão do PHP em suas hospedagens e &lt;a1&gt;aqui você pode encontrar a lista de empresas que as enviaram&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
