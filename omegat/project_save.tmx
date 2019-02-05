@@ -474,6 +474,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;A faster website will retain visitors better&lt;/s0&gt; (they’ll leave if it takes too long to load), making your website more effective.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120141Z" creationid="elia" creationdate="20190205T120141Z">
+        <seg>&lt;s0&gt;Um site mais rápido retém melhor visitantes&lt;/s0&gt; (eles deixarão o site se precisarem esperar o carregamento por muito tempo), tornando o seu site mais efetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;A more secure website is better protected against hackers&lt;/s0&gt;, and the cost and reputational damage associated with a hacked website.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120326Z" creationid="elia" creationdate="20190205T120326Z">
+        <seg>&lt;s0&gt;Um site mais seguro está mais protegido contra hackers&lt;/s0&gt; e contra o prejuízo à marca associado a um site invadido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Following are the highlights of what is now available.&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205826Z" creationid="elia" creationdate="20180802T205826Z">
@@ -1198,6 +1214,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T113446Z" creationid="elia" creationdate="20190205T113446Z">
         <seg>Antes que você atualize a sua versão do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before you update your PHP version &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Before you update your PHP version&lt;/s2&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120444Z" creationid="elia" creationdate="20190205T120444Z">
+        <seg>Antes que você atualize a sua versão do PHP &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Before you update your PHP version&lt;/s2&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5390,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next section will show you how to do this.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120418Z" creationid="elia" creationdate="20190205T120418Z">
+        <seg>A próxima seção explicará como fazer isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions and current user API%s is a set of functions which will help verify the current user's permissions and authority to perform any task or operation being requested, and can protect further against unauthorized users accessing or performing functions beyond their permitted capabilities.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5594,6 +5626,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121314Z" creationid="elia" creationdate="20181101T121314Z">
         <seg>Agora há uma nova área de widgets no rodapé das páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the reasons you should update PHP today.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120402Z" creationid="elia" creationdate="20190205T120402Z">
+        <seg>Essas são as razões pelas quais você deve atualizar o PHP hoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These benefits are good for you, and good for your website’s visitors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120344Z" creationid="elia" creationdate="20190205T120344Z">
+        <seg>Esses são benefícios para você e para os visitantes do seu site.</seg>
       </tuv>
     </tu>
     <tu>
