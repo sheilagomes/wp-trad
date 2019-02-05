@@ -1220,8 +1220,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>Before you update your PHP version &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Before you update your PHP version&lt;/s2&gt;&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120444Z" creationid="elia" creationdate="20190205T120444Z">
-        <seg>Antes que você atualize a sua versão do PHP &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Before you update your PHP version&lt;/s2&gt;&lt;/a0&gt;</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120453Z" creationid="elia" creationdate="20190205T120444Z">
+        <seg>Antes que você atualize a sua versão do PHP &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Antes que você atualize a sua versão do PHP&lt;/s2&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5802,6 +5802,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210406Z" creationid="elia" creationdate="20180802T210406Z">
         <seg>Esta versão inclui 18 ajustes de privacidade, com foco em assegurar a consistência e a flexibilidade das novas ferramentas de dados pessoais &lt;s0&gt;que foram&lt;/s0&gt;adicionadas na versão 4.9.6, incluindo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section starts off with some warnings, but don’t be afraid!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120510Z" creationid="elia" creationdate="20190205T120510Z">
+        <seg>Essa seção começa com alguns avisos, mas não se assuste!</seg>
       </tuv>
     </tu>
     <tu>
