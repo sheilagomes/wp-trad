@@ -2954,6 +2954,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If I am not already on the latest version&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124053Z" creationid="elia" creationdate="20190205T124053Z">
+        <seg>Se eu ainda não estou usando a versão mais recente&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If that’s the case, you can install the &lt;a0&gt;Classic Editor plugin&lt;/a0&gt; now, which will keep the editor you’re familiar with as the default, even after you upgrade to WordPress 5.0.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185135Z" creationid="elia" creationdate="20181026T185135Z">
@@ -3062,6 +3070,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122959Z" creationid="elia" creationdate="20180517T122959Z">
         <seg>Se você se desconectar da sua conta, os cookies de login serão removidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you run into any issues at this stage, either change the PHP version back yourself, contact your hosting company or a professional web developer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124212Z" creationid="elia" creationdate="20190205T124212Z">
+        <seg>Se você encontrar qualquer erro neste ponto, altere de volta você mesmo a sua versão PHP, entre em contato com a sua empresa de hospedagem ou com um desenvolvedor web profissional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7745,6 +7761,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>is the case.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124043Z" creationid="elia" creationdate="20190205T124043Z">
+        <seg>é o caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>isation is a word with&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T120346Z" creationid="elia" creationdate="20181113T120337Z">
@@ -7763,8 +7787,16 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       <tuv lang="EN">
         <seg>my WordPress site is hosted on, I want to ensure that&lt;br4&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123846Z" creationid="elia" creationdate="20190205T123846Z">
-        <seg>onde meu site WordPress está hospedado, I want to ensure that&lt;br4&gt;</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124039Z" creationid="elia" creationdate="20190205T123846Z">
+        <seg>onde meu site WordPress está hospedado, quero ter certeza de que&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of PHP, please let me know what steps I need to take&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124109Z" creationid="elia" creationdate="20190205T124109Z">
+        <seg>do PHP, por favor me forneçam os passos que preciso tomar&lt;br6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,6 +7813,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T120411Z" creationid="elia" creationdate="20181113T120411Z">
         <seg>the original style block. (o estilo de bloco original)&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to update.&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T124113Z" creationid="elia" creationdate="20190205T124113Z">
+        <seg>para atualizar.&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
