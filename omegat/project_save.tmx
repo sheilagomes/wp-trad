@@ -514,6 +514,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Make a backup of your website:&lt;/s0&gt; a backup will let you revert your site to how it is right now in the event anything goes wrong.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121324Z" creationid="elia" creationdate="20190205T121324Z">
+        <seg>&lt;s0&gt;Faça um backup do seu site:&lt;/s0&gt; um backup, uma cópia de segurança, permitirã que você recupere seu site à forma como ele era antes de algo dar errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Most users will now be presented with a notice in their WordPress dashboard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212243Z" creationid="elia" creationdate="20180802T212139Z">
@@ -5550,6 +5558,22 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are &lt;a1&gt;plenty of free backup plugins available&lt;/a1&gt;, so if you don’t have a backup solution already – use one of these.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121357Z" creationid="elia" creationdate="20190205T121357Z">
+        <seg>Existem &lt;a1&gt;plugins grátis de backup disponíveis &lt;/a1&gt;, então se você ainda não tem uma solução para backups use um destes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a couple of steps you should take to mitigate any risk before proceeding:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121203Z" creationid="elia" creationdate="20190205T121203Z">
+        <seg>Existem alguns passos que você deve seguir para evitar riscos antes de prosseguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no releases, yet.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5658,6 +5682,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122316Z" creationid="elia" creationdate="20180517T122316Z">
         <seg>Estes sites podem coletar dados sobre você, usar cookies, incorporar rastreamento adicionar de terceiros e monitorar sua interação com este conteúdo incorporado, incluindo sua interação com o conteúdo incorporado se você tem uma conta e está conectado com o site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They should, and popular or reputable ones almost certainly will be, but we can’t guarantee it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121131Z" creationid="elia" creationdate="20190205T121131Z">
+        <seg>Eles deveriam funcionar, os grandes e populares certamente funcionam, mas não podemos garantir isso.</seg>
       </tuv>
     </tu>
     <tu>
