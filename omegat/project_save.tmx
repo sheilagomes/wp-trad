@@ -570,6 +570,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Your website will be more secure.&lt;/s0&gt; PHP, like WordPress, is maintained by its community.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115656Z" creationid="elia" creationdate="20190205T115656Z">
+        <seg>&lt;s0&gt;Seu site será mais seguro.&lt;/s0&gt; O PHP, assim como o WordPress, é mantido por sua comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;a0&gt;permalink panel has been added to the document sidebar&lt;/a0&gt; to make it easier to find.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131559Z" creationid="elia" creationdate="20181119T131559Z">
@@ -5946,6 +5954,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T113936Z" creationid="elia" creationdate="20181213T113936Z">
         <seg>Versões atualizadas do WordPress 4.9 e anteriores também estão disponíveis, para os usuários que ainda não atualizaram para a versão 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating to the latest supported version (currently 7.3) can deliver a huge performance increase; up to 3 or 4x faster for older versions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115631Z" creationid="elia" creationdate="20190205T115631Z">
+        <seg>Atualizar para a versão mais recente, atualmente a 7.3, pode gerar um ganho enorme de desempenho. Seu site pode ficar 3 ou 4 vezes mais rápido que versões mais antigas.</seg>
       </tuv>
     </tu>
     <tu>
