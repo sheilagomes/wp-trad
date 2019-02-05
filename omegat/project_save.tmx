@@ -466,6 +466,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;A faster WordPress website will be rewarded by search engines&lt;/s0&gt;, so you’ll rank higher in search!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T120027Z" creationid="elia" creationdate="20190205T120027Z">
+        <seg>&lt;s0&gt;Um site WordPress mais rápido será recompensado por mecanismos de busca&lt;/s0&gt;, portanto você aparecerá melhor nas pesquisas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Following are the highlights of what is now available.&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205826Z" creationid="elia" creationdate="20180802T205826Z">
@@ -1098,6 +1106,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And then there are a number of secondary benefits:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115956Z" creationid="elia" creationdate="20190205T115956Z">
+        <seg>Há ainda alguns benefícios secundários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1150,6 +1166,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Instalação automática em segundo plano de atualizações de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because PHP is so popular, it is a target for hackers – but the latest version will have the latest security features.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115850Z" creationid="elia" creationdate="20190205T115850Z">
+        <seg>Por ser tão popular, o PHP é um alvo para hackers, porém a versão mais recente terá os recursos de segurança mais atualizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,6 +3870,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T120421Z" creationid="elia" creationdate="20181113T120421Z">
         <seg>Old is new again. (o velho é o novo de novo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Older versions of PHP &lt;e1&gt;do not have this&lt;/e1&gt;, so updating is essential to keep your WordPress site secure.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115929Z" creationid="elia" creationdate="20190205T115921Z">
+        <seg>Versões mais antigas do PHP &lt;e1&gt;não as contém&lt;/e1&gt;, por isso é essencial atualizá-lo para manter seu site WordPress seguro.</seg>
       </tuv>
     </tu>
     <tu>
