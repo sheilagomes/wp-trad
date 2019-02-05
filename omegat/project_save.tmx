@@ -1154,6 +1154,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before you update your PHP version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113446Z" creationid="elia" creationdate="20190205T113446Z">
+        <seg>Antes que você atualize a sua versão do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before, you’d have to FTP in to your files or get in touch with your host.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T184649Z" creationid="elia" creationdate="20190111T184649Z">
@@ -2674,6 +2682,14 @@ por isso baixe-o antes desta data.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185454Z" creationid="elia" creationdate="20181026T185454Z">
         <seg>Como ajudar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to update your website’s PHP version for a faster, more secure website</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113608Z" creationid="elia" creationdate="20190205T113608Z">
+        <seg>Como atualizar a versão do PHP do seu site para ter um site mais rápido e mais seguro</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5662,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This page will explain why this matters to you, and then how you can fix it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113418Z" creationid="elia" creationdate="20190205T113418Z">
+        <seg>Esta página explica por que isso importa para você e o que você precisa fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This release candidate includes a fix for some scripts not loading on subdirectory installs (&lt;a0&gt;#45469&lt;/a0&gt;), and user locale settings not being loaded in the block editor (&lt;a1&gt;#45465&lt;/a1&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T155348Z" creationid="elia" creationdate="20181204T155348Z">
@@ -6210,6 +6234,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Licença de conteúdo do informativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why PHP Matters To You</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113434Z" creationid="elia" creationdate="20190205T113434Z">
+        <seg>Por que isso importa para você</seg>
       </tuv>
     </tu>
     <tu>
