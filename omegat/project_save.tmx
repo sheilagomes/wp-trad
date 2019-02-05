@@ -570,6 +570,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Update WordPress, themes, and plugins:&lt;/s0&gt; from your WordPress Dashboard, head to Updates, and then update all.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121535Z" creationid="elia" creationdate="20190205T121535Z">
+        <seg>&lt;s0&gt;Atualize o WordPress, temas e plugins:&lt;/s0&gt; no Painel do WordPress, vá até Atualizações e atualize tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;WordPress 5.0 will be released on &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;December 6, 2018&lt;/s2&gt;&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T154849Z" creationid="elia" creationdate="20181204T154849Z">
@@ -3190,6 +3198,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190131T100547Z" creationid="elia" creationdate="20190131T100547Z">
         <seg>Em algumas semanas&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to revert this backup, you’ll also need your web host to move your PHP version back to your current version (we’ll cover how to do this later).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121454Z" creationid="elia" creationdate="20190205T121454Z">
+        <seg>Para reverter este backup, você também precisará que a sua hospedagem volte para a versão PHP anterior (vamos falar sobre isso mais tarde).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7217,6 +7233,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should do this regularly anyway.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121547Z" creationid="elia" creationdate="20190205T121547Z">
+        <seg>Você deveria fazer isso com frequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your WordPress site can be faster, and more secure, and you can make this happen!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T113117Z" creationid="elia" creationdate="20190205T113117Z">
@@ -7581,6 +7605,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205832Z" creationid="elia" creationdate="20180802T205832Z">
         <seg>Chamada para o Gutenberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>🙂 When done, check your site is working as expected.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T121603Z" creationid="elia" creationdate="20190205T121603Z">
+        <seg>🙂 Ao concluir, verifique se o seu site está funcionando como o esperado.</seg>
       </tuv>
     </tu>
     <tu>
