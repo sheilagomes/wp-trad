@@ -490,6 +490,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Check PHP compatibility:&lt;/s0&gt; install the &lt;a1&gt;PHP Compatibility Checker plugin&lt;/a1&gt; to check your themes and plugins for possible issues.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122402Z" creationid="elia" creationdate="20190205T122402Z">
+        <seg>&lt;s0&gt;Verifique a compatibilidade do PHP:&lt;/s0&gt; instale o &lt;a1&gt;plugin PHP Compatibility Checker&lt;/a1&gt; para verificar possíveis problemas nos seus temas e plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Fix any PHP compatibility issues:&lt;/s0&gt; if the PHP Compatibility Checker plugin picks up any issues, get in touch with the theme or plugin developer and ask them to investigate.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122629Z" creationid="elia" creationdate="20190205T122629Z">
+        <seg>&lt;s0&gt;Corrija os problemas de compatibilidade do PHP:&lt;/s0&gt; se o plugin PHP Compatibility Checker encontrar qualquer problema, entre em contato com os desenvolvedores do tema ou do plugin e peça que eles investiguem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Following are the highlights of what is now available.&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205826Z" creationid="elia" creationdate="20180802T205826Z">
@@ -5846,6 +5862,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This plugin isn’t perfect and may miss items or flag false positives, but it does work in most cases.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122451Z" creationid="elia" creationdate="20190205T122451Z">
+        <seg>Este plugin não é perfeito, podendo ignorar alguns itens ou criar falsos positivos, mas ele funciona na maioria dos casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This release candidate includes a fix for some scripts not loading on subdirectory installs (&lt;a0&gt;#45469&lt;/a0&gt;), and user locale settings not being loaded in the block editor (&lt;a1&gt;#45465&lt;/a1&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T155348Z" creationid="elia" creationdate="20181204T155348Z">
@@ -7397,6 +7421,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185651Z" creationid="Sheila" creationdate="20171013T202709Z">
         <seg>https://translate.wordpress.org/projects/wp/dev/pt-br/default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122455Z" creationid="elia" creationdate="20190205T122455Z">
+        <seg>https://br.wordpress.org/</seg>
       </tuv>
     </tu>
     <tu>
