@@ -1034,6 +1034,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of these will be happy to help here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T123010Z" creationid="elia" creationdate="20190205T123010Z">
+        <seg>Todos eles ficarão felizes em ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of this requires your help.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T220348Z" creationid="elia" creationdate="20180417T220348Z">
@@ -2938,6 +2946,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they can’t or won’t get back to you, have a look for themes or plugins on &lt;a1&gt;WordPress.org&lt;/a1&gt; with similar functionality and use one of these instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122731Z" creationid="elia" creationdate="20190205T122731Z">
+        <seg>Se eles não responderem ou não puderem investigar o problema, procure por temas e plugins com funcionalidades parecidas no &lt;a1&gt;WordPress.org&lt;/a1&gt; e faça a troca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you edit or publish an article, an additional cookie will be saved in your browser.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122458Z" creationid="elia" creationdate="20180517T122454Z">
@@ -2990,6 +3006,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122959Z" creationid="elia" creationdate="20180517T122959Z">
         <seg>Se você se desconectar da sua conta, os cookies de login serão removidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you run into any issues whilst doing this or need help, you should contact a professional web developer, your hosting company, or your theme and plugins authors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122944Z" creationid="elia" creationdate="20190205T122944Z">
+        <seg>Se você encontrar qualquer problema durante a execução desses passos ou se precisar de ajuda, você deve entrar em contato com um desenvolvedor profissional, sua empresa de hospedagem ou com os autores do seu tema ou plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4546,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111327Z" creationid="Sheila" creationdate="20171208T111327Z">
         <seg>Sites Rosetta e fóruns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run through these steps, and you’ll be ready to update the PHP version on your WordPress site – and enjoy all of the benefits that come with this!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T122854Z" creationid="elia" creationdate="20190205T122854Z">
+        <seg>Execute estes passos e tudo estará pronto para atualizar a versão PHP do seu site WordPress. Aproveite todos os benefícios que isso trará!</seg>
       </tuv>
     </tu>
     <tu>
