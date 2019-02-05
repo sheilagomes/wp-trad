@@ -562,6 +562,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Your website will be faster&lt;/s0&gt; as the latest version of PHP is more efficient.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115437Z" creationid="elia" creationdate="20190205T115437Z">
+        <seg>&lt;s0&gt;Seu site será mais rápido&lt;/s0&gt; porque as versões mais recentes do PHP são mais eficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;a0&gt;permalink panel has been added to the document sidebar&lt;/a0&gt; to make it easier to find.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131559Z" creationid="elia" creationdate="20181119T131559Z">
@@ -3954,6 +3962,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PHP is the coding language WordPress is built on, and its version is set at the server-level by your hosting company.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115301Z" creationid="elia" creationdate="20190205T115301Z">
+        <seg>O PHP é a linguagem de código usada pelo WordPress e a sua versão é configurada a nível de servidor pela sua empresa de hospedagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PNG &lt;span&gt;(White/transparent)&lt;/span&gt;</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5462,6 +5478,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two main benefits to keeping PHP up-to-date:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115419Z" creationid="elia" creationdate="20190205T115419Z">
+        <seg>Existem dois benefícios principais em manter o PHP atualizado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two ways to test the WordPress 5.0 Beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want “bleeding edge nightlies”), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120309Z" creationid="elia" creationdate="20181101T120309Z">
@@ -6234,6 +6258,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T121606Z" creationid="elia" creationdate="20180517T121606Z">
         <seg>Como é sua responsabilidade divulgar por que e por quanto tempo cada conjunto de dados é armazenado, esta informação precisa ser listada aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whilst you may be familiar with the importance of &lt;a0&gt;keeping WordPress, and your themes and plugins up-to-date&lt;/a0&gt;, keeping PHP up-to-date is just as important.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T115404Z" creationid="elia" creationdate="20190205T115404Z">
+        <seg>Você já pode ter ouvido falar da importância de &lt;a0&gt;manter o WordPress, seus temas e plugins atualizados&lt;/a0&gt;, mas manter o PHP atualizado tem a mesma importância.</seg>
       </tuv>
     </tu>
     <tu>
