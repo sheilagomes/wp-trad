@@ -2090,6 +2090,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Faster, more secure WordPress websites for all</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113704Z" creationid="elia" creationdate="20190205T113704Z">
+        <seg>Sites WordPress mais rápidos e mais seguros para todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Featured</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6242,6 +6250,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T113434Z" creationid="elia" creationdate="20190205T113434Z">
         <seg>Por que isso importa para você</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why PHP Matters To You &lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Why PHP Matters To You&lt;/s2&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113733Z" creationid="elia" creationdate="20190205T113733Z">
+        <seg>Por que isso importa para você&lt;a0&gt;&lt;s1&gt;#&lt;/s1&gt; &lt;s2&gt;Por que isso importa para você&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
