@@ -2454,6 +2454,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get a faster, more secure website: update your PHP today</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113048Z" creationid="elia" creationdate="20190205T113048Z">
+        <seg>Tenha um site mais rápido e mais seguro: atualize seu PHP hoje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Get new password</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6965,6 +6973,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T123045Z" creationid="elia" creationdate="20180517T123045Z">
         <seg>Você também deve justificar qualquer coleta e retenção de dados pessoais sensíveis, como dados referentes a saúde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your WordPress site can be faster, and more secure, and you can make this happen!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190205T113117Z" creationid="elia" creationdate="20190205T113117Z">
+        <seg>Você pode tornar o seu site WordPress mais rápido e mais seguro!</seg>
       </tuv>
     </tu>
     <tu>
