@@ -3634,6 +3634,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lands in a few days!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T123220Z" creationid="elia" creationdate="20190219T123220Z">
+        <seg>Chega daqui a pouco!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language: pt_BR</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115254Z" creationid="Sheila" creationdate="20180517T115254Z">
@@ -5552,8 +5560,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>The comment form not appearing when clicking “Reply” on comments loaded via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122557Z" creationid="elia" creationdate="20190219T122557Z">
-        <seg>O formulário de comentários não aparecia ao clicar em "Responder" em comentários carregados via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T123354Z" creationid="elia" creationdate="20190219T122557Z">
+        <seg>Exibição do formulário de comentários ao clicar em "Responder" em comentários carregados via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5904,8 +5912,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>There are two ways to test the WordPress 5.1 release candidate: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the release candidate here&lt;/a1&gt; (zip).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122033Z" creationid="elia" creationdate="20190219T122033Z">
-        <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T123234Z" creationid="elia" creationdate="20190219T122033Z">
+        <seg>Existem duas formas de testar o WordPress 5.1 release candidate: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
