@@ -2450,6 +2450,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details about what to expect in WordPress 5.1, please see the &lt;a0&gt;first release candidate post&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122049Z" creationid="elia" creationdate="20190219T122049Z">
+        <seg>Para mais detalhes sobre o que esperar do WordPress 5.1, leia &lt;a0&gt;o post sobre o primeiro release candidate&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T124740Z" creationid="elia" creationdate="20180517T121710Z">
@@ -5670,6 +5678,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second release candidate for WordPress 5.1 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T121847Z" creationid="elia" creationdate="20190219T121847Z">
+        <seg>O segundo &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The team is focusing on creating a comprehensive core policy, plugin guidelines, privacy tools and documentation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T223351Z" creationid="elia" creationdate="20180417T220340Z">
@@ -5817,6 +5833,14 @@ Equipe do site ###SITENAME###
         <seg>There are two ways to test the WordPress 5.1 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T184324Z" creationid="elia" creationdate="20190111T184324Z">
+        <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.1 release candidate: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the release candidate here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122033Z" creationid="elia" creationdate="20190219T122033Z">
         <seg>Existem duas formas de testar o WordPress 5.1 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
@@ -6991,6 +7015,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.1 will be released on &lt;a0&gt;&lt;s1&gt;Thursday, February 21&lt;/s1&gt;&lt;/a0&gt;, but we need &lt;e2&gt;your&lt;/e2&gt; help to get there—if you haven’t tried 5.1 yet, now is the time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122017Z" creationid="elia" creationdate="20190219T122017Z">
+        <seg>O WordPress 5.1 será lançado na &lt;a0&gt;&lt;s1&gt;quinta-feira, 21 de fevereiro&lt;/s1&gt;&lt;/a0&gt;, mas precisamos da &lt;e2&gt;sua&lt;/e2&gt; ajuda para que isso aconteça. Se você ainda não testou a versão 5.1, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -7781,6 +7813,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T221940Z" creationid="elia" creationdate="20181203T221940Z">
         <seg>https://br.wordpress.org/news/2018/11/wordpress-5-0-release-candidate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/news/2019/02/wordpress-5-1-release-candidate/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122055Z" creationid="elia" creationdate="20190219T122055Z">
+        <seg>https://br.wordpress.org/news/2019/02/wordpress-5-1-release-candidate/</seg>
       </tuv>
     </tu>
     <tu>
