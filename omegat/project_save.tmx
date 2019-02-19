@@ -4394,6 +4394,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please test your plugins and themes against WordPress 5.1 and update the &lt;e0&gt;Tested up to&lt;/e0&gt; version in the readme to 5.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122620Z" creationid="elia" creationdate="20190219T122620Z">
+        <seg>Teste seus plugins e temas com o WordPress 5.1 e atualize para 5.1 a versão no campo &lt;e0&gt;Tested up to&lt;/e0&gt; do arquivo readme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5526,6 +5534,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The comment form not appearing when clicking “Reply” on comments loaded via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122557Z" creationid="elia" creationdate="20190219T122557Z">
+        <seg>O formulário de comentários não aparecia ao clicar em "Responder" em comentários carregados via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The final known PHP 7.3 compatibility issue has been fixed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132502Z" creationid="elia" creationdate="20181119T132502Z">
@@ -5594,6 +5610,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161820Z" creationid="elia" creationdate="20171130T161820Z">
         <seg>A impossibilidade de editar arquivos de temas e plugins em servidores Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The legacy media dialog having incorrect pagination link styling (&lt;a0&gt;#41858&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122501Z" creationid="elia" creationdate="20190219T122501Z">
+        <seg>Estilo incorreto na paginação da antiga caixa de diálogo de mídias (&lt;a0&gt;#41858&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
