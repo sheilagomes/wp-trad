@@ -642,6 +642,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A HTTP error occurring when opening browser developer tools (&lt;a0&gt;#46218&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122419Z" creationid="elia" creationdate="20190219T122419Z">
+        <seg>Erro HTTP ao abrir as ferramentas do desenvolvedor do navegador (&lt;a0&gt;#46218&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A MediaElement JavaScript error preventing users of certain languages from being able to upload media files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161753Z" creationid="elia" creationdate="20171130T161753Z">
@@ -3490,6 +3498,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also contains fixes for:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122219Z" creationid="elia" creationdate="20190219T122219Z">
+        <seg>Ela também resolve os seguintes problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains information about the callout, including which users will, by default, be shown the callout and the hooks it provides for site administrators to modify that default behavior.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210245Z" creationid="elia" creationdate="20180802T210245Z">
@@ -3974,6 +3990,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T155623Z" creationid="elia" creationdate="20181204T155623Z">
         <seg>Vamos comemorar!&lt;/e0&gt; 🎉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New WordPress installs not setting the database table prefix correctly (&lt;a0&gt;#46220&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122326Z" creationid="elia" creationdate="20190219T122326Z">
+        <seg>Configuração incorreta do prefixo das tabelas do banco de dados em novas instalações do WordPress (&lt;a0&gt;#46220&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,6 +6098,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210406Z" creationid="elia" creationdate="20180802T210406Z">
         <seg>Esta versão inclui 18 ajustes de privacidade, com foco em assegurar a consistência e a flexibilidade das novas ferramentas de dados pessoais &lt;s0&gt;que foram&lt;/s0&gt;adicionadas na versão 4.9.6, incluindo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This release includes the final About page design.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122154Z" creationid="elia" creationdate="20190219T122154Z">
+        <seg>Esta versão traz o visual final da página Sobre.</seg>
       </tuv>
     </tu>
     <tu>
