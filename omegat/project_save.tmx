@@ -3578,6 +3578,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It’s so slick, shiny, and new.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T123113Z" creationid="elia" creationdate="20190219T123113Z">
+        <seg>Novo, bem acabado e&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese text (double byte characters) are &lt;a0&gt;now usable in the list block&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132251Z" creationid="elia" creationdate="20181119T132251Z">
@@ -5470,6 +5478,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The WordPress 5.1 Field Guide has also been published, which goes into the details of the major changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122819Z" creationid="elia" creationdate="20190219T122819Z">
+        <seg>O Guia do WordPress 5.1 também foi publicado, detalhando as maiores mudanças da versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor has been updated to include all of the features and bug fixes from the upcoming &lt;a0&gt;Gutenberg 4.2 release&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173420Z" creationid="elia" creationdate="20181105T173420Z">
@@ -7039,6 +7055,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.1 Field Guide</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122836Z" creationid="elia" creationdate="20190219T122836Z">
+        <seg>Guia do WordPress 5.1 (em inglês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress 5.1 has many changes aimed at polishing the developer experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T185857Z" creationid="elia" creationdate="20190122T185857Z">
@@ -7115,6 +7139,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Recursos do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Five Point One:&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122903Z" creationid="elia" creationdate="20190219T122903Z">
+        <seg>WordPress Cinco ponto Um:&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8053,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205832Z" creationid="elia" creationdate="20180802T205832Z">
         <seg>Chamada para o Gutenberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“WordPress 5.1 Field Guide” — Make WordPress Core</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190219T122852Z" creationid="elia" creationdate="20190219T122852Z">
+        <seg>“Guia do WordPress 5.1” — Make WordPress Core</seg>
       </tuv>
     </tu>
     <tu>
