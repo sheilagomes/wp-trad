@@ -6766,6 +6766,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you install new plugins, WordPress’s Site Health features will check them against the version of PHP you’re running.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224759Z" creationid="elia" creationdate="20190221T224759Z">
+        <seg>Ao instalar novos plugins, os recursos de Diagnóstico do WordPress verificarão a versão do PHP que você está usando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you log in, we will also set up several cookies to save your login information and your screen display choices.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122738Z" creationid="elia" creationdate="20180517T122738Z">
@@ -6856,8 +6864,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>With security and speed in mind, this release introduces WordPress’s first &lt;a0&gt;Site Health&lt;/a0&gt; features.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224530Z" creationid="elia" creationdate="20190221T224530Z">
-        <seg>Tendo segurança e velocidade em mente, esta versão traz os primeiros recursos do &lt;a0&gt;Diagnóstico do site&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224549Z" creationid="elia" creationdate="20190221T224530Z">
+        <seg>Tendo segurança e velocidade em mente, esta versão traz os primeiros recursos do &lt;a0&gt;Diagnóstico do sites&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7403,6 +7411,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T113813Z" creationid="elia" creationdate="20181213T113813Z">
         <seg>As versões 5.0 e anteriores do WordPress foram afetadas pelos erros abaixo, que foram corrigidos na versão 5.0.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress will start showing notices to administrators of sites that run long-outdated versions of PHP, which is the programming language that powers WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224700Z" creationid="elia" creationdate="20190221T224700Z">
+        <seg>O WordPress começará a mostrar avisos para os administradores de sites que executam uma versão ultrapassada do PHP, que é a linguagem de programação por trás do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
