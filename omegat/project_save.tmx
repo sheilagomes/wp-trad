@@ -754,10 +754,26 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new &lt;c0&gt;human_readable_duration&lt;/c0&gt; function</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230339Z" creationid="elia" creationdate="20190221T230339Z">
+        <seg>Uma nova função &lt;c0&gt;human_readable_duration&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new “Privacy” page is added under the “Tools” menu.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222007Z" creationid="elia" creationdate="20180417T222007Z">
         <seg>Uma nova página "Privacidade" foi adicionada no menu "Ferramentas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new “doing it wrong” notice when registering REST API endpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230452Z" creationid="elia" creationdate="20190221T230452Z">
+        <seg>Um novo aviso de "você está fazendo isto errado" ao registrar endpoints na API REST</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3378,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Improved taxonomy metabox sanitization</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230414Z" creationid="elia" creationdate="20190221T230414Z">
+        <seg>Melhoria no tratamento da metabox de taxonomias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Improving the reliability of REST API requests.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173530Z" creationid="elia" creationdate="20181105T173530Z">
@@ -3810,6 +3834,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limited &lt;c0&gt;LIKE&lt;/c0&gt;support for meta keys when using &lt;c1&gt;WP_Meta_Query&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230433Z" creationid="elia" creationdate="20190221T230433Z">
+        <seg>Suporte limitado para &lt;c0&gt;LIKE&lt;/c0&gt; em chaves meta ao usar &lt;c1&gt;WP_Meta_Query&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Link to their own privacy policies if possible.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122034Z" creationid="elia" creationdate="20180517T122034Z">
@@ -4026,6 +4058,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Miscellaneous improvements include:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230147Z" creationid="elia" creationdate="20190221T230147Z">
+        <seg>Outras melhorias incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Miss my haiku?&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185550Z" creationid="elia" creationdate="20190111T185550Z">
@@ -4126,6 +4166,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T222346Z" creationid="elia" creationdate="20180417T222346Z">
         <seg>Nova seção sobre privacidade será incluída no &lt;a0&gt;manual dos plugins&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New test config file constant in the test suite, new plugin action hooks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230311Z" creationid="elia" creationdate="20190221T230311Z">
+        <seg>Nova constante de teste no arquivo de configuração da suíte de testes, novos hooks para ações com plugins</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,6 +5026,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Compartilhe suas ideias para melhorar o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Short-circuit filters for &lt;c0&gt;wp_unique_post_slug()&lt;/c0&gt;, &lt;c1&gt;WP_User_Query&lt;/c1&gt;, and &lt;c2&gt;count_users()&lt;/c2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230332Z" creationid="elia" creationdate="20190221T230332Z">
+        <seg>Filtros de curto-circuito para &lt;c0&gt;wp_unique_post_slug()&lt;/c0&gt;, &lt;c1&gt;WP_User_Query&lt;/c1&gt; e &lt;c2&gt;count_users()&lt;/c2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6554,6 +6610,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T113936Z" creationid="elia" creationdate="20181213T113936Z">
         <seg>Versões atualizadas do WordPress 4.9 e anteriores também estão disponíveis, para os usuários que ainda não atualizaram para a versão 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates to values for the &lt;c0&gt;WP_DEBUG_LOG&lt;/c0&gt; constant</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230203Z" creationid="elia" creationdate="20190221T230203Z">
+        <seg>Atualização dos valores para a constante &lt;c0&gt;WP_DEBUG_LOG&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8253,6 +8317,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T122852Z" creationid="elia" creationdate="20190219T122852Z">
         <seg>“Guia do WordPress 5.1” — Make WordPress Core</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>…and more!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230456Z" creationid="elia" creationdate="20190221T230456Z">
+        <seg>…e mais!</seg>
       </tuv>
     </tu>
     <tu>
