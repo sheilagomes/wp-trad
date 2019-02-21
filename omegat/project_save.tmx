@@ -130,6 +130,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5.1 introduces a new database table to store metadata associated with sites and allows for the storage of arbitrary site data relevant in a multisite / network context.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225322Z" creationid="elia" creationdate="20190221T225322Z">
+        <seg>A versão 5.1 traz uma nova tabela no banco de dados para gravar metadados associados aos sites e permite o armazenamento de quaisquer dados relevantes aos sites em um contexto multisite ou rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a href="%1$s"&gt;PHP&lt;/a&gt; version %2$s or greater.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1662,6 +1670,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180201T135602Z" creationid="Sheila" creationdate="20180201T135602Z">
         <seg>Como criar sua apresentação sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cron API</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225327Z" creationid="elia" creationdate="20190221T225327Z">
+        <seg>API Cron</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4066,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multisite Metadata</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225215Z" creationid="elia" creationdate="20190221T225215Z">
+        <seg>Metadados de multisite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Musician</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4238,6 +4262,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
         <seg>Ou faça o &lt;a2&gt;download da versão beta aqui&lt;/a2&gt; (arquivo zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other changes in behavior affect cron spawning on servers running FastCGI and PHP-FPM versions 7.0.16 and above.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225455Z" creationid="elia" creationdate="20190221T225455Z">
+        <seg>Outras mudanças no comportamento afetam a execução do cron em servidores usando FastCGI e PHP-FPM versões 7.0.16 ou posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5482,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>A comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Cron API has been updated with new functions to assist with returning data and includes new filters for modifying cron storage.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225409Z" creationid="elia" creationdate="20190221T225409Z">
+        <seg>A API Cron foi atualizada com novas funções para auxiliar o retorno de dados e inclui novos filtros para modificar o armazenamento do cron.</seg>
       </tuv>
     </tu>
     <tu>
