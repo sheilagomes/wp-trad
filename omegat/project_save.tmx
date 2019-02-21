@@ -2418,6 +2418,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Following &lt;a0&gt;WordPress 5.0&lt;/a0&gt; — a major release which introduced the new block editor — 5.1 focuses on polish, in particular by improving the overall performance of the editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224318Z" creationid="elia" creationdate="20190221T224318Z">
+        <seg>Depois do &lt;a0&gt;WordPress 5.0&lt;/a0&gt;, um grande lançamento, que trouxe o novo editor de blocos, a versão 5.1 traz melhorias, em especial no desempenho geral do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Footnotes</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3334,6 +3342,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T115736Z" creationid="elia" creationdate="20181213T115736Z">
         <seg>Além dos pesquisadores de segurança que mencionamos acima, agradecemos a todos que contribuíram para o WordPress 5.0.1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, this release paves the way for a better, faster, and more secure WordPress with some essential tools for site administrators and developers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224403Z" creationid="elia" creationdate="20190221T224403Z">
+        <seg>Além disso, esta versão abre caminho para um WordPress melhor, mais rápido e mais seguro, com ferramentas para administradores de sites e desenvolvedores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4930,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202707Z" creationid="Sheila" creationdate="20171013T202707Z">
         <seg>Desde então, nós fizemos &lt;a1&gt;70 mudanças&lt;/a1&gt; no Beta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site Health</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224411Z" creationid="elia" creationdate="20190221T224411Z">
+        <seg>Diagnóstico do site</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6850,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124405Z" creationid="elia" creationdate="20190205T124405Z">
         <seg>Com uma versão atualizada do PHP você terá um site mais rápido, mais seguro e visitantes mais felizes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With security and speed in mind, this release introduces WordPress’s first &lt;a0&gt;Site Health&lt;/a0&gt; features.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224530Z" creationid="elia" creationdate="20190221T224530Z">
+        <seg>Tendo segurança e velocidade em mente, esta versão traz os primeiros recursos do &lt;a0&gt;Diagnóstico do site&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
