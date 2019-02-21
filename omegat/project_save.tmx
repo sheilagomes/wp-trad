@@ -4106,6 +4106,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New JS Build Processes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225752Z" creationid="elia" creationdate="20190221T225752Z">
+        <seg>Novos processos de construção do JS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New WordPress installs not setting the database table prefix correctly (&lt;a0&gt;#46220&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T122326Z" creationid="elia" creationdate="20190219T122326Z">
@@ -7219,6 +7227,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T122836Z" creationid="elia" creationdate="20190219T122836Z">
         <seg>Guia do WordPress 5.1 (em inglês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.1 features a new JavaScript build option, following the large reorganisation of code that started in the 5.0 release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225831Z" creationid="elia" creationdate="20190221T225831Z">
+        <seg>O WordPress 5.1 tem uma nova opção para construção de JavaScript, seguindo a grande reorganização de código que começou na versão 5.0.</seg>
       </tuv>
     </tu>
     <tu>
