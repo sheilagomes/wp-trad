@@ -1786,6 +1786,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Happiness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225206Z" creationid="elia" creationdate="20190221T225206Z">
+        <seg>Felicidade para os desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developer Notes</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T185825Z" creationid="elia" creationdate="20190122T185825Z">
@@ -2018,6 +2026,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor Performance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224900Z" creationid="elia" creationdate="20190221T224900Z">
+        <seg>Desempenho do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor document panels can now be &lt;a0&gt;programmatically removed&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131639Z" creationid="elia" creationdate="20181119T131639Z">
@@ -2126,6 +2142,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T121507Z" creationid="elia" creationdate="20181101T121507Z">
         <seg>Todo o resto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expect more performance improvements in the next couple of releases.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225159Z" creationid="elia" creationdate="20190221T225159Z">
+        <seg>As próximas versões trarão ainda mais melhorias de desempenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3058,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the plugin requires a version that won’t work with your site, WordPress will keep you from installing that plugin.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224855Z" creationid="elia" creationdate="20190221T224855Z">
+        <seg>Se o plugin precisar de uma versão que não funcionará no seu site, o WordPress o impedirá de instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is, RSVP for the party and invite your friends!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T215834Z" creationid="elia" creationdate="20180420T215834Z">
@@ -3486,6 +3518,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222825Z" creationid="elia" creationdate="20181203T222825Z">
         <seg>Internacionalização: Mesclagem de textos similares que eram diferentes apenas por uso de maiúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduced in WordPress 5.0, the new block editor continues to improve.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224926Z" creationid="elia" creationdate="20190221T224926Z">
+        <seg>Novidade no WordPress 5.0, o novo editor de blocos continua melhorando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4022,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T114628Z" creationid="elia" creationdate="20181113T114628Z">
         <seg>Melhoria na consistência da navegação entre blocos feita pelo teclado, assim como ajustes nas diferentes áreas da interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most significantly, WordPress 5.1 includes solid performance improvements within the editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225054Z" creationid="elia" creationdate="20190221T225054Z">
+        <seg>Mais significativamente, o WordPress 5.1 inclui sólidas melhorias no desempenho do editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,6 +5642,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T123354Z" creationid="elia" creationdate="20190219T122557Z">
         <seg>Exibição do formulário de comentários ao clicar em "Responder" em comentários carregados via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The editor should feel a little quicker to start, and typing should feel smoother.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225134Z" creationid="elia" creationdate="20190221T225134Z">
+        <seg>É possível sentir o editor iniciar mais rápido e a digitação mais natural.</seg>
       </tuv>
     </tu>
     <tu>
