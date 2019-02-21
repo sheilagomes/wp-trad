@@ -4108,8 +4108,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>New JS Build Processes</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225752Z" creationid="elia" creationdate="20190221T225752Z">
-        <seg>Novos processos de construção do JS</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225956Z" creationid="elia" creationdate="20190221T225752Z">
+        <seg>Novos processos de build de JS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4270,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
         <seg>Ou faça o &lt;a2&gt;download da versão beta aqui&lt;/a2&gt; (arquivo zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Developer Goodness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230132Z" creationid="elia" creationdate="20190221T225941Z">
+        <seg>Outras novidades para os desenvolvedores</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,8 +7241,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>WordPress 5.1 features a new JavaScript build option, following the large reorganisation of code that started in the 5.0 release.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190221T225831Z" creationid="elia" creationdate="20190221T225831Z">
-        <seg>O WordPress 5.1 tem uma nova opção para construção de JavaScript, seguindo a grande reorganização de código que começou na versão 5.0.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230124Z" creationid="elia" creationdate="20190221T225831Z">
+        <seg>O WordPress 5.1 tem uma nova opção para o "build", isto é, a reorganização dos arquivos de desenvolvimento para a versão final, de JavaScript, seguindo a grande reorganização de código que começou na versão 5.0.</seg>
       </tuv>
     </tu>
     <tu>
