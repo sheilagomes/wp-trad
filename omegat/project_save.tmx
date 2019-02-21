@@ -650,6 +650,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Little Better Every Day</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T223932Z" creationid="elia" creationdate="20190221T223932Z">
+        <seg>Um pouco melhor a cada dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A MediaElement JavaScript error preventing users of certain languages from being able to upload media files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161753Z" creationid="elia" creationdate="20171130T161753Z">
@@ -6482,6 +6490,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version 5.1 of WordPress, named “Betty” in honour of acclaimed jazz vocalist Betty Carter, is available for download or update in your WordPress dashboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T224038Z" creationid="elia" creationdate="20190221T224038Z">
+        <seg>A versão 5.1 do WordPress, com nome “Betty” em homenagem à aclamada vocalista de jazz Betty Carter, está disponível para baixar ou atualizar no seu painel do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
