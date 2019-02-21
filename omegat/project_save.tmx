@@ -2346,6 +2346,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, thanks to all the community translators who worked on WordPress 5.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230813Z" creationid="elia" creationdate="20190221T230813Z">
+        <seg>Finalmente, agradecemos a todos os tradutores da comunidade que trabalharam no WordPress 5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find a WordPress event near you</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3230,6 +3238,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T155434Z" creationid="elia" creationdate="20181204T155434Z">
         <seg>Se acha que encontrou um erro, você pode publicá-lo na área &lt;a0&gt;Alpha/Beta&lt;/a0&gt; nos fóruns de suporte (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to follow along or help out, check out &lt;a0&gt;Make WordPress&lt;/a0&gt; and our &lt;a1&gt;core development blog&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230917Z" creationid="elia" creationdate="20190221T230917Z">
+        <seg>Se você quer acompanhar ou ajudar, de uma olhada no blog &lt;a0&gt;Make WordPress&lt;/a0&gt; e no nosso &lt;a1&gt;blog de desenvolvimento dos arquivos básicos&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5462,6 +5478,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks for choosing WordPress!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230928Z" creationid="elia" creationdate="20190221T230928Z">
+        <seg>Agradecemos por escolher o WordPress!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thanks for making the internet a better place!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124809Z" creationid="elia" creationdate="20190205T124809Z">
@@ -6034,6 +6058,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190131T095850Z" creationid="elia" creationdate="20190131T095850Z">
         <seg>O trabalho em &lt;a0&gt;#46130&lt;/a0&gt; está mostrando um bom progresso nas questões de segurança, se você deseja acompanhar o desenvolvimento deste recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their efforts bring WordPress 5.1 fully translated to 34 languages at release time, with more on the way.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190221T230838Z" creationid="elia" creationdate="20190221T230838Z">
+        <seg>Seus esforços trazem o WordPress 5.1 completamente traduzido em 34 idiomas na data de lançamento, e vem mais por aí.</seg>
       </tuv>
     </tu>
     <tu>
