@@ -6472,8 +6472,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>This release also includes a pair of security fixes that handle how comments are filtered and then stored in the database.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113316Z" creationid="elia" creationdate="20190313T113316Z">
-        <seg>Esta versão também inclui algumas correções de segurança para como os comentários são filtrados e então gravados no banco de dados.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T114425Z" creationid="elia" creationdate="20190313T113316Z">
+        <seg>Esta versão também inclui algumas correções de segurança que tratam como os comentários são filtrados e então gravados no banco de dados.</seg>
       </tuv>
     </tu>
     <tu>
