@@ -4810,6 +4810,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Props to Simon Scannell of RIPS Technologies who discovered this flaw independent of some work that was being done by members of the core security team.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113749Z" creationid="elia" creationdate="20190313T113749Z">
+        <seg>Nossos agradecimentos a Simon Scannell da RIPS Technologies, que descobriu esta vulnerabilidade independentemente do esforço que já estava sendo feito pelos membros da equipe de segurança dos arquivos básicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publish with Ease</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6702,6 +6710,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updated versions of WordPress 5.0 and earlier are also available for any users who have not yet updated to 5.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113508Z" creationid="elia" creationdate="20190313T113508Z">
+        <seg>Versões atualizadas do WordPress 5.0 e anteriores também estão disponíveis para os usuários que ainda não atualizaram para a versão 5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updates to values for the &lt;c0&gt;WP_DEBUG_LOG&lt;/c0&gt; constant</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190221T230203Z" creationid="elia" creationdate="20190221T230203Z">
@@ -7707,6 +7723,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T113813Z" creationid="elia" creationdate="20181213T113813Z">
         <seg>As versões 5.0 e anteriores do WordPress foram afetadas pelos erros abaixo, que foram corrigidos na versão 5.0.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress versions 5.1 and earlier are affected by these bugs, which are fixed in version 5.1.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113443Z" creationid="elia" creationdate="20190313T113443Z">
+        <seg>As versões 5.1 e anteriores do WordPress foram afetadas pelos erros abaixo, que foram corrigidos na versão 5.1.1.</seg>
       </tuv>
     </tu>
     <tu>
