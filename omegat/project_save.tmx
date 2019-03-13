@@ -2934,6 +2934,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hosts can now offer a button for their users to update PHP.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113940Z" creationid="elia" creationdate="20190313T113843Z">
+        <seg>Serviços de hospedagem agora podem oferecer um botão para que seus usuários atualizem o PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hover styles are now &lt;a0&gt;correctly disabled for mobile devices&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132026Z" creationid="elia" creationdate="20181119T132026Z">
@@ -4362,6 +4370,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other highlights of this release include:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113822Z" creationid="elia" creationdate="20190313T113822Z">
+        <seg>Outros destaques desta versão incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Our Bill of Rights</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5046,6 +5062,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several minor bug fixes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113936Z" creationid="elia" creationdate="20190313T113936Z">
+        <seg>Correção de vários pequenos erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share the fun</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221135Z" creationid="elia" creationdate="20180420T221135Z">
@@ -5401,6 +5425,14 @@ Equipe do site ###SITENAME###
         <seg>Thank you to all of the reporters for &lt;a0&gt;privately disclosing the vulnerabilities&lt;/a0&gt;, which gave us time to fix them before WordPress sites could be attacked.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T115539Z" creationid="elia" creationdate="20181213T115539Z">
+        <seg>Agradecemos a todos por &lt;a0&gt;terem relatado as vulnerabilidades de forma privada&lt;/a0&gt;, nos dando tempo para corrigi-as antes que os sites WordPress fossem atacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you to all of the reporters for &lt;a0&gt;privately disclosing the vulnerabilities&lt;/a0&gt;, which gave us time to fix them before WordPress sites could be attacked.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113807Z" creationid="elia" creationdate="20190313T113807Z">
         <seg>Agradecemos a todos por &lt;a0&gt;terem relatado as vulnerabilidades de forma privada&lt;/a0&gt;, nos dando tempo para corrigi-as antes que os sites WordPress fossem atacados.</seg>
       </tuv>
     </tu>
@@ -5994,6 +6026,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Os lucros destas vendas ajudam a compensar o custo dos brindes (broches, adesivos etc.) distribuídos nos WordCamps e meetups de WordPress por todo o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recommended PHP version used by the “Update PHP” notice can now be filtered.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T113914Z" creationid="elia" creationdate="20190313T113914Z">
+        <seg>A versão de PHP recomendada usada pelo aviso "Atualize o PHP" agora pode ser filtrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7899,6 +7939,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122919Z" creationid="Sheila" creationdate="20180517T122919Z">
         <seg>Também pode solicitar que removamos qualquer dado pessoal que mantemos sobre você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can browse the &lt;a0&gt;full list of changes on Trac&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190313T114008Z" creationid="elia" creationdate="20190313T114008Z">
+        <seg>Você pode navegar pela &lt;a0&gt;lista completa de alterações no Trac&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
