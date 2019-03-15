@@ -1290,6 +1290,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As various businesses use WordPress, the variety of WordPress sites grows.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135652Z" creationid="elia" creationdate="20190315T135652Z">
+        <seg>Como negócios de vários ramos diferentes usam o WordPress, a variedade de sites WordPress também cresce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with most things technical, we just need to cover some background before we can get to the part where you update your PHP version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T120903Z" creationid="elia" creationdate="20190205T120903Z">
@@ -2766,6 +2774,14 @@ por isso baixe-o antes desta data.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graph showing the growth of WordPress market share relative to other CMS's like Joomla, Drupal and others.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135420Z" creationid="elia" creationdate="20190315T135420Z">
+        <seg>Gráfico mostrando o crescimento da participação do WordPress no mercado relativa a a outros CMS como Joomla, Drupal e outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphics &amp;amp; Logos</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -3358,6 +3374,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131841Z" creationid="elia" creationdate="20181119T131841Z">
         <seg>A manipulação de imagens foi melhorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image source: &lt;a0&gt;W3Techs&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135517Z" creationid="elia" creationdate="20190315T135517Z">
+        <seg>Fonte da imagem: &lt;a0&gt;W3Techs&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4514,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Over the years WordPress has become the CMS of choice for more and more people and companies.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135619Z" creationid="elia" creationdate="20190315T135619Z">
+        <seg>Com o passar dos anos, o WordPress se tornou a escolha para Sistema de gerenciamento de conteúdo (CMS, Content Management System) de mais e mais pessoas e empresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Own Your Data</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5362,6 +5394,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting at just over 10% in January 2011 to 33.4% now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135440Z" creationid="elia" creationdate="20190315T135440Z">
+        <seg>Começando com pouco mais de 10% em janeiro de 2011 para 33,4% agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,6 +7867,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T121058Z" creationid="elia" creationdate="20190205T121058Z">
         <seg>O WordPress funciona com todas as versões PHP desde a 5.2.4 (atualmente recomendamos a versão 7.3m então isso significa uma retrocompatibilidade &lt;e1&gt;enorme&lt;/e1&gt;!), mas não sabemos quais temas e plugins fazem o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress market share on the rise over the last 8 years.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135512Z" creationid="elia" creationdate="20190315T135512Z">
+        <seg>Crescimento da participação do WordPress no mercado nos últimos 8 anos.</seg>
       </tuv>
     </tu>
     <tu>
