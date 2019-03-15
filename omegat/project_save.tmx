@@ -1292,8 +1292,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>As various businesses use WordPress, the variety of WordPress sites grows.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135652Z" creationid="elia" creationdate="20190315T135652Z">
-        <seg>Como negócios de vários ramos diferentes usam o WordPress, a variedade de sites WordPress também cresce.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135703Z" creationid="elia" creationdate="20190315T135652Z">
+        <seg>Como negócios de vários ramos e tamanhos diferentes usam o WordPress, a variedade de sites WordPress também cresce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,6 +3846,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115254Z" creationid="Sheila" creationdate="20180517T115254Z">
         <seg>Language: pt_BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Large enterprise businesses all the way down to small local businesses: all of them use WordPress to power their site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135757Z" creationid="elia" creationdate="20190315T135757Z">
+        <seg>De empesas imensas até pequenos negócios locais, todos eles usam o WordPress como o sistema de seus sites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6470,6 +6478,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This incredible community makes it possible for WordPress to keep growing while still also remaining &lt;e1&gt;free&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T140141Z" creationid="elia" creationdate="20190315T140141Z">
+        <seg>Essa comunidade incrível torna possível manter o crescimento do WordPress, mesmo sendo &lt;e1&gt;de graça&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a &lt;s0&gt;security and maintenance release&lt;/s0&gt; for all versions since WordPress 3.7.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T155628Z" creationid="elia" creationdate="20171130T155628Z">
@@ -7014,6 +7030,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We love seeing that and we strive to continuously make WordPress better for all of you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135845Z" creationid="elia" creationdate="20190315T135845Z">
+        <seg>Nós amamos ver isso e nos esforçamos para tornar o WordPress ainda melhor para vocês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We stopped rendering &lt;e0&gt;AdminNotices&lt;/e0&gt; compatibility component, as this previous attempt at backward compatibility was bringing in numerous incompatible banners and notices from plugins.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222423Z" creationid="elia" creationdate="20181203T222423Z">
@@ -7074,6 +7098,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T190406Z" creationid="elia" creationdate="20190122T190406Z">
         <seg>Bem, nem todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’d like to thank everyone who works on WordPress, which is built and maintained by a &lt;a0&gt;huge community of volunteers&lt;/a0&gt; that has grown alongside the CMS.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135932Z" creationid="elia" creationdate="20190315T135932Z">
+        <seg>Queremos agradecer a todos os que trabalham no WordPress, que é desenvolvido e mantido por uma &lt;a0&gt;comunidade imensa de voluntários&lt;/a0&gt;, que cresceu junto com o CMS.</seg>
       </tuv>
     </tu>
     <tu>
