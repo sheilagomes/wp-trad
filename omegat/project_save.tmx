@@ -4370,6 +4370,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One-third of the web!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T134742Z" creationid="elia" creationdate="20190315T134742Z">
+        <seg>Um terço da internet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or you can &lt;a2&gt;download the beta here&lt;/a2&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
@@ -4422,6 +4430,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Nossa história</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our market share has been growing steadily over the last few years, going from 29.9% just one year ago to 33.4% now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135100Z" creationid="elia" creationdate="20190315T135100Z">
+        <seg>Nossa participação no mercado tem crescido consistentemente nos últimos anos, aumentando de 29,9% apenas há um ano para 33,4% atualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7763,6 +7779,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T121058Z" creationid="elia" creationdate="20190205T121058Z">
         <seg>O WordPress funciona com todas as versões PHP desde a 5.2.4 (atualmente recomendamos a versão 7.3m então isso significa uma retrocompatibilidade &lt;e1&gt;enorme&lt;/e1&gt;!), mas não sabemos quais temas e plugins fazem o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress now powers over 1/3rd of the top 10 million sites on the web according to &lt;a0&gt;W3Techs&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T134942Z" creationid="elia" creationdate="20190315T134942Z">
+        <seg>O WordPress agora é responsável por mais de um terço dos primeiros 10 milhões de sites, segundo a &lt;a0&gt;W3Techs&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
