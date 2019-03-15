@@ -1218,6 +1218,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And now, early in 2019, we are powering 33.4% of sites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135250Z" creationid="elia" creationdate="20190315T135250Z">
+        <seg>E agora, no começo de 2019, o WordPress está em 33,4% dos sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And then there are a number of secondary benefits:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T115956Z" creationid="elia" creationdate="20190205T115956Z">
@@ -3442,6 +3450,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In 2005, we were celebrating &lt;a0&gt;50,000 downloads&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135203Z" creationid="elia" creationdate="20190315T135203Z">
+        <seg>Em 2005, celembramos os &lt;a0&gt;50,000 downloads&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In WordPress 4.9.8, the callout will be shown to the following users:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T212320Z" creationid="elia" creationdate="20180802T212320Z">
@@ -4434,6 +4450,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Our latest release has already been &lt;a1&gt;downloaded close to 14 million times&lt;/a1&gt;, and it was only released on the 21st of February.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135338Z" creationid="elia" creationdate="20190315T135338Z">
+        <seg>Nossa última versão já foi &lt;a1&gt;baixada quase 14 milhões de vezes&lt;/a1&gt;e ela foi lançada só em 21 de fevereiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Our market share has been growing steadily over the last few years, going from 29.9% just one year ago to 33.4% now.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190315T135100Z" creationid="elia" creationdate="20190315T135100Z">
@@ -5238,6 +5262,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Six years later, in January 2011, WordPress was powering 13.1% of websites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135223Z" creationid="elia" creationdate="20190315T135223Z">
+        <seg>Seis anos depois, em janeiro de 2011, o WordPress era responsável por 13,1% dos sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip to content</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6010,6 +6042,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T120418Z" creationid="elia" creationdate="20190205T120418Z">
         <seg>A próxima seção explicará como fazer isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The path here has been very exciting.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135151Z" creationid="elia" creationdate="20190315T135151Z">
+        <seg>O histórico até aqui tem sido muito animador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6906,6 +6946,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T205728Z" creationid="elia" creationdate="20180802T205728Z">
         <seg>Temos o prazer de anunciar que o WordPress 4.9.8, um atualização de manutenção, já está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are, of course, quite proud of these numbers!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T135120Z" creationid="elia" creationdate="20190315T135120Z">
+        <seg>Nós, claro, estamos muito orgulhosos destes números!</seg>
       </tuv>
     </tu>
     <tu>
