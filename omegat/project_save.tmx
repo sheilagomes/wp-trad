@@ -1226,6 +1226,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And of course, we’d like to thank all of you &lt;e2&gt;using&lt;/e2&gt; WordPress for using it and trusting in it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T140227Z" creationid="elia" creationdate="20190315T140227Z">
+        <seg>E, é claro, também queremos agradecer a você que &lt;e2&gt;usa&lt;/e2&gt; o WordPress e que confia nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And then there are a number of secondary benefits:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T115956Z" creationid="elia" creationdate="20190205T115956Z">
@@ -6666,6 +6674,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190131T095944Z" creationid="elia" creationdate="20190131T095944Z">
         <seg>O TinyMCE foi atualizado para a versão 4.9.2 (&lt;a0&gt;#46094&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To all of you: let’s celebrate!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190315T140247Z" creationid="elia" creationdate="20190315T140247Z">
+        <seg>Vamos celebrar!</seg>
       </tuv>
     </tu>
     <tu>
