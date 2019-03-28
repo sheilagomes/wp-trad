@@ -6054,6 +6054,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The focus styling for keyboard navigating through landmarks is clearer and more consistent.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165131Z" creationid="elia" creationdate="20190328T165131Z">
+        <seg>O estilo para o elemento ativo na navegação pelo teclado está mais clara e consistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The freedom to redistribute.</seg>
       </tuv>
       <tuv lang="PT-BR">
