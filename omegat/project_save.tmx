@@ -4858,6 +4858,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins can now specify the minimum version of PHP that they support, so you can safely modernise your development practices without risking breaking your users’ sites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172057Z" creationid="elia" creationdate="20190328T172057Z">
+        <seg>Plugins agora podem espeficiar a versão mínima de PHP suportada, para que seja possível usar práticas mais modernas de desenvolvimento sem o risco de quebrar os sites dos usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plural-Forms: nplurals=2; plural=(n &gt; 1);</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115253Z" creationid="Sheila" creationdate="20180517T115253Z">
@@ -6438,6 +6446,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are 25 new icons for you to use!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172301Z" creationid="elia" creationdate="20190328T172301Z">
+        <seg>Você tem 25 ícones novos para usar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are &lt;a1&gt;plenty of free backup plugins available&lt;/a1&gt;, so if you don’t have a backup solution already – use one of these.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T121357Z" creationid="elia" creationdate="20190205T121357Z">
@@ -6554,6 +6570,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T221859Z" creationid="elia" creationdate="20180417T221859Z">
         <seg>Há uma nova funcionalidade para confirmar solicitações de usuários através do endereço de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There’s a new release of Dashicons, the WordPress Dashboard icon font.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172234Z" creationid="elia" creationdate="20190328T172234Z">
+        <seg>Há uma nova versão dos Dashicons, a fonte de ícones do Painel do WordPress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7418,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181101T120750Z" creationid="elia" creationdate="20181101T120750Z">
         <seg>Adicionamos suporte ao &lt;a0&gt;registro e carregamento de tradução de arquivos JavaScript&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’ve added the &lt;c0&gt;sodium_compat&lt;/c0&gt; library, which provides backwards compatibility for the &lt;a1&gt;Sodium-based cryptography library added in PHP 7.2&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172210Z" creationid="elia" creationdate="20190328T172210Z">
+        <seg>Adicionamos a biblioteca &lt;c0&gt;sodium_compat&lt;/c0&gt;, que fornece retrocompatibilidade para a &lt;a1&gt;biblioteca de criptografia baseada no Sodium, adicionada no PHP 7.2&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
