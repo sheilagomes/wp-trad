@@ -4650,6 +4650,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PHP Version Bump</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171759Z" creationid="elia" creationdate="20190328T171759Z">
+        <seg>Versão do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PHP Versions</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6878,6 +6886,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To help you check if you’re prepared for this change, WordPress 5.2 will show you a warning and help you upgrade your version of PHP, if necessary.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171958Z" creationid="elia" creationdate="20190328T171958Z">
+        <seg>Para ajudar a verificar se o seu site está preparado para esta mudança, o WordPress 5.2 exibirá um aviso e ajudará no processo de atualização do seu PHP se for preciso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To help you keep track of these blocks, and only show the ones you need, there’s a new block management tool to switch blocks on and off.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T170220Z" creationid="elia" creationdate="20190328T170220Z">
@@ -7194,6 +7210,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Vídeos, tutoriais e sessões de WordCamps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visit the &lt;e0&gt;Tools&lt;/e0&gt; menu and click on &lt;e1&gt;Health Check&lt;/e1&gt; to get information that can help improve the speed and security of your site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171719Z" creationid="elia" creationdate="20190328T171719Z">
+        <seg>Visite o menu &lt;e0&gt;Ferramentas&lt;/e0&gt; e clique em &lt;e1&gt;Diagnóstico&lt;/e1&gt; para obter informações que podem ajudar a melhorar a velocidade e a segurança do seu site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7602,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190221T224549Z" creationid="elia" creationdate="20190221T224530Z">
         <seg>Tendo segurança e velocidade em mente, esta versão traz os primeiros recursos do &lt;a0&gt;Diagnóstico do sites&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this release, &lt;a0&gt;WordPress will increase its minimum supported PHP version to 5.6&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171907Z" creationid="elia" creationdate="20190328T171907Z">
+        <seg>Nesta versão, o &lt;a0&gt;WordPress vai aumentar a versão mínima de PHP suportada para 5.6&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
