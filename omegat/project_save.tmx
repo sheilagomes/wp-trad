@@ -1420,8 +1420,8 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       <tuv lang="EN">
         <seg>Before, you’d have to FTP in to your files or get in touch with your host.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190111T184649Z" creationid="elia" creationdate="20190111T184649Z">
-        <seg>Antes, voce teria que acessar os seus arquivos através do FTP ou entrar em contato com o seu serviço de hospedagem.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171416Z" creationid="elia" creationdate="20190111T184649Z">
+        <seg>Antes, você teria que acessar os seus arquivos através do FTP ou entrar em contato com o seu serviço de hospedagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,6 +3582,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190221T224403Z" creationid="elia" creationdate="20190221T224403Z">
         <seg>Além disso, esta versão abre caminho para um WordPress melhor, mais rápido e mais seguro, com ferramentas para administradores de sites e desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, we’re adding a new Health Check tool to your Dashboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171643Z" creationid="elia" creationdate="20190328T171643Z">
+        <seg>Além disso, nós estamos incluindo uma nova ferramenta de diagnóstico no seu Painel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,6 +5906,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>A história do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Improved Fatal Error Protection</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171533Z" creationid="elia" creationdate="20190328T171533Z">
+        <seg>A proteção contra erros fatais</seg>
       </tuv>
     </tu>
     <tu>
@@ -8909,6 +8925,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124113Z" creationid="elia" creationdate="20190205T124113Z">
         <seg>para atualizar.&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“The Improved Fatal Error Protection” — Make WordPress Core</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171536Z" creationid="elia" creationdate="20190328T171536Z">
+        <seg>“A proteção contra erros fatais” — Make WordPress Core</seg>
       </tuv>
     </tu>
     <tu>
