@@ -5966,6 +5966,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The WordPress Mobile Apps</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170459Z" creationid="elia" creationdate="20190328T170459Z">
+        <seg>Os aplicativos móveis do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor has been updated to include all of the features and bug fixes from the upcoming &lt;a0&gt;Gutenberg 4.2 release&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173420Z" creationid="elia" creationdate="20181105T173420Z">
@@ -6018,6 +6026,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115406Z" creationid="elia" creationdate="20181113T115406Z">
         <seg>E como o editor de bloco já está usando essa API, você também já pode começar a usá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The block editor isn’t just for websites, either.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170851Z" creationid="elia" creationdate="20190328T170851Z">
+        <seg>O editor de blocos náo é só para sites.</seg>
       </tuv>
     </tu>
     <tu>
