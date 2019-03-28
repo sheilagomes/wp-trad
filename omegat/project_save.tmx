@@ -1186,6 +1186,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An RSS block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165825Z" creationid="elia" creationdate="20190328T165825Z">
+        <seg>Um bloco RSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An XSS vulnerability was discovered in the Flash fallback files in MediaElement, a library that is included with WordPress.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141052Z" creationid="elia" creationdate="20180118T141052Z">
@@ -7218,6 +7226,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115312Z" creationid="elia" creationdate="20181113T115312Z">
         <seg>Adicionamos uma API para tradução de strings em arquivos JavaScript dos seus plugins e temas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’ve added several new blocks:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165718Z" creationid="elia" creationdate="20190328T165718Z">
+        <seg>Temos vários novos blocos:</seg>
       </tuv>
     </tu>
     <tu>
