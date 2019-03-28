@@ -666,6 +666,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Calendar block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165904Z" creationid="elia" creationdate="20190328T165904Z">
+        <seg>Um bloco de calendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A HTTP error occurring when opening browser developer tools (&lt;a0&gt;#46218&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T122419Z" creationid="elia" creationdate="20190219T122419Z">
@@ -694,6 +702,22 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Uma observação sobre a segurança do WordPress e do WordPress.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Search block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165850Z" creationid="elia" creationdate="20190328T165850Z">
+        <seg>Um bloco de busca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Tag Cloud block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165916Z" creationid="elia" creationdate="20190328T165916Z">
+        <seg>Um bloco de nuvem de tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1206,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T114334Z" creationid="elia" creationdate="20181113T114334Z">
         <seg>Uma &lt;a0&gt;API de Anotações&lt;/a0&gt;, permitindo que plugins incluam dados contextuais enquanto você escreve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An Amazon Kindle embed block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165847Z" creationid="elia" creationdate="20190328T165847Z">
+        <seg>Um bloco para mídia incorporada da Amazon Kindle</seg>
       </tuv>
     </tu>
     <tu>
@@ -6762,6 +6794,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185828Z" creationid="elia" creationdate="20190111T184825Z">
         <seg>Para ajudá-lo a verificar se você está preparado para esta mudança, o WordPress 5.1 exibirá um aviso e o auxiliará a atualizar a sua versão de PHP, se necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To help you keep track of these blocks, and only show the ones you need, there’s a new block management tool to switch blocks on and off.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170220Z" creationid="elia" creationdate="20190328T170220Z">
+        <seg>Para exibir apenas os blocos que precisar, agora existe uma nova ferramenta de gerenciamento de blocos para ativar e desativar os blocos.</seg>
       </tuv>
     </tu>
     <tu>
