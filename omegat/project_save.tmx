@@ -4434,6 +4434,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or &lt;a0&gt;download the beta here&lt;/a0&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164248Z" creationid="elia" creationdate="20190328T164248Z">
+        <seg>Ou &lt;a0&gt;baixando a versão beta aqui&lt;/a0&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or you can &lt;a2&gt;download the beta here&lt;/a2&gt; (zip).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202650Z" creationid="Sheila" creationdate="20171013T202650Z">
@@ -6822,6 +6830,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (choose the “bleeding edge nightlies” option)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164234Z" creationid="elia" creationdate="20190328T164234Z">
+        <seg>Usando o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (escolha a opção "bleeding edge nightlies"). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tweaks to improve readability and functionality on mobile devices.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T173827Z" creationid="elia" creationdate="20181105T173827Z">
@@ -7703,6 +7719,22 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.2 Beta 1 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164002Z" creationid="elia" creationdate="20190328T164002Z">
+        <seg>O WordPress 5.1 Beta 2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2 is slated for release on &lt;a0&gt;April 30&lt;/a0&gt;, and we need your help to get there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164310Z" creationid="elia" creationdate="20190328T164310Z">
+        <seg>O lançamento do WordPress 5.2 está previsto para &lt;a0&gt;30 de abril&lt;/a0&gt;e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -8195,6 +8227,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T130403Z" creationid="elia" creationdate="20181123T130403Z">
         <seg>Você pode saber mais sobre os ajustes e mudanças desde o Beta 5 &lt;a0&gt;no post de atualização mais recente&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can test the WordPress 5.2 Beta two ways:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164116Z" creationid="elia" creationdate="20190328T164116Z">
+        <seg>Você pode testar o WordPress 5.2 Beta de duas formas:</seg>
       </tuv>
     </tu>
     <tu>
