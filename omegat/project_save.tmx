@@ -874,6 +874,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessibility continues to improve, too.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164519Z" creationid="elia" creationdate="20190328T164519Z">
+        <seg>A acessibilidade também continua melhorando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility: Simplify sidebar tabs aria-labels.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181203T222716Z" creationid="elia" creationdate="20181203T222716Z">
@@ -5942,6 +5950,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor has received significant performance improvements since WordPress 5.1, shaving 35% off the load time for massive posts, and cutting the keypress time (how responsive it feels when you’re typing) in half!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164505Z" creationid="elia" creationdate="20190328T164505Z">
+        <seg>O editor de blocos recebeu importantes melhorias de desempenho desde o WordPress 5.1, diminuindo 35% do tempo de carregamento em posts grandes, e reduzindo pela metade o tempo de resposta ao digitar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor is a big change, but that’s not all.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T125834Z" creationid="elia" creationdate="20181123T125834Z">
@@ -5962,6 +5978,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T125140Z" creationid="elia" creationdate="20181123T125140Z">
         <seg>O editor de blocos está &lt;a0&gt;sendo usado em mais de um milhão de sites&lt;/a0&gt; e nós acreditamos que ele está pronto para ser usado em todos os sites WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The block editor now supports your browser’s reduced motion settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164547Z" creationid="elia" creationdate="20190328T164547Z">
+        <seg>O editor de blocos agora também tem suporte às configurações de redução de movimento do seu navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6130,6 +6154,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180404T120734Z" creationid="elia" creationdate="20180404T120734Z">
         <seg>O posicionamento do espaço reservado para anexos durante o upload foi ajustado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The post URL slug has better labelling and help text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T164742Z" creationid="elia" creationdate="20190328T164742Z">
+        <seg>Melhoramos o texto explicativo para o endereço do post.</seg>
       </tuv>
     </tu>
     <tu>
