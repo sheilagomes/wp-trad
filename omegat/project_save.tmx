@@ -6342,6 +6342,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are a variety of new speak messages, and existing messages have been tweaked for more useful screen-reader behaviour.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T165652Z" creationid="elia" creationdate="20190328T165652Z">
+        <seg>Várias novas mensagens faladas foram criadas e as existentes foram modificadas para serem mais úteis no contexto de leitores de tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no releases, yet.</seg>
       </tuv>
       <tuv lang="PT-BR">
