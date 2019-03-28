@@ -3898,6 +3898,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep your eyes on the &lt;a0&gt;Make WordPress Core blog&lt;/a0&gt; for developer notes (which are &lt;a1&gt;assigned&lt;/a1&gt; the &lt;c2&gt;dev-notes&lt;/c2&gt; tag) in the coming weeks detailing other changes in 5.2 that you should be aware of.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172450Z" creationid="elia" creationdate="20190328T172450Z">
+        <seg>Fique atento nas próximas semanas ao &lt;a0&gt;blog Make WordPress Core&lt;/a0&gt; para mais notas para desenvolvedores (que &lt;a1&gt;recebem&lt;/a1&gt; a tag &lt;c2&gt;dev-notes&lt;/c2&gt;) detalhando outras mudanças importantes na versão 5.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep your eyes on the &lt;a0&gt;Make WordPress Core blog&lt;/a0&gt; for more developer notes (which are &lt;a1&gt;assigned&lt;/a1&gt; the &lt;c2&gt;dev-notes&lt;/c2&gt; tag) in the coming weeks detailing other changes in 5.1 that you should be aware of.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T190023Z" creationid="elia" creationdate="20190111T185430Z">
@@ -6558,6 +6566,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There have been &lt;a0&gt;130 tickets closed&lt;/a0&gt; in WordPress 5.2 so far, with numerous small bug fixes and improvements to help smooth your WordPress experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172431Z" creationid="elia" creationdate="20190328T172431Z">
+        <seg>Foram &lt;a0&gt;fechados 130 tickets&lt;/a0&gt; no WordPress 5.2 até agora, com várias pequenas correções de erros e melhorias para tornar a sua experiência no WordPress ainda melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There have been &lt;a0&gt;over 360 tickets closed&lt;/a0&gt; in WordPress 5.1, with numerous small bug fixes and improvements to help smooth your WordPress experience.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190111T185313Z" creationid="elia" creationdate="20190111T185313Z">
@@ -7286,6 +7302,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We fix, then we fly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172551Z" creationid="elia" creationdate="20190328T172551Z">
+        <seg>Corrigimos e então voamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We love seeing that and we strive to continuously make WordPress better for all of you.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190315T135845Z" creationid="elia" creationdate="20190315T135845Z">
@@ -7626,6 +7650,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124405Z" creationid="elia" creationdate="20190205T124405Z">
         <seg>Com uma versão atualizada do PHP você terá um site mais rápido, mais seguro e visitantes mais felizes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With each new release,&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172518Z" creationid="elia" creationdate="20190328T172458Z">
+        <seg>A cada nova versão,&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8471,6 +8503,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can now pass a label to &lt;c0&gt;get_search_form()&lt;/c0&gt;, improving accessibility.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172324Z" creationid="elia" creationdate="20190328T172324Z">
+        <seg>Agora é possível passar um "label" para &lt;c0&gt;get_search_form()&lt;/c0&gt;, melhorando a acessibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can read more about Twenty Nineteen in its &lt;a0&gt;introduction post&lt;/a0&gt;, and follow along with development over on the &lt;a1&gt;GitHub repository&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185311Z" creationid="elia" creationdate="20181026T185311Z">
@@ -8637,6 +8677,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>bbPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bearing multiple betas; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T172526Z" creationid="elia" creationdate="20190328T172526Z">
+        <seg>lançando vários betas; &lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
