@@ -1474,6 +1474,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Block Management Modal</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170304Z" creationid="elia" creationdate="20190328T170304Z">
+        <seg>Gerenciamento de blocos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blog</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6390,6 +6398,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are hundreds of bug fixes and improvements in the block editor, you can read more about them in the Gutenberg plugin releases: &lt;a0&gt;4.9&lt;/a0&gt;, &lt;a1&gt;5.0&lt;/a1&gt;, &lt;a2&gt;5.1&lt;/a2&gt;, &lt;a3&gt;5.2&lt;/a3&gt;, and &lt;a4&gt;5.3&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170433Z" creationid="elia" creationdate="20190328T170433Z">
+        <seg>Existem centenas de correções e melhorias no editor de blocos, você pode ler mais sobre elas nas versões do plugin Gutenberg: &lt;a0&gt;4.9&lt;/a0&gt;, &lt;a1&gt;5.0&lt;/a1&gt;, &lt;a2&gt;5.1&lt;/a2&gt;, &lt;a3&gt;5.2&lt;/a3&gt; e &lt;a4&gt;5.3&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no releases, yet.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -7242,6 +7258,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202723Z" creationid="Sheila" creationdate="20171013T202723Z">
         <seg>Nós vamos adorar ouvir você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We’re constantly working on existing blocks, too.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T170332Z" creationid="elia" creationdate="20190328T170332Z">
+        <seg>Também continuamos trabalhando nos blocos que já existem.</seg>
       </tuv>
     </tu>
     <tu>
