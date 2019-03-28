@@ -6030,6 +6030,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block editor is coming to the mobile apps</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171309Z" creationid="elia" creationdate="20190328T171309Z">
+        <seg>O editor de blocos está vindo para os aplicativos móveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The block editor is now using this, and you can start using it, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181113T115406Z" creationid="elia" creationdate="20181113T115406Z">
@@ -6090,6 +6098,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T132502Z" creationid="elia" creationdate="20181119T132502Z">
         <seg>Os últimos erros conhecidos de compatibilidade com o PHP 7.3 foram corrigidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first phase of this project (originally scoped for WordPress 5.1) is now included in WordPress 5.2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171402Z" creationid="elia" creationdate="20190328T171402Z">
+        <seg>A primeira fase deste projeto (originalmente previsto para o WordPress 5.1) agora faz parte do WordPress 5.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6698,6 +6714,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T121140Z" creationid="elia" creationdate="20180517T121140Z">
         <seg>Fazemos isso para que seja possível reconhecer e aprovar automaticamente qualquer comentário posterior ao invés de retê-lo para moderação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is still under development, but you can try it out now!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171259Z" creationid="elia" creationdate="20190328T171259Z">
+        <seg>Isso ainda está em desenvolvimento, mas você já pode testar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8885,6 +8909,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124113Z" creationid="elia" creationdate="20190205T124113Z">
         <seg>para atualizar.&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“The block editor is coming to the mobile apps” — Make WordPress Mobile</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190328T171326Z" creationid="elia" creationdate="20190328T171326Z">
+        <seg>“O editor de blocos está vindo para os aplicativos móveis” — Make WordPress Mobile</seg>
       </tuv>
     </tu>
     <tu>
