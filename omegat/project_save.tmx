@@ -1330,6 +1330,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As of WordPress 5.2 beta 2, the minimum PHP version that WordPress will require is 5.6.20.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135255Z" creationid="elia" creationdate="20190409T135255Z">
+        <seg>No WordPress 5.2 beta 2, a versão mínima necessária do PHP será a 5.6.20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As part of the core team's ongoing commitment to security hardening, the following fixes have been implemented in 4.9.1:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T160937Z" creationid="elia" creationdate="20171130T160937Z">
@@ -1746,6 +1754,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Crash Protection no longer interrupts plugin editing (&lt;a0&gt;#46045&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135108Z" creationid="elia" creationdate="20190409T135108Z">
+        <seg>A proteção contra travamentos deixou de interromper a edição de plugins (&lt;a0&gt;#46045&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Account</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -1822,6 +1838,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Tipos personalizados de conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom error handlers now load correctly (&lt;a0&gt;#46069&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135152Z" creationid="elia" creationdate="20190409T135152Z">
+        <seg>O tratamento personalizado de erros agora carrega corretamente (&lt;a0&gt;#46069&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4266,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimum PHP Version Update</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135203Z" creationid="elia" creationdate="20190409T135203Z">
+        <seg>Atualização da versão mínima do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minor bug fixes&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T190116Z" creationid="elia" creationdate="20181026T190116Z">
@@ -5582,6 +5614,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Superfluous paragraph tags will no longer incorrectly appear in dynamic block content (&lt;a0&gt;#45495&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135000Z" creationid="elia" creationdate="20190409T135000Z">
+        <seg>Tags de parágrafo desnecessárias deixarão de aparecer no conteúdo dinâmico dos blocos (&lt;a0&gt;#45495&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Support</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -5986,6 +6026,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>A função do serviço de hospedagem na segurança do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Site Health screens have received several bug fixes, tweaks, and performance improvements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135019Z" creationid="elia" creationdate="20190409T135019Z">
+        <seg>As telas do Diagnóstico receberam várias correções, ajustes e melhorias de desempenho.</seg>
       </tuv>
     </tu>
     <tu>
