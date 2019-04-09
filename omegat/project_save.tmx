@@ -722,6 +722,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A brand-new &lt;c0&gt;wp_body_open()&lt;/c0&gt; template tag (and corresponding &lt;c1&gt;wp_body_open&lt;/c1&gt; action) will let themes (and plugins!) add content right after the &lt;c2&gt;&lt;body&gt;&lt;/c2&gt; is opened (&lt;a3&gt;#12563&lt;/a3&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134926Z" creationid="elia" creationdate="20190409T134834Z">
+        <seg>Uma novíssima template tag, &lt;c0&gt;wp_body_open()&lt;/c0&gt;, (e uma ação &lt;c1&gt;wp_body_open&lt;/c1&gt; correspondente) permitirá que temas (e plugins!) adicionem conteúdo logo depois da abertura da tag &lt;c2&gt;&lt;body&gt;&lt;/c2&gt; (&lt;a3&gt;#12563&lt;/a3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A bug preventing the Custom Fields meta box from being enabled has been fixed (#&lt;a0&gt;46028&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T185657Z" creationid="elia" creationdate="20190122T185657Z">
@@ -5758,6 +5766,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks to the testing and feedback from everyone who tried &lt;a1&gt;beta 1&lt;/a1&gt;, nearly &lt;a2&gt;100 tickets have been closed&lt;/a2&gt; since then.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134758Z" creationid="elia" creationdate="20190409T134758Z">
+        <seg>Graças aos testes e comentários recebidos de quem testou o &lt;a1&gt;beta 1&lt;/a1&gt;, aproximadamente &lt;a2&gt;100 tickets foram fechados&lt;/a2&gt; desde então.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thanks!</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6554,6 +6570,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T123234Z" creationid="elia" creationdate="20190219T122033Z">
         <seg>Existem duas formas de testar o WordPress 5.1 release candidate: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.2 beta: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the beta here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134653Z" creationid="elia" creationdate="20190409T134653Z">
+        <seg>Existem duas formas de testar o WordPress 5.2 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,6 +7470,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We’ve added support for Emoji 12!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134813Z" creationid="elia" creationdate="20190409T134813Z">
+        <seg>Adicionamos suporte para Emoji 12!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We’ve added the &lt;c0&gt;sodium_compat&lt;/c0&gt; library, which provides backwards compatibility for the &lt;a1&gt;Sodium-based cryptography library added in PHP 7.2&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T172210Z" creationid="elia" creationdate="20190328T172210Z">
@@ -8011,6 +8043,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T173002Z" creationid="elia" creationdate="20190328T164002Z">
         <seg>O WordPress 5.2 Beta 1 já está disponível! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2 Beta 2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134637Z" creationid="elia" creationdate="20190409T134637Z">
+        <seg>O WordPress 5.2 Beta 2 já está disponível! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2 is slated for release on &lt;a0&gt;April 30&lt;/a0&gt;, and we need your help to get there!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T134708Z" creationid="elia" creationdate="20190409T134708Z">
+        <seg>O lançamento do WordPress 5.2 está previsto para &lt;a0&gt;30 de abril&lt;/a0&gt; e precisamos da sua ajuda para que isso aconteça.</seg>
       </tuv>
     </tu>
     <tu>
