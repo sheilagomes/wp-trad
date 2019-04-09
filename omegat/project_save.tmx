@@ -434,6 +434,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;The wonderful thing&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135645Z" creationid="elia" creationdate="20190409T135645Z">
+        <seg>&lt;e0&gt;A coisa boa&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;WordPress Five Point Oh&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174314Z" creationid="elia" creationdate="20181105T174314Z">
@@ -8797,6 +8805,22 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>[WordPress.org] Sua nova conta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>about betas, is betas&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135653Z" creationid="elia" creationdate="20190409T135653Z">
+        <seg>sobre betas, é que betas&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>are wonderful things.&lt;/e0&gt; 🐯</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135658Z" creationid="elia" creationdate="20190409T135658Z">
+        <seg>são uma coisa boa.&lt;/e0&gt; 🐯</seg>
       </tuv>
     </tu>
     <tu>
