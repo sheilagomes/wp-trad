@@ -3466,6 +3466,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you’re running an older version of PHP, we highly recommend updating it now, before WordPress 5.2 is officially released.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135321Z" creationid="elia" creationdate="20190409T135321Z">
+        <seg>Se você está executando uma versão mais antiga do PHP, nós recomendamos atualizá-la agora, antes que o WordPress 5.2 seja oficialmente lançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Image handling has been improved.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181119T131841Z" creationid="elia" creationdate="20181119T131841Z">
@@ -4269,6 +4277,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
         <seg>Minimum PHP Version Update</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T135203Z" creationid="elia" creationdate="20190409T135203Z">
+        <seg>Atualização da versão mínima do PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum PHP Version update</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135336Z" creationid="elia" creationdate="20190409T135336Z">
         <seg>Atualização da versão mínima do PHP</seg>
       </tuv>
     </tu>
@@ -7014,6 +7030,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To keep up, subscribe to the &lt;a0&gt;Make WordPress Core blog&lt;/a0&gt; and pay special attention to the &lt;a1&gt;developers notes&lt;/a1&gt; for updates on those and other changes that could affect your products.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135639Z" creationid="elia" creationdate="20190409T135639Z">
+        <seg>Para manter-se atualizado, assine o &lt;a0&gt;blog Make WordPress Core&lt;/a0&gt; com especial atenção para as &lt;a1&gt;notas para desenvolvedores&lt;/a1&gt; para atualizações sobre essas e outras mudanças que podem afetar seus produtos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To keep you informed, we publish &lt;a0&gt;developers notes&lt;/a0&gt; on the &lt;a1&gt;Make WordPress Core blog&lt;/a1&gt; throughout the release cycle.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T190022Z" creationid="elia" creationdate="20190122T190022Z">
@@ -8103,6 +8127,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.2 has lots of refinements to polish the developer experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135511Z" creationid="elia" creationdate="20190409T135511Z">
+        <seg>O WordPress 5.2 tem várias pequenas melhorias para melhorar a experiência de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress 5.2 is slated for release on &lt;a0&gt;April 30&lt;/a0&gt;, and we need your help to get there!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T134708Z" creationid="elia" creationdate="20190409T134708Z">
@@ -9001,6 +9033,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://wordpress.org/news/2019/04/minimum-php-version-update/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135359Z" creationid="elia" creationdate="20190409T135359Z">
+        <seg>https://br.wordpress.org/2019/04/01/atualizacao-da-versao-minima-do-php/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://wordpress.org/news/category/development/</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
@@ -9133,6 +9173,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T124113Z" creationid="elia" creationdate="20190205T124113Z">
         <seg>para atualizar.&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Minimum PHP Version update” — WordPress News</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190409T135345Z" creationid="elia" creationdate="20190409T135345Z">
+        <seg>“Atualização da versão mínima do PHP” — WordPress News</seg>
       </tuv>
     </tu>
     <tu>
