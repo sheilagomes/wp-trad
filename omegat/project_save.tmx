@@ -3898,6 +3898,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It’s now more apparent when a site is running in Recovery Mode (see #46608).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T133719Z" creationid="elia" creationdate="20190415T133719Z">
+        <seg>Agora está mais fácil identificar quando um site está sendo executado em Modo de recuperação (#46608).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It’s so slick, shiny, and new.&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T123113Z" creationid="elia" creationdate="20190219T123113Z">
@@ -4934,6 +4942,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T172057Z" creationid="elia" creationdate="20190328T172057Z">
         <seg>Plugins agora podem espeficiar a versão mínima de PHP suportada, para que seja possível usar práticas mais modernas de desenvolvimento sem o risco de quebrar os sites dos usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugins no longer update if a site is running an unsupported version of PHP (see #46613).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T133616Z" creationid="elia" creationdate="20190415T133616Z">
+        <seg>Os plugins não atualizam mais se o site está executando uma versão PHP sem suporte (#46613).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,6 +6234,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T123354Z" creationid="elia" creationdate="20190219T122557Z">
         <seg>Exibição do formulário de comentários ao clicar em "Responder" em comentários carregados via Ajax (&lt;a0&gt;#46260&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The distraction free button no longer breaks keyboard navigation in the Classic Editor (see #46640).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T133818Z" creationid="elia" creationdate="20190415T133818Z">
+        <seg>O botão para escrever sem distrações não quebra mais a navegação por teclado no Editor clássico (#46640).</seg>
       </tuv>
     </tu>
     <tu>
