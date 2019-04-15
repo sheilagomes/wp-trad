@@ -562,6 +562,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Important reminder: &lt;/s0&gt;as of WordPress 5.2 beta 2, the minimum PHP version that WordPress will require is 5.6.20.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134211Z" creationid="elia" creationdate="20190415T134211Z">
+        <seg>&lt;s0&gt;Lembrete importante:&lt;/s0&gt; No WordPress 5.2 beta 2, a versão mínima necessária do PHP será a 5.6.20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Make a backup of your website:&lt;/s0&gt; a backup will let you revert your site to how it is right now in the event anything goes wrong.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T121324Z" creationid="elia" creationdate="20190205T121324Z">
@@ -1390,6 +1398,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Pergunte sobre isso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assistive technologies do a better job of announcing admin bar sub menus (see #37513).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T133949Z" creationid="elia" creationdate="20190415T133949Z">
+        <seg>O uso de tecnologias assistivas foi melhorado anunciando submenus da barra de administração (#37513).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +4866,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Personal data exports now only show as completed when a user downloads their data (see #44644).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134129Z" creationid="elia" creationdate="20190415T134129Z">
+        <seg>As exportações de dados pessoais agora são exibidas como concluídas apenas quando um usuário baixa seus dados (#44644).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Philosophy</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4958,6 +4982,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T115253Z" creationid="Sheila" creationdate="20180517T115253Z">
         <seg>Plural-Forms: nplurals=2; plural=(n &gt; 1);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plus more improvements to accessibility (see #35497 and #42853).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134148Z" creationid="elia" creationdate="20190415T134148Z">
+        <seg>Melhorias adicionais na acessibilidade (#35497 e #42853).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5650,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Lutando pela simplicidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subject lines in WordPress emails are now more consistent (see #37940).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134025Z" creationid="elia" creationdate="20190415T134025Z">
+        <seg>Os assuntos dos e-mails enviados pelo WordPress estão mais consistentes (#37940).</seg>
       </tuv>
     </tu>
     <tu>
