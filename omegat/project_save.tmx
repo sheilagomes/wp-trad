@@ -298,6 +298,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; The beta 3 release also marks the &lt;a1&gt;soft string freeze&lt;/a1&gt; point of the 5.2 release schedule.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134239Z" creationid="elia" creationdate="20190415T134239Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt; O lançamento da versão beta 3 também significa que &lt;a1&gt;novas strings para tradução&lt;/a1&gt; da versão 5.2 serão evitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; discovered that authors could alter meta data to delete files that they weren’t authorized to.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114030Z" creationid="elia" creationdate="20181213T114030Z">
@@ -446,6 +454,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181105T174314Z" creationid="elia" creationdate="20181105T174314Z">
         <seg>&lt;e0&gt;WordPress cinco ponto zero&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Would you look at that&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134427Z" creationid="elia" creationdate="20190415T134427Z">
+        <seg>&lt;e0&gt;O que você procuraria&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,6 +8953,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>each day brings release closer&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134445Z" creationid="elia" creationdate="20190415T134445Z">
+        <seg>cada dia mais perto do lançamento&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://core.trac.wordpress.org/log/trunk/?action=stop_on_copy&amp;mode=stop_on_copy&amp;rev=41846&amp;stop_rev=41777&amp;limit=100&amp;sfp_email=&amp;sfph_mail=</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202652Z" creationid="Sheila" creationdate="20171013T202652Z">
@@ -9277,6 +9301,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T123741Z" creationid="elia" creationdate="20190205T123741Z">
         <seg>possível com a versão mais recente do PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>test to be ready&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190415T134504Z" creationid="elia" creationdate="20190415T134504Z">
+        <seg>esteja pronto testando&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
