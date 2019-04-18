@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1430,6 +1430,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Instalação automática em segundo plano de atualizações de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be part of a 24-hour global event which will include an online livestreaming event and offline local Meetups in multiple locations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135203Z" creationid="elia" creationdate="20190418T135203Z">
+        <seg>Seja parte de um evento global com 24 horas de duração que junta um evento com transmissão online e meetups locais offline em vários lugares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,6 +4098,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Let’s get together and translate everything WordPress!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135101Z" creationid="elia" creationdate="20190418T135101Z">
+        <seg>Vamos nos reunir e traduzir tudo do WordPress!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>License / GPLv2</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -4518,6 +4534,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR">
         <seg>Nenhum músico escolhido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No previous WordPress translation experience is required.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135319Z" creationid="elia" creationdate="20190418T135319Z">
+        <seg>Não é necessário ter experiência com traduções no WordPress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,6 +7266,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171208T111317Z" creationid="Sheila" creationdate="20171208T111317Z">
         <seg>Ferramentas de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation is generally from the English (US) text available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135347Z" creationid="elia" creationdate="20190418T135347Z">
+        <seg>As traduções normalmente são a partir de textos em inglês americano.</seg>
       </tuv>
     </tu>
     <tu>
