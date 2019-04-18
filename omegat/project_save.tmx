@@ -1426,6 +1426,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At this event we will: – Help you get started with translating WordPress plugins, themes, and other projects – Share translation tips and tricks with each other – Get to know global polyglots contributors via the WordPress international channel on Slack (#polyglots-events) – Watch and/or share livestream videos of sessions and panels about WordPress translation (for more information, visit https://wptranslationday.org ) You will need a WordPress.org ID to take part.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135733Z" creationid="elia" creationdate="20190418T135733Z">
+        <seg>Neste evento vamos: – Ajudar a traduzir plugins, temas e outros projetos do WordPress – Compartilhar dicas – Conhecer poliglotas que colaboram com a comunidade internacional do WordPress através do canal #polyglots-events no Slack – Assistir e compartilhar transmissão de vídeo com sessões e painéis sobre tradução no WordPress (para mais informações, visite https://wptranslationday.org) Você precisará de uma conta no WordPress.org para participar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Background Updates for Security Releases</seg>
       </tuv>
       <tuv lang="PT-BR">
