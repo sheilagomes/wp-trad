@@ -5278,6 +5278,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources for organizers and participants: – Getting Started Guide: https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/ [or its translation in your language] – Glossary: [e.g. https://translate.wordpress.org/projects/wp/dev/ja/default/glossary ] – Style Guide: [e.g. https://codex.wordpress.org/fr:Effort_de_Traduction ] – How to join Slack: [http://chat.wordpress.org or your local Slack information, if you’ll be using it] – WordPress Translation FAQs: https://make.wordpress.org/polyglots/handbook/frequently-asked-questions/ – Share pictures, videos, and conversations at the event using the #WPTranslationDay hashtag on social networks: https://make.wordpress.org/polyglots/handbook/about/get-involved/guide-organize-a-local-event-on-global-wordpress-translation-day/#share-pictures-and-videos-from-your-event</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T140003Z" creationid="elia" creationdate="20190418T140003Z">
+        <seg>Recursos disponíveis para organizadores e participantes: – Guia de introdução: https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/ [or its translation in your language] – Glossário: [e.g. https://translate.wordpress.org/projects/wp/dev/ja/default/glossary ] – Guia de estilo: [e.g. https://codex.wordpress.org/fr:Effort_de_Traduction ] – Como fazer parte do Slack: [http://chat.wordpress.org or your local Slack information, if you’ll be using it] – Perguntas frequentes sobre tradução no WordPress: https://make.wordpress.org/polyglots/handbook/frequently-asked-questions/ – Compartilhe fotos, vídeos e experiências sobre o evento usando a hashtag #WPTranslationDay nas redes sociais: https://make.wordpress.org/polyglots/handbook/about/get-involved/guide-organize-a-local-event-on-global-wordpress-translation-day/#share-pictures-and-videos-from-your-event</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Responsive&lt;br /&gt;Mobile Sites</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -8811,6 +8819,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T130403Z" creationid="elia" creationdate="20181123T130403Z">
         <seg>Você pode saber mais sobre os ajustes e mudanças desde o Beta 5 &lt;a0&gt;no post de atualização mais recente&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can register an account from https://login.wordpress.org/register if you don’t have one yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190418T135756Z" creationid="elia" creationdate="20190418T135756Z">
+        <seg>Você pode se cadastrar em https://login.wordpress.org/register se ainda não possui uma conta.</seg>
       </tuv>
     </tu>
     <tu>
