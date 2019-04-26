@@ -6382,6 +6382,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first release candidate for WordPress 5.2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214215Z" creationid="elia" creationdate="20190426T214215Z">
+        <seg>O primeiro &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first step is awareness and education.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224423Z" creationid="elia" creationdate="20180417T222600Z">
@@ -6994,6 +7002,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181204T154903Z" creationid="elia" creationdate="20181204T154903Z">
         <seg>Este é um grande lançamento e precisa da &lt;e3&gt;sua&lt;/e3&gt; ajuda. Se você ainda não testou a versão 5.0, a hora é essa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an important milestone as we progress toward the WordPress 5.2 release date.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214306Z" creationid="elia" creationdate="20190426T214306Z">
+        <seg>Essa é uma marca importante, significa que estamos cada vez mais próximos da data de lançamento do WordPress 5.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9389,6 +9405,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T135345Z" creationid="elia" creationdate="20190409T135345Z">
         <seg>“Atualização da versão mínima do PHP” — WordPress News</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Release Candidate” means that the new version is ready for release, but with millions of users and thousands of plugins and themes, it’s possible something was missed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214440Z" creationid="elia" creationdate="20190426T214440Z">
+        <seg>“Versão candidata” significa que a nova versão está pronta para lançamento, mas com milhões de usuários e milhares de plugins e temas, é possível que ainda exista algum problema.</seg>
       </tuv>
     </tu>
     <tu>
