@@ -1778,6 +1778,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continuing with the theme from the last release, WordPress 5.2 gives you even more robust tools for identifying and fixing configuration issues and fatal errors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214650Z" creationid="elia" creationdate="20190426T214650Z">
+        <seg>Continuando as melhorias da última versão, o WordPress 5.2 trará ferramentas ainda mais robustas para identificar e corrigir problemas de configuração e erros fatais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contribute</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6174,6 +6182,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Site Health Check and PHP Error Protection tools have brand new features, giving you peace of mind if you discover any issues with plugins or themes on your site.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214846Z" creationid="elia" creationdate="20190426T214846Z">
+        <seg>A verificação do Diagnóstico do site e as ferramentas de proteção contra erros de PHP trazem novos recursos, dando paz de espírito para quem descobrir qualquer problema com plugins e temas no site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Site Health screens have received several bug fixes, tweaks, and performance improvements.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T135019Z" creationid="elia" creationdate="20190409T135019Z">
@@ -6794,6 +6810,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T134653Z" creationid="elia" creationdate="20190409T134653Z">
         <seg>Existem duas formas de testar o WordPress 5.2 beta: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways to test the WordPress 5.2 release candidate: try the &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; plugin (you’ll want to select the “bleeding edge nightlies” option), or you can &lt;a1&gt;download the release candidate here&lt;/a1&gt; (zip).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214554Z" creationid="elia" creationdate="20190426T214554Z">
+        <seg>Existem duas formas de testar o WordPress 5.2 release candidate: com o plugin &lt;a0&gt;WordPress Beta Tester&lt;/a0&gt; (você deve usar “bleeding edge nightlies”) ou você pode &lt;a1&gt;baixar a versão aqui&lt;/a1&gt; (zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7790,6 +7814,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What’s in WordPress 5.2?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214600Z" creationid="elia" creationdate="20190426T214600Z">
+        <seg>Quais são as novidades do WordPress 5.2?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When &lt;a0&gt;30% of the internet&lt;/a0&gt; has a reason to celebrate, you know it’s going to be great!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T221748Z" creationid="elia" creationdate="20180420T221748Z">
@@ -7842,6 +7874,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122738Z" creationid="elia" creationdate="20180517T122738Z">
         <seg>Quando você acessa sua conta no site, também criamos vários cookies para salvar os dados da sua conta e suas escolhas de exibição de tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether you are a developer helping clients or you manage your site solo, these tools can help get you the right information when you need it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214727Z" creationid="elia" creationdate="20190426T214727Z">
+        <seg>Seja você um desenvolvedor ajudando seus clientes ou alguém que está gerenciando seu próprio site, estas ferramentas podem ajudar a obter a informação que você precisar quando você precisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8315,6 +8355,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190409T135511Z" creationid="elia" creationdate="20190409T135511Z">
         <seg>O WordPress 5.2 tem várias pequenas melhorias para melhorar a experiência de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2 is scheduled to be released on &lt;s0&gt;Tuesday, May 7&lt;/s0&gt;, but we need &lt;e1&gt;your&lt;/e1&gt; help to get there—if you haven’t tried 5.2 yet, now is the time!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214537Z" creationid="elia" creationdate="20190426T214537Z">
+        <seg>O lançamento do WordPress 5.2 está agendado para &lt;s0&gt;terça-feira, 7 de maio&lt;/s0&gt;, mas precisamos da &lt;e1&gt;sua&lt;/e1&gt; ajuda para que isso aconteça. Se você ainda não testou a versão 5.2, a hora é essa!</seg>
       </tuv>
     </tu>
     <tu>
