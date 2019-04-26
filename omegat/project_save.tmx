@@ -3242,6 +3242,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I can hardly wait.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T215109Z" creationid="elia" creationdate="20190426T215109Z">
+        <seg>Eu mal posso esperar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I don’t.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T190353Z" creationid="elia" creationdate="20190122T190353Z">
@@ -8034,6 +8042,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T171907Z" creationid="elia" creationdate="20190328T171907Z">
         <seg>Nesta versão, o &lt;a0&gt;WordPress vai aumentar a versão mínima de PHP suportada para 5.6&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With tools this interesting,&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T215059Z" creationid="elia" creationdate="20190426T215059Z">
+        <seg>Com ferramentas tão interessantes,&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
