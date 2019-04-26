@@ -306,6 +306,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Help us translate WordPress into more than 100 languages!&lt;/a0&gt; This release also marks the &lt;a1&gt;hard string freeze&lt;/a1&gt; point of the 5.2 release schedule.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T215042Z" creationid="elia" creationdate="20190426T215042Z">
+        <seg>&lt;a0&gt;Ajude-nos a traduzir o WordPress para o português!&lt;/a0&gt; O lançamento dessa versão também significa que &lt;a1&gt;novas strings para tradução&lt;/a1&gt; da versão 5.2 serão evitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; discovered that authors could alter meta data to delete files that they weren’t authorized to.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114030Z" creationid="elia" creationdate="20181213T114030Z">
@@ -3194,6 +3202,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howdy, RC 1!&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T215050Z" creationid="elia" creationdate="20190426T215050Z">
+        <seg>Olá, RC 1!&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However you celebrate the WordPress 15th anniversary — with &lt;a0&gt;a party&lt;/a0&gt;, with &lt;a1&gt;commemorative swag&lt;/a1&gt;, by &lt;a2&gt;telling the world&lt;/a2&gt; what WordPress means to you — remember to use the #WP15 hashtag to share it!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180420T222323Z" creationid="elia" creationdate="20180420T221333Z">
@@ -4978,6 +4994,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please test your plugins and themes against WordPress 5.2 and update the &lt;e0&gt;Tested up to&lt;/e0&gt; version in the readme to 5.2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214956Z" creationid="elia" creationdate="20190426T214956Z">
+        <seg>Teste seus plugins e temas com o WordPress 5.2 e atualize para 5.2 a versão no campo &lt;e0&gt;Tested up to&lt;/e0&gt; do arquivo readme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PT-BR">
@@ -6038,6 +6062,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;WordPress 5.2 Field Guide&lt;/a0&gt; has also been published, which goes into the details of the major changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T215019Z" creationid="elia" creationdate="20190426T215019Z">
+        <seg>O &lt;a0&gt;Guia do WordPress 5.2&lt;/a0&gt; também foi publicado, detalhando as maiores mudanças da versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;c0&gt;pre_render_block&lt;/c0&gt; and &lt;c1&gt;render_block_data&lt;/c1&gt; filters have been introduced allowing plugins to override block attribute values (&lt;a2&gt;#45451&lt;/a2&gt;, dev note coming soon).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190122T185205Z" creationid="elia" creationdate="20190122T185205Z">
@@ -6730,6 +6762,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T165652Z" creationid="elia" creationdate="20190328T165652Z">
         <seg>Várias novas mensagens faladas foram criadas e as existentes foram modificadas para serem mais úteis no contexto de leitores de tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are also updates to the icons available in your dashboard, fresh accessibility considerations for anyone using assistive technologies and more.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190426T214939Z" creationid="elia" creationdate="20190426T214939Z">
+        <seg>Também existem atualizações nos ícones disponíveis no seu painel, melhorias na acessibilidade para todos os que usam tecnologias assistivas e mais.</seg>
       </tuv>
     </tu>
     <tu>
