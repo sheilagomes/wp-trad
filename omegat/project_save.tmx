@@ -234,6 +234,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Andrea Fercia&lt;/a0&gt;, &lt;a1&gt;Andrew Duthie&lt;/a1&gt;, &lt;a2&gt;Andrew Ozz&lt;/a2&gt;, &lt;a3&gt;Andy Fragen&lt;/a3&gt;, &lt;a4&gt;Birgir Erlendsson (birgire)&lt;/a4&gt;, &lt;a5&gt;Chetan Prajapati&lt;/a5&gt;, &lt;a6&gt;David Baumwald&lt;/a6&gt;, &lt;a7&gt;Debabrata Karfa&lt;/a7&gt;, &lt;a8&gt;Garrett Hyder&lt;/a8&gt;, &lt;a9&gt;Janki Moradiya&lt;/a9&gt;, &lt;a10&gt;Jb Audras&lt;/a10&gt;, &lt;a11&gt;jitendrabanjara1991&lt;/a11&gt;, &lt;a12&gt;Jonathan Desrosiers&lt;/a12&gt;, &lt;a13&gt;Jonny Harris&lt;/a13&gt;, &lt;a14&gt;Jorge Costa&lt;/a14&gt;, &lt;a15&gt;Marius L. J.&lt;/a15&gt;, &lt;a16&gt;Meet Makadia&lt;/a16&gt;, &lt;a17&gt;Milan Dinić&lt;/a17&gt;, &lt;a18&gt;Mukesh Panchal&lt;/a18&gt;, &lt;a19&gt;palmiak&lt;/a19&gt;, &lt;a20&gt;Pedro Mendonça&lt;/a20&gt;, &lt;a21&gt;Peter Wilson&lt;/a21&gt;, &lt;a22&gt;Rami Yushuvaev&lt;/a22&gt;, &lt;a23&gt;Riad Benguella&lt;/a23&gt;, &lt;a24&gt;sarah semark&lt;/a24&gt;, &lt;a25&gt;Sergey Biryukov&lt;/a25&gt;, &lt;a26&gt;Shashank Panchal&lt;/a26&gt;, &lt;a27&gt;Tammie Lister&lt;/a27&gt;, &lt;a28&gt;Tim Hengeveld&lt;/a28&gt;, &lt;a29&gt;vaishalipanchal&lt;/a29&gt;, &lt;a30&gt;vrimill&lt;/a30&gt;, and &lt;a31&gt;William Earnhardt&lt;/a31&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192803Z" creationid="elia" creationdate="20190618T192803Z">
+        <seg>&lt;a0&gt;Andrea Fercia&lt;/a0&gt;, &lt;a1&gt;Andrew Duthie&lt;/a1&gt;, &lt;a2&gt;Andrew Ozz&lt;/a2&gt;, &lt;a3&gt;Andy Fragen&lt;/a3&gt;, &lt;a4&gt;Birgir Erlendsson (birgire)&lt;/a4&gt;, &lt;a5&gt;Chetan Prajapati&lt;/a5&gt;, &lt;a6&gt;David Baumwald&lt;/a6&gt;, &lt;a7&gt;Debabrata Karfa&lt;/a7&gt;, &lt;a8&gt;Garrett Hyder&lt;/a8&gt;, &lt;a9&gt;Janki Moradiya&lt;/a9&gt;, &lt;a10&gt;Jb Audras&lt;/a10&gt;, &lt;a11&gt;jitendrabanjara1991&lt;/a11&gt;, &lt;a12&gt;Jonathan Desrosiers&lt;/a12&gt;, &lt;a13&gt;Jonny Harris&lt;/a13&gt;, &lt;a14&gt;Jorge Costa&lt;/a14&gt;, &lt;a15&gt;Marius L. J.&lt;/a15&gt;, &lt;a16&gt;Meet Makadia&lt;/a16&gt;, &lt;a17&gt;Milan Dinić&lt;/a17&gt;, &lt;a18&gt;Mukesh Panchal&lt;/a18&gt;, &lt;a19&gt;palmiak&lt;/a19&gt;, &lt;a20&gt;Pedro Mendonça&lt;/a20&gt;, &lt;a21&gt;Peter Wilson&lt;/a21&gt;, &lt;a22&gt;Rami Yushuvaev&lt;/a22&gt;, &lt;a23&gt;Riad Benguella&lt;/a23&gt;, &lt;a24&gt;sarah semark&lt;/a24&gt;, &lt;a25&gt;Sergey Biryukov&lt;/a25&gt;, &lt;a26&gt;Shashank Panchal&lt;/a26&gt;, &lt;a27&gt;Tammie Lister&lt;/a27&gt;, &lt;a28&gt;Tim Hengeveld&lt;/a28&gt;, &lt;a29&gt;vaishalipanchal&lt;/a29&gt;, &lt;a30&gt;vrimill&lt;/a30&gt; e &lt;a31&gt;William Earnhardt&lt;/a31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download WordPress 4.9.1&lt;/a0&gt; or venture over to Dashboard → Updates and click "Update Now." Sites that support automatic background updates are already beginning to update automatically.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T162016Z" creationid="elia" creationdate="20171130T162016Z">
@@ -5958,6 +5966,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you to everyone who made this release possible!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192748Z" creationid="elia" creationdate="20190618T192748Z">
+        <seg>Agracedemos a todos os que tornaram este lançamento possível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thank you to the reporters of these issues for practicing &lt;a0&gt;responsible security disclosure&lt;/a0&gt;: Rahul Pratap Singh and John Blackbourn.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20171130T161553Z" creationid="elia" creationdate="20171130T161553Z">
@@ -9027,6 +9043,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T114626Z" creationid="elia" creationdate="20190313T114236Z">
         <seg>Você pode &lt;a0&gt;baixar o WordPress 5.1.1&lt;/a0&gt; ou ir em &lt;s1&gt;Painel → Atualizações&lt;/s1&gt; e clicar em &lt;s2&gt;Atualizar agora&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can download &lt;a0&gt;WordPress 5.2.2&lt;/a0&gt; or visit &lt;s1&gt;Dashboard → Updates&lt;/s1&gt; and click &lt;s2&gt;Update Now&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192759Z" creationid="elia" creationdate="20190618T192759Z">
+        <seg>Você pode &lt;a0&gt;baixar o WordPress 5.2.2&lt;/a0&gt; ou ir em &lt;s1&gt;Painel → Atualizações&lt;/s1&gt; e clicar em &lt;s2&gt;Atualizar agora&lt;/s2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
