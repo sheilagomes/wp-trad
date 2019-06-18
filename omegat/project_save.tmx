@@ -314,6 +314,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;JB Audras&lt;/a0&gt;, &lt;a1&gt;Justin Ahinon&lt;/a1&gt; and &lt;a2&gt;Mary Baum&lt;/a2&gt; co-led this release, with invaluable guidance from our Executive Director, Josepha Haden Chomphosy, and contributions from 30 other contributors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192724Z" creationid="elia" creationdate="20190618T192724Z">
+        <seg>&lt;a0&gt;JB Audras&lt;/a0&gt;, &lt;a1&gt;Justin Ahinon&lt;/a1&gt; e &lt;a2&gt;Mary Baum&lt;/a2&gt; lideraram o lançamento desta versão com a inestimável orientaçãoda nossa Diretora executiva, Josepha Haden Chomphosy, e a colaboração de mais 30 pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Karim El Ouerghemmi&lt;/a0&gt; discovered that authors could alter meta data to delete files that they weren’t authorized to.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181213T114030Z" creationid="elia" creationdate="20181213T114030Z">
@@ -6558,6 +6566,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next major release will be version 5.3; check &lt;a0&gt;make.wordpress.org/core&lt;/a0&gt; for details as they happen.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192538Z" creationid="elia" creationdate="20190618T192538Z">
+        <seg>O próximo grande lançamento será a versão 5.3. Acompanhe o &lt;a0&gt;make.wordpress.org/core&lt;/a0&gt; para saber dos detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next section will show you how to do this.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T120418Z" creationid="elia" creationdate="20190205T120418Z">
@@ -8459,6 +8475,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190618T191837Z" creationid="elia" creationdate="20190618T191837Z">
         <seg>WordPress 5.2.2 – Atualização de manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2.2 is a short-cycle maintenance release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192444Z" creationid="elia" creationdate="20190618T192444Z">
+        <seg>O WordPress 5.2.2 foi uma versão de manutenção com ciclo de lançamento curto.</seg>
       </tuv>
     </tu>
     <tu>
