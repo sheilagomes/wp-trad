@@ -2770,6 +2770,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more info, browse the &lt;a0&gt;full list of changes on Trac&lt;/a0&gt; or check out &lt;a1&gt;the Version 5.2.2 documentation page.&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192434Z" creationid="elia" creationdate="20190618T192434Z">
+        <seg>Para mais informações, navegue pela &lt;a0&gt;lista completa de alterações no Trac&lt;/a0&gt; ou leia &lt;a1&gt;a página de documentação da versão 5.2.2.&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information about the upcoming privacy tools see ﻿&lt;a0&gt;the roadmap&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224432Z" creationid="elia" creationdate="20180417T222627Z">
