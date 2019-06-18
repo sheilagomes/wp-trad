@@ -7126,6 +7126,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This maintenance release fixes 13 bugs and adds a little bit of polish to the Site Health feature &lt;a0&gt;that made its debut in 5.2&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T192341Z" creationid="elia" creationdate="20190618T192341Z">
+        <seg>Esta versão de manutenção corrige 13 erros e melhora ainda mais os recursos de Diagnóstico &lt;a0&gt;trazidos na versão 5.2&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This page will explain why this matters to you, and then how you can fix it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190205T113418Z" creationid="elia" creationdate="20190205T113418Z">
@@ -8435,6 +8443,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190328T173007Z" creationid="elia" creationdate="20190328T164310Z">
         <seg>O lançamento do WordPress 5.2 está previsto para &lt;a0&gt;30 de abril&lt;/a0&gt; e precisamos da sua ajuda para que isso aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2.2 Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T191837Z" creationid="elia" creationdate="20190618T191837Z">
+        <seg>WordPress 5.2.2 – Atualização de manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2.2 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190618T191845Z" creationid="elia" creationdate="20190618T191845Z">
+        <seg>O WordPress 5.2.2 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
