@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7238,6 +7238,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This security and maintenance release features 29 fixes and enhancements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220226Z" creationid="elia" creationdate="20190904T220226Z">
+        <seg>This security and maintenance release features 29 fixes and enhancements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This security and maintenance release introduces 10 fixes and enhancements, including changes designed to help hosts prepare users for the &lt;a0&gt;minimum PHP version bump coming in 5.2&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T113229Z" creationid="elia" creationdate="20190313T113229Z">
@@ -8507,6 +8515,22 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190618T191845Z" creationid="elia" creationdate="20190618T191845Z">
         <seg>O WordPress 5.2.2 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2.3 Security and Maintenance Release</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T215938Z" creationid="elia" creationdate="20190904T215938Z">
+        <seg>WordPress 5.2.3 – Atualização de segurança e manutenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress 5.2.3 is now available!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T215946Z" creationid="elia" creationdate="20190904T215946Z">
+        <seg>O WordPress 5.2.3 já está disponível!</seg>
       </tuv>
     </tu>
     <tu>
