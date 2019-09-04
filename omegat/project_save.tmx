@@ -5276,8 +5276,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>Props to &lt;a0&gt;Simon Scannell of RIPS Technologies&lt;/a0&gt; for finding and disclosing two issues.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220938Z" creationid="elia" creationdate="20190904T220938Z">
-        <seg>Props to &lt;a0&gt;Simon Scannell of RIPS Technologies&lt;/a0&gt; for finding and disclosing two issues.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221251Z" creationid="elia" creationdate="20190904T220938Z">
+        <seg>Agradecemos a &lt;a0&gt;Simon Scannell da RIPS Technologies&lt;/a0&gt; por encontrar e comunicar dois problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,6 +6518,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first, a cross-site scripting (XSS) vulnerability found in post previews by contributors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221403Z" creationid="elia" creationdate="20190904T221403Z">
+        <seg>O primeiro, uma vulnerabilidade à execução de scripts de outros sites (XSS, do inglês Cross-Site Scripting) na pré-visualização de posts por colaboradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The focus of this release was fine-tuning the new block editor, and fixing any major bugs or regressions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190109T190456Z" creationid="elia" creationdate="20190109T190456Z">
@@ -6722,6 +6730,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190219T121847Z" creationid="elia" creationdate="20190219T121847Z">
         <seg>O segundo &lt;i&gt;release candidate&lt;/i&gt; (versão candidata, em tradução livre) do WordPress 5.1 já está disponível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second was a cross-site scripting vulnerability in stored comments.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221441Z" creationid="elia" creationdate="20190904T221441Z">
+        <seg>O segundo, uma vulnerabilidade à XSS em comentários armazenados.</seg>
       </tuv>
     </tu>
     <tu>
