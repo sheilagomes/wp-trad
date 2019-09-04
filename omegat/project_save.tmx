@@ -3722,6 +3722,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the above changes, we are also updating jQuery on older versions of WordPress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222002Z" creationid="elia" creationdate="20190904T222002Z">
+        <seg>Além das mudanças acima, também atualizamos o jQuery em versões mais antigas do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the security researcher mentioned above, thank you to everyone who contributed to WordPress 5.1.1:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T114248Z" creationid="elia" creationdate="20190313T114248Z">
@@ -5306,6 +5314,22 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Props to Ian Dunn of the Core Security Team for finding and disclosing a case where reflected cross-site scripting could be found in the dashboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221829Z" creationid="elia" creationdate="20190904T221829Z">
+        <seg>Agradecemos a Ian Dunn da Equipe de segurança dos arquivos básicos por encontrar e comunicar um caso onde um XSS refletido poderia ser encontrado no Painel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Props to Soroush Dalili (&lt;a0&gt;@irsdl&lt;/a0&gt;) from NCC Group for disclosing an issue with URL sanitization that can lead to cross-site scripting (XSS) attacks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221918Z" creationid="elia" creationdate="20190904T221918Z">
+        <seg>Agradecemos a Soroush Dalili (&lt;a0&gt;@irsdl&lt;/a0&gt;) do NCC Group por comunicar um problema com a higienização de URL que poderia levar a ataques XSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Props to Simon Scannell of RIPS Technologies who discovered this flaw independent of some work that was being done by members of the core security team.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T113749Z" creationid="elia" creationdate="20190313T113749Z">
@@ -5898,6 +5922,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180118T141725Z" creationid="elia" creationdate="20180118T141725Z">
         <seg>Alternar entre temas tentará agora restaurar a atribuição anterior dos widgets, mesmo quando não há áreas de widgets a serem mapeadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TK items</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222039Z" creationid="elia" creationdate="20190904T222039Z">
+        <seg>TK items</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,6 +7138,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180802T210115Z" creationid="elia" creationdate="20180802T210115Z">
         <seg>Isto &lt;/s0&gt;servirá como uma oportunidade para que os usuários do WordPress possam usar o editor de blocos Gutenberg antes que ele seja lançado no WordPress 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This change was &lt;a0&gt;added in 5.2.1&lt;/a0&gt; and is now being brought to older versions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222039Z" creationid="elia" creationdate="20190904T222039Z">
+        <seg>Esta mudança foi &lt;a0&gt;adicionada na versão 5.2.1&lt;/a0&gt; e agora está sendo levada para versões anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9055,6 +9095,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can browse the &lt;a0&gt;full list of changes on Trac&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222053Z" creationid="elia" creationdate="20190904T222053Z">
+        <seg>Você pode navegar pela &lt;a0&gt;lista completa de alterações no Trac&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can browse the &lt;a0&gt;full list of changes on Trac&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T114008Z" creationid="elia" creationdate="20190313T114008Z">
@@ -9337,6 +9385,22 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://core.trac.wordpress.org/query?status=closed&amp;resolution=fixed&amp;milestone=5.2.3&amp;order=priority</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222041Z" creationid="elia" creationdate="20190904T222041Z">
+        <seg>https://core.trac.wordpress.org/query?status=closed&amp;resolution=fixed&amp;milestone=5.2.3&amp;order=priority</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://core.trac.wordpress.org/ticket/47020</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221919Z" creationid="elia" creationdate="20190904T221919Z">
+        <seg>https://core.trac.wordpress.org/ticket/47020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://core.trac.wordpress.org/tickets/major</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
@@ -9437,6 +9501,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181026T185651Z" creationid="Sheila" creationdate="20171013T202709Z">
         <seg>https://translate.wordpress.org/projects/wp/dev/pt-br/default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://twitter.com/irsdl?lang=en</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221830Z" creationid="elia" creationdate="20190904T221830Z">
+        <seg>https://twitter.com/irsdl?lang=en</seg>
       </tuv>
     </tu>
     <tu>
