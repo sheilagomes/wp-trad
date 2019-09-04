@@ -5282,6 +5282,30 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Props to &lt;a0&gt;Tim Coen&lt;/a0&gt; for disclosing an issue where validation and sanitization of a URL could lead to an open redirect.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221555Z" creationid="elia" creationdate="20190904T221555Z">
+        <seg>Agradecemos a &lt;a0&gt;Tim Coen&lt;/a0&gt; por comunicar um problema onde a validação e higienização de um URL poderia levar a um redirecionamento sem validação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Props to &lt;a0&gt;Zhouyuan Yang of Fortinet’s FortiGuard Labs&lt;/a0&gt; who disclosed a vulnerability for cross-site scripting (XSS) in shortcode previews.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221750Z" creationid="elia" creationdate="20190904T221750Z">
+        <seg>Agradecemos a &lt;a0&gt;Zhouyuan Yang da Fortinet’s FortiGuard Labs&lt;/a0&gt; que comunicou uma vulnerabilidade à XSS na pré-visualização de shortcodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Props to Anshul Jain for disclosing reflected cross-site scripting during media uploads.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221717Z" creationid="elia" creationdate="20190904T221717Z">
+        <seg>Agradecemos a Anshul Jain por comunicar um problema de XSS refletido durante o envio de arquivos de mídia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Props to Simon Scannell of RIPS Technologies who discovered this flaw independent of some work that was being done by members of the core security team.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T113749Z" creationid="elia" creationdate="20190313T113749Z">
@@ -9321,6 +9345,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://fortiguard.com/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221717Z" creationid="elia" creationdate="20190904T221717Z">
+        <seg>https://fortiguard.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://make.wordpress.org/core/reports/</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
@@ -9389,6 +9421,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202603Z" creationid="Sheila" creationdate="20171013T202603Z">
         <seg>https://profiles.wordpress.org/melchoyce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://security-consulting.icu/blog/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221442Z" creationid="elia" creationdate="20190904T221442Z">
+        <seg>https://security-consulting.icu/blog/</seg>
       </tuv>
     </tu>
     <tu>
