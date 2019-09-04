@@ -2794,6 +2794,14 @@ Este e-mail foi enviado para ###EMAIL###.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more info, browse the full list of changes on Trac or check out the Version &lt;a0&gt;5.2.3 documentation page&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222123Z" creationid="elia" creationdate="20190904T222123Z">
+        <seg>Para mais informações, navegue pela lista completa de alterações no Trac ou leia &lt;a0&gt;a página de documentação da versão 5.2.3.&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information about the upcoming privacy tools see ﻿&lt;a0&gt;the roadmap&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180417T224432Z" creationid="elia" creationdate="20180417T222627Z">
@@ -3438,6 +3446,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T122311Z" creationid="Sheila" creationdate="20180517T122311Z">
         <seg>Se você tiver feito uma Avaliação do impacto de privacidade, pode mencioná-la aqui também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have sites that support automatic background updates, they’ve already started the update process.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222302Z" creationid="elia" creationdate="20190904T222302Z">
+        <seg>Sites com suporte a atualizações automáticas em segundo plano já começaram a se atualizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6086,6 +6102,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks and props!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222316Z" creationid="elia" creationdate="20190904T222316Z">
+        <seg>Agradecimentos e créditos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thanks for choosing WordPress!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190221T230928Z" creationid="elia" creationdate="20190221T230928Z">
@@ -6674,6 +6698,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="kossmann" changedate="20190118T224913Z" creationid="kossmann" creationdate="20190118T224913Z">
         <seg>The new version introduces a Featured Product Block with design options for customizing nearly everything about the display, including color overlay, price and description, text alignment, call-to-action button, and the product photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next major release will be &lt;a0&gt;version 5.3.&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222212Z" creationid="elia" creationdate="20190904T222212Z">
+        <seg>O próximo grande lançamento será a &lt;a0&gt;versão 5.3&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,6 +7346,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T114425Z" creationid="elia" creationdate="20190313T113316Z">
         <seg>Esta versão também inclui algumas correções de segurança que tratam como os comentários são filtrados e então gravados no banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This release brings together contributions from more than 59 other people.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222351Z" creationid="elia" creationdate="20190904T222351Z">
+        <seg>Esta versão contou com a colaboração de mais de 59 outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8647,6 +8687,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WordPress 5.2.3 is a short-cycle maintenance release.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222143Z" creationid="elia" creationdate="20190904T222143Z">
+        <seg>O WordPress 5.2.3 foi uma versão de manutenção com ciclo de lançamento curto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WordPress 5.2.3 is now available!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190904T215946Z" creationid="elia" creationdate="20190904T215946Z">
@@ -9135,6 +9183,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can download WordPress 5.2.3 from the button at the top of this page, or visit your Dashboard → Updates and click Update Now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222255Z" creationid="elia" creationdate="20190904T222255Z">
+        <seg>Você pode baixar o WordPress 5.2.3 com o botão no topo desta página ou ir em Painel → Atualizações e clicar em Atualizar agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can improve the accessibility of the content you write, now that &lt;a0&gt;simple ARIA labels&lt;/a0&gt; can be saved in posts and pages.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20181123T130022Z" creationid="elia" creationdate="20181123T130022Z">
@@ -9417,6 +9473,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://make.wordpress.org/core/5-3/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222125Z" creationid="elia" creationdate="20190904T222125Z">
+        <seg>https://make.wordpress.org/core/5-3/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://make.wordpress.org/core/reports/</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202714Z" creationid="Sheila" creationdate="20171013T202714Z">
@@ -9685,6 +9749,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202713Z" creationid="Sheila" creationdate="20171013T202713Z">
         <seg>https://wordpress.org/support/forum/alphabeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wordpress.org/support/wordpress-version/version-5-2-3/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222056Z" creationid="elia" creationdate="20190904T222056Z">
+        <seg>https://wordpress.org/support/wordpress-version/version-5-2-3/</seg>
       </tuv>
     </tu>
     <tu>
