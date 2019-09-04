@@ -5274,6 +5274,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Props to &lt;a0&gt;Simon Scannell of RIPS Technologies&lt;/a0&gt; for finding and disclosing two issues.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220938Z" creationid="elia" creationdate="20190904T220938Z">
+        <seg>Props to &lt;a0&gt;Simon Scannell of RIPS Technologies&lt;/a0&gt; for finding and disclosing two issues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Props to Simon Scannell of RIPS Technologies who discovered this flaw independent of some work that was being done by members of the core security team.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190313T113749Z" creationid="elia" creationdate="20190313T113749Z">
@@ -5490,6 +5498,14 @@ Equipe do site ###SITENAME###
       </tuv>
       <tuv lang="PT-BR">
         <seg>Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220921Z" creationid="elia" creationdate="20190904T220921Z">
+        <seg>Atualizações de segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -9261,6 +9277,14 @@ baixar seus dados pessoais clicando no link abaixo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20190415T134445Z" creationid="elia" creationdate="20190415T134445Z">
         <seg>cada dia mais perto do lançamento&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://blog.ripstech.com/authors/simon-scannell/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220928Z" creationid="elia" creationdate="20190904T220928Z">
+        <seg>https://blog.ripstech.com/authors/simon-scannell/</seg>
       </tuv>
     </tu>
     <tu>
