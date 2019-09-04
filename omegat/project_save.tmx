@@ -5106,6 +5106,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plus, it adds a number of security fixes—see the list below.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220530Z" creationid="elia" creationdate="20190904T220530Z">
+        <seg>Além disso, ela também traz ajustes de segurança conforme a lista abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Posted October 12, 2017 by &lt;a0&gt;Mel Choyce&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171013T202605Z" creationid="Sheila" creationdate="20171013T202605Z">
@@ -6982,6 +6990,14 @@ Equipe do site ###SITENAME###
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These bugs affect WordPress versions 5.2.2 and earlier; version 5.2.3 fixes them, so you’ll want to upgrade.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220802Z" creationid="elia" creationdate="20190904T220802Z">
+        <seg>Estes erros afetam tanto o WordPress 5.2.2 quanto versões anteriores. A versão 5.2.3 os corrige e, portanto, você deve fazer a atualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="elia" changedate="20180517T122316Z" creationid="elia" creationdate="20180517T122316Z">
@@ -7240,8 +7256,8 @@ Equipe do site ###SITENAME###
       <tuv lang="EN">
         <seg>This security and maintenance release features 29 fixes and enhancements.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220226Z" creationid="elia" creationdate="20190904T220226Z">
-        <seg>This security and maintenance release features 29 fixes and enhancements.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220445Z" creationid="elia" creationdate="20190904T220226Z">
+        <seg>Esta versão de segurança e manutenção contém 29 ajustes e melhorias.</seg>
       </tuv>
     </tu>
     <tu>
