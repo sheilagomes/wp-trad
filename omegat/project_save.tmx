@@ -3442,6 +3442,14 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you haven’t yet updated to 5.2, there are also updated versions of 5.0 and earlier that fix the bugs for you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T220856Z" creationid="elia" creationdate="20190904T220856Z">
+        <seg>Se você ainda não atualizou para a 5.2, também há versões atualizadas do WordPress 5.0 e anteriores que contêm as correções necessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you leave a comment, the comment and its metadata are retained indefinitely.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180517T123300Z" creationid="Sheila" creationdate="20180517T123300Z">
