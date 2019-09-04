@@ -5316,8 +5316,8 @@ Sua solicitação para exportação de dados pessoais foi concluída.</seg>
       <tuv lang="EN">
         <seg>Props to &lt;a0&gt;Tim Coen&lt;/a0&gt; for disclosing an issue where validation and sanitization of a URL could lead to an open redirect.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="elia" changedate="20190904T221555Z" creationid="elia" creationdate="20190904T221555Z">
-        <seg>Agradecemos a &lt;a0&gt;Tim Coen&lt;/a0&gt; por comunicar um problema onde a validação e higienização de um URL poderia levar a um redirecionamento sem validação.</seg>
+      <tuv lang="PT-BR" changeid="elia" changedate="20190904T222752Z" creationid="elia" creationdate="20190904T221555Z">
+        <seg>Agradecemos a &lt;a0&gt;Tim Coen&lt;/a0&gt; por comunicar um problema onde a validação e higienização de um URL poderia levar a um redirecionamento aberto.</seg>
       </tuv>
     </tu>
     <tu>
